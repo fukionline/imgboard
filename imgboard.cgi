@@ -10,352 +10,352 @@
 #		 Support site URL http://imgboard.com
 #
 #
-#  <‰ü•Ï—š—ğ>-03/28/2015/01
-#  2015/03/28 Youtube‚Ì’ZkURLd—l•ÏX‚É”º‚¢A“®‰æ–„‚ß‚İ‚ª‚³‚ê‚È‚­‚È‚Á‚½–â‘è“_‚ğC³
-#  2014/07/14 ’†‘”­‚Ì‹Uƒuƒ‰ƒ“ƒh•iAƒRƒs[¤•iŒn‚ÌSPAM‘Îô‚ğ‹­‰»
-#  2014/02/16 Theta,ƒjƒRƒjƒR‚ÌRICOH‚ÅƒRƒƒ“ƒg‚ª‰E‚É‰ñ‚è‚±‚Ş‚æ‚¤‚É’²®‚µ‚½
-#  2014/02/14 RICOH‚Ì‘S“VüƒJƒƒ‰Theta‚Ì‰æ‘œ–„‚ß‚İ‚É‘Î‰
-#  2014/02/14 Youtube‚Ì–„‚ß‚İ•û–@‚ğˆÄ“à‚µ‚Ä‚¢‚éà–¾C³i–„‚ß‚İƒR[ƒh‚Å‚È‚­h‹¤—Lh‚Ìyoutu.be‚Ì‚t‚q‚k‚Ì•û‚ğˆÄ“à‚·‚éBj
-#  2014/02/11 Youtube‚Ìu“r’†‚©‚çÄ¶vw’è‚É‘Î‰
-#  2014/02/11 iOS7‚É‘Î‚·‚éƒAƒbƒvƒf[ƒgC³i•¶Œ¾C³’ö“xj
-#  2013/03/05 “ŠeÒ‚ÍƒpƒXƒ[ƒh‚ ‚èA•ÔM‚ÍƒpƒXƒ[ƒh•s—v‚Æ‚¢‚¤Vİ’è‚ğ’Ç‰Á
-#  2013/02/11 ŠÇ—Òİ’è‚É‚æ‚éATEXTƒŠƒ“ƒNŒÅ’èAƒAƒCƒRƒ“ƒTƒCƒYŒÅ’èƒ‚[ƒh‚ÌƒoƒOC³
-#  2013/01/14 ZŠ‚ğ©“®”F¯‚µ‚ÄGoogle MapƒŠƒ“ƒN‰»‚·‚é‹@”\‚ğC³
-#  2012/10/28 SPAMŒŸoƒƒWƒbƒN‹­‰»Ver2.7‚Ö(NGƒ[ƒh‚Æ‘å•¶š¬•¶š‚ªˆá‚Á‚Ä‚àŒŸoOK)
-#  2012/10/24 IMG‚âIFRAMEƒ^ƒO‚ÌALIGN,HSPACEw’è‚ªCSS•¹‹L‚É‚È‚èAsafari‚â
-#              Chrome‚Å‚àƒRƒƒ“ƒg‚ÌƒŒƒCƒAƒEƒg‚ª•ö‚ê‚É‚­‚­‚È‚è‚Ü‚µ‚½
-#  2012/10/21 Youtube‚Ì‚àAƒRƒƒ“ƒg•”•ª‚ª‰E‚É‰ñ‚è‚ŞƒŒƒCƒAƒEƒg‚ÉC³ 
-#  2012/10/06 (2012.10.1)DLˆá–@‰»‚É”º‚¢“®‰æ•‰¹ºƒtƒ@ƒCƒ‹“Še‚ğ•W€‚ÅOFF‚É
-#  2012/10/06 “Še‚Ìà–¾•¶‚ğ•\¦ON/OFF‚Å‚«‚é‚æ‚¤‚É‚µ‚½
-#  2012/10/06 webƒXƒ‰ƒCƒX‘Î‰•”‚ğ®—Aíœ
-#  2012/09/06 iOS6Å“K‰»(iPhone‚Ìsafari‚©‚ç‚ÌƒAƒbƒvƒ[ƒh‚É‘Î‰)
-#  2012/08/08 Mac—p‚ÆAndroid—p‰æ‘œk¬ƒ\ƒtƒg‚ÌƒŠƒ“ƒNæ‚ğC³
-#  2012/08/08 Comic Book Archive(.cbr .cbz)‘Î‰
-#  2012/05/09 iPhone/iPad‚©‚ç‚Ì“Še•û–@‚ª©“®‚Åo‚é‚æ‚¤‚É‚µ‚½
-#  2012/05/07 ƒ†[ƒUicon‚ÌãŒÀ‚ğ10‚©‚ç150‚É‘‚â‚µ‚½
-#  2012/05/01 SPAMƒtƒBƒ‹ƒ^‚Ìİ’è‚ğXV
-#  2012/04/29 ƒXƒ}ƒtƒH‘Î‰‚Å‘åŒ^‰»‚µ‚½ƒ{ƒ^ƒ“—Ş‚ªˆê•”‚É•s•]‚Ì‚½‚ßAPC‚Í]—ˆ’Ê‚è‚Æ‚µ‚½
-#  2012/04/29 GoogleMap‚Æ‚Ì‘Š«–â‘è‚ğC³
-#  2012/04/18 (CGIİ’u’ˆÓ!!)ƒXƒNƒŠƒvƒg‚Ì‰üsƒR[ƒh‚ğCR+LF‚©‚çLF‚É•ÏX
-#  2012/04/18 (CGIİ’u’ˆÓ!!)perl‚ÌƒpƒX‚ğ/usr/local/bin/perl‚©‚ç/usr/bin/perl‚É•ÏX
-#  2012/04/18 XSSiƒNƒƒXƒXƒNƒŠƒvƒeƒBƒ“ƒOj‘Îô‚ğ‹­‰»
-#  2012/04/18 ©“®ZŠƒŠƒ“ƒNC³
-#  2011/12/20 “®‰æƒTƒCƒg‚ğyotube“™‚ÉŒÀ’è‚µ‚Ä‚àxvideos.com“™‚ÌƒAƒ_ƒ‹ƒg“®‰æ‚ª–„‚ß‚ß‚éƒoƒO‚ğC³
-#  2011/12/15 AndroidƒXƒ}ƒtƒH‚©‚ç’¼Ú2MB‹‰‚Ì“Še‚ğó‚¯•t‚¯‚éƒIƒvƒVƒ‡ƒ“‚ğ’Ç‰Á
-#  2011/12/15 XSSiƒNƒƒXƒXƒNƒŠƒvƒeƒBƒ“ƒOj‘Îô‚ÅC³
-#  2011/12/15 AndroidƒXƒ}ƒtƒH‚©‚ç’¼Ú2MB‹‰‚Ì“Še‚ğó‚¯•t‚¯‚éƒIƒvƒVƒ‡ƒ“‚ğ’Ç‰Á
-#  2011/11/20 youtube‚ÌV–„‚ß‚İURLuyoutu.bev‘Î‰
-#  2011/11/20 ƒjƒRƒjƒR“®‰æ‚Ìu“®‰æî•ñviframe–„‚ß‚İURL‘Î‰
-#  2011/06/10 youtube,dailyMotion,ustream,nicovideo‚ªiframe‚ÉˆÚs‚µ‚½‚Ì‚Å‘Îˆ
-#  2011/06/10 youtube‚ÌAPI•ÏX‚É”º‚¢fmtw’è‹@”\‚ğ”p~
-#  2011/06/08 twitter‚ÌVAPI‚É‚ ‚í‚¹‚Äƒpƒ‰ƒ[ƒ^‚ğ•ÏX
-#  2011/02/05 ƒjƒRƒjƒR“®‰æŠO•”ƒvƒŒƒCƒ„[‚É‘Î‰i–„‚ß‚İÄ¶‚Å‚«‚Ü‚·j
-#  2011/02/04 Android2.1‚Å‚ÍFlash”ñ‘Î‰‚Æ‚·‚é”»’èˆ—’Ç‰Á
-#  2010/08/18 ŠO•”ƒtƒ@ƒCƒ‹AƒXƒpƒ€’PŒêƒŠƒXƒg(spamword.cgi)‚Ì“Ç‚İ‚İ‚É‘Î‰
-#  2010/07/08 imgboardê—pƒrƒ‹ƒgƒCƒ“FLVƒvƒŒƒCƒ„[‚É‘Î‰‚µ‚½(mp4,mov,flv‚Ì–„‚İÄ¶‰Â)
-#  2010/07/08 iPad/iPhone‚ÅHTML5”Åvideo‚É‘Î‰
-#  2010/07/08 SPAM‘Îô‹­‰»2.5‚Ö(URL16i”•\‹L‚É‘Îˆ)
-#  2010/04/24 1920x1080“™‚Ì‰t»‚Å‰æ‘œ‚âFlash“®‰æ‚ª‘å‚«‚­Œ©‚¦‚é‚æ‚¤‰ü—ÇB
-#  ‹ï‘Ì“I‚É‚ÍAviewportw’è‚·‚é‚ÆA‰¡ŒÅ’èAƒI[ƒgi‚¨‚Ü‚©‚¹j“™‚Å©“®“I‚É‰æ‘œƒTƒCƒY‚ğŠg‘åAk¬‚·‚é‹@”\‚ğ’Ç‰Á
-#  2010/04/24 ƒ_ƒCƒŒƒNƒg‚Éƒy[ƒWw’è‚Å‚«‚éƒŠƒ“ƒN‚ğ’Ç‰Á
-#  2010/04/24 token‚Ìƒ^ƒCƒ€ƒAƒEƒgƒGƒ‰[‚ªo‚é•s‹ï‡‚ğC³
-#  2010/04/24 twitter‚Å‰æ‘œƒXƒŒƒbƒh‚ğĞ‰î‚Å‚«‚é‹@”\‚ğ’Ç‰Á
-#  2010/03/31 ‚•‰‰×ƒTƒCƒg—pHTMLƒLƒƒƒbƒVƒ…o—Í‚ğON‚É‚·‚é‚ÆSPAM‘Îô—pƒƒ“ƒ^ƒCƒ€ƒg[ƒNƒ“‚ÅƒGƒ‰[‚ªo‚é–â‘è‚ğC³
-#  2010/03/30 ƒRƒƒ“ƒg‚ª‹L–‚É‰ñ‚è‚ŞÌ‚ÌƒŒƒCƒAƒEƒg‚ğ•œŠˆ‚³‚¹‚½
-#  2010/03/28 iPhone/iPad‚Ìƒ^ƒbƒ`ƒpƒlƒ‹‘€ì—p‚Éƒ{ƒ^ƒ“‚ÌƒTƒCƒY‚ğ‘å‚«‚­‚µ‚½
-#  2010/03/28 SPAM—\–h‚Ì‚½‚ßAemail‚ğ“ü‚ê‚él‚ª­‚È‚¢‚Ì‚ÅAƒfƒtƒHƒ‹ƒg‚ÅÈ—ª‚Æ‚µ‚½
-#  2010/02/22 ƒGƒXƒP[ƒv‹@”\‚ğg‚Á‚½SPAM‘Îô‚ğ’Ç‰Á
-#  2010/02/17 ƒgƒŠƒbƒv‹@”\(‚È‚è‚·‚Ü‚µ–h~j‚ğƒeƒXƒgÀ‘•
-#  2010/02/15 SPAM‘Îô‚ÉƒƒCƒ“ƒ^ƒCƒ€ƒg[ƒNƒ“‹@”\‚ğ’Ç‰Á
-#  2010/02/15 IPƒAƒhƒŒƒXw’èŒ^SPAMƒtƒBƒ‹ƒ^‹@”\‚ğ’Ç‰Á
-#  2010/02/05 SPAMLƒŠƒXƒg‚ğ‘å•XV‚µASPAM“Še‘Îô‚ğ‹­‰»
-#  2010/01/23 android—p‚ÌCGIƒR[ƒh‚ğ’Ç‰Á
-#  2009/12/18 “dq‘Ğ‚ÌepubŒ`®‚É‘Î‰
-#  2009/12/18 ‹L–’†‚ÌZŠ‚ğ”F¯‚µAGoogleMapƒŠƒ“ƒN‰»‚·‚é‹@”\‚ğ’Ç‰Á
-#  2009/12/18 ’†‘ŒêŒ—‚©‚ç‚ÌSPAM‘Îô‚ğ‹­‰»
-#  2009/12/18 ’˜ìŒ ‚É‘Î‚·‚é’ˆÓ•¶‚ÉAƒ_ƒEƒ“ƒ[ƒhsˆ×‚ğ’Ç‹Li–@‰ü³j
-#  2009/12/09 Windows”Åsafari‚Ì•¶š‰»‚¯‘Îô‚ğ’Ç‰Á
-#  2009/12/03 iPod/iPhone‚Ìƒ[ƒ‹“Še‚É‘Î‰
-#  2009/10/22 AESˆÃ†‰»ƒA[ƒJƒCƒuƒ\ƒtƒgAƒAƒ^ƒbƒVƒ…ƒP[ƒX(ATCƒtƒ@ƒCƒ‹j‚É‘Î‰
-#  2009/10/22 m4v‘Î‰‚ğ’Ç‰Á
-#  2009/06/15 XPSŒ`®ƒtƒ@ƒCƒ‹(MS”ÅPDF)‘Î‰
-#  2008/08/18 GoogleMAPƒXƒgƒŠ[ƒgƒrƒ…[(“ú–{)–„‚ß‚İ‚É‘Î‰
-#  2008/07/16 youTube‚ğiPod/iPhone‚ÅŒ©‚½ê‡‚ÉA‹L–‚ªo‚È‚¢ƒoƒO‚ğC³
-#  2008/06/26 iPod/iPhone‚ÅŒ©‚â‚·‚­‚·‚é‚½‚ß‚g‚s‚l‚k¬•ÏX
-#  2008/06/25 PSP‚ÅyouTube“®‰æ‚ğ’¼ÚŒ©‚¦‚é‚æ‚¤‚É‰ü—Ç
-#  2008/06/24 iPod/iPhone‚ÅyouTube“®‰æ‚ğ’¼ÚŒ©‚¦‚é‚æ‚¤‚É‰ü—Ç
-#  2008/06/20 iPod/iPhone‚Ì•¶š‰»‚¯Œ»Û‚É‘Îˆ
-#  2008/06/03 906i/706iˆÈ~‚Ì2MB‰æ‘œƒAƒbƒv‹@—p‚ÉŒg‘Ñƒ‚ƒWƒ…[ƒ‹à–¾•ÏX
-#  2007/06/05 SPAM‚ÆŒë‰ğ‚³‚ê‚½“ŠeA–ß‚éƒ{ƒ^ƒ“‚Å‹L“ü“à—e‚ğ•œŒ³‰Â”\‚É
-#  2007/06/05 ©Ì‚³‚ê‚½ƒ[ƒ‹ƒAƒhƒŒƒX‚Ì‘ƒ`ƒFƒbƒN‹@”\‚ğ’Ç‰Á
-#  2007/05/23 ‰pŒê‚Ì‚İ‚Ì“Še‚ğœŠO‚·‚é‚æ‚¤‚É‚µ‚½(SPAM‘Îô)
-#  2007/05/20 URLƒŠƒ“ƒN—ñ‹“Œ^SPAM‘Îô‚ğ•W€‚ÅON‚É‚µ‚½(]—ˆ‚ÍOFF)
-#  2007/05/20 ‘è–¼‚âƒ[ƒ‹—“‚ÉURLƒŠƒ“ƒN‚ğ–„‚ß‚ß‚È‚­‚µ‚½(SPAM‘Îô)
-#  2007/05/18 3gppƒtƒ@ƒCƒ‹‚ÌPCÄ¶ƒŠƒ“ƒNæ‚ªpocketPC—pƒ\ƒtƒg‚¾‚Á‚½BC³
-#  2006/12/13 FLV(Flash Video)“®‰æƒf[ƒ^‚É‘Î‰
-#  2006/12/13 ƒAƒbƒvƒ[ƒhãŒÀ’l‚ğŠg‘å(30MB)
-#  2006/10/23 SPAMƒ[ƒh‚ÌƒfƒtƒHƒ‹ƒg‚©‚çu“®‰ævuV’…v“™10ŒÂ‚ğíœ‚µ‚½B
-#  2006/10/20 SoftBankƒ‚ƒoƒCƒ‹‘Î‰
-#  2006/06/29 Œf¦”ÂSPAM‘Îô‚ÅURLƒŠƒ“ƒN‚ÌŒÂ”‚ğ3ŒÂ‚Ü‚Å‚É§ŒÀ‚·‚é‹@”\‚ğ’Ç‰Á
-#  2006/05/01 ³‹K“Še,SPAM‚ÌŒë”F¯–h~–Ú“I‚ÅASPAM_WORDw’è—“‚ğ’Ç‰Á
-#  2005/01/15 ‰æ‘œƒAƒbƒvãŒÀ‚ğ‰z‚¦‚é‚ÆAk¬ƒ\ƒtƒg‚ğˆÄ“à‚·‚é‚æ‚¤‚É‚µ‚½
-#  2005/01/09 m4aƒtƒ@ƒCƒ‹(MPEG-4 AAC Audio)‘Î‰
-#  2004/12/12 sage‹@”\‚ğ’Ç‰Á
-#  2004/08/28 blatjˆÈŠO‚Ésend‚Ü‚Ë[‚é‚É‘Î‰‚µ‚½
-#  2003/07/21 Windows”ÅApache‚Æblatj‚Ì‘Š«–â‘è‚ğC³
-#  2003/03/15 WinŠÂ‹«‚Å‚à“Še’Ê’mƒ[ƒ‹‚ªo‚¹‚é‚æ‚¤‚Éblatj‚É‘Î‰‚µ‚½
-#  2001/09/20 Œg‘Ñƒ‚ƒWƒ…[ƒ‹‚Æ‚Ì®‡‚Å‰º‹L‹@”\‚ğC³B
-#  2001/08/13 ‰ïˆõƒpƒXg—pA‰ïˆõƒpƒX‚Å‚àŠÇ—ƒpƒX‚Å‚à“ŠeOK‚É‚µ‚½
-#  2001/02/24 “Á•ñ“Æ©‚ÌIP”FØ‚É‚æ‚éƒQƒXƒgƒpƒXƒ[ƒhíœi‹­‚­„§jˆÈŠO‚ÉA‘¼‚Ì
-#             Œf¦”Â‚Åˆê”Ê“I‚Ég‚í‚ê‚Ä‚¢‚éuíœƒL[•û®v‚ğ‘I‚×‚é‚æ‚¤‚É‚µ‚½
-#  2001/02/18 ’…ƒƒ“™AŠeíŒg‘Ñ‚Ìƒf[ƒ^‚É‘Î‰‚µ‚½
-#  2001/02/18 ƒfƒtƒHƒ‹ƒg‚Ì‰æ‘œƒtƒ@ƒCƒ‹‚Æ‚µ‚ÄGIF,JPEG,PNG‚ğó‚¯“ü‚ê‚é‚æ‚¤‚É‚µ‚½
-#  2000/01/08 g—p‹Ö~’PŒê‚É‚æ‚éƒtƒBƒ‹ƒ^A˜A‘±“ŠeƒŠƒ~ƒbƒ^‚È‚ÇA"r‚µ"‘Îô‚ğ
-#  ‘å•‹­‰»(Rev.4)
-#  1999/11/18 www5x.biglobe.ne.jp‚É‘Î‰ (Rev.3)
-#  1998/09/20 ƒŠƒTƒCƒY‹@”\’Ç‰ÁBŠÇ—Òƒ[ƒ‹‹@”\’Ç‰ÁB
-#  1998/07/10 CGIê—pƒfƒBƒŒƒNƒgƒŠŒ^ƒvƒƒoƒCƒ_‘Î‰	
-#  1998/01/24 v0.9‚ÌŠ®¬				by to-ru@big.or.jp
+# <Modification History>-03/28/2015/01
+# 2015/03/28 Fixed the problem that videos are no longer embedded due to the change in Youtube's shortened URL specification.
+# 2014/07/14 Strengthening measures against SPAM related to counterfeit brand products and counterfeit products originating in China
+# 2014/02/16 Theta, Niconico's RICOH adjusted comments to the right
+# 2014/02/14 RICOH's all-around camera Theta supports image embedding
+# 2014/02/14 Explanation correction that guides how to embed Youtube (guide the URL of "Shared" instead of the embed code youtu.be ï¼‰
+# 2014/02/11 Support for Youtube's "Play from the middle" designation
+# 2014/02/11 Update fix for iOS7 (wording correction)
+# 2013/03/05 Added a new setting that posters have a password and replies do not require a password
+# 2013/02/11 Bug fix for TEXT link fixation and icon size fixed mode by administrator setting
+# 2013/01/14 Fixed the function to automatically recognize addresses and link them to Google Maps
+# 2012/10/28 SPAM detection logic enhancement Ver. 2.7 (detection is OK even if the case is different from the NG word)
+# 2012/10/24 ALIGN and HSPACE designations for IMG and IFRAME tags are now listed with CSS, and safari and
+# The layout of comments is now less likely to collapse even in Chrome
+# 2012/10/21 Modified the layout so that the comment part wraps around to the right on Youtube 
+# 2012/10/06 (2012.10.1) Video & audio file posting will be turned off as standard due to DL illegalization
+# 2012/10/06 Added ON/OFF display of post description
+# 2012/10/06 Cleaned up and deleted web slice compatible parts
+# 2012/09/06 iOS6 Optimized (supports uploading from safari on iPhone)
+# 2012/08/08 Fixed link destination of image reduction software for Mac and Android
+# 2012/08/08 Comic Book Archive (.cbr .cbz)
+# 2012/05/09 How to post from iPhone/iPad is now automatically displayed
+# 2012/05/07 User ICON limit increased from 10 to 150
+# 2012/05/01 Updated SPAM filter settings
+# 2012/04/29 Due to the unpopularity of some buttons that have become larger for smartphone support, we have changed the same as before on PC.
+# 2012/04/29 Fixed compatibility issue with GoogleMap
+# 2012/04/18 (CGI Installation Caution!!) Changed script newline code from CR+LF to LF
+# 2012/04/18 (CGI Installation Caution!!) Change perl path from /usr/local/bin/perl to /usr/bin/perl
+# 2012/04/18 Enhanced XSS (Cross-Scripting) Countermeasures
+# 2012/04/18 Automatic address link correction
+# 2011/12/20 Fixed a bug that adult videos such as xvideos.com could be embedded even if the video site was limited to yotube, etc.
+# 2011/12/15 Added option to accept 2MB class posts directly from Android smartphone
+# 2011/12/15 Fixed with XSS (Cross-Scripting) countermeasures
+# 2011/12/15 Added option to accept 2MB class posts directly from Android smartphone
+# 2011/11/20 New embed URL "youtu.be" support for YouTube
+# 2011/11/20 Nico Nico Douga's "Video Information" iframe embed URL support
+# 2011/06/10 Youtube,dailyMotion,ustream,nicovideo migrated to iframes.
+# 2011/06/10 fmt specification function abolished due to YouTube API change
+# 2011/06/08 Changed parameters for new twitter API
+# 2011/02/05 Support for Niconico Douga external player (embedded playback)
+# 2011/02/04 Added judgment process to say that Flash is not supported in Android 2.1
+# 2010/08/18 Support for loading external files and spam word lists (spamword .cgi)
+# 2010/07/08 Imgboard's built-in FLV player is now compatible (mp4, mov, flv can be embedded playback)
+# 2010/07/08 HTML5 video support on iPad/iPhone
+# 2010/07/08 Enhanced SPAM Countermeasures 2.5 (URL hexadecimal notation is supported)
+# 2010/04/24 Improved 1920x1080 LCD to make images and Flash movies look larger.
+# Specifically, when viewport is specified, a function to automatically increase and decrease the image size by horizontal fixing, automatic (automatic), etc. has been added.
+# 2010/04/24 Added direct page specification link
+# 2010/04/24 Fixed a bug that caused token timeout error
+# 2010/04/24 Added a feature to introduce image threads on Twitter
+# 2010/03/31 Fixed an error with anti-SPAM one-time tokens when HTML cache output for high-load sites is turned on
+# 2010/03/30 Revived the old layout where comments wrap around articles
+# 2010/03/28 Increased button size for iPhone/iPad touch panel operation
+# 2010/03/28 For SPAM prevention, few people put in email, so it was omitted by default.
+# 2010/02/22 Added SPAM countermeasures using escape function
+# 2010/02/17 Test implementation of trip function (anti-spoofing)
+# 2010/02/15 Added wine time token function to SPAM countermeasures
+# 2010/02/15 Added IP Addressing SPAM Filter Function
+# 2010/02/05 Significantly updated SPAM ad list and strengthened measures against SPAM posting
+# 2010/01/23 Added CGI code for Android
+# 2009/12/18 Epub format for e-books
+# 2009/12/18 Added a function to recognize addresses in articles and link them to GoogleMap
+# 2009/12/18 Strengthening measures against SPAM from Chinese-speaking countries
+# 2009/12/18 Added the act of downloading to the notice on copyright (revision of the law)
+#  2009/12/09 Windowsç‰ˆsafariã®æ–‡å­—åŒ–ã‘å¯¾ç­–ã‚’è¿½åŠ 
+#  2009/12/03 iPod/iPhoneã®ãƒ¡ãƒ¼ãƒ«æŠ•ç¨¿ã«å¯¾å¿œ
+#  2009/10/22 AESæš—å·åŒ–ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ã‚½ãƒ•ãƒˆã€ã‚¢ã‚¿ãƒƒã‚·ãƒ¥ã‚±ãƒ¼ã‚¹(ATCãƒ•ã‚¡ã‚¤ãƒ«ï¼‰ã«å¯¾å¿œ
+#  2009/10/22 m4vå¯¾å¿œã‚’è¿½åŠ 
+#  2009/06/15 XPSå½¢å¼ãƒ•ã‚¡ã‚¤ãƒ«(MSç‰ˆPDF)å¯¾å¿œ
+#  2008/08/18 GoogleMAPã‚¹ãƒˆãƒªãƒ¼ãƒˆãƒ“ãƒ¥ãƒ¼(æ—¥æœ¬)åŸ‹ã‚è¾¼ã¿ã«å¯¾å¿œ
+#  2008/07/16 youTubeã‚’iPod/iPhoneã§è¦‹ãŸå ´åˆã«ã€è¨˜äº‹ãŒå‡ºãªã„ãƒã‚°ã‚’ä¿®æ­£
+#  2008/06/26 iPod/iPhoneã§è¦‹ã‚„ã™ãã™ã‚‹ãŸã‚ï¼¨ï¼´ï¼­ï¼¬å°å¤‰æ›´
+#  2008/06/25 PSPã§youTubeå‹•ç”»ã‚’ç›´æ¥è¦‹ãˆã‚‹ã‚ˆã†ã«æ”¹è‰¯
+#  2008/06/24 iPod/iPhoneã§youTubeå‹•ç”»ã‚’ç›´æ¥è¦‹ãˆã‚‹ã‚ˆã†ã«æ”¹è‰¯
+#  2008/06/20 iPod/iPhoneã®æ–‡å­—åŒ–ã‘ç¾è±¡ã«å¯¾å‡¦
+#  2008/06/03 906i/706iä»¥é™ã®2MBç”»åƒã‚¢ãƒƒãƒ—æ©Ÿç”¨ã«æºå¸¯ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«èª¬æ˜å¤‰æ›´
+#  2007/06/05 SPAMã¨èª¤è§£ã•ã‚ŒãŸæŠ•ç¨¿æ™‚ã€æˆ»ã‚‹ãƒœã‚¿ãƒ³ã§è¨˜å…¥å†…å®¹ã‚’å¾©å…ƒå¯èƒ½ã«
+#  2007/06/05 è‡ªç§°ã•ã‚ŒãŸãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã®å›½ãƒã‚§ãƒƒã‚¯æ©Ÿèƒ½ã‚’è¿½åŠ 
+#  2007/05/23 è‹±èªã®ã¿ã®æŠ•ç¨¿ã‚’é™¤å¤–ã™ã‚‹ã‚ˆã†ã«ã—ãŸ(SPAMå¯¾ç­–)
+#  2007/05/20 URLãƒªãƒ³ã‚¯åˆ—æŒ™å‹SPAMå¯¾ç­–ã‚’æ¨™æº–ã§ONã«ã—ãŸ(å¾“æ¥ã¯OFF)
+# 2007/05/20 URL links can no longer be embedded in titles and email fields (SPAM countermeasures)
+# 2007/05/18 PC playback link of 3gpp file was pocketPC software. correction
+# 2006/12/13 FLV (Flash Video) video data support
+# 2006/12/13 Increased upload limit (30MB)
+# 2006/10/23 Deleted 10 SPAM words such as "Video" and "New" from the default.
+# 2006/10/20 SoftBank Mobile Support
+# 2006/06/29 Added a function to limit the number of URL links to 3 in bulletin board SPAM countermeasures
+# 2006/05/01 Added SPAM_WORD specification field to prevent false recognition of canonical posts and SPAM.
+# 2005/01/15 When the image upload limit is exceeded, the reduction software is indicated.
+# 2005/01/09 m4a file (MPEG-4 AAC Audio) support
+# 2004/12/12 Added sage function
+# 2004/08/28 Support for send imitation other than blatj
+# 2003/07/21 Fixed compatibility between Apache and blatj for Windows
+# 2003/03/15 Support for blatj so that post notification emails can be sent even in Win environment
+# 2001/09/20 The following functions have been fixed in consistency with mobile phone modules.
+# 2001/08/13 When using a membership pass, posting is allowed with either a membership pass or a managed pass.
+# 2001/02/24 Special ReportOther than deleting guest password by unique IP authentication (strongly recommended), other
+# Enabled you to select the "delete key method" commonly used on bulletin boards
+# 2001/02/18 Supports various mobile data such as ringtones
+# 2001/02/18 Accepted GIF, JPEG, PNG as default image files
+# 2000/01/08 Measures against "vandalism" such as filters by prohibited words and continuous posting limiters
+# Major enhancements (Rev.4)
+# 1999/11/18 www5x.biglobe.ne.jp (Rev.3)
+# 1998/09/20 Resize function added. Administrator email function added.
+# 1998/07/10 CGI-only directory type provider support 
+# 1998/01/24 v0.9 completed by to-ru@big.or.jp
 #
-# <—˜—p‹K’è>
-#  1.(’˜ìŒ ‚É‚Â‚¢‚Ä)
-#   1.1“–CGI‚Ì’˜ìŒ ‹y‚Ñg—p‹–‘øŒ ‚ÍAimgboard.comiˆÈ‰º “–•ûj‚ªè—L‚µ‚Ä‚¨
-#      ‚è‚Ü‚·B
-#  2.(g—p‹–‘ø)
-#      E‚±‚ÌCGI‚Í,“–—˜—p‹K’è‚·‚×‚Ä‚É]‚Á‚Ä‚¢‚½‚¾‚­ê‡‚ÉŒÀ‚è,ŒÂl,–@l‚É‚©
-#        ‚©‚í‚ç‚¸,©—R‚ÉƒJƒXƒ^ƒ}ƒCƒY‚µA–³‚Å—˜—p‚µ‚Ä‚¢‚½‚¾‚­–‚ª‚Å‚«‚Ü‚·B
-#      E‚È‚¨A‚Ğ‚Æ‚Â‚Å‚à–‚½‚¹‚È‚¢€–Ú‚ª‚ ‚Á‚½ê‡‚Í,Šî–{“I‚ÉA‚»‚Ì—˜—p‚ğ‹–‘ø
-#        ‚µ‚Ü‚¹‚ñB‚æ‚­‚²Šm”F‚­‚¾‚³‚¢B
-#      E€–Ú‚ğ‚·‚×‚Ä–‚½‚µ‚½ê‡‚àA“–•û‚ª‚»‚Ìg—p‚ğ•s“K“–‚¾‚Æ”F‚ß‚½ê‡,‚»‚Ì
-#        g—p‚ğ’†~‚³‚¹‚Ä‚¢‚½‚¾‚­ê‡‚ª‚ ‚è‚Ü‚·D‚ ‚ç‚©‚¶‚ß‚²—¹³‚­‚¾‚³‚¢D
+# <Acceptable Use Policy>
+# 1. (Copyright)
+# 1.1 The copyright and license rights of this CGI are owned by the imgboard.com (hereinafter referred to as "us").
+# .
+# 2. (License)
+# ãƒ»This CGI is only available to individuals and corporations if they comply with all of these Terms of Use.
+# Nevertheless, you can customize it freely and use it free of charge.
+# ãƒ» If there is even one item that cannot be satisfied, the use of it is basically permitted.
+# No, Please check carefully.
+# ãƒ» Even if all the items are satisfied, if we deem the use inappropriate, the
+# Please note that we may discontinue use.
 #
-#  2.1 g—p‹–‘øğŒ
-#    A.“–à–¾ƒ^ƒCƒgƒ‹•”(ƒXƒNƒŠƒvƒg‚Ì1s–Ú-9Xs:“Á‚É—˜—p‹K’è•”iƒXƒNƒŠƒvƒg
-#      ‚Ì5Xs–Ú-9Xs–Ú))‚¨‚æ‚ÑAŒf¦”Â‰º•”‚Ì’˜ìŒ •\¦•”‚Ì‰ü•Ï‚ğ‚µ‚Ä
-#      ‚¢‚È‚¢‚±‚Æ
-#    B.Œf¦”Â‰º•”‚Ìu”ƒæ‰¿Ši.comv‚È‚Ç‚Ìé“`•”•ª‚ğíœA‰ü•Ï‚µ‚½‚èA
-#      Œ©‚É‚­‚¢ó‘Ô‚É‰ÁH‚µ‚Ä‚È‚¢‚±‚ÆB
-#    C.‰ü‘¢‚¨‚æ‚ÑAƒJƒXƒ^ƒ}ƒCƒY‚µ‚½ƒXƒNƒŠƒvƒg‚Ì–³’fÄ”z•z‚ğ‚µ‚È‚¢‚±‚ÆB
-#      “Á‚ÉAğŒA,B,C‚ğ–‚½‚³‚È‚¢ê‡‚Í,‚»‚Ì—˜—p‚ğˆêØ‹Ö~‚µ‚Ü‚·B
+# 2.1 License Agreement
+# A. The title part of this explanation (line 1-9X of the script: especially the acceptable use section (script
+# lines 5X - 9X)) and modified the copyright notice at the bottom of the bulletin board
+# Not
+# B. Deleting or modifying advertising parts such as "purchase price .com" at the bottom of the bulletin board,
+# Do not process it to a state that is difficult to see.
+# C. Do not modify or redistribute customized scripts without permission.
+# In particular, if conditions A, B, and C are not satisfied, their use is strictly prohibited.
 #
-#  3.(§ŒÀ–€‚É‚Â‚¢‚Ä)
-#   3.1 ‰ü‘¢A”ñ‰ü‘¢‚ğ–â‚í‚¸A“–•û‚É–³’f‚ÅÄ”z•z‚·‚é‚±‚Æ‚ğŒÅ‚­‹Ö~‚µ‚Ü‚·B
-#   3.2 “ú–{ˆÈŠO‚Ì‘Ğ‚Ìƒ†[ƒU‚ğ‘ÎÛ‚É‚µ‚½Œf¦”Â‚Å‚Ì—˜—p‚ğ‹Ö~‚µ‚Ü‚·B
-#   3.3 “–’˜ìŒ •\¦‚È‚ç‚Ñ‚É,Œf¦”Â‰º•”‚Ì’˜ìŒ •\¦‚ÆƒŠƒ“ƒN‚ğ‰ü•Ï‹y‚Ñ,íœ
-#       ‚·‚é‚±‚Æ‚ÍŒÅ‚­‹Ö~‚µ‚Ü‚·B
+# 3. (Restrictions)
+# 3.1 Redistribution, modified or non-modified, without our permission, is strictly prohibited.
+# 3.2 Prohibit the use of bulletin boards targeting users of nationalities other than Japan.
+# 3.3 Alter and delete this copyright notice and the copyright notice and link at the bottom of the bulletin board
+# Doing so is strictly prohibited.
 #
-#  4.(”ñ§ŒÀ–€‚É‚Â‚¢‚Ä)
-#   4.1 ‰ü‘¢‚ÍŒä©—R‚É‚µ‚Ä‚¢‚½‚¾‚¢‚Ä\‚¢‚Ü‚¹‚ñ    i‚½‚¾‚µ3.3‚É’ˆÓ‚µ‚Ä‰º‚³‚¢j
-#   4.2 ¤—p—˜—p‚ÍŒä©—R‚É‚µ‚Ä‚¢‚½‚¾‚¢‚Ä\‚¢‚Ü‚¹‚ñi‚½‚¾‚µ3.3‚É’ˆÓ‚µ‚Ä‰º‚³‚¢j
-#   4.3 ŒÂl‚Ì—˜—pA‚¨‚æ‚Ñ–@l‚Ì—˜—p‚ğ‹–‰Â‚µ‚Ü‚·B  i‚½‚¾‚µ3.3‚É’ˆÓ‚µ‚Ä‰º‚³‚¢j
+# 4. (Non-restrictions)
+# 4.1 You are free to modify (but please note 3.3)
+# 4.2 Commercial use is free (but please note 3.3)
+# 4.3 Allow Personal Use and Corporate Use. (However, please note 3.3)
 #
-#  5.(–ÆÓ–€)
-#   5.1 Œf¦”Â‚ÌŠÇ—Ó”C‚Í,100%‚»‚ÌŒf¦”Â‚Ìİ’uÒ‚É‚ ‚é‚à‚Ì‚Æ‚µ‚Ü‚·B“–ƒTƒCƒg‚Í
-#       ‚»‚ÌŠÇ—Ó”C‚ğˆêØ•‰‚¢‚Ü‚¹‚ñB
-#   5.2 –œˆê‚±‚ÌCGI‚É‚æ‚è‘¹ŠQ‚â•s—˜‰vó‚¯‚½‚Æ‚µ‚Ä‚àA“–•û‚ÍˆêØ‚»‚ÌÓ”C‚ğ•‰‚¤
-#       ‹`–±‚ğ‚¿‚Ü‚¹‚ñD‚ ‚ç‚©‚¶‚ß‚²—¹³‚­‚¾‚³‚¢D
-#   5.3 “–CGI‚É•s‹ï‡A‹@”\•s‘«AƒoƒO‚È‚Ç‚ª‚ ‚Á‚½ê‡‚àA“–•û‚Í‚»‚ÌC³‚Ì‹`–±‚ğ
-#       •‰‚í‚È‚¢‚à‚Ì‚Æ‚µ‚Ü‚·B
+# 5. (Disclaimer)
+# 5.1 Responsibility for the management of the bulletin board shall be 100% with the person who installed the bulletin board. This site is
+# We are not responsible for its management.
+# 5.2 Even if you suffer damage or disadvantage due to this CGI, we will be fully responsible for it.
+# We have no obligations.
+# 5.3 If there is a bug, missing function, bug, etc. in this CGI, we are obliged to fix it.
+# Not to be liable.
 #
-#  6.(‚»‚Ì‘¼)
-#    “–•û‚ª‚»‚Ìg—p‚ğ•s“K“–‚¾‚Æ”F‚ß‚½ê‡,‚»‚Ìg—p‚ğ’†~‚³‚¹‚Ä‚¢‚½‚¾‚­
-#    ê‡‚ª‚ ‚è‚Ü‚·D‚ ‚ç‚©‚¶‚ß‚²—¹³‚­‚¾‚³‚¢D
-#    “–—˜—p‹K’è‚Í—\‚È‚­‰ü•ÏA’Ç‹L‚³‚ê‚éê‡‚ª‚ ‚è‚Ü‚·B‚ ‚ç‚©‚¶‚ß‚²—¹³‚­‚¾‚³‚¢D
+# 6. (Other)
+# If we deem its use inappropriate, we will stop using it.
+# Please note.
+# These Terms of Use are subject to change or addition without notice. Please note.
 #
 ###############################################################################
-# Šî–{\¬i‰Šúİ’è‚Í‚±‚Ì\¬‚ğ‘O’ñ‚É‰ğà‚µ‚Ü‚·j
+# Basic configuration (initial settings are explained on the premise of this configuration)
 #
-# public_htmliƒz[ƒ€ƒy[ƒWƒfƒBƒŒƒNƒgƒŠj
+# public_html (Homepage Directory)
 # |
-# |-- cgi-bini”CˆÓ‚ÌƒfƒBƒŒƒNƒgƒŠ705j
+# |-- cgi-bin (arbitrary directory 705)
 #   |
-#   |--img-box(757 ‚Ü‚½‚Í 707)(‰æ‘œ•Û‘¶—pƒfƒBƒŒƒNƒgƒŠj
+# |--img-box(757 or 707)(image storage directory)
 #   |
-#   |-- jcode_sj.pl  (755 ‚Ü‚½‚Í 705)(ƒ‰ƒCƒg”Å‚Ì“ú–{Œêƒ‰ƒCƒuƒ‰ƒŠ)
-#   |-- imgboard.cgi (755 ‚Ü‚½‚Í 705)(–{‘Ì)
-#   |-- imgsize.pl   (755 ‚Ü‚½‚Í 705)(‰æ‘œƒTƒCƒY‰ğÍƒ‰ƒCƒuƒ‰ƒŠ)
-#   |-- file.dat     (666 ‚Ü‚½‚Í 606)(‹L–ƒf[ƒ^•Û‘¶—p)
-#   |-- fileback.dat (666 ‚Ü‚½‚Í 606)(ã‹Lƒtƒ@ƒCƒ‹‚ÌƒoƒbƒNƒAƒbƒv)
-#   |-- icon.dat     (666 ‚Ü‚½‚Í 606)(WebPartsƒf[ƒ^•Û‘¶—p)
+# |-- jcode_sj.pl (755 or 705) (lite Japanese library)
+# |-- imgboard.cgi (755 or 705)(console)
+# |-- imgsize.pl (755 or 705) (Image Size Analysis Library)
+# |-- file.dat (666 or 606) (for storing article data)
+# |-- fileback.dat (666 or 606) (backup of the above file)
+# |-- icon.dat (666 or 606) (for storing WebParts data)
 #
-# E( )“à‚Í‘®«(ƒp[ƒ~ƒbƒbƒVƒ‡ƒ“)‚Å‚·BÅ‰AŠ‡ŒÊ“à‚Ì¶‚Ì”š‚Å‚µ,
-#  “®‚­‚©‚Ç‚¤‚©Šm”F‚µ‚Ä‰º‚³‚¢BŠm”F‚ª‚Æ‚ê‚½‚çA‚R•¶š‚Ì”š‚Ì^‚ñ’†‚ğ0‚É•ÏX‚µ,
-#  “®ì‚·‚é‚©ƒ`ƒFƒbƒN‚µ‚Ä‰º‚³‚¢B‚Ç‚¿‚ç‚Å‚à³í“®ì‚Å‚«‚é‚È‚ç‚ÎA‚Å‚«‚é‚¾‚¯
-#  ‰E‚Ì•û‚Ì’l‚ğg‚Á‚Ä‚­‚¾‚³‚¢B
-#  (ˆê”Ê‚ÉƒvƒƒoƒCƒ_‚É‚¨‚¢‚Ä‚ÍA^‚ñ’†‚Ì”š‚ğ0‚É‚·‚é‚ÆAƒZƒLƒ…ƒŠƒeƒB“I‚É‚æ‚è
-#  Œµ‚µ‚­‚È‚èA‘¼l‚©‚çƒtƒ@ƒCƒ‹‚ğ‘Š·‚¦‚ç‚ê‚½‚è‚·‚éŠëŒ¯«‚ªŒ¸‚Á‚ÄˆÀ‘S“x‚ªã‚ª‚è
-#  ‚Ü‚·B‚½‚¾‚µ’†‚É‚ÍCGI‚ª“®‚©‚È‚­‚È‚éƒvƒƒoƒCƒ_‚à‚ ‚è‚Ü‚·‚Ì‚ÅA‚±‚Ìê‡‚Í
-#  ¶‚Ì’l‚ğ‚²g—p‚­‚¾‚³‚¢j
+# ãƒ» ( ) is an attribute (permission). First, try with the left number in parentheses,
+# Check if it works. Once confirmed, change the middle of the three numbers to 0,
+# Check if it works. If either can work normally, as much as possible
+# Use the value on the right.
+# (In general, in providers, setting the middle number to 0 is more secure
+# Stricter and less likely to be rewritten by others and increased safety
+# . However, some providers stop CGI from working, so in this case
+# Please use the value on the left)
 #
-# Efile.dat,fileback.dat,icon.dat‚Í’†g‚ª‹ó‚Ì“¯–¼ƒtƒ@ƒCƒ‹‚ğƒpƒ\ƒRƒ“ã‚Åì¬D
-#   ftp‚Å“]‘—‚·‚é(“¯••‚Ìƒtƒ@ƒCƒ‹‚ğ‚»‚Ì‚Ü‚Üg‚Á‚Ä‚à—Ç‚¢)
+# ãƒ»file.dat,fileback.dat,icon.datã¯ä¸­èº«ãŒç©ºã®åŒåãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒ‘ã‚½ã‚³ãƒ³ä¸Šã§ä½œæˆï¼
+#   ftpã§è»¢é€ã™ã‚‹(åŒå°ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãã®ã¾ã¾ä½¿ã£ã¦ã‚‚è‰¯ã„)
 #
-# EFFFTP‚Ìê‡A©“®•¶šƒR[ƒh•ÏŠ·‚Ì•›ì—p‚ÅƒXƒNƒŠƒvƒg‚ª“®‚©‚È‚­‚È‚é‚Ì‚ÅA
-#   cgi–{‘Ì‚ğSHIFT-JIS,‰üsƒR[ƒhLFuBvƒoƒCƒiƒŠ[“]‘—‚·‚é‚±‚ÆB
+# ãƒ»FFFTPã®å ´åˆã€è‡ªå‹•æ–‡å­—ã‚³ãƒ¼ãƒ‰å¤‰æ›ã®å‰¯ä½œç”¨ã§ã‚¹ã‚¯ãƒªãƒ—ãƒˆãŒå‹•ã‹ãªããªã‚‹ã®ã§ã€
+#   cgiæœ¬ä½“ã‚’SHIFT-JIS,æ”¹è¡Œã‚³ãƒ¼ãƒ‰LFã€ŒBã€ãƒã‚¤ãƒŠãƒªãƒ¼è»¢é€ã™ã‚‹ã“ã¨ã€‚
 #
-# Ejcode_sj.pl‚Í’†g‚ğ‘S‚­‚¢‚¶‚ç‚¸‚É‚»‚Ì‚Ü‚ÜƒAƒXƒL[“]‘—‚·‚é‚±‚ÆB
-# E‚±‚ê‚ç‚S‚Â‚Ìƒtƒ@ƒCƒ‹‚ÍƒAƒXƒL[ƒ‚[ƒhiƒeƒLƒXƒgj‚Å“]‘—‚·‚é‚±‚ÆB
-# E—nifty,wakwak,biglobe“™‚ÍAã‹LŠî–{\¬‚Æ‚ÍˆÙ‚È‚éƒtƒ@ƒCƒ‹”z’u‚âİ’è‚ª•K—v‚É
-#   ‚È‚è‚Ü‚·BVFAQŒf¦”Â‚Éî•ñ‚ª‚ ‚é‚Ì‚ÅA‚»‚ê‚ğQl‚É‚µ‚Ä‰º‚³‚¢
+# ãƒ»jcode_sj.plã¯ä¸­èº«ã‚’å…¨ãã„ã˜ã‚‰ãšã«ãã®ã¾ã¾ã‚¢ã‚¹ã‚­ãƒ¼è»¢é€ã™ã‚‹ã“ã¨ã€‚
+# ãƒ»ã“ã‚Œã‚‰ï¼”ã¤ã®ãƒ•ã‚¡ã‚¤ãƒ«ã¯ã‚¢ã‚¹ã‚­ãƒ¼ãƒ¢ãƒ¼ãƒ‰ï¼ˆãƒ†ã‚­ã‚¹ãƒˆï¼‰ã§è»¢é€ã™ã‚‹ã“ã¨ã€‚
+# ãƒ»ï¼ nifty,wakwak,biglobeç­‰ã¯ã€ä¸Šè¨˜åŸºæœ¬æ§‹æˆã¨ã¯ç•°ãªã‚‹ãƒ•ã‚¡ã‚¤ãƒ«é…ç½®ã‚„è¨­å®šãŒå¿…è¦ã«
+#   ãªã‚Šã¾ã™ã€‚æ–°FAQæ²ç¤ºæ¿ã«æƒ…å ±ãŒã‚ã‚‹ã®ã§ã€ãã‚Œã‚’å‚è€ƒã«ã—ã¦ä¸‹ã•ã„
 #
 ###############################################################################
 
 #=======================================================================#
-#  ‰Šúİ’è
+#  åˆæœŸè¨­å®š
 #=======================================================================#
 #
-#  æ“ª‚É#‚Ì‚ ‚és‚Í“Ç‚İ‚Ü‚ê‚Ü‚¹‚ñD
+#  å…ˆé ­ã«#ã®ã‚ã‚‹è¡Œã¯èª­ã¿è¾¼ã¾ã‚Œã¾ã›ã‚“ï¼
 #
 #==================================#
-#        <•K{İ’è€–Ú>            #
+#        <å¿…é ˆè¨­å®šé …ç›®>            #
 #==================================#
 #
-$admin_passwd = 'gochi';		# ŠÇ—l‚É‚æ‚é‹L–íœ‚ÌƒpƒXƒ[ƒh
-#					# (•K‚¸•ÏX‚µ‚Ä‚­‚¾‚³‚¢)
+$admin_passwd = 'gochi';		# ç®¡ç†äººã«ã‚ˆã‚‹è¨˜äº‹å‰Šé™¤æ™‚ã®ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰
+#					# (å¿…ãšå¤‰æ›´ã—ã¦ãã ã•ã„)
 #
-$title 	= "‰æ‘œŒf¦”Â(Light)";	
-#  ªu‚¨‹C‚É“ü‚è or ƒuƒbƒNƒ}[ƒNv•Û‘¶‚Ìƒ^ƒCƒgƒ‹‚É‚È‚è‚Ü‚·B
+$title 	= "ç”»åƒæ²ç¤ºæ¿(Light)";	
+#  â†‘ã€ŒãŠæ°—ã«å…¥ã‚Š or ãƒ–ãƒƒã‚¯ãƒãƒ¼ã‚¯ã€ä¿å­˜æ™‚ã®ã‚¿ã‚¤ãƒˆãƒ«ã«ãªã‚Šã¾ã™ã€‚
 #
-#  ¡<I—¹–ß‚èæ‚t‚q‚k>
+#  â– <çµ‚äº†æ™‚æˆ»ã‚Šå…ˆï¼µï¼²ï¼¬>
 #
-#  Œf¦”Â‚ÌuI—¹ƒ{ƒ^ƒ“v‚ğ‰Ÿ‚µ‚½‚Æ‚«‚ÉA‰º‹L‚t‚q‚k‚Ö–ß‚è‚Ü‚·B
-#  (URL‚ğ‰º‹LƒfƒtƒHƒ‹ƒgURL‚©‚ç•ÏX‚µ‚Ü‚·‚ÆAƒy[ƒW‚Éƒ{ƒ^ƒ“‚ª©“®“I‚ÉoŒ»)
-$back_url ='http://‚ ‚È‚½‚ÌƒvƒƒoƒCƒ_/‚ ‚È‚½‚ÌƒfƒBƒŒƒNƒgƒŠ/index.html';
-#
-#
-#  ¡<“Še‰æ‘œ‚ÌŠi”[ƒfƒBƒŒƒNƒgƒŠ>
-#
-#  “Še‚³‚ê‚½‰æ‘œƒtƒ@ƒCƒ‹‚ğ•Û‘¶‚µ‚Ä‚¨‚­êŠ‚Å‚·D®—‚ğŠÈ’P‚É‚·‚é‚½‚ßA‚Ü‚½
-#  ƒZƒLƒ…ƒŠƒeƒBŠm•Û‚Ì‚½‚ß‚ÉAimgboard.cgi‚Æ“¯‚¶ƒfƒBƒŒƒNƒgƒŠ‚Å‚Í‚È‚­,’¼‰º‚É
-#  V‹KƒfƒBƒŒƒNƒgƒŠ‚ğì¬‚µ,‚»‚±‚ÉƒAƒbƒvƒ[ƒhƒtƒ@ƒCƒ‹‚ğ•Û‘¶‚·‚é‚±‚Æ‚ğ‹­‚­
-#  ‚¨‚·‚·‚ß‚µ‚Ü‚·D
-#  ‚È‚¨,êŠ‚Ìw’è•û–@‚Å‚·‚ª,’Êí‚Í‘Š‘ÎƒpƒX*‚Åw’è‚µ‚Ä‰º‚³‚¢D
-#  ---‰ğà----
-#  ‘Š‘ÎƒpƒX‚Æ‚ÍAimgboard.cgi(ˆÈ‰ºcgi‚ÆŒÄ‚Ô)‚©‚çŒ©‚½‘Š‘Î“I‚ÈˆÊ’u‚ğw’è‚·‚é•û–@
-#  ‚Å‚·BˆÈ‰º‚Ìİ’è‚Ícgi‚Ì‚ ‚éƒfƒBƒŒƒNƒgƒŠ’¼‰º‚Éimg-box‚Æ‚¢‚¤–¼‘O‚ÌV‹KƒfƒBƒŒ
-#  ƒNƒgƒŠ‚ğì¬‚µA‚»‚±‚ğ•Û‘¶ƒfƒBƒŒƒNƒgƒŠ‚Æ‚µ‚½ê‡‚Ì‘Š‘ÎƒpƒXw’è—á‚Å‚·iƒsƒŠ
-#  ƒIƒh‚Ícgi‚ª’u‚¢‚Ä‚ ‚éƒfƒBƒŒƒNƒgƒŠ‚ğˆÓ–¡‚µ‚Ü‚·B)B
-#  ‘Š‘Î‚â‚çAâ‘Î‚â‚çA‚È‚ñ‚©“ï‚µ‚­‚Ä‚æ‚­‚í‚©‚ç‚È‚¢EE‚Æ‚¢‚¤•û‚ÍA‚±‚Ì‚Ü‚Üw
-#  ’è‚ğ•ÏX‚µ‚È‚¢‚ÅAw¦’Ê‚è‚ÌˆÊ’u‚Éimg-boxƒfƒBƒŒƒNƒgƒŠ‚ğì‚Á‚Ä‚­‚¾‚³‚¢B
-$img_dir = './img-box';		# ƒfƒtƒHƒ‹ƒgˆÊ’u
-#
-#  (•â‘«–€/ˆê•”ŠY“–Ò‚Ì‚İ“Ç‚ñ‚Å‚­‚¾‚³‚¢)
-#  ‚ ‚È‚½‚ÌƒvƒƒoƒCƒ_‚ªAcgi‚Æƒf[ƒ^ƒtƒ@ƒCƒ‹‚ğ“¯‚¶êŠ‚É’u‚­‚±‚Æ‚ªo—ˆ‚È‚¢
-#  “Áê‚ÈƒvƒƒoƒCƒ_(hi-ho“™j‚ÅAcgi‚Æ“¯‚¶ƒfƒBƒŒƒNƒgƒŠ‚âcgi’¼‰º‚É•Û‘¶
-#  —pƒfƒBƒŒƒNƒgƒŠ‚ğì‚ê‚È‚¢ê‡Aâ‘ÎƒpƒX‚É‚æ‚éw’è‚ª•K—v‚Æ‚È‚éê‡‚ª‚ ‚è‚Ü‚·B
-#  ‚±‚Ìê‡A‚Ts‚Ù‚Ç‘O‚É‚ ‚é$img_dir‚ğâ‘ÎƒpƒX*w’è‚É‘Š·‚¦‚Ä‰º‚³‚¢B
-#  ---‰ğà----
-#  â‘ÎƒpƒX‚Æ‚ÍA‚»‚ÌƒRƒ“ƒsƒ…[ƒ^ã‚Ìƒtƒ@ƒCƒ‹ƒVƒXƒeƒ€‚Ìˆê”Ôã‚ÌŠK‘w‚©‚ç
-#  ‚»‚Ìƒtƒ@ƒCƒ‹‚Ì’u‚¢‚Ä‚ ‚éˆÊ’u‚Ü‚Å‚Ì‚·‚×‚Ä‚ÌŠK‘w‚ğ‚¿‚á‚ñ‚Æw’è‚µ‚½‚à‚Ì
-#  ‚É‚È‚è‚Ü‚·B
-#  â‘ÎƒpƒX—áEEEE$img_dir = '/home/usr5/talk/photo_bbs/img-box';
-#  i’F’Êí‚Í‚Å‚«‚é‚¾‚¯‘Š‘ÎƒpƒXw’è‚ğ‚µ‚Ä‰º‚³‚¢j
-#  â‘ÎƒpƒX‚ª‚í‚©‚ç‚È‚¢ê‡AƒvƒƒoƒCƒ_‚Ìƒ†[ƒUƒTƒ|[ƒgƒy[ƒW‚Ì‚b‚f‚hŠÖ˜Aî
-#  •ñ‚ÌƒR[ƒi“™‚Éî•ñ‚ª‚½‚¢‚Ä‚¢‚ ‚è‚Ü‚·‚Ì‚ÅA‚±‚ê‚ğ’T‚µ‚Ä‚­‚¾‚³‚¢B‚Ü‚½telnet
-#  ‚µ‚ÄƒVƒFƒ‹‚ªg‚¦‚éƒvƒƒoƒCƒ_‚Ìê‡‚Ípwd‚Æ‚¢‚¤unixƒRƒ}ƒ“ƒh‚ğŠY“–ƒfƒBƒŒƒNƒg
-#  ƒŠ‚ÉˆÚ“®ŒãA“ü—Í‚·‚é‚ÆŒ»İ‚¢‚éƒfƒBƒŒƒNƒgƒŠ‚Ü‚Å‚Ìâ‘ÎƒpƒX‚ª•\¦‚³‚ê‚Ü‚·B
-#  ‚È‚¨Aâ‘ÎƒpƒXw’è‚ğ‚µ‚½ê‡A“¯imgƒtƒ@ƒCƒ‹•Û‘¶ƒfƒBƒŒƒNƒgƒŠ‚ÌURLw’è‚à•¹
-#  ‚¹‚Äs‚Á‚Ä‰º‚³‚¢D
-#  i’Fimg_urlw’è‚Íˆê•”‚ÌŠY“–Ò‚Ì‚İİ’è‚·‚é€–Ú‚Å‚·B’Êí‚Íİ’è•s—v‚È‚Ì‚Å
-#    “–•â‘«–€‚Í–³‹‚µ‚Ä‰º‚³‚¢B‚È‚¨A—nifty,wakwak,biglobe“™‚ÍA‚±‚±‚Åà–¾
-#    ‚µ‚½‚à‚Ì‚Æ‚ÍˆÙ‚È‚é‚³‚ç‚É‚Ü‚½•Ê‚Ìİ’è‚ª•K—v‚É‚È‚è‚Ü‚·BVFAQŒf¦”Â‚Éî•ñ‚ª
-#    ‚ ‚é‚Ì‚ÅA‚»‚ê‚ğQl‚É‚µ‚Äİ’è‚µ‚Ä‰º‚³‚¢j
-$img_url ='http://‚ ‚È‚½‚ÌƒvƒƒoƒCƒ_/‚ ‚È‚½‚ÌƒfƒBƒŒƒNƒgƒŠ/img-box';
+#  æ²ç¤ºæ¿ã®ã€Œçµ‚äº†ãƒœã‚¿ãƒ³ã€ã‚’æŠ¼ã—ãŸã¨ãã«ã€ä¸‹è¨˜ï¼µï¼²ï¼¬ã¸æˆ»ã‚Šã¾ã™ã€‚
+#  (URLã‚’ä¸‹è¨˜ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆURLã‹ã‚‰å¤‰æ›´ã—ã¾ã™ã¨ã€ãƒšãƒ¼ã‚¸ã«ãƒœã‚¿ãƒ³ãŒè‡ªå‹•çš„ã«å‡ºç¾)
+$back_url ='http://ã‚ãªãŸã®ãƒ—ãƒ­ãƒã‚¤ãƒ€/ã‚ãªãŸã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª/index.html';
 #
 #
-#  <Œg‘Ñ‘Î‰>
-#  ƒKƒ‰ƒpƒSƒXŒg‘Ñ(iƒ‚[ƒh,FOMA,SoftBank,au)‚©‚çƒAƒNƒZƒX‚ª‚ ‚é‚ÆA
-#  ‰º‹Lƒtƒ@ƒCƒ‹–¼‚ÌCGI‚ğ’T‚µ‚Ü‚·B“¯‚¶ƒfƒBƒŒƒNƒgƒŠ‚É‘¶İ‚µ‚½ê‡‚ÍA
-#  ‰º‹LCGI‚Öƒ†[ƒU‚ğ“]‘—‚·‚é‚æ‚¤‚ÉƒiƒrƒQ[ƒg‚·‚éƒy[ƒW‚ğ©“®‚Åo‚µ
-#  ‚Ü‚·B
-#  ƒKƒ‰ƒpƒSƒXŒg‘Ñƒ†[ƒU‚ğŒg‘ÑƒAƒNƒZƒXCGI‚Ö©“®“]‘—‚·‚é(1=yes,0=no)
+#  â– <æŠ•ç¨¿ç”»åƒã®æ ¼ç´ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª>
+#
+#  æŠ•ç¨¿ã•ã‚ŒãŸç”»åƒãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä¿å­˜ã—ã¦ãŠãå ´æ‰€ã§ã™ï¼æ•´ç†ã‚’ç°¡å˜ã«ã™ã‚‹ãŸã‚ã€ã¾ãŸ
+#  ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ç¢ºä¿ã®ãŸã‚ã«ã€imgboard.cgiã¨åŒã˜ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã§ã¯ãªã,ç›´ä¸‹ã«
+#  æ–°è¦ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’ä½œæˆã—,ãã“ã«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä¿å­˜ã™ã‚‹ã“ã¨ã‚’å¼·ã
+#  ãŠã™ã™ã‚ã—ã¾ã™ï¼
+#  ãªãŠ,å ´æ‰€ã®æŒ‡å®šæ–¹æ³•ã§ã™ãŒ,é€šå¸¸ã¯ç›¸å¯¾ãƒ‘ã‚¹*ã§æŒ‡å®šã—ã¦ä¸‹ã•ã„ï¼
+#  ---è§£èª¬----
+#  ç›¸å¯¾ãƒ‘ã‚¹ã¨ã¯ã€imgboard.cgi(ä»¥ä¸‹cgiã¨å‘¼ã¶)ã‹ã‚‰è¦‹ãŸç›¸å¯¾çš„ãªä½ç½®ã‚’æŒ‡å®šã™ã‚‹æ–¹æ³•
+#  ã§ã™ã€‚ä»¥ä¸‹ã®è¨­å®šã¯cgiã®ã‚ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªç›´ä¸‹ã«img-boxã¨ã„ã†åå‰ã®æ–°è¦ãƒ‡ã‚£ãƒ¬
+#  ã‚¯ãƒˆãƒªã‚’ä½œæˆã—ã€ãã“ã‚’ä¿å­˜ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã¨ã—ãŸå ´åˆã®ç›¸å¯¾ãƒ‘ã‚¹æŒ‡å®šä¾‹ã§ã™ï¼ˆãƒ”ãƒª
+#  ã‚ªãƒ‰ã¯cgiãŒç½®ã„ã¦ã‚ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’æ„å‘³ã—ã¾ã™ã€‚)ã€‚
+#  ç›¸å¯¾ã‚„ã‚‰ã€çµ¶å¯¾ã‚„ã‚‰ã€ãªã‚“ã‹é›£ã—ãã¦ã‚ˆãã‚ã‹ã‚‰ãªã„ãƒ»ãƒ»ã¨ã„ã†æ–¹ã¯ã€ã“ã®ã¾ã¾æŒ‡
+#  å®šã‚’å¤‰æ›´ã—ãªã„ã§ã€æŒ‡ç¤ºé€šã‚Šã®ä½ç½®ã«img-boxãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’ä½œã£ã¦ãã ã•ã„ã€‚
+$img_dir = './img-box';		# ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆä½ç½®
+#
+#  (è£œè¶³äº‹é …/ä¸€éƒ¨è©²å½“è€…ã®ã¿èª­ã‚“ã§ãã ã•ã„)
+#  ã‚ãªãŸã®ãƒ—ãƒ­ãƒã‚¤ãƒ€ãŒã€cgiã¨ãƒ‡ãƒ¼ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã‚’åŒã˜å ´æ‰€ã«ç½®ãã“ã¨ãŒå‡ºæ¥ãªã„
+#  ç‰¹æ®Šãªãƒ—ãƒ­ãƒã‚¤ãƒ€(hi-hoç­‰ï¼‰ã§ã€cgiã¨åŒã˜ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚„cgiç›´ä¸‹ã«ä¿å­˜
+#  ç”¨ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚’ä½œã‚Œãªã„å ´åˆã€çµ¶å¯¾ãƒ‘ã‚¹ã«ã‚ˆã‚‹æŒ‡å®šãŒå¿…è¦ã¨ãªã‚‹å ´åˆãŒã‚ã‚Šã¾ã™ã€‚
+#  ã“ã®å ´åˆã€ï¼•è¡Œã»ã©å‰ã«ã‚ã‚‹$img_dirã‚’çµ¶å¯¾ãƒ‘ã‚¹*æŒ‡å®šã«æ›¸æ›ãˆã¦ä¸‹ã•ã„ã€‚
+#  ---è§£èª¬----
+#  çµ¶å¯¾ãƒ‘ã‚¹ã¨ã¯ã€ãã®ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ä¸Šã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚·ã‚¹ãƒ†ãƒ ã®ä¸€ç•ªä¸Šã®éšå±¤ã‹ã‚‰
+#  ãã®ãƒ•ã‚¡ã‚¤ãƒ«ã®ç½®ã„ã¦ã‚ã‚‹ä½ç½®ã¾ã§ã®ã™ã¹ã¦ã®éšå±¤ã‚’ã¡ã‚ƒã‚“ã¨æŒ‡å®šã—ãŸã‚‚ã®
+#  ã«ãªã‚Šã¾ã™ã€‚
+#  çµ¶å¯¾ãƒ‘ã‚¹ä¾‹ãƒ»ãƒ»ãƒ»ãƒ»$img_dir = '/home/usr5/talk/photo_bbs/img-box';
+#  ï¼ˆæ³¨ï¼šé€šå¸¸ã¯ã§ãã‚‹ã ã‘ç›¸å¯¾ãƒ‘ã‚¹æŒ‡å®šã‚’ã—ã¦ä¸‹ã•ã„ï¼‰
+#  çµ¶å¯¾ãƒ‘ã‚¹ãŒã‚ã‹ã‚‰ãªã„å ´åˆã€ãƒ—ãƒ­ãƒã‚¤ãƒ€ã®ãƒ¦ãƒ¼ã‚¶ã‚µãƒãƒ¼ãƒˆãƒšãƒ¼ã‚¸ã®ï¼£ï¼§ï¼©é–¢é€£æƒ…
+#  å ±ã®ã‚³ãƒ¼ãƒŠç­‰ã«æƒ…å ±ãŒãŸã„ã¦ã„ã‚ã‚Šã¾ã™ã®ã§ã€ã“ã‚Œã‚’æ¢ã—ã¦ãã ã•ã„ã€‚ã¾ãŸtelnet
+#  ã—ã¦ã‚·ã‚§ãƒ«ãŒä½¿ãˆã‚‹ãƒ—ãƒ­ãƒã‚¤ãƒ€ã®å ´åˆã¯pwdã¨ã„ã†unixã‚³ãƒãƒ³ãƒ‰ã‚’è©²å½“ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆ
+#  ãƒªã«ç§»å‹•å¾Œã€å…¥åŠ›ã™ã‚‹ã¨ç¾åœ¨ã„ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã¾ã§ã®çµ¶å¯¾ãƒ‘ã‚¹ãŒè¡¨ç¤ºã•ã‚Œã¾ã™ã€‚
+#  ãªãŠã€çµ¶å¯¾ãƒ‘ã‚¹æŒ‡å®šã‚’ã—ãŸå ´åˆã€åŒimgãƒ•ã‚¡ã‚¤ãƒ«ä¿å­˜ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®URLæŒ‡å®šã‚‚ä½µ
+#  ã›ã¦è¡Œã£ã¦ä¸‹ã•ã„ï¼
+#  ï¼ˆæ³¨ï¼šimg_urlæŒ‡å®šã¯ä¸€éƒ¨ã®è©²å½“è€…ã®ã¿è¨­å®šã™ã‚‹é …ç›®ã§ã™ã€‚é€šå¸¸ã¯è¨­å®šä¸è¦ãªã®ã§
+#    å½“è£œè¶³äº‹é …ã¯ç„¡è¦–ã—ã¦ä¸‹ã•ã„ã€‚ãªãŠã€ï¼ nifty,wakwak,biglobeç­‰ã¯ã€ã“ã“ã§èª¬æ˜
+#    ã—ãŸã‚‚ã®ã¨ã¯ç•°ãªã‚‹ã•ã‚‰ã«ã¾ãŸåˆ¥ã®è¨­å®šãŒå¿…è¦ã«ãªã‚Šã¾ã™ã€‚æ–°FAQæ²ç¤ºæ¿ã«æƒ…å ±ãŒ
+#    ã‚ã‚‹ã®ã§ã€ãã‚Œã‚’å‚è€ƒã«ã—ã¦è¨­å®šã—ã¦ä¸‹ã•ã„ï¼‰
+$img_url ='http://ã‚ãªãŸã®ãƒ—ãƒ­ãƒã‚¤ãƒ€/ã‚ãªãŸã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª/img-box';
+#
+#
+#  <æºå¸¯å¯¾å¿œ>
+#  ã‚¬ãƒ©ãƒ‘ã‚´ã‚¹æºå¸¯(iãƒ¢ãƒ¼ãƒ‰,FOMA,SoftBank,au)ã‹ã‚‰ã‚¢ã‚¯ã‚»ã‚¹ãŒã‚ã‚‹ã¨ã€
+#  ä¸‹è¨˜ãƒ•ã‚¡ã‚¤ãƒ«åã®CGIã‚’æ¢ã—ã¾ã™ã€‚åŒã˜ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«å­˜åœ¨ã—ãŸå ´åˆã¯ã€
+#  ä¸‹è¨˜CGIã¸ãƒ¦ãƒ¼ã‚¶ã‚’è»¢é€ã™ã‚‹ã‚ˆã†ã«ãƒŠãƒ“ã‚²ãƒ¼ãƒˆã™ã‚‹ãƒšãƒ¼ã‚¸ã‚’è‡ªå‹•ã§å‡ºã—
+#  ã¾ã™ã€‚
+#  ã‚¬ãƒ©ãƒ‘ã‚´ã‚¹æºå¸¯ãƒ¦ãƒ¼ã‚¶ã‚’æºå¸¯ã‚¢ã‚¯ã‚»ã‚¹CGIã¸è‡ªå‹•è»¢é€ã™ã‚‹(1=yes,0=no)
 $imode_redirect=1;
 #
-# ’T‚·CGI–¼
+# æ¢ã™CGIå
 $imode_cgi_name= './im.cgi';
 #
-# ˆÄ“à‚·‚éŒg‘ÑƒAƒNƒZƒXCGI‚ÌURL
+# æ¡ˆå†…ã™ã‚‹æºå¸¯ã‚¢ã‚¯ã‚»ã‚¹CGIã®URL
 $PM{'im_cgi_url'}='http://www.aaa.bbb.com/~myname/im.cgi';
 #
-#  <Œf¦ƒf[ƒ^•Û‘¶ƒtƒ@ƒCƒ‹–¼>
+#  <æ²ç¤ºãƒ‡ãƒ¼ã‚¿ä¿å­˜ãƒ•ã‚¡ã‚¤ãƒ«å>
 #
-#  ƒeƒLƒXƒgƒf[ƒ^‚Ì•Û‘¶—pƒtƒ@ƒCƒ‹‚Ì–¼‘O‚Å‚·D
-#  imgboard.cgi‚Æ“¯‚¶êŠ‚É“ü‚ê‚éê‡‚Í‚±‚ÌƒpƒXw’è‚Ì‚Ü‚Ü.
+#  ãƒ†ã‚­ã‚¹ãƒˆãƒ‡ãƒ¼ã‚¿ã®ä¿å­˜ç”¨ãƒ•ã‚¡ã‚¤ãƒ«ã®åå‰ã§ã™ï¼
+#  imgboard.cgiã¨åŒã˜å ´æ‰€ã«å…¥ã‚Œã‚‹å ´åˆã¯ã“ã®ãƒ‘ã‚¹æŒ‡å®šã®ã¾ã¾.
 $file= './file.dat';
 #
-#  <WebPartsƒf[ƒ^•Û‘¶ƒtƒ@ƒCƒ‹–¼> (R6 NEW)
+#  <WebPartsãƒ‡ãƒ¼ã‚¿ä¿å­˜ãƒ•ã‚¡ã‚¤ãƒ«å> (R6 NEW)
 #
-#  ŠÇ—Òƒ‚[ƒh‚Åg‚¤WebPartsƒf[ƒ^‚ğ•Û‘¶‚·‚é‚½‚ß‚Ìƒtƒ@ƒCƒ‹‚Ì–¼‘O‚Å‚·D
-#  imgboard.cgi‚Æ“¯‚¶êŠ‚É“ü‚ê‚éê‡‚Í‚±‚ÌƒpƒXw’è‚Ì‚Ü‚Ü.
+#  ç®¡ç†è€…ãƒ¢ãƒ¼ãƒ‰ã§ä½¿ã†WebPartsãƒ‡ãƒ¼ã‚¿ã‚’ä¿å­˜ã™ã‚‹ãŸã‚ã®ãƒ•ã‚¡ã‚¤ãƒ«ã®åå‰ã§ã™ï¼
+#  imgboard.cgiã¨åŒã˜å ´æ‰€ã«å…¥ã‚Œã‚‹å ´åˆã¯ã“ã®ãƒ‘ã‚¹æŒ‡å®šã®ã¾ã¾.
 $PM{'icon_data_file'}	= './icon.dat';
 #
-#  <“ú–{ŒêƒR[ƒh•ÏŠ·ƒ‰ƒCƒuƒ‰ƒŠ>
+#  <æ—¥æœ¬èªã‚³ãƒ¼ãƒ‰å¤‰æ›ãƒ©ã‚¤ãƒ–ãƒ©ãƒª>
 #
-#  imgboard.cgi‚Æ“¯‚¶êŠ‚É“ü‚ê‚éê‡‚ÍA‚±‚ÌƒpƒXw’è‚Ì‚Ü‚Ü.
-#  ’:jcode_sj.pl‚Íjcode.pl‚Ì‹@”\ŒÀ’èƒXƒŠƒ€”Å‚Å‚·BSJIS‚Ö‚Ì•ÏŠ·‹@”\‚Ì‚İB
+#  imgboard.cgiã¨åŒã˜å ´æ‰€ã«å…¥ã‚Œã‚‹å ´åˆã¯ã€ã“ã®ãƒ‘ã‚¹æŒ‡å®šã®ã¾ã¾.
+#  æ³¨:jcode_sj.plã¯jcode.plã®æ©Ÿèƒ½é™å®šã‚¹ãƒªãƒ ç‰ˆã§ã™ã€‚SJISã¸ã®å¤‰æ›æ©Ÿèƒ½ã®ã¿ã€‚
 $jcode_name= 'jcode_sj.pl';
 #
-#  <‰æ‘œƒvƒƒpƒeƒB”F¯ƒ‰ƒCƒuƒ‰ƒŠ>
+#  <ç”»åƒãƒ—ãƒ­ãƒ‘ãƒ†ã‚£èªè­˜ãƒ©ã‚¤ãƒ–ãƒ©ãƒª>
 #
-#  imgboard.cgi‚Æ“¯‚¶êŠ‚É“ü‚ê‚éê‡‚Í‚±‚ÌƒpƒXw’è‚Ì‚Ü‚Ü.
+#  imgboard.cgiã¨åŒã˜å ´æ‰€ã«å…¥ã‚Œã‚‹å ´åˆã¯ã“ã®ãƒ‘ã‚¹æŒ‡å®šã®ã¾ã¾.
 $imgsize_prog="imgsize.pl";
 #
 #
-#  <Œf¦”ÂSPAM‘Îô> 2006.03 new /2014.07 update
+#  <æ²ç¤ºæ¿SPAMå¯¾ç­–> 2006.03 new /2014.07 update
 #
-#  Œf¦”ÂSPAM‚É‚æ‚é©“®‘‚«‚İ
-#  (0=§ŒÀ‚µ‚È‚¢,1=§ŒÀ‚·‚éiƒfƒtƒHƒ‹ƒgj)
+#  æ²ç¤ºæ¿SPAMã«ã‚ˆã‚‹è‡ªå‹•æ›¸ãè¾¼ã¿
+#  (0=åˆ¶é™ã—ãªã„,1=åˆ¶é™ã™ã‚‹ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆï¼‰)
 $limit_bbs_spam_flag=1;	
 #
-#  ã‚Å"1"‚É‚µ‚½ê‡A‰B‚µƒL[ƒ[ƒh‚ğŒˆ‚ß‚Ä‚­‚¾‚³‚¢B
-#  Œf¦”ÂSPAM‚Í‰pŒêŒ—‚ª‘½‚¢‚Ì‚ÅA”Ş‚ç‚Ì‹êè‚ÈŠÔˆá‚¢‚â‚·‚¢A
-#  “ú–{Œê‚Ğ‚ç‚ª‚È‚ğŠÜ‚ß‚é‚Ì‚ª—Ç‚¢‚Å‚µ‚å‚¤B
-#  “ú–{Œê‚Ìê‡‚P‚Q•¶š‚Ü‚Å‚É‚µ‚Ä‚­‚¾‚³‚¢B
+#  ä¸Šã§"1"ã«ã—ãŸå ´åˆã€éš ã—ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã‚’æ±ºã‚ã¦ãã ã•ã„ã€‚
+#  æ²ç¤ºæ¿SPAMã¯è‹±èªåœãŒå¤šã„ã®ã§ã€å½¼ã‚‰ã®è‹¦æ‰‹ãªé–“é•ã„ã‚„ã™ã„ã€
+#  æ—¥æœ¬èªã²ã‚‰ãŒãªã‚’å«ã‚ã‚‹ã®ãŒè‰¯ã„ã§ã—ã‚‡ã†ã€‚
+#  æ—¥æœ¬èªã®å ´åˆï¼‘ï¼’æ–‡å­—ã¾ã§ã«ã—ã¦ãã ã•ã„ã€‚
 #
-#  ‚Ü‚½A’†‘‚©‚ç‚Ì“ú–{ŒêSPAM‚É¢‚Á‚Ä‚¢‚éê‡‚ÍA
-#  "“VˆÀ–å–Œ"‚È‚Ç‚Ì­¡ƒ[ƒh‚ğˆÈ‰º•¶š—ñ‚ÉŠÜ‚ß‚é‚Æ
-#  ŒoŒ±“I‚É“–‹Ç‘¤FW‚Ì©“®Õ’f‚Å–h‚°‚éê‡‚ª‚ ‚è‚Ü‚·B
-#  “Á’è‚ÌƒJƒ^ƒJƒi‚â”¼Šp•¶š‚Í•¶š‰»‚¯‚ğ¶‚İCGIƒGƒ‰[‚É
-#  ‚È‚é‚Ì‚ÅŠî–{NG‚Å‚·B
-#  •ÏX‚Í‚P•¶š–ˆ‚É‚µ‚ÄA–â‘è‚Ì‚È‚­“Še‚Å‚«‚é•¶š—ñ‚ğ
-#  ’T‚µ‚Ä‚­‚¾‚³‚¢B
+#  ã¾ãŸã€ä¸­å›½ã‹ã‚‰ã®æ—¥æœ¬èªSPAMã«å›°ã£ã¦ã„ã‚‹å ´åˆã¯ã€
+#  "å¤©å®‰é–€äº‹ä»¶"ãªã©ã®æ”¿æ²»ãƒ¯ãƒ¼ãƒ‰ã‚’ä»¥ä¸‹æ–‡å­—åˆ—ã«å«ã‚ã‚‹ã¨
+#  çµŒé¨“çš„ã«å½“å±€å´FWã®è‡ªå‹•é®æ–­ã§é˜²ã’ã‚‹å ´åˆãŒã‚ã‚Šã¾ã™ã€‚
+#  ç‰¹å®šã®ã‚«ã‚¿ã‚«ãƒŠã‚„åŠè§’æ–‡å­—ã¯æ–‡å­—åŒ–ã‘ã‚’ç”Ÿã¿CGIã‚¨ãƒ©ãƒ¼ã«
+#  ãªã‚‹ã®ã§åŸºæœ¬NGã§ã™ã€‚
+#  å¤‰æ›´ã¯ï¼‘æ–‡å­—æ¯ã«è©¦ã—ã¦ã€å•é¡Œã®ãªãæŠ•ç¨¿ã§ãã‚‹æ–‡å­—åˆ—ã‚’
+#  æ¢ã—ã¦ãã ã•ã„ã€‚
 #
-$spam_keyword="“VˆÀ–å–Œ‚ë‚äƒV";	
+$spam_keyword="å¤©å®‰é–€äº‹ä»¶ã‚ã‚†ã‚·";	
 #
-#  ‹Ö~’PŒê‚É‚æ‚éSPAM§ŒÀ (SPAM_WORD) 2006.04 New
+#  ç¦æ­¢å˜èªã«ã‚ˆã‚‹SPAMåˆ¶é™ (SPAM_WORD) 2006.04 New
 #
-#  URLƒŠƒ“ƒN‚âƒ[ƒ‹ƒAƒhƒŒƒX‚ª‚ ‚èA‚©‚ÂA“Á’è‚Ì’PŒê‚ğ–{•¶‚ÉŠÜ‚Ş‹L–‚Ì‚İ
-#  “Še‚ğ¸”s‚³‚¹‚Ü‚·BNGƒ[ƒhw’è‚Å‚ÍAL‚Å‚È‚¢‹L–‚ªSPAM‚Æ‚µ‚Ä
-#  Œë”F¯‚³‚ê‚Ä‰ï˜b‚É•s“s‡‚ªo‚éê‡A‚±‚¿‚ç‚ğg‚Á‚Ä‚İ‚Ä‚­‚¾‚³‚¢B
+#  URLãƒªãƒ³ã‚¯ã‚„ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ãŒã‚ã‚Šã€ã‹ã¤ã€ç‰¹å®šã®å˜èªã‚’æœ¬æ–‡ã«å«ã‚€è¨˜äº‹ã®ã¿
+#  æŠ•ç¨¿ã‚’å¤±æ•—ã•ã›ã¾ã™ã€‚NGãƒ¯ãƒ¼ãƒ‰æŒ‡å®šã§ã¯ã€åºƒå‘Šã§ãªã„è¨˜äº‹ãŒSPAMã¨ã—ã¦
+#  èª¤èªè­˜ã•ã‚Œã¦ä¼šè©±ã«ä¸éƒ½åˆãŒå‡ºã‚‹å ´åˆã€ã“ã¡ã‚‰ã‚’ä½¿ã£ã¦ã¿ã¦ãã ã•ã„ã€‚
 #
-#  (1=§ŒÀ‚·‚é(„§),0=§ŒÀ‚µ‚È‚¢)
+#  (1=åˆ¶é™ã™ã‚‹(æ¨å¥¨),0=åˆ¶é™ã—ãªã„)
 $PM{'no_upload_by_spam_word'}=1;
 #
-# ’Fæ“ª‚É#‚Ì‚ ‚és‚Í–³Œø‚Å‚·B
+# æ³¨ï¼šå…ˆé ­ã«#ã®ã‚ã‚‹è¡Œã¯ç„¡åŠ¹ã§ã™ã€‚
 #
-@SPAM_WORD=(" ‹Q‚¦‚½—« ", " —‚ÌqŒŸõ ", " ’´‚û“ü ", " ƒ„ƒŠ•ú‘è "
-," Š„‚èØ ", " ƒpƒ‰ƒ_ƒCƒX ", " •›û“ü ", "  ", " ‚¨¬Œ­‚¢ "
-," Š®‘S–³—¿ "," „‘E˜g "," ‹t‰‡ "," —«‰ïˆõ "," D‚İ‚Ì—« "," ‹É”éî•ñ "
-," ”DPŒ_–ñ "," ‘fl—« "," —«“o˜^Ò "," “o˜^–³—¿ "
-," ‹tw–¼ "," ƒTƒCƒg‚¾‚æ "," Œ©•ú‘è "
-# ƒAƒ_ƒ‹ƒgŒn
-#," ƒZƒbƒNƒX "," –³C³ "," ’²‹³ "," ƒZƒtƒŒ ", " l‹C‚`‚u "
-#," —«‚ª "," ƒGƒbƒ` "," ƒQƒbƒg "," ‚²w–¼ "," ‰‡Œğ ", " ƒ„ƒŠƒ}ƒ“ "
-#," á‚¢—« "," “¶’å "," o‰ï‚¢ "," lÈ "
-#," ’U“ß "," ƒTƒCƒg‚¾‚æ "," ‰‡• "," áÈ "
+@SPAM_WORD=(" é£¢ãˆãŸå¥³æ€§ ", " å¥³ã®å­æ¤œç´¢ ", " è¶…é«˜åå…¥ ", " ãƒ¤ãƒªæ”¾é¡Œ "
+," å‰²ã‚Šåˆ‡ ", " ãƒ‘ãƒ©ãƒ€ã‚¤ã‚¹ ", " å‰¯åå…¥ ", "  ", " ãŠå°é£ã„ "
+," å®Œå…¨ç„¡æ–™ "," æ¨è–¦æ  "," é€†æ´ "," å¥³æ€§ä¼šå“¡ "," å¥½ã¿ã®å¥³æ€§ "," æ¥µç§˜æƒ…å ± "
+," å¦Šå¨ å¥‘ç´„ "," ç´ äººå¥³æ€§ "," å¥³æ€§ç™»éŒ²è€… "," ç™»éŒ²ç„¡æ–™ "
+," é€†æŒ‡å "," ã‚µã‚¤ãƒˆã ã‚ˆ "," è¦‹æ”¾é¡Œ "
+# ã‚¢ãƒ€ãƒ«ãƒˆç³»
+#," ã‚»ãƒƒã‚¯ã‚¹ "," ç„¡ä¿®æ­£ "," èª¿æ•™ "," ã‚»ãƒ•ãƒ¬ ", " äººæ°—ï¼¡ï¼¶ "
+#," å¥³æ€§ãŒ "," ã‚¨ãƒƒãƒ "," ã‚²ãƒƒãƒˆ "," ã”æŒ‡å "," æ´äº¤ ", " ãƒ¤ãƒªãƒãƒ³ "
+#," è‹¥ã„å¥³æ€§ "," ç«¥è² "," å‡ºä¼šã„ "," äººå¦» "
+#," æ—¦é‚£ "," ã‚µã‚¤ãƒˆã ã‚ˆ "," æ´åŠ© "," è‹¥å¦» "
 #
-# ŠCŠO
-# ƒAƒ_ƒ‹ƒgŒn
+# æµ·å¤–
+# ã‚¢ãƒ€ãƒ«ãƒˆç³»
 #," fuck "," porn "
 #," fetish "," pics "," adult "," teen "," stripper "
 #
-# ƒuƒ‰ƒ“ƒhƒRƒs[SPAM
-," ƒNƒXê”„ "," ƒnƒCƒŒƒv "," copy33 "," brand188 "," ƒX[ƒp[ƒRƒs[ "
-," louis "," vuitton "," taschen "," fossil  "," ƒ[ƒŒƒbƒNƒX "," ƒƒŒƒbƒNƒX "
-," cartier "," ƒJƒ‹ƒeƒBƒG "," ‚‹‰˜rŒv "," S‹‰  "," N‹‰ "
+# ãƒ–ãƒ©ãƒ³ãƒ‰ã‚³ãƒ”ãƒ¼SPAM
+," ã‚¯ã‚¹å°‚å£² "," ãƒã‚¤ãƒ¬ãƒ— "," copy33 "," brand188 "," ã‚¹ãƒ¼ãƒ‘ãƒ¼ã‚³ãƒ”ãƒ¼ "
+," louis "," vuitton "," taschen "," fossil  "," ãƒ­ãƒ¼ãƒ¬ãƒƒã‚¯ã‚¹ "," ãƒ­ãƒ¬ãƒƒã‚¯ã‚¹ "
+," cartier "," ã‚«ãƒ«ãƒ†ã‚£ã‚¨ "," é«˜ç´šè…•æ™‚è¨ˆ "," Sç´š  "," Nç´š "
 #," check "," thank "," More "," free "
 #," online "," site "," visit "
-# Š©—UŒn
+# å‹§èª˜ç³»
 ," links "," insurance "," cheap "," buy "
 ," Molto "," cheap "," Airfare "," Furniture "," Ashley "
 ," Casino "," Foxwoods "," Brighton "," Horseshoe "," Gambling "," Avalon "
@@ -373,480 +373,480 @@ $PM{'no_upload_by_spam_word'}=1;
 ," yumenokuni.net "," pikavip "
 ," au-au-a.net "," candypop.jp "," yourfilejk.com "
 ," bagshop2008.com "," yahoo-sale.net "
-# ŒF–{ƒfƒŠƒwƒ‹Œn by http://whois.domaintools.com/b-blooming.com
+# ç†Šæœ¬ãƒ‡ãƒªãƒ˜ãƒ«ç³» by http://whois.domaintools.com/b-blooming.com
 ," bigbaito.com "," deli-rakuten.com "
 ," firstlips.com "," forfun.jp "," hey-sey.com "," nn7.biz "
-# ¸—ÍÜŒn
+# ç²¾åŠ›å‰¤ç³»
 ," internut "," seiryokuzai "," khonsys "
 ," diet-live "," vigrx "," hirugouhan "," kanpo.com "
-," ¸—ÍÜ "," ¸—ÍŒ¸‘Ş "," •sŠ´Ç "," ›Z–ò "," ŒƒˆÀƒTƒ“ƒvƒ‹ "," ’†‘Š¿•û "
-," •Ö•ó "," Ãˆú "," ƒoƒCƒAƒOƒ‰ "," ƒVƒAƒŠƒX "," ƒ_ƒCƒGƒbƒgƒTƒvƒŠ "
-," –u‹N•s‘S "," ƒŠƒhƒXƒvƒŒ[ "
+," ç²¾åŠ›å‰¤ "," ç²¾åŠ›æ¸›é€€ "," ä¸æ„Ÿç—‡ "," åªšè–¬ "," æ¿€å®‰ã‚µãƒ³ãƒ—ãƒ« "," ä¸­å›½æ¼¢æ–¹ "
+," ä¾¿å® "," å‚¬æ·« "," ãƒã‚¤ã‚¢ã‚°ãƒ© "," ã‚·ã‚¢ãƒªã‚¹ "," ãƒ€ã‚¤ã‚¨ãƒƒãƒˆã‚µãƒ—ãƒª "
+," å‹ƒèµ·ä¸å…¨ "," ãƒªãƒ‰ã‚¹ãƒ—ãƒ¬ãƒ¼ "
 # Foreign spam word
 ," serwis "," miejsca "," serwery "," Internecie "
-# ’†‘ŒêŠÜ‚ŞL‚ğ‚Í‚¶‚­
-," ûG "," úü "," ãî "," äà "," æå "," àí  "," ûM  "," ¬–…  "," æì  "," èñ  "
-," –Í‹[Ší "," “îŒ "," üF "," ãèåé "," åí "," ä„ "," èí "," áï  "," ç€  "
-," éC "," œ‹l "," ¢ˆ° "," Œ´•ò "," Ÿú "," š§ "," èB "
-," ™û "," •k "," ¢ "," á¢ "," ”éÇ "," å¢Ÿ¢ "," —“•r "
-," àó "," çâ "," èì "," àğ "," âó "," üK "," ûD "
-," éú "," Ÿ’ "," —€ "," éã"," âo "," æ…"," âñ "," ™n "," ™Ì "," û§ "
-# SPAM‚ª‘½‚¢‘‚Ö‚ÌƒŠƒ“ƒN‚ğŠÜ‚Ş“Še‚ğSPAM‚Æ‚·‚é
-# ƒƒVƒA(ru) ’†‘(cn)  ŠØ‘(kr) `(hk) ‘ä˜p(tw)
-# ƒAƒ‹ƒ[ƒ“ƒ`ƒ“(ar)Aƒuƒ‰ƒWƒ‹(br)AƒCƒMƒŠƒX(uk)
+# ä¸­å›½èªå«ã‚€åºƒå‘Šã‚’ã¯ã˜ã
+," æ¹œ "," æµ¯ "," èƒ› "," èµ "," è¶º "," ç‘™  "," æ¿µ  "," å°å¦¹  "," è·ª  "," é Œ  "
+," æ¨¡æ“¬å™¨ "," è»Ÿä»¶ "," é°€ "," è‚›è£¨ "," è¤Š "," èˆ® "," ç«Ÿ "," ç¢Œ  "," è½¢  "
+," é¢ª "," æ·è©° "," çˆ¾èŠ¦ "," åŸå¥‰ "," æ»¯ "," åœ¦ "," éŒš "
+," å“ˆ "," æ–Œ "," æ¤¶ "," ç™¼ "," ç§˜å¡ "," è …æ³™ "," æ¬„ç“¶ "
+," ç‘ª "," éˆ” "," éŸ² "," ç‘© "," ç³’ "," é»‘ "," æ·² "
+," é´¾ "," æ±³ "," æ²ƒ "," é±š"," ç©‰ "," è«·"," ç³‚ "," å†¢ "," å  "," èª¾ "
+# SPAMãŒå¤šã„å›½ã¸ã®ãƒªãƒ³ã‚¯ã‚’å«ã‚€æŠ•ç¨¿ã‚’SPAMã¨ã™ã‚‹
+# ãƒ­ã‚·ã‚¢(ru) ä¸­å›½(cn)  éŸ“å›½(kr) é¦™æ¸¯(hk) å°æ¹¾(tw)
+# ã‚¢ãƒ«ã‚¼ãƒ³ãƒãƒ³(ar)ã€ãƒ–ãƒ©ã‚¸ãƒ«(br)ã€ã‚¤ã‚®ãƒªã‚¹(uk)
 ," .ru/ "," .cn/ "," .kr/ "," .fi/ "," .hk/ "," .tw/ "
 ," .ar/ "," .br/ "," .uk/ "
-," ‹U‘PÒ "," s‘¢ "," –³—¿”z•z’† "
-," ‘fl–º "," ‘å•úo ");
+," å½å–„è€… "," æé€  "," ç„¡æ–™é…å¸ƒä¸­ "
+," ç´ äººå¨˜ "," å¤§æ”¾å‡º ");
 #
-# IPƒAƒhƒŒƒXw’èŒ^ SPAMƒtƒBƒ‹ƒ^‹@”\‚Ì’Ç‰Á‚É‚Â‚¢‚Ä(2010.02 )
+# IPã‚¢ãƒ‰ãƒ¬ã‚¹æŒ‡å®šå‹ SPAMãƒ•ã‚£ãƒ«ã‚¿æ©Ÿèƒ½ã®è¿½åŠ ã«ã¤ã„ã¦(2010.02 )
 #
-# ƒhƒƒCƒ“–¼‚ğ‚T‚OˆÈã(’†‚É‚Í‚P‚O‚OˆÈãj‚Â‹ÆÒ‚à‘½‚¢‚Å‚·‚ªA
-# ƒŠƒ“ƒNæ‚ÌÀIPƒAƒhƒŒƒX‚Í1A‚ ‚é‚¢‚Í”ŒÂˆÈ‰º‚ÌŒÅ’èIP‚Å‚ ‚é
-# ƒP[ƒX‚ª‚Ù‚Æ‚ñ‚Ç‚Å‚·B
-# ]‚Á‚ÄAƒhƒƒCƒ“–¼‚ğƒŠƒXƒg‚É’Ç‰Á‚µ‚Äˆê‚Âˆê‚Â”rœ‚·‚é•û–@‚æ‚èA
-# ƒŠƒ“ƒNæ‚ÌŒÅ’èIP‚ğ’²‚×A‹Ö~ƒŠƒXƒg‚É’Ç‰Á‚µ‚ÄASPAM‚ğ”rœ‚µ‚½•û‚ªA
-# 50`100”{Œø—¦‚ª—Ç‚¢‚Å‚·B
-# ƒhƒƒCƒ“–¼‚©‚çIPƒAƒhƒŒƒX‚ğ’²‚×‚é‚É‚ÍAƒlƒbƒg‚ÉÚ‘±‚µ‚½ó‘Ô‚ÅA
-#  MS-DOSƒRƒ}ƒ“ƒhƒ‰ƒCƒ“‚Åuping ƒzƒXƒg–¼v‚ğ“ü—Í‚·‚ê‚ÎAŒ‹‰Ê‚Æ‚µ‚Ä•\¦‚³‚ê‚Ü‚·B
-# ‚»‚ÌIPƒAƒhƒŒƒX‚ğ@SPAM_HOSTS_IP‚É’Ç‹L‚µ‚Ä‚­‚¾‚³‚¢B
+# ãƒ‰ãƒ¡ã‚¤ãƒ³åã‚’ï¼•ï¼ä»¥ä¸Š(ä¸­ã«ã¯ï¼‘ï¼ï¼ä»¥ä¸Šï¼‰æŒã¤æ¥­è€…ã‚‚å¤šã„ã§ã™ãŒã€
+# ãƒªãƒ³ã‚¯å…ˆã®å®ŸIPã‚¢ãƒ‰ãƒ¬ã‚¹ã¯1ã€ã‚ã‚‹ã„ã¯æ•°å€‹ä»¥ä¸‹ã®å›ºå®šIPã§ã‚ã‚‹
+# ã‚±ãƒ¼ã‚¹ãŒã»ã¨ã‚“ã©ã§ã™ã€‚
+# å¾“ã£ã¦ã€ãƒ‰ãƒ¡ã‚¤ãƒ³åã‚’ãƒªã‚¹ãƒˆã«è¿½åŠ ã—ã¦ä¸€ã¤ä¸€ã¤æ’é™¤ã™ã‚‹æ–¹æ³•ã‚ˆã‚Šã€
+# ãƒªãƒ³ã‚¯å…ˆã®å›ºå®šIPã‚’èª¿ã¹ã€ç¦æ­¢ãƒªã‚¹ãƒˆã«è¿½åŠ ã—ã¦ã€SPAMã‚’æ’é™¤ã—ãŸæ–¹ãŒã€
+# 50ï½100å€åŠ¹ç‡ãŒè‰¯ã„ã§ã™ã€‚
+# ãƒ‰ãƒ¡ã‚¤ãƒ³åã‹ã‚‰IPã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’èª¿ã¹ã‚‹ã«ã¯ã€ãƒãƒƒãƒˆã«æ¥ç¶šã—ãŸçŠ¶æ…‹ã§ã€
+#  MS-DOSã‚³ãƒãƒ³ãƒ‰ãƒ©ã‚¤ãƒ³ã§ã€Œping ãƒ›ã‚¹ãƒˆåã€ã‚’å…¥åŠ›ã™ã‚Œã°ã€çµæœã¨ã—ã¦è¡¨ç¤ºã•ã‚Œã¾ã™ã€‚
+# ãã®IPã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’@SPAM_HOSTS_IPã«è¿½è¨˜ã—ã¦ãã ã•ã„ã€‚
 #
 @SPAM_HOSTS_IP=("74.207.24?.","174.122.10?.","66.71.24?.","66.71.25?.","221.231.138.","18.243.22.64"
 ,"210.173.241.","209.160.32.22?","58.1.229.8?","202.172.28.15?"
 ,"69.64.147.","203.135.19?.?","198.143.162.");
 #
-# 2006.06 URLƒŠƒ“ƒN—ñ‹“Œ^SPAM‘Îô
+# 2006.06 URLãƒªãƒ³ã‚¯åˆ—æŒ™å‹SPAMå¯¾ç­–
 #
-#  SPAMƒ[ƒh‚ª‚Ğ‚Á‚©‚©‚ç‚È‚­‚Ä‚àA–{•¶’†‚ÉURLƒŠƒ“ƒN‚ª4‚ÂˆÈã‚ ‚éê‡‚Í
-#  ‘‚«‚ß‚È‚¢‚æ‚¤‚É‚µ‚Ü‚·B
-#  (1=§ŒÀ‚·‚é(„§),0=§ŒÀ‚µ‚È‚¢)
+#  SPAMãƒ¯ãƒ¼ãƒ‰ãŒã²ã£ã‹ã‹ã‚‰ãªãã¦ã‚‚ã€æœ¬æ–‡ä¸­ã«URLãƒªãƒ³ã‚¯ãŒ4ã¤ä»¥ä¸Šã‚ã‚‹å ´åˆã¯
+#  æ›¸ãè¾¼ã‚ãªã„ã‚ˆã†ã«ã—ã¾ã™ã€‚
+#  (1=åˆ¶é™ã™ã‚‹(æ¨å¥¨),0=åˆ¶é™ã—ãªã„)
 $PM{'spam_url_link_limit_4'}=1;
 #
-# 2007.05 ŠO‘‚©‚ç‚ÌSPAM
+# 2007.05 å¤–å›½ã‹ã‚‰ã®SPAM
 #
-#  ‰pŒê‚Ì‚İ‚Ì“Še‚Í‘‚«‚ß‚È‚¢‚æ‚¤‚É‚µ‚Ü‚·B
-#  ŠO‘‚©‚ç‚ÌSPAM–h~‚É—LŒø‚Å‚·B
-#  (1=§ŒÀ‚·‚é(„§),0=§ŒÀ‚µ‚È‚¢)
+#  è‹±èªã®ã¿ã®æŠ•ç¨¿ã¯æ›¸ãè¾¼ã‚ãªã„ã‚ˆã†ã«ã—ã¾ã™ã€‚
+#  å¤–å›½ã‹ã‚‰ã®SPAMé˜²æ­¢ã«æœ‰åŠ¹ã§ã™ã€‚
+#  (1=åˆ¶é™ã™ã‚‹(æ¨å¥¨),0=åˆ¶é™ã—ãªã„)
 $PM{'spam_limit_non_japanese'}=1;
 #
-#  “ú–{ŒêƒRƒƒ“ƒg‚ğŠÜ‚Ü‚È‚¢“®‰æ–„‚ß‚İ“Še‚Í‘‚«‚ß‚È‚¢‚æ‚¤‚É‚µ‚Ü‚·B
-#  ŠO‘‚©‚ç‚ÌL“®‰æSPAM–h~‚É—LŒø‚Å‚·‚ªA“ŠeÒ‚©‚ç‚Í‚ß‚ñ‚Ç‚­‚³‚ª‚ç‚ê“Še‚ªŒ¸‚è‚Ü‚·B
-#  ‚Ç‚¤‚µ‚Ä‚à¢‚Á‚½ê‡‚Ì‚İA1‚É‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B
-#  (1=§ŒÀ‚·‚é,0=§ŒÀ‚µ‚È‚¢(„§))
+#  æ—¥æœ¬èªã‚³ãƒ¡ãƒ³ãƒˆã‚’å«ã¾ãªã„å‹•ç”»åŸ‹ã‚è¾¼ã¿æŠ•ç¨¿ã¯æ›¸ãè¾¼ã‚ãªã„ã‚ˆã†ã«ã—ã¾ã™ã€‚
+#  å¤–å›½ã‹ã‚‰ã®åºƒå‘Šå‹•ç”»SPAMé˜²æ­¢ã«æœ‰åŠ¹ã§ã™ãŒã€æŠ•ç¨¿è€…ã‹ã‚‰ã¯ã‚ã‚“ã©ãã•ãŒã‚‰ã‚ŒæŠ•ç¨¿ãŒæ¸›ã‚Šã¾ã™ã€‚
+#  ã©ã†ã—ã¦ã‚‚å›°ã£ãŸå ´åˆã®ã¿ã€1ã«ã—ã¦ã¿ã¦ãã ã•ã„ã€‚
+#  (1=åˆ¶é™ã™ã‚‹,0=åˆ¶é™ã—ãªã„(æ¨å¥¨))
 $PM{'spam_limit_non_japanese_movie'}=0;
 #
-# 2013.02 ŠO‘‚©‚ç‚ÌSPAM
+# 2013.02 å¤–å›½ã‹ã‚‰ã®SPAM
 #
-#  SPAM‚ª‘½‚¢ğ¡Aƒ[ƒ‹ƒAƒhƒŒƒX‚ğƒCƒ“ƒ^[ƒlƒbƒg‚ÅN‚·l‚à‚¢‚È‚¢‚Ì‚Å
-# Œ»İƒfƒtƒHƒ‹ƒg‚Å‚Íƒ[ƒ‹—“‚ªƒRƒƒ“ƒgƒAƒEƒg‚³‚ê‚Ä‚¢‚Ü‚·‚ªAƒXƒpƒ€‘¤‚Í
-# ©“®‚Åƒ[ƒ‹ƒAƒhƒŒƒX—“‚ğ“Ç‚İæ‚Á‚ÄAƒ[ƒ‹‚ğ‹LÚ‚µ‚Ä“Še‚µ‚Ä‚«‚Ü‚·B
-#  ‚»‚±‚ÅAƒ[ƒ‹ƒAƒhƒŒƒX•t‚«‚Ì“Še‚ª—ˆ‚½‚çƒXƒpƒ€‚Æ‚µ‚Ä”»•Ê‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-#  ƒ[ƒ‹—“‹L“ü‚µ‚½“Še‚ğSPAM‚Æ‚µ‚Ä‚İ‚È‚·B
-#  (1=SPAM‚Æ‚·‚é(„§),0=‚µ‚È‚¢(ƒRƒƒ“ƒgƒAƒEƒgŠO‚µ‚Äƒ[ƒ‹—“‚ğ¶‚©‚·ê‡‚Í‚±‚Á‚¿‚ğ‘I‚ñ‚Å‚­‚¾‚³‚¢))
+#  SPAMãŒå¤šã„æ˜¨ä»Šã€ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’ã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆã§æ™’ã™äººã‚‚ã„ãªã„ã®ã§
+# ç¾åœ¨ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã§ã¯ãƒ¡ãƒ¼ãƒ«æ¬„ãŒã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã•ã‚Œã¦ã„ã¾ã™ãŒã€ã‚¹ãƒ‘ãƒ å´ã¯
+# è‡ªå‹•ã§ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹æ¬„ã‚’èª­ã¿å–ã£ã¦ã€ãƒ¡ãƒ¼ãƒ«ã‚’è¨˜è¼‰ã—ã¦æŠ•ç¨¿ã—ã¦ãã¾ã™ã€‚
+#  ãã“ã§ã€ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ä»˜ãã®æŠ•ç¨¿ãŒæ¥ãŸã‚‰ã‚¹ãƒ‘ãƒ ã¨ã—ã¦åˆ¤åˆ¥ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚
+#  ãƒ¡ãƒ¼ãƒ«æ¬„è¨˜å…¥ã—ãŸæŠ•ç¨¿ã‚’SPAMã¨ã—ã¦ã¿ãªã™ã€‚
+#  (1=SPAMã¨ã™ã‚‹(æ¨å¥¨),0=ã—ãªã„(ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆå¤–ã—ã¦ãƒ¡ãƒ¼ãƒ«æ¬„ã‚’ç”Ÿã‹ã™å ´åˆã¯ã“ã£ã¡ã‚’é¸ã‚“ã§ãã ã•ã„))
 $PM{'no_post_by_form_email_post'}=1;
 #
-# 2007.06 SPAM‚ç‚µ‚«ƒ[ƒ‹ƒAƒhƒŒƒX
+# 2007.06 SPAMã‚‰ã—ããƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹
 #
-#  ƒ[ƒ‹—“‚Ìƒ[ƒ‹ƒAƒhƒŒƒX‚ªSPAM‚É‘½‚¢‘‚ÌƒhƒƒCƒ“‚Ìê‡
-#  “Še‚ğ‘‚«‚ß‚È‚¢‚æ‚¤‚É‚µ‚Ü‚·B
-#  ŠO‘‚©‚ç‚ÌSPAM–h~‚É—LŒø‚Å‚·B
-#  (1=§ŒÀ‚·‚é(„§),0=§ŒÀ‚µ‚È‚¢)
+#  ãƒ¡ãƒ¼ãƒ«æ¬„ã®ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ãŒSPAMã«å¤šã„å›½ã®ãƒ‰ãƒ¡ã‚¤ãƒ³ã®å ´åˆ
+#  æŠ•ç¨¿ã‚’æ›¸ãè¾¼ã‚ãªã„ã‚ˆã†ã«ã—ã¾ã™ã€‚
+#  å¤–å›½ã‹ã‚‰ã®SPAMé˜²æ­¢ã«æœ‰åŠ¹ã§ã™ã€‚
+#  (1=åˆ¶é™ã™ã‚‹(æ¨å¥¨),0=åˆ¶é™ã—ãªã„)
 
 $PM{'no_upload_by_spam_country_mail'}=1;
 #
-# SPAM‚ª‘½‚¢‘‚Ö‚Ìƒ[ƒ‹ƒAƒhƒŒƒX‚ğ©Ì‚·‚é“Še‚ğSPAM‚Æ”»’è‚·‚é
-# ƒƒVƒA(ru) ’†‘(cn)  ŠØ‘(kr) `(hk) ‘ä˜p(tw)
-# ƒAƒ‹ƒ[ƒ“ƒ`ƒ“(ar)Aƒuƒ‰ƒWƒ‹(br)AƒCƒMƒŠƒX(uk)
+# SPAMãŒå¤šã„å›½ã¸ã®ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’è‡ªç§°ã™ã‚‹æŠ•ç¨¿ã‚’SPAMã¨åˆ¤å®šã™ã‚‹
+# ãƒ­ã‚·ã‚¢(ru) ä¸­å›½(cn)  éŸ“å›½(kr) é¦™æ¸¯(hk) å°æ¹¾(tw)
+# ã‚¢ãƒ«ã‚¼ãƒ³ãƒãƒ³(ar)ã€ãƒ–ãƒ©ã‚¸ãƒ«(br)ã€ã‚¤ã‚®ãƒªã‚¹(uk)
 @SPAM_MAIL_COUNTRY=(".ru",".cn",".kr",".fi"
 ,".hk",".tw",".ar",".br");
 #
-#  ˆÈã‚Ì—lX‚È‘Îô‚ğw’è‚µ‚Ä‚àŒø‰Ê‚ª‚È‚¢ê‡A
-#  ‚Ü‚¸‚ÍA“ŠeƒpƒXƒ[ƒh§‚É‚·‚é‚±‚Æ‚ğl‚¦‚Ä‚­‚¾‚³‚¢B
-#  SPAM‚Íƒƒ{ƒbƒg‚Å‰½–œ‚à‚ÌŒf¦”Â‚É©“®“Še‚µ‚Ä‚«‚Ü‚·‚Ì‚ÅA
-#  ƒpƒXƒ[ƒh‚ğ—Ş„‚³‚ê‚É‚­‚¢ˆÊ’u‚É‹Lq‚µ‚Ä‚¨‚¯‚ÎA‰ğ“Ç‚³‚ê‚é
-#  ‰Â”\«‚Í’á‚¢‚Å‚·B
+#  ä»¥ä¸Šã®æ§˜ã€…ãªå¯¾ç­–ã‚’æŒ‡å®šã—ã¦ã‚‚åŠ¹æœãŒãªã„å ´åˆã€
+#  ã¾ãšã¯ã€æŠ•ç¨¿ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰åˆ¶ã«ã™ã‚‹ã“ã¨ã‚’è€ƒãˆã¦ãã ã•ã„ã€‚
+#  SPAMã¯ãƒ­ãƒœãƒƒãƒˆã§ä½•ä¸‡ã‚‚ã®æ²ç¤ºæ¿ã«è‡ªå‹•æŠ•ç¨¿ã—ã¦ãã¾ã™ã®ã§ã€
+#  ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’é¡æ¨ã•ã‚Œã«ãã„ä½ç½®ã«è¨˜è¿°ã—ã¦ãŠã‘ã°ã€è§£èª­ã•ã‚Œã‚‹
+#  å¯èƒ½æ€§ã¯ä½ã„ã§ã™ã€‚
 #
-#  ‚³‚ç‚ÉAˆÈã‚Ì—lX‚È‘Îô‚ğw’è‚µ‚Ä‚àŒø‰Ê‚ª‚È‚¢ê‡A
-#  ‚ ‚ç‚ä‚éSPAM‚ğ‚Æ‚É‚©‚­–â“š–³—p‚Å”rœ‚µ‚½‚¢ê‡‚Í
-#  ˆÈ‰º‚Ìƒtƒ‰ƒO‚ğg‚Á‚Ä‚­‚¾‚³‚¢Bi’Êí‚Íw’è‚µ‚È‚¢‚±‚Æj
+#  ã•ã‚‰ã«ã€ä»¥ä¸Šã®æ§˜ã€…ãªå¯¾ç­–ã‚’æŒ‡å®šã—ã¦ã‚‚åŠ¹æœãŒãªã„å ´åˆã€
+#  ã‚ã‚‰ã‚†ã‚‹SPAMã‚’ã¨ã«ã‹ãå•ç­”ç„¡ç”¨ã§æ’é™¤ã—ãŸã„å ´åˆã¯
+#  ä»¥ä¸‹ã®ãƒ•ãƒ©ã‚°ã‚’ä½¿ã£ã¦ãã ã•ã„ã€‚ï¼ˆé€šå¸¸ã¯æŒ‡å®šã—ãªã„ã“ã¨ï¼‰
 #
-#  URLƒŠƒ“ƒN‚âƒ[ƒ‹ƒAƒhƒŒƒX‚Ì‚ ‚é‘‚«‚İ‚ğA–â“š–³—p‚Å‚·‚×‚Ä”pŠü
-#  (0=”pŠü‚µ‚È‚¢iƒfƒtƒHƒ‹ƒgj,1=”pŠü‚·‚é)
+#  URLãƒªãƒ³ã‚¯ã‚„ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã®ã‚ã‚‹æ›¸ãè¾¼ã¿ã‚’ã€å•ç­”ç„¡ç”¨ã§ã™ã¹ã¦å»ƒæ£„
+#  (0=å»ƒæ£„ã—ãªã„ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆï¼‰,1=å»ƒæ£„ã™ã‚‹)
 $filter_bbs_spam=0;
 #
 #=====================================================================#
-#  <ˆÈ‰º,•K—v‚É‰‚¶‚Äİ’è>                                             #
+#  <ä»¥ä¸‹,å¿…è¦ã«å¿œã˜ã¦è¨­å®š>                                             #
 #
-#  ˆÈ‰º‚Ìİ’è‚Í,‚·‚×‚ÄƒIƒvƒVƒ‡ƒ“‚Å‚·B
+#  ä»¥ä¸‹ã®è¨­å®šã¯,ã™ã¹ã¦ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã§ã™ã€‚
 #
-#  ‘å’ï‚ÌƒvƒƒoƒCƒ_‚Ìê‡A“Á‚É•ÏX‚µ‚È‚­‚Ä‚àƒXƒNƒŠƒvƒg‚Í“®‚«‚Ü‚·‚Ì‚Å,
-#  ˆê“x‚±‚Ìó‘Ô‚ÅƒXƒNƒŠƒvƒg‚ğ“®‚©‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B
-#  1.³í‚É“®‚©‚È‚©‚Á‚½ê‡,
-#  ¨VƒTƒ|[ƒgŒf¦”Â‚âVFAQ‚ğ‚İ‚Ä,–â‘è‚ğ‰ğŒˆ‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B
+#  å¤§æŠµã®ãƒ—ãƒ­ãƒã‚¤ãƒ€ã®å ´åˆã€ç‰¹ã«å¤‰æ›´ã—ãªãã¦ã‚‚ã‚¹ã‚¯ãƒªãƒ—ãƒˆã¯å‹•ãã¾ã™ã®ã§,
+#  ä¸€åº¦ã“ã®çŠ¶æ…‹ã§ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚’å‹•ã‹ã—ã¦ã¿ã¦ãã ã•ã„ã€‚
+#  1.æ­£å¸¸ã«å‹•ã‹ãªã‹ã£ãŸå ´åˆ,
+#  â†’æ–°ã‚µãƒãƒ¼ãƒˆæ²ç¤ºæ¿ã‚„æ–°FAQã‚’ã¿ã¦,å•é¡Œã‚’è§£æ±ºã—ã¦ã¿ã¦ãã ã•ã„ã€‚
 #
-#  2.³í‚É“®‚¢‚½ê‡
-#  ¨‚¢‚ë‚¢‚ë×‚©‚­ƒAƒŒƒ“ƒW‚Å‚«‚é‚æ‚¤‚É‚È‚Á‚Ä‚¢‚Ü‚·‚Ì‚Å, ˆÈ‰º‚ÌƒIƒvƒVƒ‡ƒ“
-#  €–Ú‚Öi‚İA©•ª—¬‚ÉƒIƒvƒVƒ‡ƒ“‚ğİ’è‚µ,ƒAƒŒƒ“ƒW‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B
+#  2.æ­£å¸¸ã«å‹•ã„ãŸå ´åˆ
+#  â†’ã„ã‚ã„ã‚ç´°ã‹ãã‚¢ãƒ¬ãƒ³ã‚¸ã§ãã‚‹ã‚ˆã†ã«ãªã£ã¦ã„ã¾ã™ã®ã§, ä»¥ä¸‹ã®ã‚ªãƒ—ã‚·ãƒ§ãƒ³
+#  é …ç›®ã¸é€²ã¿ã€è‡ªåˆ†æµã«ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã‚’è¨­å®šã—,ã‚¢ãƒ¬ãƒ³ã‚¸ã—ã¦ã¿ã¦ãã ã•ã„ã€‚
 #=======================================================================#
 #================================#
-#   <Œf¦”Â‹@”\ Šî–{ƒIƒvƒVƒ‡ƒ“>  #
+#   <æ²ç¤ºæ¿æ©Ÿèƒ½ åŸºæœ¬ã‚ªãƒ—ã‚·ãƒ§ãƒ³>  #
 #================================#
 #
-#  ¡<“]‘—‹–‰Â‰æ‘œƒTƒCƒYãŒÀ>
+#  â– <è»¢é€è¨±å¯ç”»åƒã‚µã‚¤ã‚ºä¸Šé™>
 #
-#  ƒtƒ@ƒCƒ‹“ŠeA‚±‚Ì‚b‚f‚h‚Í‘¼‚ÌƒeƒLƒXƒgŒn‚b‚f‚h‚æ‚è‚à‘½‚­‚Ìƒƒ‚ƒŠƒŠƒ\[ƒX
-#  ‚ğ•K—v‚Æ‚µ‚Ü‚·B‚±‚ê‚ÍƒAƒbƒvƒ[ƒh‚µ‚½ƒtƒ@ƒCƒ‹‚Ì•œŒ³ˆ—‚Éƒoƒbƒtƒ@‚ª•K—v‚È
-#  ‚½‚ß‚Å‚ ‚èA•K—v‚Èƒƒ‚ƒŠ—Ê‚Í“]‘—‚³‚ê‚½‰æ‘œƒTƒCƒY‚É”ä—á‚µ‚Ü‚·B”ñ—Í‚ÈƒT[ƒo
-#  ‚ğg—p‚µ‚Ä‚¢‚éê‡‚ÍA©‘R‚ÆƒAƒbƒvƒ[ƒhƒTƒCƒY‚ğ¬‚³‚­‚·‚é•K—v‚ª‚ ‚èA‚»‚¤
-#  ‚µ‚È‚¢‚Æˆ—‚Íƒ^ƒCƒ€ƒAƒEƒg‚µ‚Ä~‚Ü‚è‚Ü‚·‚Ì‚Å‚²’ˆÓ‰º‚³‚¢B
+#  ãƒ•ã‚¡ã‚¤ãƒ«æŠ•ç¨¿æ™‚ã€ã“ã®ï¼£ï¼§ï¼©ã¯ä»–ã®ãƒ†ã‚­ã‚¹ãƒˆç³»ï¼£ï¼§ï¼©ã‚ˆã‚Šã‚‚å¤šãã®ãƒ¡ãƒ¢ãƒªãƒªã‚½ãƒ¼ã‚¹
+#  ã‚’å¿…è¦ã¨ã—ã¾ã™ã€‚ã“ã‚Œã¯ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã®å¾©å…ƒå‡¦ç†ã«ãƒãƒƒãƒ•ã‚¡ãŒå¿…è¦ãª
+#  ãŸã‚ã§ã‚ã‚Šã€å¿…è¦ãªãƒ¡ãƒ¢ãƒªé‡ã¯è»¢é€ã•ã‚ŒãŸç”»åƒã‚µã‚¤ã‚ºã«æ¯”ä¾‹ã—ã¾ã™ã€‚éåŠ›ãªã‚µãƒ¼ãƒ
+#  ã‚’ä½¿ç”¨ã—ã¦ã„ã‚‹å ´åˆã¯ã€è‡ªç„¶ã¨ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã‚µã‚¤ã‚ºã‚’å°ã•ãã™ã‚‹å¿…è¦ãŒã‚ã‚Šã€ãã†
+#  ã—ãªã„ã¨å‡¦ç†ã¯ã‚¿ã‚¤ãƒ ã‚¢ã‚¦ãƒˆã—ã¦æ­¢ã¾ã‚Šã¾ã™ã®ã§ã”æ³¨æ„ä¸‹ã•ã„ã€‚
 #
-#  ƒTƒCƒY§ŒÀ(‰æ‘œˆÈŠO)
-#  ƒfƒtƒHƒ‹ƒg9000‚j‚a(99000KBˆÈã‚É‚Í‚µ‚È‚¢‚±‚ÆB)
-$max_upload_size 	= 9000;	# ’PˆÊKB
+#  ã‚µã‚¤ã‚ºåˆ¶é™(ç”»åƒä»¥å¤–)
+#  ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ9000ï¼«ï¼¢(99000KBä»¥ä¸Šã«ã¯ã—ãªã„ã“ã¨ã€‚)
+$max_upload_size 	= 9000;	# å˜ä½KB
 #
-#  ƒTƒCƒY§ŒÀ(‰æ‘œ)
-#  ƒfƒtƒHƒ‹ƒg200‚j‚a(–„‚ß‚±‚İ•\¦‚ª’x‚­‚È‚é‚Ì‚Å500KBˆÈã‚É‚Í‚µ‚È‚¢‚±‚ÆB‚È‚¨
-#  ƒ†[ƒU‚ª‰º‹L‚Åw’è‚µ‚½ƒTƒCƒYˆÈã‚Ì‰æ‘œ‚ğƒAƒbƒvƒ[ƒh‚µ‚æ‚¤‚Æ‚·‚é‚ÆA“Še
-#  ‚Å‚«‚È‚¢‚Æ‚¢‚¤ƒƒbƒZ[ƒW‚ª•\¦‚³‚ê‚é‚Æ“¯‚ÉAPC‚âMacAAndroidƒXƒ}ƒtƒH‚Å
-#  g‚¦‚é–³—¿‚Ì‰æ‘œk¬ƒ\ƒtƒg‚ÌˆÄ“à‚ª©“®‚Åo‚é‚æ‚¤‚É‚È‚Á‚Ä‚¢‚Ü‚·B)
-$max_upload_img_size 	= 500;	# ’PˆÊKB
+#  ã‚µã‚¤ã‚ºåˆ¶é™(ç”»åƒ)
+#  ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ200ï¼«ï¼¢(åŸ‹ã‚ã“ã¿è¡¨ç¤ºãŒé…ããªã‚‹ã®ã§500KBä»¥ä¸Šã«ã¯ã—ãªã„ã“ã¨ã€‚ãªãŠ
+#  ãƒ¦ãƒ¼ã‚¶ãŒä¸‹è¨˜ã§æŒ‡å®šã—ãŸã‚µã‚¤ã‚ºä»¥ä¸Šã®ç”»åƒã‚’ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã—ã‚ˆã†ã¨ã™ã‚‹ã¨ã€æŠ•ç¨¿
+#  ã§ããªã„ã¨ã„ã†ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãŒè¡¨ç¤ºã•ã‚Œã‚‹ã¨åŒæ™‚ã«ã€PCã‚„Macã€Androidã‚¹ãƒãƒ•ã‚©ã§
+#  ä½¿ãˆã‚‹ç„¡æ–™ã®ç”»åƒç¸®å°ã‚½ãƒ•ãƒˆã®æ¡ˆå†…ãŒè‡ªå‹•ã§å‡ºã‚‹ã‚ˆã†ã«ãªã£ã¦ã„ã¾ã™ã€‚)
+$max_upload_img_size 	= 500;	# å˜ä½KB
 #
-# 2011.12 V‹@”\
-#  AndroidƒXƒ}ƒt‚©‚ç‚Ì‰æ‘œ“Še‚ÍA“Á•Ê‚ÉƒTƒCƒY§ŒÀ‚ğ‘å‚«‚­‚·‚é
+# 2011.12 æ–°æ©Ÿèƒ½
+#  Androidã‚¹ãƒãƒ•ã‹ã‚‰ã®ç”»åƒæŠ•ç¨¿ã¯ã€ç‰¹åˆ¥ã«ã‚µã‚¤ã‚ºåˆ¶é™ã‚’å¤§ããã™ã‚‹
 #
-#  AndroidƒXƒ}ƒtƒH‚ÌƒJƒƒ‰Ê^‚Í•½‹Ï1`3MB‚Æ‘å‚«‚¢‚½‚ß
-#  ‘Šè‚Ì‹@í‚ªAndroid‚Ìê‡‚¾‚¯AƒTƒCƒY§ŒÀ‚ğ‚ä‚é‚­‚µ‚Ü‚·B
-$max_upload_Android_img_size 	= 5000;	# ’PˆÊKB
+#  Androidã‚¹ãƒãƒ•ã‚©ã®ã‚«ãƒ¡ãƒ©å†™çœŸã¯å¹³å‡1ï½3MBã¨å¤§ãã„ãŸã‚
+#  ç›¸æ‰‹ã®æ©Ÿç¨®ãŒAndroidã®å ´åˆã ã‘ã€ã‚µã‚¤ã‚ºåˆ¶é™ã‚’ã‚†ã‚‹ãã—ã¾ã™ã€‚
+$max_upload_Android_img_size 	= 5000;	# å˜ä½KB
 #
 #
-#  ¡<„§‰æ‘œƒTƒCƒY•\‹L‚Ì’l‚ğŒˆ‚ß‚é>(R6 NEW)
+#  â– <æ¨å¥¨ç”»åƒã‚µã‚¤ã‚ºè¡¨è¨˜ã®å€¤ã‚’æ±ºã‚ã‚‹>(R6 NEW)
 #
-#  R6‚Å‚ÍA–{“–‚ÌƒŠƒ~ƒbƒ^‚Æ‚Í•Ê‚Éu„§ƒTƒCƒYv‚ğŒf¦”Â‰º•”‚Ì’ˆÓ•¶‚É•\¦
-#  ‚·‚é‚±‚Æ‚ª‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½BŠÇ—l‚ªÅ‚àŠ½Œ}‚·‚é‰æ‘œ‚ÌƒTƒCƒY‚ğ‘‚¢‚Ä
-#  ‚Æ—Ç‚¢‚Å‚µ‚å‚¤B‚È‚¨A‚±‚Ì’l‚Í‚½‚¾•\¦‚³‚ê‚é‚¾‚¯‚Å‚·B
-#  (1=’ˆÓ•¶‚Ì‚Æ‚±‚ë‚É„§ƒTƒCƒY‚ğo‚·i„§j,0=o‚³‚È‚¢)
+#  R6ã§ã¯ã€æœ¬å½“ã®ãƒªãƒŸãƒƒã‚¿ã¨ã¯åˆ¥ã«ã€Œæ¨å¥¨ã‚µã‚¤ã‚ºã€ã‚’æ²ç¤ºæ¿ä¸‹éƒ¨ã®æ³¨æ„æ–‡ã«è¡¨ç¤º
+#  ã™ã‚‹ã“ã¨ãŒã§ãã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã—ãŸã€‚ç®¡ç†äººãŒæœ€ã‚‚æ­“è¿ã™ã‚‹ç”»åƒã®ã‚µã‚¤ã‚ºã‚’æ›¸ã„ã¦
+#  ã¨è‰¯ã„ã§ã—ã‚‡ã†ã€‚ãªãŠã€ã“ã®å€¤ã¯ãŸã è¡¨ç¤ºã•ã‚Œã‚‹ã ã‘ã§ã™ã€‚
+#  (1=æ³¨æ„æ–‡ã®ã¨ã“ã‚ã«æ¨å¥¨ã‚µã‚¤ã‚ºã‚’å‡ºã™ï¼ˆæ¨å¥¨ï¼‰,0=å‡ºã•ãªã„)
 $disp_rcmd_upload_size_flag 	= 1;
 #
-#  ƒfƒtƒHƒ‹ƒg80KB
-#  (’Êíƒz[ƒ€ƒy[ƒWã‚Å‚ÌJPEG‰æ‘œ‚ÌƒTƒCƒY‚Í25|50KB’ö“x‚Å‚·B‚Ü‚½Œg‘Ñ“™‚Å‚Í
-#  100KBˆÈã‚Ìƒf[ƒ^‚ª•\¦‚Å‚«‚È‚¢‹@í‚ª‘½‚¢‚Ì‚ÅA100KBˆÈ‰º‚Éİ’è‚·‚é‚Æ—Ç‚¢‚Å
-#  ‚µ‚å‚¤)
-$rcmd_upload_size 	= 80;	# ’PˆÊKB
+#  ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ80KB
+#  (é€šå¸¸ãƒ›ãƒ¼ãƒ ãƒšãƒ¼ã‚¸ä¸Šã§ã®JPEGç”»åƒã®ã‚µã‚¤ã‚ºã¯25ï¼50KBç¨‹åº¦ã§ã™ã€‚ã¾ãŸæºå¸¯ç­‰ã§ã¯
+#  100KBä»¥ä¸Šã®ãƒ‡ãƒ¼ã‚¿ãŒè¡¨ç¤ºã§ããªã„æ©Ÿç¨®ãŒå¤šã„ã®ã§ã€100KBä»¥ä¸‹ã«è¨­å®šã™ã‚‹ã¨è‰¯ã„ã§
+#  ã—ã‚‡ã†)
+$rcmd_upload_size 	= 80;	# å˜ä½KB
 #
-#  ¡<•Û‘¶‹L–”>
+#  â– <ä¿å­˜è¨˜äº‹æ•°>
 #
-#  ‚±‚ÌŒ”‚ğ’´‚¦‚é‚ÆAŒÃ‚¢‚à‚Ì‚©‚ç‹L–‚Ííœ‚³‚ê‚Ü‚·.(‹L–‚Æ‰æ‘œ‚Í
-#  “¯‚ÉÁ‚¦‚Ü‚·)B
-#  ƒfƒtƒHƒ‹ƒg‚Í150D‹É’[‚É‘‚â‚·‚ÆHP—e—Ê‚ğˆ³”—‚µ‚Ü‚·‚Ì‚ÅA‚²’ˆÓ‚­‚¾‚³‚¢B
+#  ã“ã®ä»¶æ•°ã‚’è¶…ãˆã‚‹ã¨ã€å¤ã„ã‚‚ã®ã‹ã‚‰è¨˜äº‹ã¯å‰Šé™¤ã•ã‚Œã¾ã™.(è¨˜äº‹ã¨ç”»åƒã¯
+#  åŒæ™‚ã«æ¶ˆãˆã¾ã™)ã€‚
+#  ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯150ï¼æ¥µç«¯ã«å¢—ã‚„ã™ã¨HPå®¹é‡ã‚’åœ§è¿«ã—ã¾ã™ã®ã§ã€ã”æ³¨æ„ãã ã•ã„ã€‚
 #
-#  --’ˆÓ“_--
-#  ‰æ‘œƒf[ƒ^íœ‚ÍAŒf¦”Â‚ğ—p‚¢‚Äíœ‚µ‚Ä‰º‚³‚¢B
+#  --æ³¨æ„ç‚¹--
+#  ç”»åƒãƒ‡ãƒ¼ã‚¿å‰Šé™¤æ™‚ã¯ã€æ²ç¤ºæ¿ã‚’ç”¨ã„ã¦å‰Šé™¤ã—ã¦ä¸‹ã•ã„ã€‚
 #
-#  (ƒƒ“ƒ|ƒCƒ“ƒg)•ÔM‚É‚Í‰æ‘œ‚ğ“Y•t‚Å‚«‚Ü‚¹‚ñ‚ª‹L–‚Æ‚µ‚Ä‚ÍA‚P‹L–‚Æ‚µ‚Ä
-#  ƒJƒEƒ“ƒg‚³‚ê‚Ü‚·B‚µ‚½‚ª‚Á‚Ä•ÔM‹@”\‚ğƒIƒ“‚É‚³‚ê‚éê‡‚ÍA•Û‘¶‹L–”‚ğA
-#  ]—ˆ‚Ì2-3”{‚É‚µ‚Ä‚¨‚­‚Æ—Ç‚¢‚Å‚µ‚å‚¤B
+#  (ãƒ¯ãƒ³ãƒã‚¤ãƒ³ãƒˆ)è¿”ä¿¡ã«ã¯ç”»åƒã‚’æ·»ä»˜ã§ãã¾ã›ã‚“ãŒè¨˜äº‹ã¨ã—ã¦ã¯ã€ï¼‘è¨˜äº‹ã¨ã—ã¦
+#  ã‚«ã‚¦ãƒ³ãƒˆã•ã‚Œã¾ã™ã€‚ã—ãŸãŒã£ã¦è¿”ä¿¡æ©Ÿèƒ½ã‚’ã‚ªãƒ³ã«ã•ã‚Œã‚‹å ´åˆã¯ã€ä¿å­˜è¨˜äº‹æ•°ã‚’ã€
+#  å¾“æ¥ã®2-3å€ã«ã—ã¦ãŠãã¨è‰¯ã„ã§ã—ã‚‡ã†ã€‚
 $max_message 		= 350;	
 #
-#  ¡<1ƒy[ƒW‚É•\¦‚·‚é eƒƒbƒZ[ƒW”>
+#  â– <1ãƒšãƒ¼ã‚¸ã«è¡¨ç¤ºã™ã‚‹ è¦ªãƒ¡ãƒƒã‚»ãƒ¼ã‚¸æ•°>
 #
-#  ƒfƒtƒHƒ‹ƒg10
-#  ‚Pƒy[ƒW‚É•\¦‚·‚éeƒƒbƒZ[ƒW‚Ì”‚Å‚·BIE‚Ìê‡A”‚ğ‘½‚­‚·‚é‚ÆA
-#   •\¦‚É­‚µŠÔ‚ª‚©‚©‚è‚Ü‚·‚Ì‚ÅA10’ö“x‚ğ„§‚µ‚Ü‚·
+#  ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ10
+#  ï¼‘ãƒšãƒ¼ã‚¸ã«è¡¨ç¤ºã™ã‚‹è¦ªãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã®æ•°ã§ã™ã€‚IEã®å ´åˆã€æ•°ã‚’å¤šãã™ã‚‹ã¨ã€
+#   è¡¨ç¤ºæ™‚ã«å°‘ã—æ™‚é–“ãŒã‹ã‹ã‚Šã¾ã™ã®ã§ã€10ç¨‹åº¦ã‚’æ¨å¥¨ã—ã¾ã™
 #
-#   ‚È‚¨A‰æ‘œ‚Å‚È‚­A–„‚ß‚İ“®‰æ‚Ì“Še”ä—¦‚ª‘½‚¢ê‡
-#   FlashƒvƒŒƒCƒ„[‚ªƒƒ‚ƒŠ‚ğg‚¢s‚­‚µ‚Äƒuƒ‰ƒEƒU‚ª
-#   ƒNƒ‰ƒbƒVƒ…‚·‚é‰Â”\«‚ª‚ ‚è‚Ü‚·‚Ì‚ÅA15ˆÈ‰º‚É‚µ‚Ä‚­‚¾‚³‚¢B
+#   ãªãŠã€ç”»åƒã§ãªãã€åŸ‹ã‚è¾¼ã¿å‹•ç”»ã®æŠ•ç¨¿æ¯”ç‡ãŒå¤šã„å ´åˆ
+#   Flashãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ãŒãƒ¡ãƒ¢ãƒªã‚’ä½¿ã„å°½ãã—ã¦ãƒ–ãƒ©ã‚¦ã‚¶ãŒ
+#   ã‚¯ãƒ©ãƒƒã‚·ãƒ¥ã™ã‚‹å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã®ã§ã€15ä»¥ä¸‹ã«ã—ã¦ãã ã•ã„ã€‚
 $disp_message 		= 10;
 #
-#  ¡<•ÔM‹@”\>(R6 NEW)
+#  â– <è¿”ä¿¡æ©Ÿèƒ½>(R6 NEW)
 #
-#  •ÔM‹@”\‚ğg‚¤‚±‚Æ‚ª‚Å‚«‚Ü‚·B
-#  (1=•ÔM‹@”\‚ ‚è(„§),0=•ÔM‹@”\‚È‚µ)
+#  è¿”ä¿¡æ©Ÿèƒ½ã‚’ä½¿ã†ã“ã¨ãŒã§ãã¾ã™ã€‚
+#  (1=è¿”ä¿¡æ©Ÿèƒ½ã‚ã‚Š(æ¨å¥¨),0=è¿”ä¿¡æ©Ÿèƒ½ãªã—)
 $PM{'use_rep'} 		= 1;
 #
 $PM{'allow_res_upload'} = 0;
 #
-#  ŒÃ‚¢‹L–‚ÉÅ‹ß‚Â‚¢‚½•ÔM‚ğŒ©‰ß‚²‚³‚È‚¢‚æ‚¤‚ÉA•ÔM‚ª‚Â‚¢‚½‹L–‚Ì
-#  ƒXƒŒƒbƒh‚ğ©“®“I‚Éæ“ª‚Ö‚Á‚Äs‚­‚±‚Æ‚ª‚Å‚«‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½B
-#  (1=æ“ª‚Ö‚Á‚Äs‚­(ƒfƒtƒHƒ‹ƒg),0=‚Á‚Ä‚¢‚©‚È‚¢)
+#  å¤ã„è¨˜äº‹ã«æœ€è¿‘ã¤ã„ãŸè¿”ä¿¡ã‚’è¦‹éã”ã•ãªã„ã‚ˆã†ã«ã€è¿”ä¿¡ãŒã¤ã„ãŸè¨˜äº‹ã®
+#  ã‚¹ãƒ¬ãƒƒãƒ‰ã‚’è‡ªå‹•çš„ã«å…ˆé ­ã¸æŒã£ã¦è¡Œãã“ã¨ãŒã§ãã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã—ãŸã€‚
+#  (1=å…ˆé ­ã¸æŒã£ã¦è¡Œã(ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ),0=æŒã£ã¦ã„ã‹ãªã„)
 $PM{'res_go_up'} = 1;
 #
-#  ŒÃ‚¢‹L–‚É•ÔM‚µ‚Ä‚àæ“ª‚Ö‚Á‚Ä‚¢‚©‚È‚¢‚æ‚¤‚É
-#  ƒ†[ƒU‚ª“Še‚É‘I‚Ô‚æ‚¤‚É‚à‚Å‚«‚Ü‚·B
-#  i‚¢‚í‚ä‚éusagev‹@”\‚Å‚·j
-#  (1=sage—LŒø(ƒfƒtƒHƒ‹ƒg),0=sage–³Œø)
+#  å¤ã„è¨˜äº‹ã«è¿”ä¿¡ã—ã¦ã‚‚å…ˆé ­ã¸æŒã£ã¦ã„ã‹ãªã„ã‚ˆã†ã«
+#  ãƒ¦ãƒ¼ã‚¶ãŒæŠ•ç¨¿æ™‚ã«é¸ã¶ã‚ˆã†ã«ã‚‚ã§ãã¾ã™ã€‚
+#  ï¼ˆã„ã‚ã‚†ã‚‹ã€Œsageã€æ©Ÿèƒ½ã§ã™ï¼‰
+#  (1=sageæœ‰åŠ¹(ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ),0=sageç„¡åŠ¹)
 $PM{'use_sage'} = 1;
 #
 #==================================#
-#     <imgboard “ÁêƒIƒvƒVƒ‡ƒ“>    #
+#     <imgboard ç‰¹æ®Šã‚ªãƒ—ã‚·ãƒ§ãƒ³>    #
 #==================================#
 #
-#  ¡ <‰æ‘œ•\¦ƒ‚[ƒh‚Ìƒ†[ƒU‘I‘ğ>
+#  â–  <ç”»åƒè¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ã®ãƒ¦ãƒ¼ã‚¶é¸æŠ>
 #
-#  imgboard‚Å‚ÍA‰æ‘œ‚Ì•\¦ƒ‚[ƒh‚ğƒ†[ƒU‘¤‚ª©—R‚É‘I‘ğ‚Å‚«‚é‚æ‚¤‚É‚È‚Á‚Ä‚¢
-#  ‚Ü‚·B‚Â‚Ü‚èAŠG‚ğ’¼Ú“\‚è•t‚¯‚éA“\‚è•t‚¯‚È‚¢iƒŠƒ“ƒN‚Ì‚İjAƒAƒCƒRƒ“ƒTƒC
-#  ƒY‚É‚·‚éAŒÅ’èƒTƒCƒY‚É‚·‚é“™‚Ìu•\¦ƒ‚[ƒhv‚Ì‘I‘ğ‚ğAƒAƒNƒZƒX‚·‚éƒ†[ƒU©
-#  g‚ª©—R‘I‘ğ‚Å‚«‚Ü‚·B(ADSL/Œõ/3G/LTE“™‚Ì’ÊM‘¬“xAŠÂ‹«“™‚ÌğŒ‚É‚æ‚èAÅ
-#  “K•\¦ƒ‚[ƒh‚Íƒ†[ƒU–ˆ‚ÉˆÙ‚È‚è‚Ü‚·‚Ì‚ÅjB
-#  ‚È‚¨Aˆê“x‘I‘ğ‚µ‚½•\¦ƒ‚[ƒhİ’è‚ÍAƒNƒbƒL[‚É‹L‰¯‚³‚êAŸ‰ñƒAƒN
-#  ƒZƒX‚©‚çA‚»‚ê‚ª‘Šè‚ÌƒfƒtƒHƒ‹ƒg‚Æ‚µ‚Ä‘I‘ğ‚³‚ê‚é‚æ‚¤‚É‚È‚è‚Ü‚·B
+#  imgboardã§ã¯ã€ç”»åƒã®è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ã‚’ãƒ¦ãƒ¼ã‚¶å´ãŒè‡ªç”±ã«é¸æŠã§ãã‚‹ã‚ˆã†ã«ãªã£ã¦ã„
+#  ã¾ã™ã€‚ã¤ã¾ã‚Šã€çµµã‚’ç›´æ¥è²¼ã‚Šä»˜ã‘ã‚‹ã€è²¼ã‚Šä»˜ã‘ãªã„ï¼ˆãƒªãƒ³ã‚¯ã®ã¿ï¼‰ã€ã‚¢ã‚¤ã‚³ãƒ³ã‚µã‚¤
+#  ã‚ºã«ã™ã‚‹ã€å›ºå®šã‚µã‚¤ã‚ºã«ã™ã‚‹ç­‰ã®ã€Œè¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ã€ã®é¸æŠã‚’ã€ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ãƒ¦ãƒ¼ã‚¶è‡ª
+#  èº«ãŒè‡ªç”±é¸æŠã§ãã¾ã™ã€‚(ADSL/å…‰/3G/LTEç­‰ã®é€šä¿¡é€Ÿåº¦ã€ç’°å¢ƒç­‰ã®æ¡ä»¶ã«ã‚ˆã‚Šã€æœ€
+#  é©è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ã¯ãƒ¦ãƒ¼ã‚¶æ¯ã«ç•°ãªã‚Šã¾ã™ã®ã§ï¼‰ã€‚
+#  ãªãŠã€ä¸€åº¦é¸æŠã—ãŸè¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰è¨­å®šã¯ã€ã‚¯ãƒƒã‚­ãƒ¼ã«è¨˜æ†¶ã•ã‚Œã€æ¬¡å›ã‚¢ã‚¯
+#  ã‚»ã‚¹ã‹ã‚‰ã€ãã‚ŒãŒç›¸æ‰‹ã®ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¨ã—ã¦é¸æŠã•ã‚Œã‚‹ã‚ˆã†ã«ãªã‚Šã¾ã™ã€‚
 #
-#  ‚±‚Ì‹@”\‚ğ–³Œø‰»‚µ‚ÄAŒf¦”ÂŠÇ—Ò‚Ì•û‚Å•\¦ƒ‚[ƒh‚ğŒÅ’è‚µ‚½‚¢ê‡‚ÍA0‚ğ
-#  w’è‚µ‚Ä‚­‚¾‚³‚¢B
-#  (1=ƒ†[ƒU‘I‘ğƒƒjƒ…[‚ğo‚·i‹­‚­„§j,0=ƒ†[ƒU‘I‘ğƒƒjƒ…[‚ğo‚³‚È‚¢)
+#  ã“ã®æ©Ÿèƒ½ã‚’ç„¡åŠ¹åŒ–ã—ã¦ã€æ²ç¤ºæ¿ç®¡ç†è€…ã®æ–¹ã§è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ã‚’å›ºå®šã—ãŸã„å ´åˆã¯ã€0ã‚’
+#  æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
+#  (1=ãƒ¦ãƒ¼ã‚¶é¸æŠãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’å‡ºã™ï¼ˆå¼·ãæ¨å¥¨ï¼‰,0=ãƒ¦ãƒ¼ã‚¶é¸æŠãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’å‡ºã•ãªã„)
 $user_selected_view_mode=1;
 #
-#  ¡ <‰æ‘œ•\¦ƒ‚[ƒh‚ÌŠÇ—Òİ’è>
+#  â–  <ç”»åƒè¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ã®ç®¡ç†è€…è¨­å®š>
 # 
-#  ƒ†[ƒU‘I‘ğ‚É”C‚³‚È‚¢‚ÅA•\¦ƒ‚[ƒh‚ğŠÇ—Ò‘¤‚ÅŒÅ’è‚·‚éê‡A
-#  ‚»‚Ì‰æ‘œ•\¦ƒ‚[ƒh‚ğˆÈ‰º‚Ì•”•ª‚ÅŒˆ‚ß‚Ä‚­‚¾‚³‚¢B
+#  ãƒ¦ãƒ¼ã‚¶é¸æŠã«ä»»ã•ãªã„ã§ã€è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ã‚’ç®¡ç†è€…å´ã§å›ºå®šã™ã‚‹å ´åˆã€
+#  ãã®ç”»åƒè¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ã‚’ä»¥ä¸‹ã®éƒ¨åˆ†ã§æ±ºã‚ã¦ãã ã•ã„ã€‚
 #
-#  ‰æ‘œ‚ğ’¼ÚŒf¦”Â‚É“\‚è•t‚¯‚éA“\‚è•t‚¯‚È‚¢B
-#  (1=yes,0=no)ƒfƒtƒHƒ‹ƒg‚Í1
+#  ç”»åƒã‚’ç›´æ¥æ²ç¤ºæ¿ã«è²¼ã‚Šä»˜ã‘ã‚‹ã€è²¼ã‚Šä»˜ã‘ãªã„ã€‚
+#  (1=yes,0=no)ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯1
 $show_img_on_board=1;
 #	
-#  ã‚Å1‚ğ‘I‘ğ‚µ‚½ê‡C‚»‚Ì–„‚ß‚İƒTƒCƒY‚ğ‘I‘ğB  
-#  (0=iconƒTƒCƒY,1=auto,2=‰¡ŒÅ’è,3=Œ´¡ƒTƒCƒY,5=‹É’[‚É‘å‚«‚È‰æ‘œ‚Ì‚İk¬)
-$on_board_img_size=2;	# ƒfƒtƒHƒ‹ƒg‚Í2
+#  ä¸Šã§1ã‚’é¸æŠã—ãŸå ´åˆï¼Œãã®åŸ‹ã‚è¾¼ã¿ã‚µã‚¤ã‚ºã‚’é¸æŠã€‚  
+#  (0=iconã‚µã‚¤ã‚º,1=auto,2=æ¨ªå›ºå®š,3=åŸå¯¸ã‚µã‚¤ã‚º,5=æ¥µç«¯ã«å¤§ããªç”»åƒã®ã¿ç¸®å°)
+$on_board_img_size=2;	# ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯2
 #
-#  --’ˆÓ“_--
-#  –„‚ß‚İ‚·‚éê‡‚ÍCƒy[ƒW‚Ìƒ[ƒh‚ª’x‚­‚È‚è‚Ü‚·‚Ì‚ÅA‚Pƒy[ƒW“–‚½‚è‚Ì”­Œ¾
-#  •\¦ŒÂ”‚ğ­‚È‚ß(5’ö“x)‚É‚µ‚½•û‚ª‚¢‚¢‚Å‚µ‚å‚¤D‰æ‘œ‚Ì‘å‚«‚³‚à¬‚³–Ú(100KB)‚É
-#  §ŒÀ‚µ‚½•û‚ª‰^‰c‚ªŒoŒ±ã‚¤‚Ü‚­‚¢‚­‚æ‚¤‚Å‚·B
+#  --æ³¨æ„ç‚¹--
+#  åŸ‹ã‚è¾¼ã¿ã™ã‚‹å ´åˆã¯ï¼Œãƒšãƒ¼ã‚¸ã®ãƒ­ãƒ¼ãƒ‰ãŒé…ããªã‚Šã¾ã™ã®ã§ã€ï¼‘ãƒšãƒ¼ã‚¸å½“ãŸã‚Šã®ç™ºè¨€
+#  è¡¨ç¤ºå€‹æ•°ã‚’å°‘ãªã‚(5ç¨‹åº¦)ã«ã—ãŸæ–¹ãŒã„ã„ã§ã—ã‚‡ã†ï¼ç”»åƒã®å¤§ãã•ã‚‚å°ã•ç›®(100KB)ã«
+#  åˆ¶é™ã—ãŸæ–¹ãŒé‹å–¶ãŒçµŒé¨“ä¸Šã†ã¾ãã„ãã‚ˆã†ã§ã™ã€‚
 #
-#  ¡ <IE—pƒŠƒTƒCƒY‚ÌƒTƒCƒY”÷•â³> R5 NEW
+#  â–  <IEç”¨ãƒªã‚µã‚¤ã‚ºæ™‚ã®ã‚µã‚¤ã‚ºå¾®è£œæ­£> R5 NEW
 #
-# 2=‰æ¿Å—Dæ‚µAimgsize‚ªA‚©‚È‚è•â³‚·‚é‚±‚Æ‚ğ‹–‰Â‚·‚éB
-# 1=‰æ¿—Dæ‚µAimgsize‚ªA­‚µ‚¾‚¯•â³‚·‚é‚±‚Æ‚ğ‹–‰Â‚·‚é(„§)
-# 0=w’èƒTƒCƒY‚Ì³Šm‚³‚ğd‹‚µ‚ÄAˆêØ•â³‚Í‚µ‚È‚¢
+# 2=ç”»è³ªæœ€å„ªå…ˆã—ã€imgsizeãŒã€ã‹ãªã‚Šè£œæ­£ã™ã‚‹ã“ã¨ã‚’è¨±å¯ã™ã‚‹ã€‚
+# 1=ç”»è³ªå„ªå…ˆã—ã€imgsizeãŒã€å°‘ã—ã ã‘è£œæ­£ã™ã‚‹ã“ã¨ã‚’è¨±å¯ã™ã‚‹(æ¨å¥¨)
+# 0=æŒ‡å®šã‚µã‚¤ã‚ºã®æ­£ç¢ºã•ã‚’é‡è¦–ã—ã¦ã€ä¸€åˆ‡è£œæ­£ã¯ã—ãªã„
 $CIMGSIZE{'smooze_mode'}=0;
 #
-#  ¡ <ƒ}ƒ‹ƒ`ƒf[ƒ^ƒAƒbƒvƒ[ƒh‰Â”\‚É‚·‚é>
-#  “–Œf¦”Â‚ÍAGIF,JPEG,PNGˆÈŠO‚É—lX‚Èƒ^ƒCƒv‚Ìƒf[ƒ^‚à“Še‚Å‚«‚é‚æ‚¤‚É‚·‚é‚±‚Æ
-#  ‚ª‚Å‚«‚Ü‚·B(“®‰æC‰¹ºCZIP,PDF,‚»‚Ì‘¼)
-#  ‚È‚¨AƒZƒLƒ…ƒŠƒeƒB•Û‘S‚Ì‚½‚ßAƒAƒbƒvƒ[ƒh‚Å‚«‚éƒf[ƒ^‚Í‰äX‚ª‚ ‚ç‚©‚¶‚ß
-#  ƒŠƒXƒgƒAƒbƒv‚³‚ê‚½‚à‚Ì‚ÉŒÀ‚ç‚ê‚Ä‚¢‚Ü‚·B“Á’è‚Ìƒ^ƒCƒv‚Ìƒf[ƒ^‚ğA“Še‹Ö~
-#  ‚µ‚½‚¢A‚ ‚é‚¢‚Í’Ç‰Á‚µ‚½‚¢ê‡‚ÍAƒXƒNƒŠƒvƒg’†‚ÌƒTƒuƒ‹[ƒ`ƒ“
-#  (additional_content_types)“à‚Å•Ï”‚ğƒRƒƒ“ƒgƒAƒEƒgor’Ç‰Á‚µ‚Ä‚­‚¾‚³‚¢D
-#  (Ú×‚ÍƒTƒ|[ƒgŒf¦”Â‚ğQÆ)
+#  â–  <ãƒãƒ«ãƒãƒ‡ãƒ¼ã‚¿ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰å¯èƒ½ã«ã™ã‚‹>
+#  å½“æ²ç¤ºæ¿ã¯ã€GIF,JPEG,PNGä»¥å¤–ã«æ§˜ã€…ãªã‚¿ã‚¤ãƒ—ã®ãƒ‡ãƒ¼ã‚¿ã‚‚æŠ•ç¨¿ã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹ã“ã¨
+#  ãŒã§ãã¾ã™ã€‚(å‹•ç”»ï¼ŒéŸ³å£°ï¼ŒZIP,PDF,ãã®ä»–)
+#  ãªãŠã€ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ä¿å…¨ã®ãŸã‚ã€ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã§ãã‚‹ãƒ‡ãƒ¼ã‚¿ã¯æˆ‘ã€…ãŒã‚ã‚‰ã‹ã˜ã‚
+#  ãƒªã‚¹ãƒˆã‚¢ãƒƒãƒ—ã•ã‚ŒãŸã‚‚ã®ã«é™ã‚‰ã‚Œã¦ã„ã¾ã™ã€‚ç‰¹å®šã®ã‚¿ã‚¤ãƒ—ã®ãƒ‡ãƒ¼ã‚¿ã‚’ã€æŠ•ç¨¿ç¦æ­¢
+#  ã—ãŸã„ã€ã‚ã‚‹ã„ã¯è¿½åŠ ã—ãŸã„å ´åˆã¯ã€ã‚¹ã‚¯ãƒªãƒ—ãƒˆä¸­ã®ã‚µãƒ–ãƒ«ãƒ¼ãƒãƒ³
+#  (additional_content_types)å†…ã§å¤‰æ•°ã‚’ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆorè¿½åŠ ã—ã¦ãã ã•ã„ï¼
+#  (è©³ç´°ã¯ã‚µãƒãƒ¼ãƒˆæ²ç¤ºæ¿ã‚’å‚ç…§)
 #
-#  ƒ}ƒ‹ƒ`ƒf[ƒ^ƒAƒbƒvƒ[ƒh‚ğ
-#  (1=‰Â”\‚É‚·‚é,0=‰Â”\‚É‚µ‚È‚¢)ƒfƒtƒHƒ‹ƒg‚Í0
+#  ãƒãƒ«ãƒãƒ‡ãƒ¼ã‚¿ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã‚’
+#  (1=å¯èƒ½ã«ã™ã‚‹,0=å¯èƒ½ã«ã—ãªã„)ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯0
 $allow_other_multimedia_data=0;	
 #
-#   <2012.10.1ˆÈ~‚ÌDLˆá–@‰»‘Îô‚Æ‚µ‚ÄA“®‰æA‰¹Šy‚ÌƒAƒbƒvƒ[ƒh‚ğ‹Ö~‚·‚é>
-#  2012.10.1ˆÈ~Aˆá–@‚È“®‰æA‰¹º‚Ìƒ_ƒEƒ“ƒ[ƒh‚É”±‘¥‚ª“K—p‚³‚ê‚Ü‚·B
-#  (‘ÎÛ‚ÍA“®‰æA‰¹º‚¾‚¯‚ÅAYouTube‚È‚Ç‚Ì–„‚ß‚İ“®‰æ‚Í‘ÎÛŠO‚Å‚·B)
-#  ƒ}ƒ‹ƒ`ƒf[ƒ^ƒAƒbƒvƒ[ƒh‚ğã‚Å1‚ğw’è‚µ‚Ä‹–‘ø‚µ‚½‚¯‚ê‚Ç‚àA
-#  —]Œv‚Èƒgƒ‰ƒuƒ‹‚ğ–h~‚·‚é‚½‚ß‚ÉA“®‰æ‚Æ‰¹ºƒtƒ@ƒCƒ‹‚ÌƒAƒbƒvƒ[ƒh‚ğ
-#  ƒsƒ“ƒ|ƒCƒ“ƒg‚Å‹Ö~‚µ‚½‚¢ê‡AˆÈ‰º‚Åİ’è‚µ‚Ä‚­‚¾‚³‚¢B
+#   <2012.10.1ä»¥é™ã®DLé•æ³•åŒ–å¯¾ç­–ã¨ã—ã¦ã€å‹•ç”»ã€éŸ³æ¥½ã®ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã‚’ç¦æ­¢ã™ã‚‹>
+#  2012.10.1ä»¥é™ã€é•æ³•ãªå‹•ç”»ã€éŸ³å£°ã®ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã«ç½°å‰‡ãŒé©ç”¨ã•ã‚Œã¾ã™ã€‚
+#  (å¯¾è±¡ã¯ã€å‹•ç”»ã€éŸ³å£°ã ã‘ã§ã€YouTubeãªã©ã®åŸ‹ã‚è¾¼ã¿å‹•ç”»ã¯å¯¾è±¡å¤–ã§ã™ã€‚)
+#  ãƒãƒ«ãƒãƒ‡ãƒ¼ã‚¿ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã‚’ä¸Šã§1ã‚’æŒ‡å®šã—ã¦è¨±è«¾ã—ãŸã‘ã‚Œã©ã‚‚ã€
+#  ä½™è¨ˆãªãƒˆãƒ©ãƒ–ãƒ«ã‚’é˜²æ­¢ã™ã‚‹ãŸã‚ã«ã€å‹•ç”»ã¨éŸ³å£°ãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã‚’
+#  ãƒ”ãƒ³ãƒã‚¤ãƒ³ãƒˆã§ç¦æ­¢ã—ãŸã„å ´åˆã€ä»¥ä¸‹ã§è¨­å®šã—ã¦ãã ã•ã„ã€‚
 #
-#  “®‰æ‚Æ‰¹º‚ÌƒAƒbƒvƒ[ƒh‚ğ
-#  (1=‰Â”\‚É‚·‚é,0=‰Â”\‚É‚µ‚È‚¢)ƒfƒtƒHƒ‹ƒg‚Í0
+#  å‹•ç”»ã¨éŸ³å£°ã®ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã‚’
+#  (1=å¯èƒ½ã«ã™ã‚‹,0=å¯èƒ½ã«ã—ãªã„)ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯0
 $allow_video_and_audio_data=0;	
 #
-#  ¡ <•Û‘¶ƒtƒ@ƒCƒ‹–¼‚Ìw’è>
+#  â–  <ä¿å­˜ãƒ•ã‚¡ã‚¤ãƒ«åã®æŒ‡å®š>
 #
-#    “–Œf¦”Â‚Å‚ÍƒZƒLƒ…ƒŠƒeƒB•Û‘S‚Ì‚½‚ßA©“®“I‚Éƒtƒ@ƒCƒ‹‚ÌƒŠƒl[ƒ€‚ğ‚µ‚Ü‚·B
-#    ƒtƒ@ƒCƒ‹–¼‚Ìd•¡‚ğ–h‚®‚½‚ß‚ÉA1.20ˆÈ~‚Å‚Í,ƒy[ƒX‚Ì–½–¼–@‚ğ‚·‚é‚æ‚¤‚É
-#    ‚È‚è‚Ü‚µ‚½B
+#    å½“æ²ç¤ºæ¿ã§ã¯ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ä¿å…¨ã®ãŸã‚ã€è‡ªå‹•çš„ã«ãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒªãƒãƒ¼ãƒ ã‚’ã—ã¾ã™ã€‚
+#    ãƒ•ã‚¡ã‚¤ãƒ«åã®é‡è¤‡ã‚’é˜²ããŸã‚ã«ã€1.20ä»¥é™ã§ã¯,æ™‚åˆ»ãƒšãƒ¼ã‚¹ã®å‘½åæ³•ã‚’ã™ã‚‹ã‚ˆã†ã«
+#    ãªã‚Šã¾ã—ãŸã€‚
 #
-#   › <Œ³‚Ìƒtƒ@ƒCƒ‹–¼‚ğg—p‚·‚é>
-#    imgboard‚ğƒoƒCƒiƒŠƒtƒ@ƒCƒ‹‚ÌƒAƒbƒvƒ[ƒhƒc[ƒ‹‚Æ‚µ‚Äg—p‚µAƒtƒ@ƒCƒ‹‹¤—L
-#    —p“r‚É—p‚¢‚éê‡AimgXXXX.XXX‚ÆŸè‚ÉƒŠƒl[ƒ€‚³‚ê‚é‚Æ–Ê“|‚Å¢‚é“™‚Ì—v–]‚ª
-#    ‚ ‚è‚Ü‚µ‚½B‚»‚±‚ÅAƒAƒbƒvƒ[ƒh‘O‚Ìƒpƒ\ƒRƒ“ã‚Å‚Ìƒtƒ@ƒCƒ‹–¼‚ğ‚»‚Ì‚Ü‚Üg‚Á
-#    ‚Ä•Û‘¶‚·‚é‚±‚Æ‚ª‚Å‚«‚é‹@”\‚ªimgboard‚É‚Í‚ ‚è‚Ü‚µ‚½‚ªA
-#    1.22 Rev.4ˆÈ~Aimgboard‚©‚ç‚ÍA‚±‚Ì‹@”\‚Íí‚è‚Ü‚µ‚½B“¯‹@”\‚ğ‚²—˜—p‚³‚ê
-#    ‚½‚¢ê‡‚ÍAo–…ƒXƒNƒŠƒvƒguimgboard2015v‚ğ‚²—˜—p‚­‚¾‚³‚¢Bimgboard2015‚Å‚Í
-#    ƒfƒtƒHƒ‹ƒg‚ÅƒIƒŠƒWƒiƒ‹ƒtƒ@ƒCƒ‹–¼‚Å•Û‘¶‚Å‚«A‚©‚ÂA‚»‚Ì‚Æ‚«l—¶‚·‚×‚«ƒZƒL
-#    ƒ…ƒŠƒeƒB–â‘è‚ÉŠÖ‚µ‚Ä‚à‘å•‹­‰»‚³‚ê‚Ä‚¨‚è‚Ü‚·B
+#   â—‹ <å…ƒã®ãƒ•ã‚¡ã‚¤ãƒ«åã‚’ä½¿ç”¨ã™ã‚‹>
+#    imgboardã‚’ãƒã‚¤ãƒŠãƒªãƒ•ã‚¡ã‚¤ãƒ«ã®ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ãƒ„ãƒ¼ãƒ«ã¨ã—ã¦ä½¿ç”¨ã—ã€ãƒ•ã‚¡ã‚¤ãƒ«å…±æœ‰
+#    ç”¨é€”ã«ç”¨ã„ã‚‹å ´åˆã€imgXXXX.XXXã¨å‹æ‰‹ã«ãƒªãƒãƒ¼ãƒ ã•ã‚Œã‚‹ã¨é¢å€’ã§å›°ã‚‹ç­‰ã®è¦æœ›ãŒ
+#    ã‚ã‚Šã¾ã—ãŸã€‚ãã“ã§ã€ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰å‰ã®ãƒ‘ã‚½ã‚³ãƒ³ä¸Šã§ã®ãƒ•ã‚¡ã‚¤ãƒ«åã‚’ãã®ã¾ã¾ä½¿ã£
+#    ã¦ä¿å­˜ã™ã‚‹ã“ã¨ãŒã§ãã‚‹æ©Ÿèƒ½ãŒimgboardã«ã¯ã‚ã‚Šã¾ã—ãŸãŒã€
+#    1.22 Rev.4ä»¥é™ã€imgboardã‹ã‚‰ã¯ã€ã“ã®æ©Ÿèƒ½ã¯å‰Šã‚Šã¾ã—ãŸã€‚åŒæ©Ÿèƒ½ã‚’ã”åˆ©ç”¨ã•ã‚Œ
+#    ãŸã„å ´åˆã¯ã€å§‰å¦¹ã‚¹ã‚¯ãƒªãƒ—ãƒˆã€Œimgboard2015ã€ã‚’ã”åˆ©ç”¨ãã ã•ã„ã€‚imgboard2015ã§ã¯
+#    ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã§ã‚ªãƒªã‚¸ãƒŠãƒ«ãƒ•ã‚¡ã‚¤ãƒ«åã§ä¿å­˜ã§ãã€ã‹ã¤ã€ãã®ã¨ãè€ƒæ…®ã™ã¹ãã‚»ã‚­
+#    ãƒ¥ãƒªãƒ†ã‚£å•é¡Œã«é–¢ã—ã¦ã‚‚å¤§å¹…å¼·åŒ–ã•ã‚Œã¦ãŠã‚Šã¾ã™ã€‚
 #
-#  ¡ <ƒtƒH[ƒ€“ü—Í€–Ú‚Ìƒf[ƒ^—L–³ƒ`ƒFƒbƒN>
+#  â–  <ãƒ•ã‚©ãƒ¼ãƒ å…¥åŠ›é …ç›®ã®ãƒ‡ãƒ¼ã‚¿æœ‰ç„¡ãƒã‚§ãƒƒã‚¯>
 #
-#  ƒtƒH[ƒ€‚ÌŠe“ü—Í€–Ú‚Ì‹L“ü‚É‚Â‚¢‚ÄA•K{‚É‚·‚é‚©‚Ç‚¤‚©‚ğw’è‚Å‚«‚Ü‚·B
-#  •K{‚É‚µ‚½“ü—Í€–Ú‚ª‹ó‚Ìê‡A‹L–‚Í“o˜^‚Í‚³‚ê‚Ü‚¹‚ñB
+#  ãƒ•ã‚©ãƒ¼ãƒ ã®å„å…¥åŠ›é …ç›®ã®è¨˜å…¥ã«ã¤ã„ã¦ã€å¿…é ˆã«ã™ã‚‹ã‹ã©ã†ã‹ã‚’æŒ‡å®šã§ãã¾ã™ã€‚
+#  å¿…é ˆã«ã—ãŸå…¥åŠ›é …ç›®ãŒç©ºã®å ´åˆã€è¨˜äº‹ã¯ç™»éŒ²ã¯ã•ã‚Œã¾ã›ã‚“ã€‚
 #
-#  1=•K{,0=È—ª‚ğ‹–‰Â
-$CHECK{'name'}		=1;	# –¼‘O iƒfƒtƒHƒ‹ƒg1j
-$CHECK{'email'}		=0;	# emailiƒfƒtƒHƒ‹ƒg1j
-$CHECK{'subject'}	=0;	# ‘è–¼ iƒfƒtƒHƒ‹ƒg0j
-$CHECK{'body'}		=0;	# –{•¶ iƒfƒtƒHƒ‹ƒg0j
-$CHECK{'img'}		=0;	# “Y•t‰æ‘œiƒfƒtƒHƒ‹ƒg0j
-$CHECK{'rmkey'}		=0;	# íœƒL[iƒfƒtƒHƒ‹ƒg0j# ©Œ»İ–¢g—p
+#  1=å¿…é ˆ,0=çœç•¥ã‚’è¨±å¯
+$CHECK{'name'}		=1;	# åå‰ ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ1ï¼‰
+$CHECK{'email'}		=0;	# emailï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ1ï¼‰
+$CHECK{'subject'}	=0;	# é¡Œå ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+$CHECK{'body'}		=0;	# æœ¬æ–‡ ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+$CHECK{'img'}		=0;	# æ·»ä»˜ç”»åƒï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+$CHECK{'rmkey'}		=0;	# å‰Šé™¤ã‚­ãƒ¼ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰# â†ç¾åœ¨æœªä½¿ç”¨
 #
-#  •K{€–Ú‚ª“ü—Í‚³‚ê‚È‚©‚Á‚½ê‡‚ÍAŒx‚ğo‚µ‚ÄAƒ†[ƒU‚É
-#  “ü—Í‚ğ‘£‚·‚±‚Æ‚É‚È‚è‚Ü‚·‚ªA‚»‚Ì‚Æ‚«‚Éo‚·ƒƒbƒZ[ƒW‚Ì
-#  “à—e‚ğˆÈ‰º‚Å•ÏX‚Å‚«‚Ü‚·B
+#  å¿…é ˆé …ç›®ãŒå…¥åŠ›ã•ã‚Œãªã‹ã£ãŸå ´åˆã¯ã€è­¦å‘Šã‚’å‡ºã—ã¦ã€ãƒ¦ãƒ¼ã‚¶ã«
+#  å…¥åŠ›ã‚’ä¿ƒã™ã“ã¨ã«ãªã‚Šã¾ã™ãŒã€ãã®ã¨ãã«å‡ºã™ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã®
+#  å†…å®¹ã‚’ä»¥ä¸‹ã§å¤‰æ›´ã§ãã¾ã™ã€‚
 #
-$CHECK_E{'name'}	=qq|–¼‘O‚ª‚ ‚è‚Ü‚¹‚ñB<BR>|;
-$CHECK_E{'email'}	=qq|email‚ª‚ ‚è‚Ü‚¹‚ñBŒ»İ‚Ìİ’è‚Å‚Íemail‚Í•K{€–Ú‚Æ‚È‚Á‚Ä‚¢‚Ü‚·B<BR>|;
-$CHECK_E{'subject'}	=qq|‘è–¼‚ª‚ ‚è‚Ü‚¹‚ñB<BR>|;
-$CHECK_E{'body'}	=qq|–{•¶‚ª‚ ‚è‚Ü‚¹‚ñB<BR>|;
-$CHECK_E{'rmkey'}	=qq|íœƒL[‚ª‚ ‚è‚Ü‚¹‚ñB<BR>|;
-$CHECK_E{'img'}		=qq|“Y•t‰æ‘œ‚ª‚ ‚è‚Ü‚¹‚ñB<BR>|;
+$CHECK_E{'name'}	=qq|åå‰ãŒã‚ã‚Šã¾ã›ã‚“ã€‚<BR>|;
+$CHECK_E{'email'}	=qq|emailãŒã‚ã‚Šã¾ã›ã‚“ã€‚ç¾åœ¨ã®è¨­å®šã§ã¯emailã¯å¿…é ˆé …ç›®ã¨ãªã£ã¦ã„ã¾ã™ã€‚<BR>|;
+$CHECK_E{'subject'}	=qq|é¡ŒåãŒã‚ã‚Šã¾ã›ã‚“ã€‚<BR>|;
+$CHECK_E{'body'}	=qq|æœ¬æ–‡ãŒã‚ã‚Šã¾ã›ã‚“ã€‚<BR>|;
+$CHECK_E{'rmkey'}	=qq|å‰Šé™¤ã‚­ãƒ¼ãŒã‚ã‚Šã¾ã›ã‚“ã€‚<BR>|;
+$CHECK_E{'img'}		=qq|æ·»ä»˜ç”»åƒãŒã‚ã‚Šã¾ã›ã‚“ã€‚<BR>|;
 #
-#  ˆÈ‰º‚Í“ü—Í€–Ú‚ğ‘‚â‚·‹@”\(imgboard‚Å‚Í‚U‚Â‚Ü‚Å“ü—Í€–Ú‚ğ‘‚â‚¹‚Ü‚·)‚ğg‚Á
-#  ‚ÄA€–Ú‚ğ‘‚â‚µ‚½ê‡—p (‘‚â‚µ‚Ä‚¢‚È‚¢ƒ†[ƒU‚Íİ’è‚µ‚Ä‚àŠÖŒW‚ ‚è‚Ü‚¹‚ñ)B
-#
-#
-$CHECK{'optA'}		=0;	# ’Ç‰Á€–ÚoptA	iƒfƒtƒHƒ‹ƒg0j
-$CHECK{'optB'}		=0;	# ’Ç‰Á€–ÚoptB	iƒfƒtƒHƒ‹ƒg0j
-$CHECK{'optC'}		=0;	# ’Ç‰Á€–ÚoptC	iƒfƒtƒHƒ‹ƒg0j
-$CHECK{'optD'}		=0;	# ’Ç‰Á€–ÚoptD	iƒfƒtƒHƒ‹ƒg0j
-#
-$CHECK_E{'optA'}	=qq|optA ‚ª‚ ‚è‚Ü‚¹‚ñB<BR>|;
-$CHECK_E{'optB'}	=qq|optB ‚ª‚ ‚è‚Ü‚¹‚ñB<BR>|;
-$CHECK_E{'optC'}	=qq|optC ‚ª‚ ‚è‚Ü‚¹‚ñB<BR>|;
-$CHECK_E{'optD'}	=qq|optD ‚ª‚ ‚è‚Ü‚¹‚ñB<BR>|;
+#  ä»¥ä¸‹ã¯å…¥åŠ›é …ç›®ã‚’å¢—ã‚„ã™æ©Ÿèƒ½(imgboardã§ã¯ï¼–ã¤ã¾ã§å…¥åŠ›é …ç›®ã‚’å¢—ã‚„ã›ã¾ã™)ã‚’ä½¿ã£
+#  ã¦ã€é …ç›®ã‚’å¢—ã‚„ã—ãŸå ´åˆç”¨ (å¢—ã‚„ã—ã¦ã„ãªã„ãƒ¦ãƒ¼ã‚¶ã¯è¨­å®šã—ã¦ã‚‚é–¢ä¿‚ã‚ã‚Šã¾ã›ã‚“)ã€‚
 #
 #
-#  ¡ <·>
+$CHECK{'optA'}		=0;	# è¿½åŠ é …ç›®optA	ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+$CHECK{'optB'}		=0;	# è¿½åŠ é …ç›®optB	ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+$CHECK{'optC'}		=0;	# è¿½åŠ é …ç›®optC	ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+$CHECK{'optD'}		=0;	# è¿½åŠ é …ç›®optD	ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
 #
-#  ŠCŠOƒTƒCƒg‚Éİ’u‚µ‚½ê‡A“Še‚ªŒ»’n‚É‚È‚Á‚Ä‚µ‚Ü‚¢‚Ü‚·B
-#  ‚±‚ê‚ğ“ú–{‚ÉC³‚·‚éê‡‚É‚ÍAˆÈ‰º‚Ì€–Ú‚Å·‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
-#  (İ’è—á) ·‚ğ15ŠÔ‚É‚·‚éê‡ $gisa=15;‚Æ‚¢‚¤•—‚Éİ’è‚µ‚Ä‚­‚¾‚³‚¢B
+$CHECK_E{'optA'}	=qq|optA ãŒã‚ã‚Šã¾ã›ã‚“ã€‚<BR>|;
+$CHECK_E{'optB'}	=qq|optB ãŒã‚ã‚Šã¾ã›ã‚“ã€‚<BR>|;
+$CHECK_E{'optC'}	=qq|optC ãŒã‚ã‚Šã¾ã›ã‚“ã€‚<BR>|;
+$CHECK_E{'optD'}	=qq|optD ãŒã‚ã‚Šã¾ã›ã‚“ã€‚<BR>|;
 #
-$gisa=0;		# ·(h)
 #
-#  ¡ <©“®URLƒŠƒ“ƒN>
+#  â–  <æ™‚å·®>
 #
-#  ‹L–’†‚ÉURL‚âZŠ“™‚ªŠÜ‚Ü‚ê‚éê‡A©“®“I‚ÉƒŠƒ“ƒN‚É‚µ‚Ü‚·B
-#  ‚È‚¨AyouTubeƒ^ƒO–„‚ß‚İ‹@”\—˜—p‚Í•K‚¸1‚Éİ’è‚µ‚Ä‚­‚¾‚³‚¢B
-#  (1=©“®ƒŠƒ“ƒN(„§),0=©“®ƒŠƒ“ƒN‚µ‚È‚¢)
+#  æµ·å¤–ã‚µã‚¤ãƒˆã«è¨­ç½®ã—ãŸå ´åˆã€æŠ•ç¨¿æ™‚åˆ»ãŒç¾åœ°æ™‚åˆ»ã«ãªã£ã¦ã—ã¾ã„ã¾ã™ã€‚
+#  ã“ã‚Œã‚’æ—¥æœ¬æ™‚åˆ»ã«ä¿®æ­£ã™ã‚‹å ´åˆã«ã¯ã€ä»¥ä¸‹ã®é …ç›®ã§æ™‚å·®ã‚’è¨­å®šã—ã¦ãã ã•ã„ã€‚
+#  (è¨­å®šä¾‹) æ™‚å·®ã‚’15æ™‚é–“ã«ã™ã‚‹å ´åˆ $gisa=15;ã¨ã„ã†é¢¨ã«è¨­å®šã—ã¦ãã ã•ã„ã€‚
+#
+$gisa=0;		# æ™‚å·®(h)
+#
+#  â–  <è‡ªå‹•URLãƒªãƒ³ã‚¯>
+#
+#  è¨˜äº‹ä¸­ã«URLã‚„ä½æ‰€ç­‰ãŒå«ã¾ã‚Œã‚‹å ´åˆã€è‡ªå‹•çš„ã«ãƒªãƒ³ã‚¯ã«ã—ã¾ã™ã€‚
+#  ãªãŠã€youTubeã‚¿ã‚°åŸ‹ã‚è¾¼ã¿æ©Ÿèƒ½åˆ©ç”¨æ™‚ã¯å¿…ãš1ã«è¨­å®šã—ã¦ãã ã•ã„ã€‚
+#  (1=è‡ªå‹•ãƒªãƒ³ã‚¯(æ¨å¥¨),0=è‡ªå‹•ãƒªãƒ³ã‚¯ã—ãªã„)
 $auto_url_link=1;
 #
 #
-#  ¡ <twitterĞ‰î—pƒŠƒ“ƒN> 2010NEW
+#  â–  <twitterç´¹ä»‹ç”¨ãƒªãƒ³ã‚¯> 2010NEW
 #
-#  ‹L–ƒXƒŒƒbƒh‚ğtwitter‚ÅĞ‰î‚µ‚â‚·‚­‚·‚é
-#  ƒŠƒ“ƒN‚ğAŠeƒXƒŒƒbƒh‚É‚Â‚¯‚éê‡‚ÍA
-#  ˆÈ‰º‚Ìƒtƒ‰ƒO‚ğON‚É‚µ‚Ä‚­‚¾‚³‚¢B
-#  (1=ƒŠƒ“ƒN•\¦(„§),0=•\¦‚µ‚È‚¢)
+#  è¨˜äº‹ã‚¹ãƒ¬ãƒƒãƒ‰ã‚’twitterã§ç´¹ä»‹ã—ã‚„ã™ãã™ã‚‹
+#  ãƒªãƒ³ã‚¯ã‚’ã€å„ã‚¹ãƒ¬ãƒƒãƒ‰ã«ã¤ã‘ã‚‹å ´åˆã¯ã€
+#  ä»¥ä¸‹ã®ãƒ•ãƒ©ã‚°ã‚’ONã«ã—ã¦ãã ã•ã„ã€‚
+#  (1=ãƒªãƒ³ã‚¯è¡¨ç¤º(æ¨å¥¨),0=è¡¨ç¤ºã—ãªã„)
 $PM{'use_twitter_link'} = 1;
 #
-# ’Ç‰Á‚ÌƒnƒbƒVƒ…ƒ^ƒO‚ğ’è‹`(5•¶šˆÈ“à)
-# ––”ö‚Í•K‚¸”¼Šp‹ó”’‚ğ‚P‚Â“ü‚ê‚Ä‚­‚¾‚³‚¢
-#(—á)$PM{'twitter_hash01'}="#dog ";
+# è¿½åŠ ã®ãƒãƒƒã‚·ãƒ¥ã‚¿ã‚°ã‚’å®šç¾©(5æ–‡å­—ä»¥å†…)
+# æœ«å°¾ã¯å¿…ãšåŠè§’ç©ºç™½ã‚’ï¼‘ã¤å…¥ã‚Œã¦ãã ã•ã„
+#(ä¾‹)$PM{'twitter_hash01'}="#dog ";
 $PM{'twitter_hash01'}="";
 #
-# ƒeƒLƒXƒg(‰p”¼Šp•¶š5•¶šˆÈ“à)
+# ãƒ†ã‚­ã‚¹ãƒˆ(è‹±åŠè§’æ–‡å­—5æ–‡å­—ä»¥å†…)
 # 
 #$PM{'twitter_mes01'}="Watch it";
 $PM{'twitter_mes01'}="";
 #
-#  ¡ <V’…•\¦>
+#  â–  <æ–°ç€è¡¨ç¤º>
 #
-#  ÅV“Še5‹L–‚É(new)‚ğ“Y‚¦‚Ä•\¦‚µ‚Ü‚·
-#  (1=•\¦‚·‚é(ƒfƒtƒHƒ‹ƒg),0=•\¦‚µ‚È‚¢)
+#  æœ€æ–°æŠ•ç¨¿5è¨˜äº‹ã«(new)ã‚’æ·»ãˆã¦è¡¨ç¤ºã—ã¾ã™
+#  (1=è¡¨ç¤ºã™ã‚‹(ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ),0=è¡¨ç¤ºã—ãªã„)
 $PM{'disp_new_notice'} = 1;
 #
 #==================================#
-#     <ƒZƒLƒ…ƒŠƒeƒB ƒIƒvƒVƒ‡ƒ“>    #
+#     <ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ ã‚ªãƒ—ã‚·ãƒ§ãƒ³>    #
 #==================================#
 #
-#  <“ŠeÒ—pƒpƒXƒ[ƒh>
+#  <æŠ•ç¨¿è€…ç”¨ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰>
 #
-#  “Še‚ÉƒpƒXƒ[ƒh‚ğƒ`ƒFƒbƒN‚µA³‚µ‚¢ê‡‚¾‚¯“o˜^‚·‚é‚æ‚¤‚É‚Å‚«‚Ü‚·D
-#  Œf¦”Â‚ÌŠ®‘SŒöŠJ‰^‰c‚É•sˆÀ‚ª‚ ‚éê‡‚ÍA‚±‚Ì‹@”\‚ğ—p‚¢‚Ä‰ïˆõ§‚É‚·‚é
-#  ‚±‚Æ‚ğ‚¨‚·‚·‚ß‚µ‚Ü‚·DƒpƒXƒ[ƒh‚Íˆê“x“ü—Í‚·‚é‚ÆƒNƒbƒL[‚É‹L‰¯‚³‚ê‚Ü
-#  ‚·‚Ì‚ÅAŸ‰ñ“Še‚©‚ç“ü—Í‚Í•s—v‚Å‚·B‚È‚¨A1‚ğw’è‚·‚é‚Æ©“®“I‚É€–Ú‚ª
-#  ƒtƒH[ƒ€—“‚ÉoŒ»‚µ‚Ü‚·B
-#  (1=g—p,0=g—p‚µ‚È‚¢)
+#  æŠ•ç¨¿æ™‚ã«ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’ãƒã‚§ãƒƒã‚¯ã—ã€æ­£ã—ã„å ´åˆã ã‘ç™»éŒ²ã™ã‚‹ã‚ˆã†ã«ã§ãã¾ã™ï¼
+#  æ²ç¤ºæ¿ã®å®Œå…¨å…¬é–‹é‹å–¶ã«ä¸å®‰ãŒã‚ã‚‹å ´åˆã¯ã€ã“ã®æ©Ÿèƒ½ã‚’ç”¨ã„ã¦ä¼šå“¡åˆ¶ã«ã™ã‚‹
+#  ã“ã¨ã‚’ãŠã™ã™ã‚ã—ã¾ã™ï¼ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã¯ä¸€åº¦å…¥åŠ›ã™ã‚‹ã¨ã‚¯ãƒƒã‚­ãƒ¼ã«è¨˜æ†¶ã•ã‚Œã¾
+#  ã™ã®ã§ã€æ¬¡å›æŠ•ç¨¿ã‹ã‚‰å…¥åŠ›ã¯ä¸è¦ã§ã™ã€‚ãªãŠã€1ã‚’æŒ‡å®šã™ã‚‹ã¨è‡ªå‹•çš„ã«é …ç›®ãŒ
+#  ãƒ•ã‚©ãƒ¼ãƒ æ¬„ã«å‡ºç¾ã—ã¾ã™ã€‚
+#  (1=ä½¿ç”¨,0=ä½¿ç”¨ã—ãªã„)
 $use_passwd_flag=0;	
 #
 #  (201402NEW!)
-#  •ÔM‚ÍƒpƒXƒ[ƒh•s—v‚Ìê‡‚ÍAˆÈ‰º‚Åİ’è‚µ‚Ä‚­‚¾‚³‚¢
-#  (1=•s—v(ƒfƒtƒHƒ‹ƒg),0=•K—v)
+#  è¿”ä¿¡ã¯ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ä¸è¦ã®å ´åˆã¯ã€ä»¥ä¸‹ã§è¨­å®šã—ã¦ãã ã•ã„
+#  (1=ä¸è¦(ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ),0=å¿…è¦)
 $PM{'res_no_passwd_flag'} = 1;
 #
-#  ‰ïˆõƒpƒXƒ[ƒh
+#  ä¼šå“¡ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰
 @MEMBER_PASSWD=("mikumiku","","","");
 #
-#  <ƒ^ƒOg—p‹–‰Â>
+#  <ã‚¿ã‚°ä½¿ç”¨è¨±å¯>
 #
-#  ƒRƒƒ“ƒg’†‚Éƒ^ƒO‚ğ‹–‰Â‚·‚é‚©‚Ç‚¤‚©‚ğw’è‚Å‚«‚Ü‚·B‹–‰Â‚·‚ê‚Îƒ†[ƒU•\Œ»‚Ì
-#  ©—R“x‚Íã‚ª‚è‚Ü‚·‚ªAƒ^ƒO‚Ì•Â‚ß–Y‚ê“™‚É‚æ‚èƒgƒ‰ƒuƒ‹‚ª”­¶‚·‚é‰Â”\«‚ª
-#  ‚ ‚è‚Ü‚·B‚È‚¨Aƒ^ƒO‚ğ‹–‰Â‚·‚éw’è‚É‚µ‚Ä‚àAŒf¦”Â‚É‘Î‚·‚éƒCƒ^ƒYƒ‰—\–h‚Ì‚½‚ß
-#  ActiveX,Javascript“™‚âAŠëŒ¯«‚Ì‚ ‚éƒ^ƒOA‚¢‚½‚¸‚ç‚É‚æ‚­g‚í‚ê‚éƒ^ƒO
-# i–ñ22í—Şj‚Í©“®ƒtƒBƒ‹ƒ^‚³‚êA–³Œø‰»‚³‚ê‚Ü‚·‚Ì‚ÅA‚ ‚ç‚©‚¶‚ß‚²—¹³‚­‚¾‚³
-#  ‚¢BiÚ×‚Ísub form_check‚ğQÆj  
-#  ƒfƒtƒHƒ‹ƒg‚Íƒ^ƒOg—p‰Â‚Å‚·B(1)
-#  (1=g—p‰Â”\,0=g—p•s‰Â)
+#  ã‚³ãƒ¡ãƒ³ãƒˆä¸­ã«ã‚¿ã‚°ã‚’è¨±å¯ã™ã‚‹ã‹ã©ã†ã‹ã‚’æŒ‡å®šã§ãã¾ã™ã€‚è¨±å¯ã™ã‚Œã°ãƒ¦ãƒ¼ã‚¶è¡¨ç¾ã®
+#  è‡ªç”±åº¦ã¯ä¸ŠãŒã‚Šã¾ã™ãŒã€ã‚¿ã‚°ã®é–‰ã‚å¿˜ã‚Œç­‰ã«ã‚ˆã‚Šãƒˆãƒ©ãƒ–ãƒ«ãŒç™ºç”Ÿã™ã‚‹å¯èƒ½æ€§ãŒ
+#  ã‚ã‚Šã¾ã™ã€‚ãªãŠã€ã‚¿ã‚°ã‚’è¨±å¯ã™ã‚‹æŒ‡å®šã«ã—ã¦ã‚‚ã€æ²ç¤ºæ¿ã«å¯¾ã™ã‚‹ã‚¤ã‚¿ã‚ºãƒ©äºˆé˜²ã®ãŸã‚
+#  ActiveX,Javascriptç­‰ã‚„ã€å±é™ºæ€§ã®ã‚ã‚‹ã‚¿ã‚°ã€ã„ãŸãšã‚‰ã«ã‚ˆãä½¿ã‚ã‚Œã‚‹ã‚¿ã‚°
+# ï¼ˆç´„22ç¨®é¡ï¼‰ã¯è‡ªå‹•ãƒ•ã‚£ãƒ«ã‚¿ã•ã‚Œã€ç„¡åŠ¹åŒ–ã•ã‚Œã¾ã™ã®ã§ã€ã‚ã‚‰ã‹ã˜ã‚ã”äº†æ‰¿ãã ã•
+#  ã„ã€‚ï¼ˆè©³ç´°ã¯sub form_checkã‚’å‚ç…§ï¼‰  
+#  ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯ã‚¿ã‚°ä½¿ç”¨å¯ã§ã™ã€‚(1)
+#  (1=ä½¿ç”¨å¯èƒ½,0=ä½¿ç”¨ä¸å¯)
 $use_tag=1;
 #
-#  <IMGƒ^ƒO‹–‰ÂE”ñ‹–‰Â>
+#  <IMGã‚¿ã‚°è¨±å¯ãƒ»éè¨±å¯>
 #
-#  ƒ^ƒO‚ğ‹–‰Â‚µ‚½ê‡A“Á‚ÉAIMGƒ^ƒO‚Ì–„‚İ‰Â”Û‚ğˆÈ‰º‚Åw’è‚µ‚Ä‰º‚³‚¢B
-#  (1=‹–‰Â,0=”ñ‹–‰Â(‹­‚­„§))
+#  ã‚¿ã‚°ã‚’è¨±å¯ã—ãŸå ´åˆã€ç‰¹ã«ã€IMGã‚¿ã‚°ã®åŸ‹è¾¼ã¿å¯å¦ã‚’ä»¥ä¸‹ã§æŒ‡å®šã—ã¦ä¸‹ã•ã„ã€‚
+#  (1=è¨±å¯,0=éè¨±å¯(å¼·ãæ¨å¥¨))
 $use_img_tag_in_comment=0;
 #
-#  <youTube“™A“®‰æ‹¤—LƒTƒCƒgŠÖ˜Aƒ^ƒO‹–‰ÂE”ñ‹–‰Â>
+#  <youTubeç­‰ã€å‹•ç”»å…±æœ‰ã‚µã‚¤ãƒˆé–¢é€£ã‚¿ã‚°è¨±å¯ãƒ»éè¨±å¯>
 #
-#  “®‰æ‹¤—LƒTƒCƒg‚Ì–„‚ß‚İƒ^ƒO‚Ì‹–‰Â‚ğ—áŠO“I‚É
-#  ”F‚ß‚éê‡‚ÍAˆÈ‰º‚Ìƒtƒ‰ƒO‚ğON‚É‚µ‚Ä‚­‚¾‚³‚¢B
-#  (1=‹–‰Â,0=”ñ‹–‰Â(„§))
+#  å‹•ç”»å…±æœ‰ã‚µã‚¤ãƒˆã®åŸ‹ã‚è¾¼ã¿ã‚¿ã‚°ã®è¨±å¯ã‚’ä¾‹å¤–çš„ã«
+#  èªã‚ã‚‹å ´åˆã¯ã€ä»¥ä¸‹ã®ãƒ•ãƒ©ã‚°ã‚’ONã«ã—ã¦ãã ã•ã„ã€‚
+#  (1=è¨±å¯,0=éè¨±å¯(æ¨å¥¨))
 $use_youtube_tag_in_comment=1;
 #
-# URLƒ`ƒFƒbƒN
+# URLãƒã‚§ãƒƒã‚¯
 #
-# ‹–‰Â‚·‚é“®‰æ‹¤—LƒTƒCƒg‚ÌƒhƒƒCƒ“–¼‚ğw’è‚µ‚Ä‚­‚¾‚³‚¢B
-# ƒAƒ_ƒ‹ƒgR¸‚ªŠÃ‚¢ƒTƒCƒg‚ğ‹–‰Â‚µ‚½ê‡AŠÇ—ƒŠƒXƒN‚â
-# “®‰æƒXƒpƒ€‚Ì‹ºˆĞ‚ª‚‚Ü‚è‚Ü‚·Br‚ê‚éê‡‚Íyoutube‚¾‚¯‹–‰Â‚³‚ê‚é‚Æ‚æ‚¢‚Å‚µ‚å‚¤B
+# è¨±å¯ã™ã‚‹å‹•ç”»å…±æœ‰ã‚µã‚¤ãƒˆã®ãƒ‰ãƒ¡ã‚¤ãƒ³åã‚’æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
+# ã‚¢ãƒ€ãƒ«ãƒˆå¯©æŸ»ãŒç”˜ã„ã‚µã‚¤ãƒˆã‚’è¨±å¯ã—ãŸå ´åˆã€ç®¡ç†ãƒªã‚¹ã‚¯ã‚„
+# å‹•ç”»ã‚¹ãƒ‘ãƒ ã®è„…å¨ãŒé«˜ã¾ã‚Šã¾ã™ã€‚è’ã‚Œã‚‹å ´åˆã¯youtubeã ã‘è¨±å¯ã•ã‚Œã‚‹ã¨ã‚ˆã„ã§ã—ã‚‡ã†ã€‚
 @DOUGA_KU_DOMAIN=('www.youtube.com','www.dailymotion.com','www.ustream.tv','');
 #
-# 2=Œµ–§(ã‹L‚Å‹–‰Â‚µ‚½ƒhƒƒCƒ“‚Ì‚İ)(„§)
-# 1=‚ÉŒÀ’è‚µ‚È‚¢
-#  ‚È‚¨A2ˆÈŠO‚É‚µ‚½ê‡AƒZƒLƒ…ƒŠƒeƒB“I‚ÉƒŠƒXƒN‚ª
-#  ‘‘å‚µ‚Ü‚·‚Ì‚ÅAŠoŒå‚Ìã‚Åİ’è‚µ‚Ä‚­‚¾‚³‚¢B
+# 2=å³å¯†(ä¸Šè¨˜ã§è¨±å¯ã—ãŸãƒ‰ãƒ¡ã‚¤ãƒ³ã®ã¿)(æ¨å¥¨)
+# 1=ã«é™å®šã—ãªã„
+#  ãªãŠã€2ä»¥å¤–ã«ã—ãŸå ´åˆã€ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£çš„ã«ãƒªã‚¹ã‚¯ãŒ
+#  å¢—å¤§ã—ã¾ã™ã®ã§ã€è¦šæ‚Ÿã®ä¸Šã§è¨­å®šã—ã¦ãã ã•ã„ã€‚
 #$yt_check_level=2;
 $yt_check_level=1;
 #
 #
-# •ÔM‹L–‚É“®‰æ‹¤—LƒTƒCƒg‚Ìƒ^ƒO–„‚ß‚İ‚ğ‹–‰Â‚·‚é‚©‚Ç‚¤‚©
-# ƒ‹[ƒ‹‚ğŒˆ‚ß‚Ä‚­‚¾‚³‚¢B
-#  (1=‹–‰Â,0=”ñ‹–‰Â(„§))
+# è¿”ä¿¡è¨˜äº‹ã«å‹•ç”»å…±æœ‰ã‚µã‚¤ãƒˆã®ã‚¿ã‚°åŸ‹ã‚è¾¼ã¿ã‚’è¨±å¯ã™ã‚‹ã‹ã©ã†ã‹
+# ãƒ«ãƒ¼ãƒ«ã‚’æ±ºã‚ã¦ãã ã•ã„ã€‚
+#  (1=è¨±å¯,0=éè¨±å¯(æ¨å¥¨))
 $allow_youtube_tag_in_res=1;
 #
 #
-# i’ˆÓj•ÔM‚Ö‚Ì–„‚ß‚İ‹–‰Â“™‚ÍyouTube‚Ìİ’è‚Æ“¯‚¶ƒ|ƒŠƒV‚É‚È‚è‚Ü‚·B
+# ï¼ˆæ³¨æ„ï¼‰è¿”ä¿¡ã¸ã®åŸ‹ã‚è¾¼ã¿è¨±å¯ç­‰ã¯youTubeã®è¨­å®šã¨åŒã˜ãƒãƒªã‚·ã«ãªã‚Šã¾ã™ã€‚
 #
-#  <ƒjƒRƒjƒR“®‰æŠÖ˜Aƒ^ƒO‹–‰ÂE”ñ‹–‰Â> NEW
+#  <ãƒ‹ã‚³ãƒ‹ã‚³å‹•ç”»é–¢é€£ã‚¿ã‚°è¨±å¯ãƒ»éè¨±å¯> NEW
 #
-#  ƒjƒRƒjƒR“®‰æ‚Ì–„‚ß‚İ‚ğ—áŠO“I‚É”F‚ß‚éê‡‚ÍA
-#  ˆÈ‰º‚Ìƒtƒ‰ƒO‚ğON‚É‚µ‚Ä‚­‚¾‚³‚¢B
-#  (1=‹–‰Â,0=”ñ‹–‰Â(„§))
+#  ãƒ‹ã‚³ãƒ‹ã‚³å‹•ç”»ã®åŸ‹ã‚è¾¼ã¿ã‚’ä¾‹å¤–çš„ã«èªã‚ã‚‹å ´åˆã¯ã€
+#  ä»¥ä¸‹ã®ãƒ•ãƒ©ã‚°ã‚’ONã«ã—ã¦ãã ã•ã„ã€‚
+#  (1=è¨±å¯,0=éè¨±å¯(æ¨å¥¨))
 $PM{'auto_nicovideo_find'}=1;
 #
-#  <Google MAP ƒXƒgƒŠ[ƒgƒrƒ…[ŠÖ˜Aƒ^ƒO‹–‰ÂE”ñ‹–‰Â> NEW
+#  <Google MAP ã‚¹ãƒˆãƒªãƒ¼ãƒˆãƒ“ãƒ¥ãƒ¼é–¢é€£ã‚¿ã‚°è¨±å¯ãƒ»éè¨±å¯> NEW
 #
-#  ƒXƒgƒŠ[ƒgƒrƒ…[‚Ì‰æ‘œ–„‚ß‚İƒ^ƒO‚Ì‹–‰Â‚ğ—áŠO“I‚É”F‚ß‚éê‡‚ÍA
-#  ˆÈ‰º‚Ìƒtƒ‰ƒO‚ğON‚É‚µ‚Ä‚­‚¾‚³‚¢B
-#  (1=‹–‰Â(„§),0=”ñ‹–‰Â)
+#  ã‚¹ãƒˆãƒªãƒ¼ãƒˆãƒ“ãƒ¥ãƒ¼ã®ç”»åƒåŸ‹ã‚è¾¼ã¿ã‚¿ã‚°ã®è¨±å¯ã‚’ä¾‹å¤–çš„ã«èªã‚ã‚‹å ´åˆã¯ã€
+#  ä»¥ä¸‹ã®ãƒ•ãƒ©ã‚°ã‚’ONã«ã—ã¦ãã ã•ã„ã€‚
+#  (1=è¨±å¯(æ¨å¥¨),0=éè¨±å¯)
 $use_stview_tag_in_comment=1;
 #
-#  <Google MAP ©“®ZŠƒŠƒ“ƒN‚ÌƒIƒ“ƒIƒt> 
+#  <Google MAP è‡ªå‹•ä½æ‰€ãƒªãƒ³ã‚¯ã®ã‚ªãƒ³ã‚ªãƒ•> 
 #
-#  –{•¶’†‚É‚ ‚éZŠ‚ç‚µ‚«•¶š‚ğE‚Á‚ÄAGoogle Map‚ÌƒŠƒ“ƒN‰»‚·‚é©“®ZŠƒŠƒ“ƒN‚Í
-#  ƒfƒtƒHƒ‹ƒg‚ÅON‚Å‚·BƒIƒt‚É‚µ‚½‚¢ê‡‚ÍAˆÈ‰º‚Ìƒtƒ‰ƒO‚ğ•ÏX‚µ‚Ä‚­‚¾‚³‚¢B
-#  (1=ON(„§),0=OFF)
+#  æœ¬æ–‡ä¸­ã«ã‚ã‚‹ä½æ‰€ã‚‰ã—ãæ–‡å­—ã‚’æ‹¾ã£ã¦ã€Google Mapã®ãƒªãƒ³ã‚¯åŒ–ã™ã‚‹è‡ªå‹•ä½æ‰€ãƒªãƒ³ã‚¯ã¯
+#  ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã§ONã§ã™ã€‚ã‚ªãƒ•ã«ã—ãŸã„å ´åˆã¯ã€ä»¥ä¸‹ã®ãƒ•ãƒ©ã‚°ã‚’å¤‰æ›´ã—ã¦ãã ã•ã„ã€‚
+#  (1=ON(æ¨å¥¨),0=OFF)
 $PM{'auto_japanese_address_find'}=1;
 #
 #
-#  <ƒŠƒR[Theta360ŠÖ˜Aƒ^ƒO‹–‰ÂE”ñ‹–‰Â> NEW
+#  <ãƒªã‚³ãƒ¼Theta360é–¢é€£ã‚¿ã‚°è¨±å¯ãƒ»éè¨±å¯> NEW
 #
-#  ƒŠƒR[‚Ìƒpƒmƒ‰ƒ}ƒJƒƒ‰Theta‚Ì–„‚ß‚İ‚ğ—áŠO“I‚É”F‚ß‚éê‡‚ÍA
-#  ˆÈ‰º‚Ìƒtƒ‰ƒO‚ğON‚É‚µ‚Ä‚­‚¾‚³‚¢B
-#  (1=‹–‰Â(„§),0=”ñ‹–‰Â)
+#  ãƒªã‚³ãƒ¼ã®ãƒ‘ãƒãƒ©ãƒã‚«ãƒ¡ãƒ©Thetaã®åŸ‹ã‚è¾¼ã¿ã‚’ä¾‹å¤–çš„ã«èªã‚ã‚‹å ´åˆã¯ã€
+#  ä»¥ä¸‹ã®ãƒ•ãƒ©ã‚°ã‚’ONã«ã—ã¦ãã ã•ã„ã€‚
+#  (1=è¨±å¯(æ¨å¥¨),0=éè¨±å¯)
 $PM{'auto_theta360_find'} = 1;
 #
-#  <ŠeíŒf¦”Âr‚µ‘Îô> 
+#  <å„ç¨®æ²ç¤ºæ¿è’ã—å¯¾ç­–> 
 #
-#  (ƒŒƒxƒ‹‚PjƒzƒXƒg–¼‚É‚æ‚é§ŒÀ (BLACK_LIST)
+#  (ãƒ¬ãƒ™ãƒ«ï¼‘ï¼‰ãƒ›ã‚¹ãƒˆåã«ã‚ˆã‚‹åˆ¶é™ (BLACK_LIST)
 #
-#  ˆÈ‰º‚Ìƒpƒ^[ƒ“‚ğ–¼‘O‚ÉŠÜ‚ŞƒvƒƒoƒCƒ_‚É‘®‚·‚éƒ†[ƒU‚©‚ç“o˜^‚Å‚«‚È‚¢‚æ‚¤‚É
-#  ‚µ‚Ü‚·Dˆ«¿‚ÈŒf¦”Âr‚µ‚ª•p”­‚·‚éê‡A‚»‚Ì‘ÎRô‚Æ‚µ‚Ä‚²—˜—p‚­‚¾‚³‚¢D
-#  *‚ÍƒƒCƒ‹ƒhƒJ[ƒh‚Å‚·B‚O•¶šˆÈã‚Ì”CˆÓƒpƒ^[ƒ“‚Éƒ}ƒbƒ`‚µ‚Ü‚·B
-#  ?‚Íˆê•¶š•ª‚Ì”CˆÓ‚Ì•¶š‚Éƒ}ƒbƒ`‚µ‚Ü‚· (Ú×‚ÍƒTƒ|[ƒgŒf¦”Â‚É‚Ä)
+#  ä»¥ä¸‹ã®ãƒ‘ã‚¿ãƒ¼ãƒ³ã‚’åå‰ã«å«ã‚€ãƒ—ãƒ­ãƒã‚¤ãƒ€ã«å±ã™ã‚‹ãƒ¦ãƒ¼ã‚¶ã‹ã‚‰ç™»éŒ²ã§ããªã„ã‚ˆã†ã«
+#  ã—ã¾ã™ï¼æ‚ªè³ªãªæ²ç¤ºæ¿è’ã—ãŒé »ç™ºã™ã‚‹å ´åˆã€ãã®å¯¾æŠ—ç­–ã¨ã—ã¦ã”åˆ©ç”¨ãã ã•ã„ï¼
+#  *ã¯ãƒ¯ã‚¤ãƒ«ãƒ‰ã‚«ãƒ¼ãƒ‰ã§ã™ã€‚ï¼æ–‡å­—ä»¥ä¸Šã®ä»»æ„ãƒ‘ã‚¿ãƒ¼ãƒ³ã«ãƒãƒƒãƒã—ã¾ã™ã€‚
+#  ?ã¯ä¸€æ–‡å­—åˆ†ã®ä»»æ„ã®æ–‡å­—ã«ãƒãƒƒãƒã—ã¾ã™ (è©³ç´°ã¯ã‚µãƒãƒ¼ãƒˆæ²ç¤ºæ¿ã«ã¦)
 #
 @BLACK_LIST=("rr.com","anonymizer.com","utm4*.bekkoame.or.jp","nasuinfo.or.jp",
 "123.123.123.123","123.123.123.2??",
@@ -855,284 +855,284 @@ $PM{'auto_theta360_find'} = 1;
 "wave.home.net","202.231.144.1??",
 "agcs.com","utsunomiya-ppp-*.interq.or.jp","198.143.162.");
 #
-# ƒCƒ^ƒYƒ‰‚ğ‚·‚éƒ†[ƒU‚Ì’†‚É‚ÍAƒzƒXƒg–¼‚É‚æ‚é§ŒÀ‚ğ“¦‚ê‚é‚½‚ß‚ÉA©•ª‚ÌƒzƒXƒg
-# –¼î•ñ‚ğo‚³‚È‚¢İ’è‚É‚µ‚Ä‚¢‚él‚ª‚¢‚Ü‚·B‚±‚ê‚çƒzƒXƒg–¼‚ğo‚³‚È‚¢ƒ†[ƒU‚©‚ç
-# ‚Ì“Še‚ğ‹Ö~‚·‚é‚©‚Ç‚¤‚©‚ğˆÈ‰º‚ÅŒˆ‚ß‚Ä‰º‚³‚¢B(1=‹Ö~‚·‚é,0=‹Ö~‚µ‚È‚¢(„§))
+# ã‚¤ã‚¿ã‚ºãƒ©ã‚’ã™ã‚‹ãƒ¦ãƒ¼ã‚¶ã®ä¸­ã«ã¯ã€ãƒ›ã‚¹ãƒˆåã«ã‚ˆã‚‹åˆ¶é™ã‚’é€ƒã‚Œã‚‹ãŸã‚ã«ã€è‡ªåˆ†ã®ãƒ›ã‚¹ãƒˆ
+# åæƒ…å ±ã‚’å‡ºã•ãªã„è¨­å®šã«ã—ã¦ã„ã‚‹äººãŒã„ã¾ã™ã€‚ã“ã‚Œã‚‰ãƒ›ã‚¹ãƒˆåã‚’å‡ºã•ãªã„ãƒ¦ãƒ¼ã‚¶ã‹ã‚‰
+# ã®æŠ•ç¨¿ã‚’ç¦æ­¢ã™ã‚‹ã‹ã©ã†ã‹ã‚’ä»¥ä¸‹ã§æ±ºã‚ã¦ä¸‹ã•ã„ã€‚(1=ç¦æ­¢ã™ã‚‹,0=ç¦æ­¢ã—ãªã„(æ¨å¥¨))
 $no_upload_by_no_RH_user=0;	
 #
-#  (ƒŒƒxƒ‹‚Qj‹Ö~’PŒê‚É‚æ‚é§ŒÀ (BLACK_WORD)
+#  (ãƒ¬ãƒ™ãƒ«ï¼’ï¼‰ç¦æ­¢å˜èªã«ã‚ˆã‚‹åˆ¶é™ (BLACK_WORD)
 #
-#  “Á’è‚Ì’PŒê‚ğ–{•¶‚ÉŠÜ‚Ş‹L–‚Ì“Še‚ğ¸”s‚³‚¹‚Ü‚·B‘Oq‚Ìè’i‚ğ—p‚¢‚Ä‚à"r‚µ"
-#  ‚â "é“`L‚Ì—’" ‚ª‚Ç‚¤‚µ‚Ä‚àû‚Ü‚ç‚È‚¢ê‡A‚ ‚é‚¢‚ÍAƒzƒXƒg–¼‚ğ•p”É‚É•Ï
-#  ‚¦‚éƒ†[ƒU‚©‚ç‚µ‚Â‚±‚¢ƒCƒ^ƒYƒ‰‚ğó‚¯‚Ä‚¢‚éê‡‚ÉAÅIè’i‚Æ‚µ‚Äg‚Á‚Ä‚İ‚Ä
-#  ‚­‚¾‚³‚¢B
-#  (1=§ŒÀ‚·‚é,0=§ŒÀ‚µ‚È‚¢(„§))
+#  ç‰¹å®šã®å˜èªã‚’æœ¬æ–‡ã«å«ã‚€è¨˜äº‹ã®æŠ•ç¨¿ã‚’å¤±æ•—ã•ã›ã¾ã™ã€‚å‰è¿°ã®æ‰‹æ®µã‚’ç”¨ã„ã¦ã‚‚"è’ã—"
+#  ã‚„ "å®£ä¼åºƒå‘Šã®åµ" ãŒã©ã†ã—ã¦ã‚‚åã¾ã‚‰ãªã„å ´åˆã€ã‚ã‚‹ã„ã¯ã€ãƒ›ã‚¹ãƒˆåã‚’é »ç¹ã«å¤‰
+#  ãˆã‚‹ãƒ¦ãƒ¼ã‚¶ã‹ã‚‰ã—ã¤ã“ã„ã‚¤ã‚¿ã‚ºãƒ©ã‚’å—ã‘ã¦ã„ã‚‹å ´åˆã«ã€æœ€çµ‚æ‰‹æ®µã¨ã—ã¦ä½¿ã£ã¦ã¿ã¦
+#  ãã ã•ã„ã€‚
+#  (1=åˆ¶é™ã™ã‚‹,0=åˆ¶é™ã—ãªã„(æ¨å¥¨))
 $PM{'no_upload_by_black_word'}=0;	
 #
-#   ƒ}ƒbƒ`‚µ‚½ê‡‚ÌƒGƒ‰[ƒƒbƒZ[ƒWi•ÏX‰Âj
-#   i”rœ‚³‚ê‚½‚±‚Æ‚ª‘Šè‚É‚í‚©‚ç‚È‚¢‚æ‚¤‚ÉA‚Å‚«‚é‚¾‚¯A
-#    –³ˆÓ–¡‚È‚à‚Ì‚É‚µ‚Ä‚­‚¾‚³‚¢j
+#   ãƒãƒƒãƒã—ãŸå ´åˆã®ã‚¨ãƒ©ãƒ¼ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ï¼ˆå¤‰æ›´å¯ï¼‰
+#   ï¼ˆæ’é™¤ã•ã‚ŒãŸã“ã¨ãŒç›¸æ‰‹ã«ã‚ã‹ã‚‰ãªã„ã‚ˆã†ã«ã€ã§ãã‚‹ã ã‘ã€
+#    ç„¡æ„å‘³ãªã‚‚ã®ã«ã—ã¦ãã ã•ã„ï¼‰
 $PM{'error_message_to_black_word'}="CGI error code 2244 NBW";	
 #
-@BLACK_WORD=(" ‚µ‚Ë‚µ‚Ë "," €‚Ë "," §Ù "
-," ƒ†ƒ_ƒ„ "," ‚²‚İˆÈ‰º "
-," G‹› "," “¶’å "
-," —«“o˜^Ò "," ’²‹³ "
-," porn "," ƒEƒ“ƒR "
-," ‹U‘PÒ "," ‚í‚ç‚¢ "," s‘¢ "," adult "," teen "," stripper "
+@BLACK_WORD=(" ã—ã­ã—ã­ "," æ­»ã­ "," åˆ¶è£ "
+," ãƒ¦ãƒ€ãƒ¤ "," ã”ã¿ä»¥ä¸‹ "
+," é›‘é­š "," ç«¥è² "
+," å¥³æ€§ç™»éŒ²è€… "," èª¿æ•™ "
+," porn "," ã‚¦ãƒ³ã‚³ "
+," å½å–„è€… "," ã‚ã‚‰ã„ "," æé€  "," adult "," teen "," stripper "
 ," fetish "," pics "," peachs "
-," ‘fl–º "," ƒrƒfƒI‚ğ‘å•úo ");
+," ç´ äººå¨˜ "," ãƒ“ãƒ‡ã‚ªã‚’å¤§æ”¾å‡º ");
 #
-#  <˜A‘±“Še‰ñ”§ŒÀ>
+#  <é€£ç¶šæŠ•ç¨¿å›æ•°åˆ¶é™>
 #
-#  ƒCƒ^ƒYƒ‰‚ğ–h‚®‚½‚ß‚ÉA“¯ˆêƒ†[ƒU‚©‚ç‚Ì˜A‘±“Še‰ñ”‚ğŒf¦”Â‘¤
-#  ‚Å§ŒÀ‚Å‚«‚Ü‚·B
-#  (1=§ŒÀ‚·‚éiƒfƒtƒHƒ‹ƒgj,0=§ŒÀ‚µ‚È‚¢)
+#  ã‚¤ã‚¿ã‚ºãƒ©ã‚’é˜²ããŸã‚ã«ã€åŒä¸€ãƒ¦ãƒ¼ã‚¶ã‹ã‚‰ã®é€£ç¶šæŠ•ç¨¿å›æ•°ã‚’æ²ç¤ºæ¿å´
+#  ã§åˆ¶é™ã§ãã¾ã™ã€‚
+#  (1=åˆ¶é™ã™ã‚‹ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆï¼‰,0=åˆ¶é™ã—ãªã„)
 $limit_upload_times_flag=1;	
 #  
-#  ã‚Å"1"‚É‚µ‚½ê‡A‚Ç‚ê‚¾‚¯‚ÌƒTƒ“ƒvƒŠƒ“ƒOŠúŠÔ‚ÌŠÔ‚ÉÅ‘å‰½‰ñ‚Ü‚ÅƒAƒbƒv
-#  ƒ[ƒh‹–‰Â‚·‚é‚©‚ğŒˆ‚ß‚Ä‚­‚¾‚³‚¢BiƒI[ƒo‚·‚é‚Æ“ŠeƒGƒ‰[‚É‚È‚è‚Ü‚·j
+#  ä¸Šã§"1"ã«ã—ãŸå ´åˆã€ã©ã‚Œã ã‘ã®ã‚µãƒ³ãƒ—ãƒªãƒ³ã‚°æœŸé–“ã®é–“ã«æœ€å¤§ä½•å›ã¾ã§ã‚¢ãƒƒãƒ—
+#  ãƒ­ãƒ¼ãƒ‰è¨±å¯ã™ã‚‹ã‹ã‚’æ±ºã‚ã¦ãã ã•ã„ã€‚ï¼ˆã‚ªãƒ¼ãƒã™ã‚‹ã¨æŠ•ç¨¿ã‚¨ãƒ©ãƒ¼ã«ãªã‚Šã¾ã™ï¼‰
 #
-# ƒTƒ“ƒvƒŠƒ“ƒOŠúŠÔ (day,1hour,10min,2min,1min‚ğ‘I‘ğ‰ÂBƒfƒtƒHƒ‹ƒg‚Í2min)
+# ã‚µãƒ³ãƒ—ãƒªãƒ³ã‚°æœŸé–“ (day,1hour,10min,2min,1minã‚’é¸æŠå¯ã€‚ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯2min)
 $upload_limit_type="2min";	
-# ‰ñ”BƒfƒtƒHƒ‹ƒg‚Í5‰ñ
+# å›æ•°ã€‚ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯5å›
 $upload_limit_times="5";
 #
-#  <’´’·•¶ƒeƒLƒXƒg“Še‚É‚æ‚ér‚ç‚µ‘Îô> 2004.05 new
+#  <è¶…é•·æ–‡ãƒ†ã‚­ã‚¹ãƒˆæŠ•ç¨¿ã«ã‚ˆã‚‹è’ã‚‰ã—å¯¾ç­–> 2004.05 new
 #
-#  –³ˆÓ–¡‚È’´’·•¶‚ÌƒeƒLƒXƒg‚ğ“Še‚µA‚¢‚½‚¸‚ç‚·‚él‚Ö‚Ì‘Îô‚Å‚·B
-#  ‚»‚Ìê‡‚ÍA“ü—ÍƒtƒH[ƒ€‚ÌHTM‚ÌTEXTAREAƒ^ƒO‚É‚¨‚¢‚ÄAMAXLENGTH‚ğ
-#  ¬‚³‚­‚µ‚Ä‚­‚¾‚³‚¢(ƒfƒtƒHƒ‹ƒg‚Í10000•¶š‚É‚È‚Á‚Ä‚¢‚Ü‚·)B
-#  ‚È‚¨AMAXLENGTH‚Åw’è‚·‚é•¶š”‚Í‰pŒêŠ·Z‚Å‚·‚Ì‚ÅA“ú–{Œê‚¾‚Æ‚P•¶š
-#  ‚Å‚Q‚É‚È‚è‚Ü‚·B‚Â‚Ü‚èAMAXLENGTH=10000‚È‚çA“ú–{Œê‚Å5000•¶š‚Ü‚Å‚Å‚·B
+#  ç„¡æ„å‘³ãªè¶…é•·æ–‡ã®ãƒ†ã‚­ã‚¹ãƒˆã‚’æŠ•ç¨¿ã—ã€ã„ãŸãšã‚‰ã™ã‚‹äººã¸ã®å¯¾ç­–ã§ã™ã€‚
+#  ãã®å ´åˆã¯ã€å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ ã®HTMã®TEXTAREAã‚¿ã‚°ã«ãŠã„ã¦ã€MAXLENGTHã‚’
+#  å°ã•ãã—ã¦ãã ã•ã„(ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯10000æ–‡å­—ã«ãªã£ã¦ã„ã¾ã™)ã€‚
+#  ãªãŠã€MAXLENGTHã§æŒ‡å®šã™ã‚‹æ–‡å­—æ•°ã¯è‹±èªæ›ç®—ã§ã™ã®ã§ã€æ—¥æœ¬èªã ã¨ï¼‘æ–‡å­—
+#  ã§ï¼’ã«ãªã‚Šã¾ã™ã€‚ã¤ã¾ã‚Šã€MAXLENGTH=10000ãªã‚‰ã€æ—¥æœ¬èªã§5000æ–‡å­—ã¾ã§ã§ã™ã€‚
 #
-#  <˜A‘±‰üs‚É‚æ‚ér‚ç‚µ§ŒÀ> 2004.05 new
+#  <é€£ç¶šæ”¹è¡Œã«ã‚ˆã‚‹è’ã‚‰ã—åˆ¶é™> 2004.05 new
 #
-#  •¶š”§ŒÀ‚ğ‚·‚é‚ÆA–³ˆÓ–¡‚È˜A‘±‰üs‚¾‚¯‚µ‚½ƒeƒLƒXƒg‚ğ“Še‚µ‚Ä
-#  ‚¢‚½‚¸‚ç‚·‚él‚ª‚¢‚é‚»‚¤‚Å‚·B‚»‚¤‚¢‚¤l‚É¢‚Á‚Ä‚¢‚éê‡‚ÍƒeƒL
-#  ƒXƒg•”•ª‚Ì‘s”‚ğ§ŒÀ‚·‚é‹@”\‚ğg‚Á‚Ä‚­‚¾‚³‚¢B
-#  (0=§ŒÀ‚µ‚È‚¢iƒfƒtƒHƒ‹ƒgj,1=§ŒÀ‚·‚é)
+#  æ–‡å­—æ•°åˆ¶é™ã‚’ã™ã‚‹ã¨ã€ç„¡æ„å‘³ãªé€£ç¶šæ”¹è¡Œã ã‘ã—ãŸãƒ†ã‚­ã‚¹ãƒˆã‚’æŠ•ç¨¿ã—ã¦
+#  ã„ãŸãšã‚‰ã™ã‚‹äººãŒã„ã‚‹ãã†ã§ã™ã€‚ãã†ã„ã†äººã«å›°ã£ã¦ã„ã‚‹å ´åˆã¯ãƒ†ã‚­
+#  ã‚¹ãƒˆéƒ¨åˆ†ã®ç·è¡Œæ•°ã‚’åˆ¶é™ã™ã‚‹æ©Ÿèƒ½ã‚’ä½¿ã£ã¦ãã ã•ã„ã€‚
+#  (0=åˆ¶é™ã—ãªã„ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆï¼‰,1=åˆ¶é™ã™ã‚‹)
 $limit_body_cols_flag=0;	
 #
-#  ã‚Å"1"‚É‚µ‚½ê‡A‚Ç‚ê‚¾‚¯‚Ìs”‚Ü‚Å‹–‰Â‚·‚é‚©‚ğŒˆ‚ß‚Ä‚­‚¾‚³‚¢B
-#  iƒI[ƒo‚·‚é‚Æ“ŠeƒGƒ‰[‚É‚È‚è‚Ü‚·j
+#  ä¸Šã§"1"ã«ã—ãŸå ´åˆã€ã©ã‚Œã ã‘ã®è¡Œæ•°ã¾ã§è¨±å¯ã™ã‚‹ã‹ã‚’æ±ºã‚ã¦ãã ã•ã„ã€‚
+#  ï¼ˆã‚ªãƒ¼ãƒã™ã‚‹ã¨æŠ•ç¨¿ã‚¨ãƒ©ãƒ¼ã«ãªã‚Šã¾ã™ï¼‰
 #
-# –{•¶‚Ì‰üs‹–‰Â”
+# æœ¬æ–‡ã®æ”¹è¡Œè¨±å¯æ•°
 $body_text_max_cols="40";
 #
-#  <ƒgƒŠƒbƒv‹@”\‚É‚æ‚éA‚È‚è‚·‚Ü‚µ–h~> 2010.02new
+#  <ãƒˆãƒªãƒƒãƒ—æ©Ÿèƒ½ã«ã‚ˆã‚‹ã€ãªã‚Šã™ã¾ã—é˜²æ­¢> 2010.02new
 #
-# –¼‘O#”CˆÓ‚Ìƒ[ƒh‚ÅƒgƒŠƒbƒv‚ğ•\¦‚Å‚«‚é‚æ‚¤‚É‚µ‚Ä‚İ‚Ü‚µ‚½B
-# ‘¼l‚Ì‚È‚è‚·‚Ü‚µ‚ÅAŒf¦”Â‚ªr‚ê‚éê‡‚ÍA‚±‚ê‚ğ‚¨g‚¢‚­‚¾‚³‚¢B
+# åå‰#ä»»æ„ã®ãƒ¯ãƒ¼ãƒ‰ã§ãƒˆãƒªãƒƒãƒ—ã‚’è¡¨ç¤ºã§ãã‚‹ã‚ˆã†ã«ã—ã¦ã¿ã¾ã—ãŸã€‚
+# ä»–äººã®ãªã‚Šã™ã¾ã—ã§ã€æ²ç¤ºæ¿ãŒè’ã‚Œã‚‹å ´åˆã¯ã€ã“ã‚Œã‚’ãŠä½¿ã„ãã ã•ã„ã€‚
 #
-#  (1=ƒgƒŠƒbƒv‹@”\‚ğg‚¦‚é‚æ‚¤‚É‚·‚é(„§),0=‚µ‚È‚¢)
+#  (1=ãƒˆãƒªãƒƒãƒ—æ©Ÿèƒ½ã‚’ä½¿ãˆã‚‹ã‚ˆã†ã«ã™ã‚‹(æ¨å¥¨),0=ã—ãªã„)
 $PM{'use_trip_flag'}=1;	
 #
-#  <©“®ƒoƒbƒNƒAƒbƒv> 
+#  <è‡ªå‹•ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—> 
 #
-#  ’èŠú“I‚É‹L–‚ğ©“®ƒoƒbƒNƒAƒbƒv‚·‚é‹@”\‚ª‚Â‚«‚Ü‚µ‚½B‘O‰ñƒoƒbƒNƒAƒbƒvƒtƒ@
-#  ƒCƒ‹‚ğì¬‚µ‚½“ú‚©‚çŠÔŠu“úˆÈã‹ó‚¢‚ÄAV‹K“o˜^‚ª‚ ‚é‚ÆA‚»‚Ìƒ^ƒCƒ~ƒ“ƒO‚Å
-#  ƒoƒbƒNƒAƒbƒvƒtƒ@ƒCƒ‹‚ğXV‚µ‚Ü‚·B‚È‚¨AƒoƒbƒNƒAƒbƒv‚Í‹L–‚ª‚TŒˆÈã‚ ‚é
-#  ê‡‚É‚Ì‚İ“®ì‚µ‚Ü‚·B
+#  å®šæœŸçš„ã«è¨˜äº‹ã‚’è‡ªå‹•ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã™ã‚‹æ©Ÿèƒ½ãŒã¤ãã¾ã—ãŸã€‚å‰å›ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ãƒ•ã‚¡
+#  ã‚¤ãƒ«ã‚’ä½œæˆã—ãŸæ—¥ã‹ã‚‰é–“éš”æ—¥ä»¥ä¸Šç©ºã„ã¦ã€æ–°è¦ç™»éŒ²ãŒã‚ã‚‹ã¨ã€ãã®ã‚¿ã‚¤ãƒŸãƒ³ã‚°ã§
+#  ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æ›´æ–°ã—ã¾ã™ã€‚ãªãŠã€ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã¯è¨˜äº‹ãŒï¼•ä»¶ä»¥ä¸Šã‚ã‚‹
+#  å ´åˆã«ã®ã¿å‹•ä½œã—ã¾ã™ã€‚
 #
-#  ©“®’èŠúƒoƒbƒNƒAƒbƒv‚ğg—p#
-#  (1=g—p‚·‚éiƒfƒtƒHƒ‹ƒgj,0=g—p‚µ‚È‚¢)
+#  è‡ªå‹•å®šæœŸãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã‚’ä½¿ç”¨#
+#  (1=ä½¿ç”¨ã™ã‚‹ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆï¼‰,0=ä½¿ç”¨ã—ãªã„)
 $PM{'make_backup_file'}	= '1';
 #
-#  ƒoƒbƒNƒAƒbƒv‚·‚éŠÔŠu(“ú)
+#  ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã™ã‚‹é–“éš”(æ—¥)
 $PM{'backup_day_interval'}  = '7';		
 #
-# ƒoƒbƒNƒAƒbƒvƒtƒ@ƒCƒ‹–¼(ƒZƒLƒ…ƒŠƒeƒBã‚Ì——R‚æ‚èA“K‹X•ÏX‚µ‚Äg‚¤‚±‚Æ‚ğ„§)
+# Backup file name (recommended to change as appropriate for security reasons)
 $PM{'backup_file_name'} = 'fileback.dat';
 #
-#  <ŠÇ—Ò©“®ƒ[ƒ‹> sendmail
+# <Admin Auto Email> sendmail
 #
-#  V‹K‹L–‚ª“o˜^‚³‚ê‚é‚ÆA‰º‹Lƒ[ƒ‹ƒAƒhƒŒƒX‚Éƒ[ƒ‹‚Å’Ê’m‚µ‚Ü‚·B
-#  ‚±‚Ì‹@”\‚ğg—p‚·‚éê‡‚ÍAˆÈ‰º‚ÌO‚Â‚Ìî•ñ‚ğ‚·‚×‚ÄŠmÀ‚Éw’è‚µ‚Ä‚­‚¾‚³‚¢B
-#  ‚±‚ê‚ç‚Ìî•ñ‚ğŠÔˆá‚¦‚é‚ÆAƒT[ƒoŠÇ—Ò‚Ö–À˜f‚ğ‚©‚¯‚é‚Ì‚ÅA•K‚¸ŠÇ—Ò‚ÉŠm”F
-#  ‚µ‚Ä‚©‚çTd‚Éİ’è‚ğs‚Á‚Ä‚­‚¾‚³‚¢B‚È‚¨A‚±‚Ì‹@”\‚ªg‚¦‚é‚Ì‚ÍƒvƒƒoƒCƒ_
-#  ‚ªUNIXŒn‚Ìƒ†[ƒU‚Ì‚İ‚Å‚·B(Mac,Win•s‰Âjİ’è‚ª‚æ‚­‚í‚©‚ç‚È‚¢ê‡‚Íg—p‚µ
-#  ‚È‚¢‚Å‚­‚¾‚³‚¢B
+# When a new article is registered, you will be notified by e-mail to the following e-mail address.
+# If you want to use this feature, make sure you provide all three of the following information:
+# If you make a mistake in this information, it will cause trouble to the server administrator, so be sure to check with the administrator.
+# and then configure carefully. Note that this function can only be used by providers
+# is for UNIX-like users only. (Mac, Win is not possible) Use if you are not sure of the settings
+# Don't.
 # 
-$use_email =0;		# (1=yes,0=no)ƒfƒtƒHƒ‹ƒg‚Í0
+$use_email =0; # (1=yes,0=no)Default is 0
 #
-#  ƒ[ƒ‹ƒvƒƒOƒ‰ƒ€‚ÌƒpƒX
-# •’Ê‚ÌƒvƒƒoƒCƒ_‚Ìê‡‚Í'/usr/lib/sendmail'‚©'/usr/sbin/sendmail'“™‚É‚È‚éiƒvƒ
-# ƒoƒCƒ_‚É‚æ‚èˆÙ‚È‚é‚Ì‚ÅAÚ×‚ÍCGI‚ğİ’u‚·‚éƒvƒƒoƒCƒ_‚É•·‚­jB
-# ©‘îWindowsƒT[ƒo‚Ìê‡‚Í'C:\blatj\blatj.exe'“™‚ğİ’è‚·‚é
-$mail_prog = '/usr/lib/sendmail'; # ŒÃ‚¢ƒT[ƒo‚Å‚ÌƒpƒX
-#$mail_prog = '/usr/sbin/sendmail'; # Å‹ß‚ª‚±‚Á‚¿‚ÌƒpƒX‚ª‘½‚¢‚Å‚·
+# Mail program path
+# For normal providers, it would be '/usr/lib/sendmail' or '/usr/sbin/sendmail', etc. (professional
+# It depends on the vida, so ask the provider where the CGI is installed for details).
+# For home Windows server, set 'C:\blatj\blatj.exe', etc.
+$mail_prog = '/usr/lib/sendmail'; # Path on old server
+#$mail_prog = '/usr/sbin/sendmail'; # There are many passes here these days
 #
-#  ŠÇ—Ò‚Ìƒ[ƒ‹ƒAƒhƒŒƒXi‚ ‚È‚½‚Ìƒ[ƒ‹ƒAƒhƒŒƒXj
+# Administrator email address (your email address)
 $recipient = 'yourname@your_provider.ne.jp';
 #
-#  ƒ[ƒ‹–{•¶‚É‰æ‘œ‚ÌURLƒŠƒ“ƒN‚ğì‚é‚½‚ßA‰æ‘œ•Û‘¶ƒfƒBƒŒƒNƒgƒŠ‚ÌURL‚ğw’è‚µ‚Ä‰º‚³‚¢B
+# To create an image URL link in the body of the email, please specify the URL of the image storage directory.
 $img_dir_url='http://yourprovider/yourname/imgboard/img-box/';
 #
-#  <‚¿‚å‚Á‚Æ‚¨‚â‚·‚İ> oyasumi
+# <Good night> oyasumi
 #
-#  —·s‚Éo‚©‚¯‚é“™A‚µ‚Î‚ç‚­Œf¦”Â‚ğ‚¨‹x‚İ‚µ‚½‚¢‚Í0‚É‚µ‚Ä‚­‚¾‚³‚¢B
-$bbs_open_flag=1;          #(1=yes,0=no)ƒfƒtƒHƒ‹ƒg‚Í1
-#  ‚¨‚â‚·‚İ‚ÌƒƒbƒZ[ƒW(“K‹X•ÏX)
+# Please set it to 0 when you want to take a break from the bulletin board for a while, such as going on a trip.
+$bbs_open_flag=1; #(1=yes,0=no)Default is 1
+# Bedtime message (change as appropriate)
 #
 $oyasumi_message=qq|
-ŠÇ—Ò—·s’†‚Ì‚½‚ßA‚µ‚Î‚ç‚­‚¨‹x‚İ‚µ‚Ü‚·B<BR>
-‚Ü‚½‚Ì‚¨‰z‚µ‚ğ‚¨‘Ò‚¿‚µ‚Ä‚¨‚è‚Ü‚·B
+I will take a break for a while because the administrator is traveling. <BR>
+We look forward to seeing you again.
 |;
 #
 #
-# ‚»‚Ì‘¼•Ï”‚Ì‰Šú‰»
-$PM{'flock'}		= '1';			# flock‚ğg‚¤
-$PM{'use_crypt'}	= '1';			# ˆÃ†‰»‚ğ—p‚¢‚é
+# Initializing Other Variables
+$PM{'flock'} = '1'; # Using flock
+$PM{'use_crypt'} = '1'; # Use encryption
 #
 #===============================================#
-#     <ŠO•”‚Ìİ’èƒtƒ@ƒCƒ‹‚Ìƒ[ƒh(1.21ˆÈ~)>    #
+# < Load external configuration files (1.21 or later)> #
 #===============================================#
 #
-# ƒJƒXƒ^ƒ}ƒCƒY‚µ‚½HTML‚âİ’è‚µ‚½ƒpƒ‰ƒ[ƒ^“™‚ğŠO•”‚©‚çƒ[ƒh‚µ‚Ü‚·B
-# ƒo[ƒWƒ‡ƒ“ƒAƒbƒv‚É‚æ‚éˆø‰z‚µ‚âƒJƒXƒ^ƒ}ƒCƒY‚ªŠy‚É‚È‚è‚Ü‚·B
+# Load customized HTML and set parameters from outside.
+# Moving and customization will be easier by upgrading the version.
 #
-# ŠO•”İ’èƒtƒ@ƒCƒ‹‚ğg‚¤(1=yes,0=no)
+# Use an external configuration file (1=yes,0=no)
 $load_ext_config	=0;
 #
-# iˆê—ájƒ}ƒXƒRƒbƒgƒAƒCƒRƒ“•t‚«Œf¦”Â‚É•ÏX‚Å‚«‚éŠO•”İ’èƒtƒ@ƒCƒ‹
-$ext_config_name	="set_icon624.cgi";# İ’èƒtƒ@ƒCƒ‹–¼iŠg’£q‚Í•K‚¸ cgi‚Éj
+# (Example) External configuration file that can be changed to a bulletin board with a mascot icon
+$ext_config_name ="set_icon624.cgi"; # Configuration file name (extension must be cgi)
 #
 #
 #=========================================#
-#     <‚g‚s‚l‚kÚ×İ’è€–ÚƒIƒvƒVƒ‡ƒ“>    #
+# <HTML Advanced Settings Options> #
 #=========================================#
 #
 #==========================#
-# HTML‘S‘Ì‚ÌƒfƒUƒCƒ“
+# Overall HTML design
 #==========================#
 #
-#  <BODY“à‚Ì—v‘f >
+# < ELEMENTS IN BODY >
 #
-$PM{'body_bgcolor'}	="#FAF0E6";		# ‘S‘Ì‚Ì”wŒiF
-$PM{'body_text'}	="#2A3A3A";		# Šî–{ƒtƒHƒ“ƒgF
-$PM{'body_link'}	="#6060FF";		# ƒŠƒ“ƒNF
-$PM{'body_vlink'}	="#4040FF";		# ŠùƒAƒNƒZƒXƒŠƒ“ƒNF
-$PM{'body_background'}	="";			# ”wŒi‰æ‘œ–¼
+$PM{'body_bgcolor'} ="#FAF0E6"; # Overall background color
+$PM{'body_text'} ="#2A3A3A"; # Base font color
+$PM{'body_link'} ="#6060FF"; # Link color
+$PM{'body_vlink'} ="#4040FF"; # Existing link color
+$PM{'body_background'} =""; # Background Image Name
 #
-#  (ƒƒ“ƒ|ƒCƒ“ƒg)ˆê”Ê‚ÌŒf¦”Â‚Ì”wŒiF‚Í–¾FŒn‚ª‘½‚¢‚Ì‚Å‚·‚ªA‰æ‘œŒf¦”Â‚Ì
-#   ê‡‚ÍA”Z‚¢ˆÃ‚ß‚Ì”wŒiF‚ğ‘I‚ñ‚¾•û‚ªÊ^‚â‰æ‘œ‚ªŒ©‚â‚·‚­‚È‚è‚Ü‚·
+# (One point) The background color of general bulletin boards is often light colors, but
+# If so, choose a darker background color to make your photos and images easier to see
 #
-# (’ˆÓ)•ÔM—“‚ÌŠî–{ƒtƒHƒ“ƒgF‚ÍAu•ÔM—“‚ÌƒfƒUƒCƒ“v‚Ì•”•ª‚Åw’è‚µ‚Ü‚·
-#
-#==========================#
-# Œf¦”ÂÅã•”‚ÌƒfƒUƒCƒ“
-#==========================#
-#
-#  <Åã•”ƒeƒLƒXƒgƒ^ƒCƒgƒ‹ >
-#  <Åã•”‰æ‘œƒ^ƒCƒgƒ‹ >
-#  <Åã•”–„‚ß‚İƒoƒi[ >
-#
-#    <‚g‚s‚l‚k”²ˆ>ˆÈ‰º‚Ìsub top_html‚Å’¼ÚHTML‚Åw’è‚µ‚Ä‚­‚¾‚³‚¢B
-#    (”²‚«o‚·‚Æ‹t‚É•ÒW‚µ‚É‚­‚­‚È‚é‚Æ‚¢‚¤ƒP[ƒX‚à‚ ‚é‚æ‚¤‚Å‚·‚Ì‚Å)
+# (Note) The basic font color of the reply field is specified in the "Design of the reply field" section.
 #
 #==========================#
-# ƒtƒH[ƒ€“ü—Í•”‚ÌƒfƒUƒCƒ“
+# Design at the top of the bulletin board
 #==========================#
 #
-#  <ƒtƒH[ƒ€“ü—Í•”‚ğŒf¦”Âã‚É•\¦>
-$form_disp_on_board	=1;		# (1=yes,0=no)ƒfƒtƒHƒ‹ƒg‚Í1
+# < Top Text Title >
+# Top image title < >
+# < Top Embedded Banner >
 #
-#--’ ã‹L”’l‚ğ0‚É‚µ‚Ä“ü—ÍƒtƒH[ƒ€‚ğ•ÊƒEƒBƒ“ƒh‚É‚·‚é‚ÆA“à•”ˆ—‚Ì
-#     ŠÖŒW‚Å•\¦‚ª­X’x‚­‚È‚è‚Ü‚·B‚Å‚«‚é‚¾‚¯1‚Ì‚Ü‚Ü‚ÉB
+# <HTML excerpt> please specify it directly in HTML in the sub top_html below.
+# (It seems that there are cases where extracting it makes it difficult to edit on the contrary)
 #
-#  < TABLE(•\)‚ÌŒ`ó >
+#==========================#
+# Form Entry Design
+#==========================#
+#
+# < Display the form entry part on the bulletin board>
+$form_disp_on_board =1; # (1=yes,0=no)Default is 1
+#
+#--Note If the above number is set to 0 and the input form is set to a separate window, the internal processing
+# The display is a little slow due to the relationship. Leave as much as possible 1.
+#
+# < TABLE SHAPE >
 #   
-$table_bgcolor		="";		# ƒtƒH[ƒ€•”•ª‚Ì”wŒiF
-$table_background_image="";		# ƒtƒH[ƒ€•”•ª‚Ì”wŒi‰æ‘œ
-$table_border		="0";		# ƒtƒH[ƒ€•”•ª‚Ì˜g‚Ì‚‚³
-$table_cellspacing	="1";		# ƒtƒH[ƒ€•”•ª‚Ì˜g‚Ì•
-$table_cellpadding	="0";		# ƒtƒH[ƒ€•”•ª‚Ì˜g‚Ìƒ}[ƒWƒ“
+$table_bgcolor =""; # Background color of form parts
+$table_background_image=""; # Form background image
+$table_border ="0"; # Height of form frame
+$table_cellspacing ="1"; # Width of the frame of the form part
+$table_cellpadding ="0"; # Form frame margin
 #
-# < ƒtƒH[ƒ€“à‚ÌƒtƒHƒ“ƒgF‚ÆƒTƒCƒY >
+# < Font color and size in form >
 #
-$font_option		="color=#810808 size=+0";# ‰º‹LˆÈŠO‚Ì•”•ª
-$font_option2		="color=#9E8857 size=+0";# "‰æ‘œ‘I‘ğ"‚Æ"‘è–¼"
+$font_option ="color=#810808 size=+0"; # Parts other than the following
+$font_option2 ="color=#9E8857 size=+0"; # "Image Selection" and "Title"
 #
-# < •K—v/È—ª‰Â‚Ì©“®•\¦‚ÌƒtƒHƒ“ƒgF‚ÆƒTƒCƒY >
+# < Font color and size of required/optional auto display >
 #
-#  "ƒtƒH[ƒ€“ü—Í€–Ú‚Ìƒf[ƒ^—L–³ƒ`ƒFƒbƒN"‚Å‚Ìİ’è‚É]‚¢A
-#  •K—v/È—ª‰Â‚Ì©“®•\¦‚ğAƒtƒH[ƒ€—“‚Ì˜e‚É©“®•\¦‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·
+# According to the setting in "Check the presence or absence of data in the form input item",
+# Optional/optional automatic display can be automatically displayed next to form fields
 #
-$auto_disp_omit_frag	="1";			# ©“®•\¦‚·‚é(yes=1,no=0)
-$f_param		="color=#555555 size=-1";	# ƒtƒHƒ“ƒgF‚ÆƒTƒCƒY
+$auto_disp_omit_frag ="1"; # Auto display (yes=1,no=0)
+$f_param ="color=#555555 size=-1"; # Font color and size
 #
-# < ƒtƒH[ƒ€—“‚Ì”wŒiF >
+# < Form field background color >
 #
-$ie_bg			="bgcolor=#ECAC8E";	# —“‚ÌŠî–{”wŒiF(IE—p)
-$ie_bg2			="bgcolor=DEB887";	# "‰æ‘œ‘I‘ğ"  —“
-$ie_bg3			="bgcolor=DEB887";	# "‰æ‘œ‚Ì‘è–¼"—“
+$ie_bg ="bgcolor=#ECAC8E"; # Basic background color of the field (for IE)
+$ie_bg2 ="bgcolor=DEB887"; # "Select Image" field
+$ie_bg3 ="bgcolor=DEB887"; # "Image Title" field
 #
 #
-# < ƒtƒH[ƒ€—“‚Ì(‘è–¼)‚ğƒNƒbƒL[‚É‹L‰¯‚³‚¹‚È‚¢ >
+# < Do not let cookies remember (title) of form fields >
 #
-#  R5.2ˆÈ~AƒfƒtƒHƒ‹ƒg‚Å‚Í‘è–¼‚ğ‹L‰¯‚µ‚È‚¢‚Éİ’è‚É‚µ‚Ü‚µ‚½‚ªA
-#  ‚±‚ê‚ğ‹L‰¯‚·‚éİ’è‚É‚µ‚½‚¢•û‚ÍˆÈ‰º‚Ìƒtƒ‰ƒO‚ğ0‚É‚µ‚Ä‚­‚¾‚³‚¢B
+# Since R5.2, the default is not to remember titles.
+# If you want to set this to remember, set the following flag to 0.
 #
 $no_cookie_for_subject=1;
 #
 #==========================#
-# ‹L–•”‚ÌƒfƒUƒCƒ“
+# Article Department Design
 #==========================#
 #
-# <‚g‚s‚l‚k”²ˆ>ˆÈ‰º‚Å’¼Úw’è‚µ‚Ä‚­‚¾‚³‚¢B
+# < HTML excerpt > specified directly below.
 #
 #==========================#
-# •ÔM—“‚ÌƒfƒUƒCƒ“
+# Reply field design
 #==========================#
 #
-# < •ÔM—“‚Ì”wŒiF/”wŒi‰æ‘œ‚Ìw’è >
+# < Specify the background color/background image of the reply field >
 #
-#  •ÔM—“‚Ì”wŒiF/”wŒi‰æ‘œ‚ğ‚±‚±‚Åw’è‚Å‚«‚Ü‚·
+# You can specify the background color/background image of the reply field here
 $res_table_sitei="bgcolor=#F0E0D6";
 #
-#  (ƒƒ“ƒ|ƒCƒ“ƒg)
-#   ”wŒi‰æ‘œ‚ğw’è‚·‚éê‡‚Ì‘‚«•ûu$res_table_sitei="bgcolor=#F0E0D6";v
-#   ”wŒi‰æ‘œ‚ğw’è‚·‚éê‡‚Ì‘‚«•ûu$res_table_sitei="background=res_haikei.gif";v
+# (One Point)
+# How to write when specifying a background image "$res_table_sitei="bgcolor=#F0E0D6";"
+# How to write when specifying a background image "$res_table_sitei="background=res_haikei.gif";"
 #
-#  •ÔM—“‚ÌƒtƒHƒ“ƒgŠî–{F
+# Basic font color of the reply field
 $res_base_font_color="color=#404040";
 #
 #
 #==========================#
-# ‚g‚s‚l‚k--‰º•”‚ÌƒfƒUƒCƒ“
+# HTML--Bottom Design
 #==========================#
 #
-#  ƒtƒŠ[‚ÌCGIƒTƒCƒg“™‚ÅŒf¦”Â‰º•”‚Ö‚Ìƒoƒi[L‚ğ‹`–±•t‚¯‚ç‚ê‚Ä‚¢‚é
-#  ê‡‚ÍA‚±‚±‚ÉHTMLƒ\[ƒX‚ğ‘‚¢‚Ä‚­‚¾‚³‚¢B‘}“üƒ|ƒCƒ“ƒg‚Ííœƒ{ƒ^ƒ“
-#  ‚Ì’¼ã‚É‚È‚è‚Ü‚·B‚È‚¨Aƒoƒi[‚É‚Í•K‚¸Height,Width‚ğ’Ç‰Áw’è‚µ‚Ä‚­
-#  ‚¾‚³‚¢
+# Banner advertisements at the bottom of bulletin boards are required on free CGI sites, etc.
+# If you want to write the HTML source here. The insertion point is the delete button
+It will be directly above the #. In addition, be sure to specify additional Height and Width in the banner.
+# Dasai
 #
 $html_for_bottom_banner=qq|
 <!--
-‰º•”‚Éƒoƒi[L‚ğ’Ç‰Á‚Å“ü‚ê‚éê‡‚ÍAã‰º‚ÌuƒRƒƒ“ƒgƒAƒEƒgƒ^ƒOv‚ğŠO‚µ‚ÄA
-‚±‚±‚ÉHTMLƒ\\[\ƒX‚ğ‘‚¢‚Ä‚­‚¾‚³‚¢B
+If you want to add an additional banner ad at the bottom, remove the "comment-out tag" at the top and bottom,
+Write your HTML password here.
 -->
-<!-- ˆÈ‰º‚ÌƒŠƒ“ƒN‚Ííœ‹Ö~‚Å‚·B‚±‚ÌƒXƒNƒŠƒvƒg‚ğ–³—¿‚Åg‚¤ê‡A’Ç‰Á‚ÌL‚Í“ü‚ê‚Ä‚à‚©‚Ü‚¢‚Ü‚¹‚ñ‚ªAˆÈ‰º‚ÌƒŠƒ“ƒN‚Íc‚µ‚Ä‚­‚¾‚³‚¢BŠé‹Æ“™‚ÅA‚Ç‚¤‚µ‚Ä‚àŠO‚µ‚½‚¢ê‡‚Í‚Q–œ‰~•¥‚¤‚ÆŠO‚·‚±‚Æ‚ª‚Å‚«‚Ü‚·B -->
-<a href="http://xn--1sq65hw3win8a.com"> ( š•s—p•i‚ğˆê”Ô‚‚­¨”ƒæ‰¿Ši.com )  </a> &nbsp &nbsp &nbsp &nbsp <a href="http://xn--xck0d2a9bc6737f2g4b.com"> ( šl‹CƒNƒ‰ƒEƒh•ŒûƒRƒ~Šˆ—p‚ÅƒTƒNƒTƒNŒŸ“¢¨ƒ}ƒ“ƒVƒ‡ƒ“ŒŸ“¢.com )  </a><BR>
+<!-- The following links are prohibited from being deleted: If you use this script for free, you can include additional ads, but please leave the link below. If you really want to remove it at a company, you can remove it by paying 20,000 yen. -->
+<a href="http://xn--1sq65hw3win8a.com"> ( Highest discarded â†’ purchase price.com ) </a> &nbsp &nbsp &nbsp &nbsp <a href="http://xn--xck0d2a9bc6737f2g4b.com"> ( â˜… â˜… Utilizing popular cloud & word of mouth to consider crisply â†’condominium consideration .com ) </a><BR>
 |;
 #
 #=============================#
-# ‚g‚s‚l‚k--ƒ{ƒ^ƒ“‚ÌƒfƒUƒCƒ“
+# HTML--Button Design
 #=============================#
-# 2014.10 ƒ{ƒ^ƒ“‚ÌƒXƒ^ƒCƒ‹‚ğCSS‚Åw’è‚Å‚«‚é‚æ‚¤‚É‚µ‚½B‚È‚¨Aw’è‚Ísub top_html“à‚Å‚¨‚±‚È‚¤‚±‚Æ
-# 2012.10 ƒ{ƒ^ƒ“ãİ’u‚É”º‚¢Aƒ_ƒCƒŒƒNƒgƒŠƒ“ƒN‚ğˆø”‚ÅON/OFF‚Å‚«‚é‚æ‚¤‚É‚µ‚½
-# 2012.04 ƒXƒ}ƒz‚Åƒ{ƒ^ƒ“‘åŒ^‰»‚µ‚½‚ªAPC‚Ìê‡Aƒ{ƒ^ƒ“‚ğ•’Ê‚É–ß‚µ‚½
-# 2010.04 ƒy[ƒW’¼Úw’è‚Å‚«‚é‚æ‚¤‚É‚µ‚½
+# 2014.10 Button style can be specified by CSS. The designation must be made within the sub top_html.
+# 2012.10 With the installation on the button, direct link can be turned on / off with an argument
+# 2012.04 The buttons were enlarged on smartphones, but in the case of PCs, the buttons were restored to normal
+# 2010.04 Page can be specified directly
 #
 sub output_button_HTML{
 #
-local($PM{'use_direct_page_link'})=$_[0];# ˆø”1‚Æ‚µ‚Äæ“¾
-# (0=•\¦‚µ‚È‚¢B1=•\¦‚·‚éB2=‹t‚Éƒ_ƒCƒŒƒNƒgƒŠƒ“ƒN‚¾‚¯•\¦‚·‚é)
-# ƒ{ƒ^ƒ“‚ÌƒTƒCƒY
+local($PM{'use_direct_page_link'})=$_[0];# å¼•æ•°1ã¨ã—ã¦å–å¾—
+# (0=è¡¨ç¤ºã—ãªã„ã€‚1=è¡¨ç¤ºã™ã‚‹ã€‚2=é€†ã«ãƒ€ã‚¤ãƒ¬ã‚¯ãƒˆãƒªãƒ³ã‚¯ã ã‘è¡¨ç¤ºã™ã‚‹)
+# ãƒœã‚¿ãƒ³ã®ã‚µã‚¤ã‚º
 local($ttmp_output_button_px)="style=\"font-size: 16px\"";
 
-	# ƒXƒ}ƒtƒH/ƒ^ƒuƒŒƒbƒg‚Åƒ{ƒ^ƒ“‚ğ‘åŒ^‰»‚·‚é
+	# ã‚¹ãƒãƒ•ã‚©/ã‚¿ãƒ–ãƒ¬ãƒƒãƒˆã§ãƒœã‚¿ãƒ³ã‚’å¤§å‹åŒ–ã™ã‚‹
 	if($output_button_px ne ""){
 		$ttmp_output_button_px="$output_button_px";
 	}
@@ -1140,14 +1140,14 @@ local($ttmp_output_button_px)="style=\"font-size: 16px\"";
 
 	if($PM{'use_direct_page_link'} != 2){
 
-	# ƒXƒ}ƒtƒH‚ÅƒXƒy[ƒX‚ğ“ü‚ê‚é
+	# ã‚¹ãƒãƒ•ã‚©ã§ã‚¹ãƒšãƒ¼ã‚¹ã‚’å…¥ã‚Œã‚‹
 	print "$output_button_space";
 
 	print "<TABLE border=0 CELLSPACING=6 CELLPADDING=4><TR>";
 
 	if($pre_page > 0){
 
-	   # æ“ª‚ÖƒWƒƒƒ“ƒv
+	   # å…ˆé ­ã¸ã‚¸ãƒ£ãƒ³ãƒ—
 	   if($pre_page > 0){
 
 		print "<TD>";
@@ -1157,20 +1157,20 @@ local($ttmp_output_button_px)="style=\"font-size: 16px\"";
 		print "<INPUT TYPE=\"HIDDEN\" NAME=\"p1\" VALUE=$FORM{'p1'}>\n";
 		print "<INPUT TYPE=\"HIDDEN\" NAME=\"p2\" VALUE=$FORM{'p2'}>\n";
 		print "<INPUT TYPE=\"HIDDEN\" NAME=\"bbsaction\" VALUE=\"page_change\">\n";
-		print "$POSTADDP{'BUTTONTOPFORM'}\n"; # «—ˆŠg’£—p
+		print "$POSTADDP{'BUTTONTOPFORM'}\n"; # å°†æ¥æ‹¡å¼µç”¨
 
-		# ƒ[ƒhŒŸõ‚Ìƒy[ƒW•ÏXƒ{ƒ^ƒ“‚ÍŒŸõƒpƒ‰ƒ[ƒ^‚ğˆø‚«‚¸‚Á‚Ä‚¢‚­
+		# ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢æ™‚ã®ãƒšãƒ¼ã‚¸å¤‰æ›´ãƒœã‚¿ãƒ³ã¯æ¤œç´¢ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’å¼•ããšã£ã¦ã„ã
 		if($FORM{'mode'} eq "search_menu"){
 		 print "<INPUT TYPE=\"HIDDEN\" NAME=\"mode\" VALUE=\"search_menu\">\n";
 		 print "<INPUT TYPE=\"HIDDEN\" NAME=\"SearchWords\" VALUE=\"$FORM{'SearchWords'}\">\n";
 		 print "<INPUT TYPE=\"HIDDEN\" NAME=\"MatchMode\" VALUE=\"$FORM{'MatchMode'}\">\n";
 		}
-		print "<INPUT ID=\"btnPtop\" TYPE=\"SUBMIT\" VALUE=\" æ“ª \" $ttmp_output_button_px>\n";
+		print "<INPUT ID=\"btnPtop\" TYPE=\"SUBMIT\" VALUE=\" First \" $ttmp_output_button_px>\n";
 		print "</TD>";
 		print "<\/FORM>\n";
 	   }
 
-	   # ‘O‚ÌHŒ‚ÖƒWƒƒƒ“ƒv
+	   # å‰ã®ï¼Ÿä»¶ã¸ã‚¸ãƒ£ãƒ³ãƒ—
 		print "<TD>";
 		print "<FORM ACTION=\"$cgi_name\" METHOD=\"POST\">";
 		print "<INPUT TYPE=\"HIDDEN\" NAME=\"page\" VALUE=$pre_page>\n";
@@ -1178,22 +1178,22 @@ local($ttmp_output_button_px)="style=\"font-size: 16px\"";
 		print "<INPUT TYPE=\"HIDDEN\" NAME=\"amode\" VALUE=$FORM{'amode'}>\n";
 		print "<INPUT TYPE=\"HIDDEN\" NAME=\"p1\" VALUE=$FORM{'p1'}>\n";
 		print "<INPUT TYPE=\"HIDDEN\" NAME=\"p2\" VALUE=$FORM{'p2'}>\n";
-		print "$POSTADDP{'BUTTONPREVFORM'}\n"; # «—ˆŠg’£—p
+		print "$POSTADDP{'BUTTONPREVFORM'}\n"; # å°†æ¥æ‹¡å¼µç”¨
 
-		# ƒ[ƒhŒŸõ‚Ìƒy[ƒW•ÏXƒ{ƒ^ƒ“‚ÍŒŸõƒpƒ‰ƒ[ƒ^‚ğˆø‚«‚¸‚Á‚Ä‚¢‚­
+		# ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢æ™‚ã®ãƒšãƒ¼ã‚¸å¤‰æ›´ãƒœã‚¿ãƒ³ã¯æ¤œç´¢ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’å¼•ããšã£ã¦ã„ã
 		if($FORM{'mode'} eq "search_menu"){
 		 print "<INPUT TYPE=\"HIDDEN\" NAME=\"mode\" VALUE=\"search_menu\">\n";
 		 print "<INPUT TYPE=\"HIDDEN\" NAME=\"SearchWords\" VALUE=\"$FORM{'SearchWords'}\">\n";
 		 print "<INPUT TYPE=\"HIDDEN\" NAME=\"MatchMode\" VALUE=\"$FORM{'MatchMode'}\">\n";
 		}
-		print "<INPUT ID=\"btnPback\" TYPE=\"SUBMIT\" VALUE=\" ƒ‘O‚Ì$disp_messageŒ \" $ttmp_output_button_px>\n";
+		print "<INPUT ID=\"btnPback\" TYPE=\"SUBMIT\" VALUE=\" ï¼œPrevious $disp_message case \" $ttmp_output_button_px>\n";
 		print "</TD>";
 		print "<\/FORM>\n";
 	}else{
 		print "<TD></TD>";
 	}
 
-	# ‰º•”‚Ìƒy[ƒWØ‘Ö‚¦ƒ{ƒ^ƒ“‚ÌHTML
+	# ä¸‹éƒ¨ã®ãƒšãƒ¼ã‚¸åˆ‡æ›¿ãˆãƒœã‚¿ãƒ³ã®HTML
 	if($next_page <= $total_page){
 
 		print "<TD>";
@@ -1203,44 +1203,44 @@ local($ttmp_output_button_px)="style=\"font-size: 16px\"";
 		print "<INPUT TYPE=\"HIDDEN\" NAME=\"amode\" VALUE=$FORM{'amode'}>\n";
 		print "<INPUT TYPE=\"HIDDEN\" NAME=\"p1\" VALUE=$FORM{'p1'}>\n";
 		print "<INPUT TYPE=\"HIDDEN\" NAME=\"p2\" VALUE=$FORM{'p2'}>\n";
-		print "$POSTADDP{'BUTTONNENTFORM'}\n"; # «—ˆŠg’£—p
+		print "$POSTADDP{'BUTTONNENTFORM'}\n"; # å°†æ¥æ‹¡å¼µç”¨
 
-		# ƒ[ƒhŒŸõ‚Ìƒy[ƒW•ÏXƒ{ƒ^ƒ“‚ÍŒŸõƒpƒ‰ƒ[ƒ^‚ğˆø‚«‚¸‚Á‚Ä‚¢‚­
+		# ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢æ™‚ã®ãƒšãƒ¼ã‚¸å¤‰æ›´ãƒœã‚¿ãƒ³ã¯æ¤œç´¢ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’å¼•ããšã£ã¦ã„ã
 		if($FORM{'mode'} eq "search_menu"){
 		 print "<INPUT TYPE=\"HIDDEN\" NAME=\"mode\" VALUE=\"search_menu\">\n";
 		 print "<INPUT TYPE=\"HIDDEN\" NAME=\"SearchWords\" VALUE=\"$FORM{'SearchWords'}\">\n";
 		 print "<INPUT TYPE=\"HIDDEN\" NAME=\"MatchMode\" VALUE=\"$FORM{'MatchMode'}\">\n";
 		}
-		print "<INPUT ID=\"btnPnext\" TYPE=\"SUBMIT\" VALUE=\"Ÿ‚Ì$disp_message Œ„\" $ttmp_output_button_px>\n";
+		print "<INPUT ID=\"btnPnext\" TYPE=\"SUBMIT\" VALUE=\"Next $disp_message case >\" $ttmp_output_button_px>\n";
 		print "</TD>";
 		print "<\/FORM>\n";
 	}else{
-		print "<TD bgcolor=\"#808080\">‚±‚ê‚æ‚èæ‚Ìƒy[ƒW‚Í‚ ‚è‚Ü‚¹‚ñ </TD>";
+		print "<TD bgcolor=\"#808080\">No further pages available </TD>";
 	}
 
 		print "</TR></TABLE>";
 
 	}
 
-	# ƒy[ƒWw’èFƒ_ƒCƒŒƒNƒgƒŠƒ“ƒN 2010.04
-	# 2014.11 ŒŸõƒ[ƒh‚ª‚ ‚é‚Æ‚«‚ÍAƒ_ƒCƒŒƒNƒgƒŠƒ“ƒN‚ğo‚³‚È‚¢‚±‚Æ‚É‚µ‚½
-	# ‚È‚¨AURLƒGƒ“ƒR[ƒh‚·‚ê‚ÎŒŸõƒ[ƒh‚ğ“ü‚ê‚é‚±‚Æ‚Í‚Å‚«‚é‚ªA
-	# ƒ†[ƒU‚Ì“ü‚ê‚½ƒpƒ‰ƒ[ƒ^‚ğGET‚É’¼Ú“ü‚ê‚é‚ÆÆã«‚ÌƒŠƒXƒN‚ª‘‚·‚½‚ßA‚µ‚È‚¢‚±‚Æ‚É‚·‚é
+	# ãƒšãƒ¼ã‚¸æŒ‡å®šï¼šãƒ€ã‚¤ãƒ¬ã‚¯ãƒˆãƒªãƒ³ã‚¯ 2010.04
+	# 2014.11 æ¤œç´¢ãƒ¯ãƒ¼ãƒ‰ãŒã‚ã‚‹ã¨ãã¯ã€ãƒ€ã‚¤ãƒ¬ã‚¯ãƒˆãƒªãƒ³ã‚¯ã‚’å‡ºã•ãªã„ã“ã¨ã«ã—ãŸ
+	# ãªãŠã€URLã‚¨ãƒ³ã‚³ãƒ¼ãƒ‰ã™ã‚Œã°æ¤œç´¢ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥ã‚Œã‚‹ã“ã¨ã¯ã§ãã‚‹ãŒã€
+	# ãƒ¦ãƒ¼ã‚¶ã®å…¥ã‚ŒãŸãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’GETã«ç›´æ¥å…¥ã‚Œã‚‹ã¨è„†å¼±æ€§ã®ãƒªã‚¹ã‚¯ãŒå¢—ã™ãŸã‚ã€ã—ãªã„ã“ã¨ã«ã™ã‚‹
 
 	if(($PM{'use_direct_page_link'} >= 1)&&($FORM{'mode'} ne "search_menu")){
 	
 		if($total_page >= 1){	# 2012.10 Update
 
 			if($PM{'use_direct_page_link'} == 2){
-				print " &nbsp&nbsp ƒy[ƒWw’èF[ "; 
+				print " &nbsp&nbsp Pagesï¼š[ "; 
 			}else{
-#				print "<BR><HR> &nbsp&nbsp ƒy[ƒWw’èF[ "; 
-				print "<HR> &nbsp&nbsp ƒy[ƒWw’èF[ "; 
+#				print "<BR><HR> &nbsp&nbsp ãƒšãƒ¼ã‚¸æŒ‡å®šï¼š[ "; 
+				print "<HR> &nbsp&nbsp Pagesï¼š[ "; 
 			}
 
 			for($i=1;$i<=$total_page;$i++){
 
-			# ƒXƒ}ƒz‚Ìƒ^ƒbƒ`—p‚ÉƒXƒy[ƒX‚ğL‚°‚é
+			# ã‚¹ãƒãƒ›ã®ã‚¿ãƒƒãƒç”¨ã«ã‚¹ãƒšãƒ¼ã‚¹ã‚’åºƒã’ã‚‹
 			print "$output_link_space"; 
 
 			 local($tttt_ldflag)=0;
@@ -1276,33 +1276,33 @@ local($ttmp_output_button_px)="style=\"font-size: 16px\"";
 }
 #
 #==========================#
-# ‚»‚Ì‘¼‚ÌƒfƒUƒCƒ“
+# ãã®ä»–ã®ãƒ‡ã‚¶ã‚¤ãƒ³
 #==========================#
 #
-# <‚g‚s‚l‚k”²ˆ>ˆÈ‰º‚Å’¼Úw’è‚µ‚Ä‚­‚¾‚³‚¢B
+# <ï¼¨ï¼´ï¼­ï¼¬æŠœç²‹>ä»¥ä¸‹ã§ç›´æ¥æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
 #
-#  ===================<‚g‚s‚l‚k”²ˆ>==========================================
+#  ===================<ï¼¨ï¼´ï¼­ï¼¬æŠœç²‹>==========================================
 #
-#  ƒ†[ƒUƒTƒCƒh‚Å‚g‚s‚l‚k‚ğ•ÏX‚µ‚â‚·‚¢‚æ‚¤‚É,ƒXƒNƒŠƒvƒg’†‚Ì‚g‚s‚l‚k’è‹`•”•ª‚ğ
-#  ƒvƒƒOƒ‰ƒ€‚©‚çˆÈ‰º‚É”²‚«o‚µ—ñ‹“‚µ‚Ä‚ ‚è‚Ü‚·D‚»‚ê‚¼‚ê,print<<HTML_END;s‚Ì
-#  Ÿ‚Ìs‚©‚çHTML_END‹L†‚Ì‘Os‚Ü‚Å‚ÍA’Êí‚g‚s‚l‚k‚Æ‚µ‚Ä•ÒW‰Â”\‚È‚Ì‚Å,ƒ[ƒh
-#  ƒpƒbƒg(WinŒn) Jedit(MacŒn)“™‚ÌƒGƒfƒBƒ^‚Å‚²©—R‚É‘‚«Š·‚¦‚ÄAƒJƒXƒ^ƒ}ƒCƒY‚µ‚Ä
-#  ‚­‚¾‚³‚¢D‚½‚¾‚µæ“ª‚É$‚ª‚Â‚¢‚Ä‚¢‚é‚à‚Ì($body_bgcolor“™)‚Í•Ï”‚È‚Ì‚ÅAÁ‚·
-#  ê‡‚Í\•ª’ˆÓ‚µ‚Ä‚­‚¾‚³‚¢D
-#  ‚È‚¨A“–ƒXƒNƒŠƒvƒg‚ÍSJISƒR[ƒh‚ğ—p‚¢‚Ä‚¢‚é‚½‚ß,u•\¦,\‚·,‹@”\v“™‚Ì“Á’è‚Ì
-#  •¶š‚ªƒCƒ“ƒ^[ƒlƒbƒgŒo—R‚ÅŒ©‚é‚Æ‰»‚¯‚Ä‚µ‚Ü‚¤Œ»Û‚ª‚ ‚è‚Ü‚·B‚±‚Ìè‚ÌŠ¿š‚â
-#  •¶š‚ğg—p‚µ‚Ä•¶š‰»‚¯‚ª”­¶‚µ‚½ê‡‚ÍA•¶š‰»‚¯‚µ‚½•¶š‚Ì‘OŒã‚É\ƒ}[ƒN‚ğ
-#  “ü‚ê‚Ä‹æØ‚ê‚Î•¶š‰»‚¯‚Ío‚È‚­‚È‚è‚Ü‚·B‚È‚¨A‚±‚Ìê‡A\‚ÍPerl‚Å‚Í•¶š‹æ
-#  Ø‚è‹L†‚Æ‚µ‚Ä“­‚«AWebã‚É‚Í•\¦‚³‚ê‚Ü‚¹‚ñB
+#  ãƒ¦ãƒ¼ã‚¶ã‚µã‚¤ãƒ‰ã§ï¼¨ï¼´ï¼­ï¼¬ã‚’å¤‰æ›´ã—ã‚„ã™ã„ã‚ˆã†ã«,ã‚¹ã‚¯ãƒªãƒ—ãƒˆä¸­ã®ï¼¨ï¼´ï¼­ï¼¬å®šç¾©éƒ¨åˆ†ã‚’
+#  ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‹ã‚‰ä»¥ä¸‹ã«æŠœãå‡ºã—åˆ—æŒ™ã—ã¦ã‚ã‚Šã¾ã™ï¼ãã‚Œãã‚Œ,print<<HTML_END;è¡Œã®
+#  æ¬¡ã®è¡Œã‹ã‚‰HTML_ENDè¨˜å·ã®å‰è¡Œã¾ã§ã¯ã€é€šå¸¸ï¼¨ï¼´ï¼­ï¼¬ã¨ã—ã¦ç·¨é›†å¯èƒ½ãªã®ã§,ãƒ¯ãƒ¼ãƒ‰
+#  ãƒ‘ãƒƒãƒˆ(Winç³») Jedit(Macç³»)ç­‰ã®ã‚¨ãƒ‡ã‚£ã‚¿ã§ã”è‡ªç”±ã«æ›¸ãæ›ãˆã¦ã€ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºã—ã¦
+#  ãã ã•ã„ï¼ãŸã ã—å…ˆé ­ã«$ãŒã¤ã„ã¦ã„ã‚‹ã‚‚ã®($body_bgcolorç­‰)ã¯å¤‰æ•°ãªã®ã§ã€æ¶ˆã™
+#  å ´åˆã¯ååˆ†æ³¨æ„ã—ã¦ãã ã•ã„ï¼
+#  ãªãŠã€å½“ã‚¹ã‚¯ãƒªãƒ—ãƒˆã¯SJISã‚³ãƒ¼ãƒ‰ã‚’ç”¨ã„ã¦ã„ã‚‹ãŸã‚,ã€Œè¡¨ç¤º,ç”³ã™,æ©Ÿèƒ½ã€ç­‰ã®ç‰¹å®šã®
+#  æ–‡å­—ãŒã‚¤ãƒ³ã‚¿ãƒ¼ãƒãƒƒãƒˆçµŒç”±ã§è¦‹ã‚‹ã¨åŒ–ã‘ã¦ã—ã¾ã†ç¾è±¡ãŒã‚ã‚Šã¾ã™ã€‚ã“ã®æ‰‹ã®æ¼¢å­—ã‚„
+#  æ–‡å­—ã‚’ä½¿ç”¨ã—ã¦æ–‡å­—åŒ–ã‘ãŒç™ºç”Ÿã—ãŸå ´åˆã¯ã€æ–‡å­—åŒ–ã‘ã—ãŸæ–‡å­—ã®å‰å¾Œã«\ãƒãƒ¼ã‚¯ã‚’
+#  å…¥ã‚Œã¦åŒºåˆ‡ã‚Œã°æ–‡å­—åŒ–ã‘ã¯å‡ºãªããªã‚Šã¾ã™ã€‚ãªãŠã€ã“ã®å ´åˆã€\ã¯Perlã§ã¯æ–‡å­—åŒº
+#  åˆ‡ã‚Šè¨˜å·ã¨ã—ã¦åƒãã€Webä¸Šã«ã¯è¡¨ç¤ºã•ã‚Œã¾ã›ã‚“ã€‚
 #
 #=====================================#
-#     <‚g‚s‚l‚k--‰æ–ÊÅã•”>          #
+#     <ï¼¨ï¼´ï¼­ï¼¬--ç”»é¢æœ€ä¸Šéƒ¨>          #
 #=====================================#
 #
-#  ‚g‚s‚l‚kƒwƒbƒ_,ƒ{ƒfƒBw’èDƒ^ƒCƒgƒ‹“™‰æ–ÊÅã•”‚Ì‚g‚s‚l‚k‚Å‚·
+#  ï¼¨ï¼´ï¼­ï¼¬ãƒ˜ãƒƒãƒ€,ãƒœãƒ‡ã‚£æŒ‡å®šï¼ã‚¿ã‚¤ãƒˆãƒ«ç­‰ç”»é¢æœ€ä¸Šéƒ¨ã®ï¼¨ï¼´ï¼­ï¼¬ã§ã™
 #
-#  print<<HTML_END;‚ÌŸs‚©‚ç"HTML_END"‚Ì‚ ‚és‚Ü‚Å‚ÍA’Êí‚Ì‚g‚s‚l‚k
-#  ‚Æ‚µ‚Ä•ÒW‰Â”\‚Å‚·D 
+#  print<<HTML_END;ã®æ¬¡è¡Œã‹ã‚‰"HTML_END"ã®ã‚ã‚‹è¡Œã¾ã§ã¯ã€é€šå¸¸ã®ï¼¨ï¼´ï¼­ï¼¬
+#  ã¨ã—ã¦ç·¨é›†å¯èƒ½ã§ã™ï¼ 
 sub top_html{
 
 if($COOKIE{'viewport_set'} eq 'as_cgi_defined'){
@@ -1348,44 +1348,44 @@ $PM{'counter_main_html'}
 
 
 <!-- <BASEFONT SIZE="3"> -->
-<!-- Šî–{ƒtƒHƒ“ƒgƒTƒCƒYw’è(g—p‚·‚éê‡‚Íã‹LƒRƒƒ“ƒgƒAƒEƒg‚ğŠO‚·) -->
+<!-- åŸºæœ¬ãƒ•ã‚©ãƒ³ãƒˆã‚µã‚¤ã‚ºæŒ‡å®š(ä½¿ç”¨ã™ã‚‹å ´åˆã¯ä¸Šè¨˜ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã‚’å¤–ã™) -->
 
-<!-- Œf¦”ÂÅã•”ƒ^ƒCƒgƒ‹ƒGƒŠƒAEE‰æ‘œ‚âŠG‚ğ“ü‚ê‚é‚±‚Æ‚ª‚Å‚«‚Ü‚· -->$PM{'INS_POINT_TOP01'}
-<!-- (ƒAƒhƒoƒCƒX)‰æ‘œ‚âƒJƒEƒ“ƒ^‚ğ“ü‚ê‚éê‡‚Íheight,width‚ğw’è‚·‚é‚ÆƒŒƒCƒAƒEƒg‚ª”ñí‚É‘‚­‚È‚è‚Ü‚· -->
+<!-- æ²ç¤ºæ¿æœ€ä¸Šéƒ¨ã‚¿ã‚¤ãƒˆãƒ«ã‚¨ãƒªã‚¢ãƒ»ãƒ»ç”»åƒã‚„çµµã‚’å…¥ã‚Œã‚‹ã“ã¨ãŒã§ãã¾ã™ -->$PM{'INS_POINT_TOP01'}
+<!-- (ã‚¢ãƒ‰ãƒã‚¤ã‚¹)ç”»åƒã‚„ã‚«ã‚¦ãƒ³ã‚¿ã‚’å…¥ã‚Œã‚‹å ´åˆã¯height,widthã‚’æŒ‡å®šã™ã‚‹ã¨ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆãŒéå¸¸ã«æ—©ããªã‚Šã¾ã™ -->
 
 <CENTER>$PM{'INS_POINT_TOP02'}
-<!-- ƒoƒi[‚âAƒgƒbƒvˆÊ’u‚Ì‰æ‘œ‚Í‚±‚±‚ÖHTML‚ğ‘‚¢‚Ä‚­‚¾‚³‚¢ -->
+<!-- ãƒãƒŠãƒ¼ã‚„ã€ãƒˆãƒƒãƒ—ä½ç½®ã®ç”»åƒã¯ã“ã“ã¸HTMLã‚’æ›¸ã„ã¦ãã ã•ã„ -->
 
 </CENTER>
 
 <UL>
- <H3>‰æ‘œUploadŒf¦”Â</H3>
- ƒXƒ}ƒz(iPhone,Android),ƒKƒ‰Œg‘Î‰”Å&ƒXƒpƒ€‘ÎôVer.5.0 
+ <H3>Image Upload Board</H3>
+ Smartphone(iPhone,Android),Galapagos version & Anti-spam Ver.5.0 
 </UL>
 HTML_END
 }
 #
 #=====================================#
-#     <‚g‚s‚l‚k--ƒAƒ“ƒJ[ƒŠƒ“ƒN•”•ª>  #
+#     <ï¼¨ï¼´ï¼­ï¼¬--ã‚¢ãƒ³ã‚«ãƒ¼ãƒªãƒ³ã‚¯éƒ¨åˆ†>  #
 #=====================================#
 #
-#  ƒtƒH[ƒ€‚Ì‰º‚É‚ ‚é[ƒ[ƒhŒŸõ]A[Œg‘Ñ‘Î‰]A[ŠÇ—“™]‚ÌƒAƒ“ƒJ[ƒŠƒ“ƒN‚ğ
-#  ì‚é•”•ª‚Ì‚g‚s‚l‚k‚Å‚·B
+#  ãƒ•ã‚©ãƒ¼ãƒ ã®ä¸‹ã«ã‚ã‚‹[ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢]ã€[æºå¸¯å¯¾å¿œ]ã€[ç®¡ç†ç­‰]ã®ã‚¢ãƒ³ã‚«ãƒ¼ãƒªãƒ³ã‚¯ã‚’
+#  ä½œã‚‹éƒ¨åˆ†ã®ï¼¨ï¼´ï¼­ï¼¬ã§ã™ã€‚
 #
-#  (ƒƒ“ƒ|ƒCƒ“ƒg) ‘¼‚ÉƒŠƒ“ƒN“™‚ğ’Ç‰Á‚µ‚½‚¢ê‡‚Í‚±‚±‚ÖƒŠƒ“ƒN‚ğ
-#   ’Ç‰Á‚·‚é‚Æû‚Ü‚è‚ª—Ç‚¢‚Å‚µ‚å‚¤B
+#  (ãƒ¯ãƒ³ãƒã‚¤ãƒ³ãƒˆ) ä»–ã«ãƒªãƒ³ã‚¯ç­‰ã‚’è¿½åŠ ã—ãŸã„å ´åˆã¯ã“ã“ã¸ãƒªãƒ³ã‚¯ã‚’
+#   è¿½åŠ ã™ã‚‹ã¨åã¾ã‚ŠãŒè‰¯ã„ã§ã—ã‚‡ã†ã€‚
 #
-# 2010.03 Windows7/iPhone/iPad/Android“™‚Ìƒ^ƒbƒ`‰t»‘Î‰‚Ì‚½‚ßƒŠƒ“ƒN•¶š‚ğ—£‚µ‚½
+# 2010.03 Windows7/iPhone/iPad/Androidç­‰ã®ã‚¿ãƒƒãƒæ¶²æ™¶å¯¾å¿œã®ãŸã‚ãƒªãƒ³ã‚¯æ–‡å­—ã‚’é›¢ã—ãŸ
 #
 sub link_top_html{
 
 print<<HTML_END;
 <DIV align=right>
 <BIG>
-$cm_out_exit_h [ <a href="$back_url">ƒgƒbƒv‚É–ß‚é</a> ] $cm_out_exit_f
-[ <a href="$cgi_name?mode=search_menu&amode=$FORM{'amode'}&p1=$FORM{'p1'}&p2=$FORM{'p2'}$GETURLADDP{'WS'}&page=$FORM{'page'}">ƒ[ƒhŒŸõ</a> ]
-[ <a href="$cgi_name?mode=keitai_menu&amode=$FORM{'amode'}&p1=$FORM{'p1'}&p2=$FORM{'p2'}&page=$FORM{'page'}">ƒKƒ‰Œg‘Î‰</a> ]
-[ <a href="$cgi_name?mode=disp_admin_check_menu&amode=$FORM{'amode'}&p1=$FORM{'p1'}&p2=$FORM{'p2'}&page=$FORM{'page'}">ŠÇ—</a> ]
+$cm_out_exit_h [ <a href="$back_url">Back to Top</a> ] $cm_out_exit_f
+[ <a href="$cgi_name?mode=search_menu&amode=$FORM{'amode'}&p1=$FORM{'p1'}&p2=$FORM{'p2'}$GETURLADDP{'WS'}&page=$FORM{'page'}">Search</a> ]
+[ <a href="$cgi_name?mode=keitai_menu&amode=$FORM{'amode'}&p1=$FORM{'p1'}&p2=$FORM{'p2'}&page=$FORM{'page'}">"Galapagos" support</a> ]
+[ <a href="$cgi_name?mode=disp_admin_check_menu&amode=$FORM{'amode'}&p1=$FORM{'p1'}&p2=$FORM{'p2'}&page=$FORM{'page'}">Ad,om</a> ]
 &nbsp&nbsp&nbsp
 </BIG>
 </DIV>
@@ -1393,40 +1393,40 @@ HTML_END
 }
 #
 #=====================================#
-#     <‚g‚s‚l‚k--‰æ–Ê’†‰›‚Ìà–¾>      #
+#     <ï¼¨ï¼´ï¼­ï¼¬--ç”»é¢ä¸­å¤®ã®èª¬æ˜>      #
 #=====================================#
 #
-#  ^‚ñ’†‚Ìà–¾•”•ª‚Ì‚g‚s‚l‚k‚Å‚·D
+#  çœŸã‚“ä¸­ã®èª¬æ˜éƒ¨åˆ†ã®ï¼¨ï¼´ï¼­ï¼¬ã§ã™ï¼
 #
-#  (ƒƒ“ƒ|ƒCƒ“ƒg)
-# uƒpƒ\ƒRƒ“v‚Ì•”•ª‚Éu\v‚ª“ü‚Á‚Ä‚¢‚é‚Ì‚Í•¶š‰»‚¯–h~‚Ì‚½‚ß‚Å‚·B
-#  •¶š‰»‚¯‚·‚éê‡‚Í‚±‚Ì—á‚Ì‚æ‚¤‚ÉƒeƒLƒXƒg‚ÌŠÔ‚Éu\v‚ğ“ü‚ê‚é‚Æ—Ç‚¢
-#  ‚Å‚µ‚å‚¤B
+#  (ãƒ¯ãƒ³ãƒã‚¤ãƒ³ãƒˆ)
+# ã€Œãƒ‘ã‚½ã‚³ãƒ³ã€ã®éƒ¨åˆ†ã«ã€Œ\ã€ãŒå…¥ã£ã¦ã„ã‚‹ã®ã¯æ–‡å­—åŒ–ã‘é˜²æ­¢ã®ãŸã‚ã§ã™ã€‚
+#  æ–‡å­—åŒ–ã‘ã™ã‚‹å ´åˆã¯ã“ã®ä¾‹ã®ã‚ˆã†ã«ãƒ†ã‚­ã‚¹ãƒˆã®é–“ã«ã€Œ\ã€ã‚’å…¥ã‚Œã‚‹ã¨è‰¯ã„
+#  ã§ã—ã‚‡ã†ã€‚
 #
 sub middle_A_html{
   local($mes_01);
   if($allow_other_multimedia_data==1){
-	$html_mA01="ƒtƒ@ƒCƒ‹";
+	$html_mA01="File";
   }else{
-	$html_mA01="‰æ‘œ";
+	$html_mA01="Image";
   }
   if($disp_rcmd_upload_size_flag==1){
-	$mes_01=qq| „§<B>$rcmd_upload_size KB</B>ˆÈ‰º\/|;
+	$mes_01=qq| æ¨å¥¨<B>$rcmd_upload_size KB</B>ä»¥ä¸‹\/|;
   }
 
-  # È—ª‚Ì‚Æ‚«‚Ío‚³‚È‚¢
+  # çœç•¥ã®ã¨ãã¯å‡ºã•ãªã„
   if($COOKIE{'middle_html_disp'}==1){
    return;
   }
 
 print<<HTML_END;
 <HR>
-<!--Œf¦”Â’†‰›•”‚Ìà–¾•”•ªA-->
+<!--æ²ç¤ºæ¿ä¸­å¤®éƒ¨ã®èª¬æ˜éƒ¨åˆ†A-->
 <font size=-1>
  <UL>
- <LI>ƒp\ƒ\\ƒR\ƒ“AiPhoneAAndroidAŒg‘Ñã‚Ì$html_mA01‚ğ,ƒAƒbƒvƒ[ƒh‚Å‚«‚Ü‚·D($mes_01‰æ‘œÅ‘å<B>$max_upload_img_size KB(Android‰Â)</B>/‰æ‘œˆÈŠO<B>$max_upload_size KB</B>‚Ü‚Å)
- <LI>’˜ìŒ ã–â‘è‚ª‚ ‚é‚à‚Ì‚ÍƒAƒbƒvƒ[ƒhi–„•\\¦ŠÜ‚ŞjA‚¨‚æ‚ÑAƒ_ƒEƒ“ƒ[ƒh‚µ‚È‚¢‚Å‚­‚¾‚³‚¢BLé“`‚Ì“Še‚à‹Ö~‚Å‚·B
- <!--ƒ^ƒOg—pã‚Ì’ˆÓ‚ª©“®‚Å“ü‚è‚Ü‚·-->$tag_siyou_tyuui
+<LI>You can upload $html_mA01 on your PC, iPhone, Android, or mobile phone. ($mes_01 image maximum <B>$max_upload_img_size KB (Android available)</B>/non-image up to <B>$max_upload_size KB</B>)
+ <LI>Please do not upload (including embedding) or download anything that is copyrighted. Posting advertisements are also prohibited.
+ <!--ã‚¿ã‚°ä½¿ç”¨ä¸Šã®æ³¨æ„ãŒè‡ªå‹•ã§å…¥ã‚Šã¾ã™-->$tag_siyou_tyuui
 </UL>
 </font>
 HTML_END
@@ -1434,24 +1434,24 @@ HTML_END
 
 sub middle_B_html{
 
-  # È—ª‚Ì‚Æ‚«‚Ío‚³‚È‚¢
+  # çœç•¥ã®ã¨ãã¯å‡ºã•ãªã„
   if($COOKIE{'middle_html_disp'}==1){
    return;
   }
 
-#  ’Ç‰Áà–¾
+#  è¿½åŠ èª¬æ˜
  if($HTTP_USER_AGENT=~ /ipad/i){
 if($MYCGI_ENV{'iOS_VER'} < 6){
 $iPhone_mes_01=qq|
-<font color=red>(iOS.Ver.5ˆÈ‰º‚ÌiPhone/iPad‚Å‰æ‘œ“Š\e\)</font><BR>
- (•û–@\.1)iOS.Ver.6ˆÈ~‚ÉƒAƒbƒvƒf[ƒg‚·‚é‚Æsafari‚Å’¼Ú“Š\e\‚Å‚«‚Ü‚·<BR>
- (•û–@\.2)iOS.Ver.5ˆÈ‰ºƒ†[ƒUF<a href="http://itunes.apple.com/jp/app/simple-resize/id327776379?mt=8&uo=4" target="itunes_store">Simple Resize</a>‚ÅÊ^‚ğk¬(640ƒTƒCƒYˆÈ‰ºŒµç)B<a href="http://itunes.apple.com/jp/app/opera-mini-web-browser/id363729560?mt=8&uo=4" >Opera Mini</a>(File“Y•tOK)‚ÅWebƒAƒNƒZƒX‚µ“Š\e\! 
+<font color=red>(Images posted on iPhone/iPad with iOS.Ver.5 or lower)</font><BR>
+ (Method\.1) If you update to iOS.Ver.6 or later, you can \post\directly in safari<BR>
+ (Method \.2) For iOS Ver.5 or lower: <a href="http://itunes.apple.com/jp/app/simple-resize/id327776379?mt=8&uo=4" target="itunes_store">Simple Resize</a> to reduce the photo (strictly below 640 size).<a href="http://itunes.apple.com/jp/app/opera-mini-web-browser/id363729560?mt=8&uo=4" >Opera Mini</a>(File attachments OK) to access the Web and submit your manuscript. 
 |;
 }else{
 $iPhone_mes_01=qq|
-<font color=red>(iOS.Ver.6ˆÈ~‚ÌiPhone/iPad‚Å‰æ‘œ“Š\e\)</font><BR>
- iOS.Ver.6ˆÈ~‚ÍAsafari‚Å’¼Ú“Š\e\‚Å‚«‚Ü‚·<BR>
- <a href="http://itunes.apple.com/jp/app/simple-resize/id327776379?mt=8&uo=4" target="itunes_store">Simple Resize</a>‚ÅÊ^‚ğk¬(640ƒTƒCƒYˆÈ‰ºŒµç)‚µ‚Ä‚©‚ç“Š\e\! 
+<font color=red>(iOS.Ver.6ä»¥é™ã®iPhone/iPadã§ç”»åƒæŠ•\ç¨¿\)</font><BR>
+ iOS.Ver.6ä»¥é™ã¯ã€safariã§ç›´æ¥æŠ•\ç¨¿\ã§ãã¾ã™<BR>
+ <a href="http://itunes.apple.com/jp/app/simple-resize/id327776379?mt=8&uo=4" target="itunes_store">Simple Resize</a>ã§å†™çœŸã‚’ç¸®å°(640ã‚µã‚¤ã‚ºä»¥ä¸‹å³å®ˆ)ã—ã¦ã‹ã‚‰æŠ•\ç¨¿\! 
 |;
 }
  }
@@ -1460,9 +1460,9 @@ $iPhone_mes_01=qq|
 print<<HTML_END;
 <font size=-1>
 <UL>
-<!--Œf¦”Â’†‰›•”‚Ìà–¾•”•ªB-->
-  <LI>V‚µ‚¢‹L–‚©‚ç‚Pƒy[ƒW<B> $disp_message </B>Œ–ˆ‚É•\\¦\BÅ‚<B>$max_message</B>Œ‚Ì‹L–‚ª‹L˜^‚³‚êA
-      ‚»‚ê‚ğ’´‚¦‚é‚ÆŒÃ‚¢‹L–‚©‚çíœ‚³‚ê‚Ü‚·</LI>
+<!--æ²ç¤ºæ¿ä¸­å¤®éƒ¨ã®èª¬æ˜éƒ¨åˆ†B-->
+  <LI><B> $disp_message </B> page by new article. A maximum of <B>$max_message</B> articles will be logged,
+      Exceeding it will delete the oldest articles</LI>
   </UL>
 </font>
 $iPhone_mes_01
@@ -1470,27 +1470,29 @@ HTML_END
 }
 #
 #=====================================#
-#     <‚g‚s‚l‚k--“Še‹L–•”•ª>        #
+#     <ï¼¨ï¼´ï¼­ï¼¬--æŠ•ç¨¿è¨˜äº‹éƒ¨åˆ†>        #
 #=====================================#
 #
-#  imgboard‚Å‚Íƒ†[ƒU‚ªu•\¦ƒ‚[ƒhv‚ğ‘I‘ğ‚Å‚«‚é‚æ‚¤‚É‚È‚Á‚Ä‚¢‚Ü‚·B
-#  ‚»‚Ì‚½‚ßAƒeƒLƒXƒgƒŠƒ“ƒNAƒAƒCƒRƒ“ƒTƒCƒYAŒÅ’èƒTƒCƒYAŒ´¡‚È‚Ç‚Ì
-#  ‚»‚ê‚¼‚ê‚Ìu•\¦ƒ‚[ƒhv‚É‚æ‚èŒÂ•Ê‚Ì‹L–•”ƒŒƒCƒAƒEƒg‚ğ•ÏX‚µ‚È‚¯
-#  ‚ê‚Î‚È‚è‚Ü‚¹‚ñ‚ªA‚»‚ê‚¼‚ê”ñí‚É—Ç‚­—‚Ä‚Ü‚·‚Ì‚ÅA‚±‚±‚Å‚ÍŠî–{ƒŒƒC
-#  ƒAƒEƒg‚Qƒpƒ^[ƒ“(‰æ‘œ‚ª¬‚³‚¢ê‡‚ÌŠî–{ƒŒƒCƒAƒEƒg/‰æ‘œ‚ª‘å‚«‚¢ê‡
-#  ‚ÌŠî–{ƒŒƒCƒAƒEƒg)‚ğ’è‚ßA‚»‚ê‚Ìˆê•”•ª($html_block_A)‚ğ‚·‚è‘Ö‚¦‚é
-#  ‚±‚Æ‚É‚æ‚èA‘Su•\¦ƒ‚[ƒhv‚ğƒJƒo[‚·‚é‚à‚Ì‚Æ‚µ‚Ü‚·BƒŒƒCƒAƒEƒg‚ğ
-#  ©•ª‚Å•ÏX‚µ‚½‚¢ê‡‚ÍˆÈã‚Ì“_‚ğ—‰ğ‚µ‚½ã‚ÅA•ÒW‚µ‚Ä‚­‚¾‚³‚¢B
+#  imgboard allows users to select "display mode".
+# So, you have to change the layout of each article section according to each "display mode" such as text link, icon size, fixed size, full size, etc.
+# Each "display mode" requires a different layout for each article section.
+# but since they are very similar, here are the basic layouts
+# of the two basic layouts (basic layout for small images / basic layout for large images).
+# and replace a part of it ($html_block_A).
+# to cover all "display modes". Layout.
+# If you want to change the layout yourself, please understand the above points before editing.
+# 1.
+# 1. Layout pattern 1/ Layout for articles with small images
+# (---- for text articles, text link display, and icon size display)
 #
-#  1.ƒŒƒCƒAƒEƒgƒpƒ^[ƒ“‚P/ ‰æ‘œ‚ª¬‚³‚¢‹L–Œn‚ÌƒŒƒCƒAƒEƒg
-# i----ƒeƒLƒXƒg‹L–AƒeƒLƒXƒgƒŠƒ“ƒN•\¦AƒAƒCƒRƒ“ƒTƒCƒY•\¦—p----j
-#
-#  (’)ƒŒƒCƒAƒEƒg’†‚Ì $html_block_A‚É‚ÍŒãq‚ÌƒuƒƒbƒN‚ª‘ã“ü‚³‚ê‚Ü‚·B
+# (Note: $html_block_A in the layout is assigned the block described below.
+
+Translated with www.DeepL.com/Translator (free version)
 #
 sub kiji_base_html{
 
 print<<HTML_END;
-<!--‹L–ƒŒƒCƒAƒEƒg ƒeƒLƒXƒg‹L–AƒeƒLƒXƒgƒŠƒ“ƒN\•\\¦AƒAƒCƒRƒ“ƒTƒCƒY\•\\¦—p-->
+<!--è¨˜äº‹ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ ãƒ†ã‚­ã‚¹ãƒˆè¨˜äº‹ã€ãƒ†ã‚­ã‚¹ãƒˆãƒªãƒ³ã‚¯\è¡¨\ç¤ºã€ã‚¢ã‚¤ã‚³ãƒ³ã‚µã‚¤ã‚º\è¡¨\ç¤ºç”¨-->
 <FONT SIZE="+1" COLOR="#FF0000"><B>$tmp_subject</B></FONT>
 $icon_html
  <FONT COLOR="#00FF00"><B>$mail_a_start $tmp_name $mail_a_end</B></FONT>
@@ -1504,12 +1506,12 @@ $keitai_env_link
 HTML_END
 }
 #
-#  ƒeƒLƒXƒgAƒeƒLƒXƒgƒŠƒ“ƒNAƒAƒCƒRƒ“ƒTƒCƒYAŠe•\¦ƒ‚[ƒh‚É
-#  ‚æ‚èˆÈ‰º‚Ì‚g‚s‚l‚k‚ªã‹LƒŒƒCƒAƒEƒg‚Ìhtml_block_A‚É‘ã“ü‚³‚ê‚Ü‚·B
-#  ˆÈ‰º‚Å‚»‚Ì‘ã“üƒuƒƒbƒN‚ğ•ÒW‚Å‚«‚Ü‚·B
+#  ãƒ†ã‚­ã‚¹ãƒˆã€ãƒ†ã‚­ã‚¹ãƒˆãƒªãƒ³ã‚¯ã€ã‚¢ã‚¤ã‚³ãƒ³ã‚µã‚¤ã‚ºã€å„è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ã«
+#  ã‚ˆã‚Šä»¥ä¸‹ã®ï¼¨ï¼´ï¼­ï¼¬ãŒä¸Šè¨˜ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆã®html_block_Aã«ä»£å…¥ã•ã‚Œã¾ã™ã€‚
+#  ä»¥ä¸‹ã§ãã®ä»£å…¥ãƒ–ãƒ­ãƒƒã‚¯ã‚’ç·¨é›†ã§ãã¾ã™ã€‚
 #
 sub set_html_block{
-# •Ï”‚Ì€”õ
+# å¤‰æ•°ã®æº–å‚™
 $img_dsize="$IMG_PARAMETERS{'dsize'}";
 #
 # 2009.12 update
@@ -1518,17 +1520,17 @@ $img_dsize="$IMG_PARAMETERS{'dsize'}";
 		$ttmp_target_sitei="";
   }
 
-#  1.1ƒeƒLƒXƒg/ƒeƒLƒXƒgƒŠƒ“ƒNƒ‚[ƒh—p‚Ì $html_block_A
+#  1.1ãƒ†ã‚­ã‚¹ãƒˆ/ãƒ†ã‚­ã‚¹ãƒˆãƒªãƒ³ã‚¯ãƒ¢ãƒ¼ãƒ‰æ™‚ç”¨ã® $html_block_A
 $textlink_html_block=qq|
-<BLOCKQUOTE> $data_typeF 
+<BLOCKQUOTE> $data_typeï¼š 
  <A HREF="$tmp_img_location" $ttmp_target_sitei>
   $tmp_imgtitle
  </A>-$img_dsize 
 </BLOCKQUOTE>
 |;
-#  1.2ƒAƒCƒRƒ“ƒTƒCƒYƒ‚[ƒh—p‚Ì $html_block_A
+#  1.2ã‚¢ã‚¤ã‚³ãƒ³ã‚µã‚¤ã‚ºãƒ¢ãƒ¼ãƒ‰æ™‚ç”¨ã® $html_block_A
 $icon_html_block=qq|
-<BLOCKQUOTE> ‰æ@‘œF 
+<BLOCKQUOTE> ç”»ã€€åƒï¼š 
  <A HREF="$tmp_img_location" TARGET="top">
   <img src="$tmp_img_location" $w_set $h_set border="0">
    $tmp_imgtitle
@@ -1537,8 +1539,8 @@ $icon_html_block=qq|
 |;
 }
 #
-#   2.ƒŒƒCƒAƒEƒgƒpƒ^[ƒ“2/ ‰æ‘œ‚ªƒƒCƒ“‚È‹L–ŒnƒŒƒCƒAƒEƒg
-#  (------‰¡ŒÅ’èƒTƒCƒY•\¦•ƒI[ƒg•ƒIƒŠƒWƒiƒ‹ƒTƒCƒY•\¦—p--------j
+#   2.ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆãƒ‘ã‚¿ãƒ¼ãƒ³2/ ç”»åƒãŒãƒ¡ã‚¤ãƒ³ãªè¨˜äº‹ç³»ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ
+#  (------æ¨ªå›ºå®šã‚µã‚¤ã‚ºè¡¨ç¤ºï¼†ã‚ªãƒ¼ãƒˆï¼†ã‚ªãƒªã‚¸ãƒŠãƒ«ã‚µã‚¤ã‚ºè¡¨ç¤ºç”¨--------ï¼‰
 sub kiji_base2_html{
 
   local($ttmp_img_location)="$tmp_img_location";
@@ -1553,8 +1555,8 @@ sub kiji_base2_html{
 
 
 print<<HTML_END;
-<!--‹L–ƒŒƒCƒAƒEƒg ‰¡ŒÅ’èƒTƒCƒY•ƒI[ƒg•ƒIƒŠƒWƒiƒ‹ƒTƒCƒY—p-->
-‰æ‘œƒ^ƒCƒgƒ‹F<A HREF="$tmp_img_location" TARGET="top">$tmp_imgtitle
+<!--è¨˜äº‹ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ æ¨ªå›ºå®šã‚µã‚¤ã‚ºï¼†ã‚ªãƒ¼ãƒˆï¼†ã‚ªãƒªã‚¸ãƒŠãƒ«ã‚µã‚¤ã‚ºç”¨-->
+Image Titleï¼š<A HREF="$tmp_img_location" TARGET="top">$tmp_imgtitle
 <IMG SRC="$ttmp_img_location" BORDER="0" $size_sitei ALIGN="LEFT" HSPACE="12" style="margin: 12px;float: left">
 </A>-$img_dsize<BR>
 <BR>
@@ -1570,8 +1572,8 @@ $br_auto_clear
 HTML_END
 }
 #
-#   2.ƒŒƒCƒAƒEƒgƒpƒ^[ƒ“2/ ‰æ‘œ‚ªƒƒCƒ“‚È‹L–ŒnƒŒƒCƒAƒEƒg(ipod/iPhone/Android)
-#  (------‰¡ŒÅ’èƒTƒCƒY•\¦•ƒI[ƒg•ƒIƒŠƒWƒiƒ‹ƒTƒCƒY•\¦—p--------j
+#   2.ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆãƒ‘ã‚¿ãƒ¼ãƒ³2/ ç”»åƒãŒãƒ¡ã‚¤ãƒ³ãªè¨˜äº‹ç³»ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ(ipod/iPhone/Android)
+#  (------æ¨ªå›ºå®šã‚µã‚¤ã‚ºè¡¨ç¤ºï¼†ã‚ªãƒ¼ãƒˆï¼†ã‚ªãƒªã‚¸ãƒŠãƒ«ã‚µã‚¤ã‚ºè¡¨ç¤ºç”¨--------ï¼‰
 sub kiji_base2_ipod_html{
 
   local($ttmp_img_location)="$tmp_img_location";
@@ -1581,23 +1583,23 @@ sub kiji_base2_ipod_html{
 
   if($HTTP_USER_AGENT=~ /ipad/i){
 print<<HTML_END;
-<!--‹L–ƒŒƒCƒAƒEƒg ‰¡ŒÅ’èƒTƒCƒY•ƒI[ƒg•ƒIƒŠƒWƒiƒ‹ƒTƒCƒY—p-->
-‰æ‘œƒ^ƒCƒgƒ‹F<a href="$cgi_name?bbsaction=disp_fullscr&timg_location=$tmp_img_location&timg_w=$IMG_PARAMETERS{'width'}&timg_h=$IMG_PARAMETERS{'height'}&timg_dsize=$IMG_PARAMETERS{'dsize'}&timg_type=$IMG_PARAMETERS{'type'}">$tmp_imgtitle
-<IMG SRC="$ttmp_img_location" BORDER="0" $size_sitei ALIGN="LEFT" HSPACE="12" ALT=" ƒNƒŠƒbƒN‚ÅŠg‘å " style="margin: 12px;float: left"></A>
+<!--è¨˜äº‹ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ æ¨ªå›ºå®šã‚µã‚¤ã‚ºï¼†ã‚ªãƒ¼ãƒˆï¼†ã‚ªãƒªã‚¸ãƒŠãƒ«ã‚µã‚¤ã‚ºç”¨-->
+Image Titleï¼š<a href="$cgi_name?bbsaction=disp_fullscr&timg_location=$tmp_img_location&timg_w=$IMG_PARAMETERS{'width'}&timg_h=$IMG_PARAMETERS{'height'}&timg_dsize=$IMG_PARAMETERS{'dsize'}&timg_type=$IMG_PARAMETERS{'type'}">$tmp_imgtitle
+<IMG SRC="$ttmp_img_location" BORDER="0" $size_sitei ALIGN="LEFT" HSPACE="12" ALT=" ã‚¯ãƒªãƒƒã‚¯ã§æ‹¡å¤§ " style="margin: 12px;float: left"></A>
 -$img_dsize<BR>
 HTML_END
   }else{
 print<<HTML_END;
-<!--‹L–ƒŒƒCƒAƒEƒg ‰¡ŒÅ’èƒTƒCƒY•ƒI[ƒg•ƒIƒŠƒWƒiƒ‹ƒTƒCƒY—p-->
-‰æ‘œƒ^ƒCƒgƒ‹F<a href="$cgi_name?bbsaction=disp_fullscr&timg_location=$tmp_img_location&timg_w=$IMG_PARAMETERS{'width'}&timg_h=$IMG_PARAMETERS{'height'}&timg_dsize=$IMG_PARAMETERS{'dsize'}&timg_type=$IMG_PARAMETERS{'type'}">$tmp_imgtitle</A>
-<IMG SRC="$ttmp_img_location" BORDER="0" $size_sitei ALIGN="LEFT" HSPACE="12" ALT=" ƒ_ƒuƒ‹ƒ^ƒbƒv‚ÅŠg‘å " style="margin: 12px;float: left">
+<!--è¨˜äº‹ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ æ¨ªå›ºå®šã‚µã‚¤ã‚ºï¼†ã‚ªãƒ¼ãƒˆï¼†ã‚ªãƒªã‚¸ãƒŠãƒ«ã‚µã‚¤ã‚ºç”¨-->
+Image Titleï¼š<a href="$cgi_name?bbsaction=disp_fullscr&timg_location=$tmp_img_location&timg_w=$IMG_PARAMETERS{'width'}&timg_h=$IMG_PARAMETERS{'height'}&timg_dsize=$IMG_PARAMETERS{'dsize'}&timg_type=$IMG_PARAMETERS{'type'}">$tmp_imgtitle</A>
+<IMG SRC="$ttmp_img_location" BORDER="0" $size_sitei ALIGN="LEFT" HSPACE="12" ALT=" ãƒ€ãƒ–ãƒ«ã‚¿ãƒƒãƒ—ã§æ‹¡å¤§ " style="margin: 12px;float: left">
 -$img_dsize<BR>
 HTML_END
   }
 print<<HTML_END;
 <BR>
 <FONT SIZE="+1" COLOR="#FF0000"><B>$tmp_subject</B></FONT>
-$icon_html –¼‘OF<FONT COLOR="#00FF00"><B>$mail_a_start $tmp_name $mail_a_end</B></FONT>
+$icon_html Nameï¼š<FONT COLOR="#00FF00"><B>$mail_a_start $tmp_name $mail_a_end</B></FONT>
 $tmp_date $auto_user_IP $disp_seq_no $disp_re
 $tmp_url_link
 <BLOCKQUOTE $tmp_bq_opt><!-- body_start -->
@@ -1608,17 +1610,17 @@ $br_auto_clear
 <BR CLEAR="LEFT" style="clear :left">
 HTML_END
 }
-#   3.ƒŒƒCƒAƒEƒgƒpƒ^[ƒ“3/ •ÔM‹L–ƒŒƒCƒAƒEƒg
+#   3.ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆãƒ‘ã‚¿ãƒ¼ãƒ³3/ è¿”ä¿¡è¨˜äº‹ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ
 sub kiji_rep_html{
 
-	# ‹ŒŠO•”ƒtƒ@ƒCƒ‹‚Æ‚ÌŒİŠ·•”•ª(w’è‚ª‚È‚¢ê‡‚Ípink‚É‚·‚é)
+	# æ—§å¤–éƒ¨ãƒ•ã‚¡ã‚¤ãƒ«ã¨ã®äº’æ›éƒ¨åˆ†(æŒ‡å®šãŒãªã„å ´åˆã¯pinkã«ã™ã‚‹)
 	$res_base_font_color="color=pink" if($res_base_font_color eq "");
 
 print<<HTML_END;
-<!--•ÔM—p «‘S‘Ì‚ÌƒtƒHƒ“ƒg‚Í‚±‚±‚Åw’è -->
+<!--è¿”ä¿¡ç”¨ â†“å…¨ä½“ã®ãƒ•ã‚©ãƒ³ãƒˆã¯ã“ã“ã§æŒ‡å®š -->
 <font $res_base_font_color>
 <FONT SIZE="+1" COLOR="#FF0000"><B>$tmp_subject</B></FONT>
-$icon_html –¼‘OF<FONT COLOR="#00FF00"><B>$mail_a_start $tmp_name $mail_a_end</B></FONT>
+$icon_html Nameï¼š<FONT COLOR="#00FF00"><B>$mail_a_start $tmp_name $mail_a_end</B></FONT>
 $tmp_date $auto_user_IP $disp_seq_no 
 $tmp_url_link
 <BLOCKQUOTE $tmp_bq_opt><!-- body_start -->
@@ -1628,16 +1630,16 @@ $keitai_env_link</font>
 HTML_END
 }
 #=========================================#
-#     <‚g‚s‚l‚k--“ü—ÍƒtƒH[ƒ€•”>          #
+#     <ï¼¨ï¼´ï¼­ï¼¬--å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ éƒ¨>          #
 #=========================================#
 #
-#  ‹L–“ü—ÍƒtƒH[ƒ€•”‚Ì‚g‚s‚l‚kD“ü—Í€–Ú‚ğ‘‚â‚µ‚½‚èAŒ¸‚ç‚µ‚½‚è‚µ‚½‚¢
-#  ê‡‚Í‚±‚±‚ğ•ÏX‚µ‚Ä‚­‚¾‚³‚¢B‚¾‚¾‚µA•ÏX‚É‚æ‚è‚b‚f‚h‚ª‚¤‚Ü‚­“®‚©‚È
-#  ‚­‚È‚é‰Â”\«‚ª‚ ‚è‚Ü‚·‚Ì‚Å,‚±‚±‚Í•ÏX‚·‚é‚Í\•ª’ˆÓ‚µ‚Ä‚­‚¾‚³‚¢D
-#  ‚È‚¨AURL“™‚Ì€–Ú‚ğ’Ç‰Á‚µ‚½‚¢‚È‚ÇA‚æ‚­‚ ‚éŠó–]‚É‘Î‚µ‚Ä‚ÍAŠO•”İ’è
-#  ƒtƒ@ƒCƒ‹‚Æ‚¢‚¤ƒJƒXƒ^ƒ}ƒCƒY‚µ‚½İ’èƒtƒ@ƒCƒ‹‚ğg‚¤‚±‚Æ‚É‚æ‚èA‚æ‚èŠÈ’P
-#  ‚ÉÀŒ»‚Å‚«‚Ü‚·‚Ì‚ÅA©•ª‚ÅƒJƒXƒ^ƒ}ƒCƒY‚·‚é‚æ‚è‚àA‚»‚ê‚ğg‚Á‚½•û‚ªŠy
-#  ‚Å‚µ‚å‚¤B‚È‚¨A“¯ƒtƒ@ƒCƒ‹‚ÍƒTƒ|[ƒgƒTƒCƒg‚Ì•û‚Å”z•z‚µ‚Ä‚¢‚Ü‚·B  
+#  è¨˜äº‹å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ éƒ¨ã®ï¼¨ï¼´ï¼­ï¼¬ï¼å…¥åŠ›é …ç›®ã‚’å¢—ã‚„ã—ãŸã‚Šã€æ¸›ã‚‰ã—ãŸã‚Šã—ãŸã„
+#  å ´åˆã¯ã“ã“ã‚’å¤‰æ›´ã—ã¦ãã ã•ã„ã€‚ã ã ã—ã€å¤‰æ›´ã«ã‚ˆã‚Šï¼£ï¼§ï¼©ãŒã†ã¾ãå‹•ã‹ãª
+#  ããªã‚‹å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã®ã§,ã“ã“ã¯å¤‰æ›´ã™ã‚‹æ™‚ã¯ååˆ†æ³¨æ„ã—ã¦ãã ã•ã„ï¼
+#  ãªãŠã€URLç­‰ã®é …ç›®ã‚’è¿½åŠ ã—ãŸã„ãªã©ã€ã‚ˆãã‚ã‚‹å¸Œæœ›ã«å¯¾ã—ã¦ã¯ã€å¤–éƒ¨è¨­å®š
+#  ãƒ•ã‚¡ã‚¤ãƒ«ã¨ã„ã†ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºã—ãŸè¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½¿ã†ã“ã¨ã«ã‚ˆã‚Šã€ã‚ˆã‚Šç°¡å˜
+#  ã«å®Ÿç¾ã§ãã¾ã™ã®ã§ã€è‡ªåˆ†ã§ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºã™ã‚‹ã‚ˆã‚Šã‚‚ã€ãã‚Œã‚’ä½¿ã£ãŸæ–¹ãŒæ¥½
+#  ã§ã—ã‚‡ã†ã€‚ãªãŠã€åŒãƒ•ã‚¡ã‚¤ãƒ«ã¯ã‚µãƒãƒ¼ãƒˆã‚µã‚¤ãƒˆã®æ–¹ã§é…å¸ƒã—ã¦ã„ã¾ã™ã€‚  
 #
 sub form_html{
 &ext_config_form_pre if($EXTSUB{'form_pre'} == 1 );
@@ -1658,7 +1660,7 @@ sub auto_cols_change{
 }
 
 print<<HTML_END;
-<!-- ƒtƒH[ƒ€“ü—Í•”EEE‚±‚±‚Í‚ ‚Ü‚è•ÏX‚µ‚È‚¢•û‚ª‚¢‚¢‚Å‚µ‚å‚¤ -->
+<!-- ãƒ•ã‚©ãƒ¼ãƒ å…¥åŠ›éƒ¨ãƒ»ãƒ»ãƒ»ã“ã“ã¯ã‚ã¾ã‚Šå¤‰æ›´ã—ãªã„æ–¹ãŒã„ã„ã§ã—ã‚‡ã† -->
 <FORM ACTION="$cgi_name" METHOD="POST" ENCTYPE="multipart/form-data" style="display: inline">
 <INPUT TYPE="HIDDEN" NAME="bbsaction" VALUE="post">
 <INPUT TYPE="HIDDEN" NAME="page" VALUE="$FORM{'page'}">
@@ -1673,81 +1675,81 @@ print<<HTML_END;
 <INPUT TYPE="HIDDEN" NAME="p2" VALUE="$FORM{'p2'}">
 <INPUT TYPE="HIDDEN" NAME="target" VALUE="$FORM{'target'}">
 <INPUT TYPE="HIDDEN" NAME="target_no" VALUE="$FORM{'target_no'}">
-$POSTADDP{'UPLOADFORM'}<!-- «—ˆŠg’£—p -->
+$POSTADDP{'UPLOADFORM'}<!-- å°†æ¥æ‹¡å¼µç”¨ -->
 <UL>
 <TABLE ID="uploadmain" BORDER="$table_border" CELLSPACING="$table_cellspacing" CELLPADDING="$table_cellpadding" bgcolor="$table_bgcolor" background="$table_background_image">
-<!-- “Še—pƒpƒXƒ[ƒhB‰ïˆõ§‚É‚·‚é‚Æ‚«‚Ég—p -->
-<!-- cm_out_xx_x‚Íİ’èƒ‚[ƒh‚É‚æ‚èA©“®“I‚É‚g‚s‚l‚kƒRƒƒ“ƒgƒAƒEƒg‹L†ƒI[[“™‚ª‘ã“ü‚³‚ê‚Ü‚· -->
+<!-- æŠ•ç¨¿ç”¨ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã€‚ä¼šå“¡åˆ¶ã«ã™ã‚‹ã¨ãã«ä½¿ç”¨ -->
+<!-- ï¼„cm_out_xx_xã¯è¨­å®šãƒ¢ãƒ¼ãƒ‰ã«ã‚ˆã‚Šã€è‡ªå‹•çš„ã«ï¼¨ï¼´ï¼­ï¼¬ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆè¨˜å·ï¼œï¼ãƒ¼ãƒ¼ç­‰ãŒä»£å…¥ã•ã‚Œã¾ã™ -->
 $cm_out_pw_h
 <TR $ie_bg >
- <TD ALIGN=CENTER><font $font_option>‰ïˆõƒpƒXƒ[ƒhF </font></TD>
- <TD colspan=2><INPUT TYPE="PASSWORD" NAME="entry_passwd" SIZE=15 VALUE="$COOKIE{'entry_passwd'}" MAXLENGTH="20">*•K—v $POSTADDP{'MEMBERPASS'}</TD>
+ <TD ALIGN=CENTER><font $font_option>ä¼šå“¡ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ï¼š </font></TD>
+ <TD colspan=2><INPUT TYPE="PASSWORD" NAME="entry_passwd" SIZE=15 VALUE="$COOKIE{'entry_passwd'}" MAXLENGTH="20">*NECCESSARY $POSTADDP{'MEMBERPASS'}</TD>
 </TR>
 $cm_out_pw_f
 <TR $ie_bg>
- <TD ALIGN=RIGHT><font $font_option>‚¨‚È‚Ü‚¦F </font></TD>
+ <TD ALIGN=RIGHT><font $font_option>Nameï¼š </font></TD>
  <TD colspan=2><INPUT TYPE="TEXT" NAME="name" SIZE=30 VALUE="$COOKIE{'name'}" MAXLENGTH="40"> $DISP_OMIT{'name'}</TD>
 </TR>
-<!-- SPAM—\–h‚Ì‚½‚ß,Å‹ß‚ÍŒf¦”Â‚ÉemailƒAƒhƒŒƒX‚ğ“ü‚ê‚él‚ª‚Ü‚¸‚¢‚È‚¢‚Ì‚ÅAƒfƒtƒHƒ‹ƒg‚ÍÈ—ª‚Æ‚µ‚½
+<!-- SPAMäºˆé˜²ã®ãŸã‚,æœ€è¿‘ã¯æ²ç¤ºæ¿ã«emailã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’å…¥ã‚Œã‚‹äººãŒã¾ãšã„ãªã„ã®ã§ã€ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯çœç•¥ã¨ã—ãŸ
 <TR $ie_bg >
- <TD ALIGN=RIGHT><font $font_option>e-mailF </font></TD>
+ <TD ALIGN=RIGHT><font $font_option>e-mailï¼š </font></TD>
  <TD colspan=2><INPUT TYPE="TEXT" NAME="email" VALUE="$COOKIE{'email'}" SIZE=30 MAXLENGTH="50"> $DISP_OMIT{'email'}</TD>
 </TR>
 -->
 <TR $ie_bg >
- <TD ALIGN=RIGHT><font $font_option>‘è–¼F </font></TD>
+ <TD ALIGN=RIGHT><font $font_option>Nameï¼š </font></TD>
  <TD colspan=2><INPUT TYPE="TEXT" NAME="subject" VALUE="$COOKIE{'subject'}" SIZE=30 MAXLENGTH="60"> $DISP_OMIT{'subject'}</TD>
-</TR>$PM{'INS_POINT_FORM01'}<!-- ©«—ˆŠg’£—p -->
+</TR>$PM{'INS_POINT_FORM01'}<!-- â†å°†æ¥æ‹¡å¼µç”¨ -->
 
 HTML_END
-&ext_config_form_opt if($EXTSUB{'form_opt'} == 1 );# ŠO•”İ’èƒtƒ@ƒCƒ‹‚É‚æ‚é«—ˆŠg’£—p
+&ext_config_form_opt if($EXTSUB{'form_opt'} == 1 );# å¤–éƒ¨è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ã«ã‚ˆã‚‹å°†æ¥æ‹¡å¼µç”¨
 print<<HTML_END;
 
-<!-- —\\”õ‚Ì“ü—Í€–Úƒpƒ‰ƒ[ƒ^E“ü—Í€–Ú‚ğ‘‚â‚µ‚½‚¢ê‡‚Ég—p -->
-<!-- ‚È‚¨A‚±‚±‚Å—LŒø‰»‚µ‚½€–Ú‚Ìƒf[ƒ^‚ÍA‹L–•”•ª‚ÌHTML(kiji_base_html/kiji_base2_html)“à‚ÉA$OPTDATA{'optA'}“™‚Ì‹L†‚ğ‘‚­‚ÆA‘‚¢‚½ˆÊ’u‚É‘ã“ü‚³‚êA•\\¦‚³‚ê‚Ü‚· -->
+<!-- äºˆ\å‚™ã®å…¥åŠ›é …ç›®ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãƒ»å…¥åŠ›é …ç›®ã‚’å¢—ã‚„ã—ãŸã„å ´åˆã«ä½¿ç”¨ -->
+<!-- ãªãŠã€ã“ã“ã§æœ‰åŠ¹åŒ–ã—ãŸé …ç›®ã®ãƒ‡ãƒ¼ã‚¿ã¯ã€è¨˜äº‹éƒ¨åˆ†ã®HTML(kiji_base_html/kiji_base2_html)å†…ã«ã€$OPTDATA{'optA'}ç­‰ã®è¨˜å·ã‚’æ›¸ãã¨ã€æ›¸ã„ãŸä½ç½®ã«ä»£å…¥ã•ã‚Œã€è¡¨\ç¤ºã•ã‚Œã¾ã™ -->
 
-<!-- €–ÚA“ü—Í—“‚±‚±‚©‚ç g—p‚Í‰º‚ÌƒI--‚ğæ‚é -->
+<!-- é …ç›®Aå…¥åŠ›æ¬„ã“ã“ã‹ã‚‰ ä½¿ç”¨æ™‚ã¯ä¸‹ã®ï¼œï¼--ã‚’å–ã‚‹ -->
 <!--
 <TR $ie_bg >
- <TD ALIGN=RIGHT><font $font_option>“ü—Íƒf[ƒ^A  $DISP_OMIT{'optA'}</font></TD>
+ <TD ALIGN=RIGHT><font $font_option>Input data A  $DISP_OMIT{'optA'}</font></TD>
  <TD colspan=2><INPUT TYPE="TEXT" NAME="optA" VALUE="$COOKIE{'optA'}" SIZE=55 MAXLENGTH=100></TD>
 </TR>
 -->
-<!-- €–ÚA“ü—Í—“‚±‚±‚Ü‚Å g—p‚Íã‚Ì--„‚ğæ‚é -->
-<!-- €–ÚB“ü—Í—“‚±‚±‚©‚ç g—p‚Í‰º‚ÌƒI--‚ğæ‚é -->
+<!-- é …ç›®Aå…¥åŠ›æ¬„ã“ã“ã¾ã§ ä½¿ç”¨æ™‚ã¯ä¸Šã®--ï¼ã‚’å–ã‚‹ -->
+<!-- é …ç›®Bå…¥åŠ›æ¬„ã“ã“ã‹ã‚‰ ä½¿ç”¨æ™‚ã¯ä¸‹ã®ï¼œï¼--ã‚’å–ã‚‹ -->
 <!--
 <TR $ie_bg >
- <TD ALIGN=RIGHT><font $font_option>“ü—Íƒf[ƒ^B $DISP_OMIT{'optB'}</font></TD>
+ <TD ALIGN=RIGHT><font $font_option>Input data B $DISP_OMIT{'optB'}</font></TD>
  <TD colspan=2><INPUT TYPE="TEXT" NAME="optB" VALUE="$COOKIE{'optB'}" SIZE=32 MAXLENGTH=100></TD>
 </TR>
 -->
-<!-- €–ÚB“ü—Í—“‚±‚±‚Ü‚Å g—p‚Íã‚Ì--„‚ğæ‚é -->
+<!-- é …ç›®Bå…¥åŠ›æ¬„ã“ã“ã¾ã§ ä½¿ç”¨æ™‚ã¯ä¸Šã®--ï¼ã‚’å–ã‚‹ -->
 
-<!-- €–ÚC“ü—Í—“‚±‚±‚©‚ç g—p‚Í‰º‚ÌƒI--‚ğæ‚é -->
+<!-- é …ç›®Cå…¥åŠ›æ¬„ã“ã“ã‹ã‚‰ ä½¿ç”¨æ™‚ã¯ä¸‹ã®ï¼œï¼--ã‚’å–ã‚‹ -->
 <!--
 <TR $ie_bg >
- <TD ALIGN=RIGHT><font $font_option>“ü—Íƒf[ƒ^C $DISP_OMIT{'optC'}</font></TD>
+ <TD ALIGN=RIGHT><font $font_option>Input data C $DISP_OMIT{'optC'}</font></TD>
  <TD colspan=2><INPUT TYPE="TEXT" NAME="optC" VALUE="$COOKIE{'optC'}" SIZE=32 MAXLENGTH=100></TD>
 </TR>
 -->
-<!-- €–ÚC“ü—Í—“‚±‚±‚Ü‚Å g—p‚Íã‚Ì--„‚ğæ‚é -->
+<!-- é …ç›®Cå…¥åŠ›æ¬„ã“ã“ã¾ã§ ä½¿ç”¨æ™‚ã¯ä¸Šã®--ï¼ã‚’å–ã‚‹ -->
 
-<!-- ‚à‚Á‚Æ‘‚â‚µ‚½‚¢ê‡‚ÍAD,E,F....‚Æ“¯—l‚É’Ç‰Á‚µ‚Ä‘‚â‚µ‚Ä‚­‚¾‚³‚¢ -->
+<!-- ã‚‚ã£ã¨å¢—ã‚„ã—ãŸã„å ´åˆã¯ã€D,E,F....ã¨åŒæ§˜ã«è¿½åŠ ã—ã¦å¢—ã‚„ã—ã¦ãã ã•ã„ -->
 
 <TR $ie_bg >
- <TD ALIGN=RIGHT><font $font_option>–{•¶F</font></TD>
+ <TD ALIGN=RIGHT><font $font_option>æœ¬æ–‡ï¼š</font></TD>
  <TD colspan=2>
 <TEXTAREA ID="uploadmainTAREA1" NAME="body" COLS="$form_textarea_cols" ROWS=6 MAXLENGTH=10000 WRAP=SOFT>$COOKIE{'body'}</TEXTAREA>$DISP_OMIT{'body'}</TD>
 </TR>
 
 $cm_out_img_h
 <TR $ie_bg2 >
- <TD ALIGN=RIGHT><font $font_option2 >‰æ‘œ‘I‘ğ </font></TD>
+ <TD ALIGN=RIGHT><font $font_option2 >Image Selection </font></TD>
  <TD colspan=2><INPUT TYPE="FILE" NAME="img" VALUE="" SIZE=30> $DISP_OMIT{'img'}</TD>
 </TR>
 <TR $ie_bg3 >
- <TD ALIGN=RIGHT NOWRAP><font $font_option2 > &nbsp&nbsp‰æ‘œ‚Ì‘è–¼ </font></TD>
- <TD colspan=2><INPUT TYPE="TEXT" NAME="imgtitle" SIZE=30 MAXLENGTH=60><font $f_param>*È—ª‰Â</font></TD>
+ <TD ALIGN=RIGHT NOWRAP><font $font_option2 > &nbsp&nbspTitle of image </font></TD>
+ <TD colspan=2><INPUT TYPE="TEXT" NAME="imgtitle" SIZE=30 MAXLENGTH=60><font $f_param>*çœç•¥å¯</font></TD>
 </TR>
 $cm_out_img_f
 HTML_END
@@ -1757,18 +1759,18 @@ if($use_guest_passwd=='-1'){
 
  if($FORM{'bbsaction'} ne "edit_form"){
 print<<HTML_END;
-<!-- íœƒL[ -->
+<!-- å‰Šé™¤ã‚­ãƒ¼ -->
 <TR $ie_bg >
- <TD ALIGN=RIGHT><font $font_option>íœƒL[ </font></TD>
+ <TD ALIGN=RIGHT><font $font_option>Deletion Key </font></TD>
  <TD><INPUT TYPE="PASSWORD" NAME="rmkey" VALUE="$COOKIE{'rmkey'}" SIZE=4 MAXLENGTH=16>
-  $DISP_OMIT{'rmkey'} ©•ª‚Å‹L–‚ğíœ‚Ég—pB”š‚Å4ƒPƒ^ˆÈ“à</TD>
+  $DISP_OMIT{'rmkey'} Used when deleting posts. Numbers, up to 4 digits.</TD>
  <TD ALIGN=LEFT>
- <INPUT TYPE="CHECKBOX" NAME="rmkeym" $rmkey_default_checked>ƒL[‚ğ‹L‰¯</TD>
+ <INPUT TYPE="CHECKBOX" NAME="rmkeym" $rmkey_default_checked>Memorize key</TD>
 </TR>
 HTML_END
  }else{
 print<<HTML_END;
-<!-- íœƒL[ -->
+<!-- å‰Šé™¤ã‚­ãƒ¼ -->
 <INPUT TYPE="HIDDEN" NAME="rmkey" VALUE="$COOKIE{'rmkey'}">
 <INPUT TYPE="HIDDEN" NAME="rmkeym" VALUE="$COOKIE{'rmkeym'}">
 HTML_END
@@ -1780,7 +1782,7 @@ print<<HTML_END;
  <TD>
  $form_sage_checkbox_html
  </TD>
- <TD><INPUT ID="btnS1" TYPE="SUBMIT" VALUE=" ‘—M‚·‚é "><INPUT ID="btnR1" TYPE="RESET" VALUE="’†~">
+ <TD><INPUT ID="btnS1" TYPE="SUBMIT" VALUE=" Send "><INPUT ID="btnR1" TYPE="RESET" VALUE="Reset">
  </TD>
  </FORM>
  <TD align=center></TD>
@@ -1791,23 +1793,23 @@ HTML_END
 }
 #
 #===================================================#
-#     <‚g‚s‚l‚k--‰æ‘œƒtƒ‹ƒXƒNƒŠ[ƒ“•\¦•”>          #
+#     <ï¼¨ï¼´ï¼­ï¼¬--ç”»åƒãƒ•ãƒ«ã‚¹ã‚¯ãƒªãƒ¼ãƒ³è¡¨ç¤ºéƒ¨>          #
 #===================================================#
 # 2008.06 new
 #
-#  iPod Touch/iPhone/Android‚Å‰æ‘œ‚¾‚¯‚ğŒÄ‚Ño‚µ‚½ê‡A¬‚³‚­•\¦‚³‚ê‚Ä‚µ‚Ü‚¤‚½‚ßA
-#  ƒtƒ‹ƒXƒNƒŠ[ƒ“‚Éo‚·‚½‚ß‚ÉVİ‚µ‚½‚g‚s‚l‚k•”‚Å‚·B
+#  iPod Touch/iPhone/Androidã§ç”»åƒã ã‘ã‚’å‘¼ã³å‡ºã—ãŸå ´åˆã€å°ã•ãè¡¨ç¤ºã•ã‚Œã¦ã—ã¾ã†ãŸã‚ã€
+#  ãƒ•ãƒ«ã‚¹ã‚¯ãƒªãƒ¼ãƒ³ã«å‡ºã™ãŸã‚ã«æ–°è¨­ã—ãŸï¼¨ï¼´ï¼­ï¼¬éƒ¨ã§ã™ã€‚
 #
-#  print<<HTML_END;‚ÌŸs‚©‚ç"HTML_END"‚Ì‚ ‚és‚Ü‚Å‚ÍA’Êí‚Ì‚g‚s‚l‚k
-#  ‚Æ‚µ‚Ä•ÒW‰Â”\‚Å‚·D 
+#  print<<HTML_END;ã®æ¬¡è¡Œã‹ã‚‰"HTML_END"ã®ã‚ã‚‹è¡Œã¾ã§ã¯ã€é€šå¸¸ã®ï¼¨ï¼´ï¼­ï¼¬
+#  ã¨ã—ã¦ç·¨é›†å¯èƒ½ã§ã™ï¼ 
 sub disp_fullscreen_html{
 
-    local($tmp_title)=$_[0];# ˆø”1‚Æ‚µ‚Äæ“¾
-	local($tmpp_img_location)=$_[1];# ˆø”2‚Æ‚µ‚Äæ“¾
-	    local($tmpp_img_width)=$_[2];# ˆø”3‚Æ‚µ‚Äæ“¾
-		local($tmpp_img_height)=$_[3];# ˆø”4‚Æ‚µ‚Äæ“¾
-		local($tmpp_img_dsize)=$_[4];# ˆø”4‚Æ‚µ‚Äæ“¾
-		local($tmpp_img_type)=$_[5];# ˆø”4‚Æ‚µ‚Äæ“¾
+    local($tmp_title)=$_[0];# å¼•æ•°1ã¨ã—ã¦å–å¾—
+	local($tmpp_img_location)=$_[1];# å¼•æ•°2ã¨ã—ã¦å–å¾—
+	    local($tmpp_img_width)=$_[2];# å¼•æ•°3ã¨ã—ã¦å–å¾—
+		local($tmpp_img_height)=$_[3];# å¼•æ•°4ã¨ã—ã¦å–å¾—
+		local($tmpp_img_dsize)=$_[4];# å¼•æ•°4ã¨ã—ã¦å–å¾—
+		local($tmpp_img_type)=$_[5];# å¼•æ•°4ã¨ã—ã¦å–å¾—
 
 		    print<<HTML_END;
 <HTML lang="ja">
@@ -1820,12 +1822,12 @@ $top_html_header
 <BR CLEAR="LEFT" style="clear :left">
 
 <FORM>
-<INPUT TYPE="button" VALUE=" ‚à‚Ç‚é " onClick="history.back()" $output_button_px>
+<INPUT TYPE="button" VALUE=" Back " onClick="history.back()" $output_button_px>
 $tmpp_img_type - w $tmpp_img_width/h $tmpp_img_height - $tmpp_img_dsize
 
 </FORM>
 <NOSCRIPT>
-<a href="$ENV{'HTTP_REFERER'}">‚à‚Ç‚é</a>
+<a href="$ENV{'HTTP_REFERER'}">Back</a>
 </NOSCRIPT>
 
 
@@ -1835,156 +1837,156 @@ $tmpp_img_type - w $tmpp_img_width/h $tmpp_img_height - $tmpp_img_dsize
 HTML_END
 }
 #
-#------------‚g‚s‚l‚k”²ˆ‚±‚±‚Ü‚Å------------#
+#------------ï¼¨ï¼´ï¼­ï¼¬æŠœç²‹ã“ã“ã¾ã§------------#
 # cfg_end
 
 
     #=================================================================#
-    #     ˆÈã‚Åƒ†[ƒUƒJƒXƒ^ƒ}ƒCƒY•”•ª‚Å‚ ‚é‰Šúİ’è‚ÍI‚í‚è‚Å‚·      #
-    #     ˆÈ‰º‚ÍƒvƒƒOƒ‰ƒ€‚É‚È‚è‚Ü‚·D                                #
+    #     ä»¥ä¸Šã§ãƒ¦ãƒ¼ã‚¶ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºéƒ¨åˆ†ã§ã‚ã‚‹åˆæœŸè¨­å®šã¯çµ‚ã‚ã‚Šã§ã™      #
+    #     ä»¥ä¸‹ã¯ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã«ãªã‚Šã¾ã™ï¼                                #
     #=================================================================#
 
 
 #=======================================================================#
-# ƒƒCƒ“ƒ‹[ƒ`ƒ“
+# ãƒ¡ã‚¤ãƒ³ãƒ«ãƒ¼ãƒãƒ³
 #=======================================================================#
 
-&init_valiables;			# ‰Šú‰»
+&init_valiables;			# åˆæœŸåŒ–
 
-&check_open;				# ŠJ“XŠm”F
+&check_open;				# é–‹åº—ç¢ºèª
 
-&read_input;				# ƒtƒH[ƒ€‚Ì“à—e‚ÆƒNƒbƒL[‚ğ“Ç‚İ‚Ş
+&read_input;				# ãƒ•ã‚©ãƒ¼ãƒ ã®å†…å®¹ã¨ã‚¯ãƒƒã‚­ãƒ¼ã‚’èª­ã¿è¾¼ã‚€
 
-&ext_config_amode if($EXTSUB{'amode'}==1);# ŠO•”İ’è‚É‚æ‚é«—ˆŠg’£—p
+&ext_config_amode if($EXTSUB{'amode'}==1);# å¤–éƒ¨è¨­å®šã«ã‚ˆã‚‹å°†æ¥æ‹¡å¼µç”¨
 
-&amode_done;				# ŠÇ—Ò‰æ–Ê‚Ìˆ—
+&amode_done;				# ç®¡ç†è€…ç”»é¢ã®å‡¦ç†
 
-&ext_config_bbsaction if($EXTSUB{'bbsaction'}==1);# ŠO•”İ’è‚É‚æ‚é«—ˆŠg’£—p
+&ext_config_bbsaction if($EXTSUB{'bbsaction'}==1);# å¤–éƒ¨è¨­å®šã«ã‚ˆã‚‹å°†æ¥æ‹¡å¼µç”¨
 
-if($FORM{'bbsaction'} eq 'post'){		# ƒ‚[ƒh‚ª“Šeƒ‚[ƒh‚Ìê‡
-	&check_post_browser_type;		# ƒuƒ‰ƒEƒUƒ`ƒFƒbƒN
-	&check_entry_passwd;			# ‰ïˆõƒ`ƒFƒbƒN
-	&protect_from_BBS_cracker;		# r‚µ‘Îô
+if($FORM{'bbsaction'} eq 'post'){		# ãƒ¢ãƒ¼ãƒ‰ãŒæŠ•ç¨¿ãƒ¢ãƒ¼ãƒ‰ã®å ´åˆ
+	&check_post_browser_type;		# ãƒ–ãƒ©ã‚¦ã‚¶ãƒã‚§ãƒƒã‚¯
+	&check_entry_passwd;			# ä¼šå“¡ãƒã‚§ãƒƒã‚¯
+	&protect_from_BBS_cracker;		# è’ã—å¯¾ç­–
 
-	&read_cookie;				# ƒNƒbƒL[‚ğ“Ç‚Ş
-	&limit_upload_times;			# ˜A‘±“Še‰ñ”ƒ`ƒFƒbƒN
+	&read_cookie;				# ã‚¯ãƒƒã‚­ãƒ¼ã‚’èª­è¾¼ã‚€
+	&limit_upload_times;			# é€£ç¶šæŠ•ç¨¿å›æ•°ãƒã‚§ãƒƒã‚¯
 
 
-	if($FORM{'prebbsaction'} eq 'edit_form'){# ’uŠ·ƒ‚[ƒh‚Ìê‡
-		&replace_data("$FORM{'target'}","$file");# C³ˆ—
+	if($FORM{'prebbsaction'} eq 'edit_form'){# ç½®æ›ãƒ¢ãƒ¼ãƒ‰ã®å ´åˆ
+		&replace_data("$FORM{'target'}","$file");# ä¿®æ­£å‡¦ç†
 	}else{
-		&check_double_post("$FORM{'email'}","2","1");# 2d“Šeƒ`ƒFƒbƒN
-		&post_data("$file");		# “Šeˆ—
-		&set_cookies;			# ƒNƒbƒL[‚ğƒZƒbƒg
+		&check_double_post("$FORM{'email'}","2","1");# 2é‡æŠ•ç¨¿ãƒã‚§ãƒƒã‚¯
+		&post_data("$file");		# æŠ•ç¨¿å‡¦ç†
+		&set_cookies;			# ã‚¯ãƒƒã‚­ãƒ¼ã‚’ã‚»ãƒƒãƒˆ
 	}
 
-	&send_mail;				# ŠÇ—Ò‚Öƒ[ƒ‹	
-	&jump_html;				# ƒpƒ‰ƒ[ƒ^ƒNƒŠƒA—p‚g‚s‚l‚k
-	exit;					# I—¹
+	&send_mail;				# ç®¡ç†è€…ã¸ãƒ¡ãƒ¼ãƒ«	
+	&jump_html;				# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚¯ãƒªã‚¢ç”¨ï¼¨ï¼´ï¼­ï¼¬
+	exit;					# çµ‚äº†
 
-}elsif($FORM{'bbsaction'} eq 'remove'){	# ƒ‚[ƒh‚ªíœƒ‚[ƒh‚Ìê‡
+}elsif($FORM{'bbsaction'} eq 'remove'){	# ãƒ¢ãƒ¼ãƒ‰ãŒå‰Šé™¤ãƒ¢ãƒ¼ãƒ‰ã®å ´åˆ
 
 	if($FORM{'passwd'} eq $admin_passwd){
-		$remove_mode="admin";		# íœƒ‚[ƒh
-		&remove_data("$file");		# íœˆ—
-		&jump_html;			# ƒpƒ‰ƒ[ƒ^ƒNƒŠƒA—p‚g‚s‚l‚k
-		exit;				# I—¹
+		$remove_mode="admin";		# å‰Šé™¤ãƒ¢ãƒ¼ãƒ‰
+		&remove_data("$file");		# å‰Šé™¤å‡¦ç†
+		&jump_html;			# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚¯ãƒªã‚¢ç”¨ï¼¨ï¼´ï¼­ï¼¬
+		exit;				# çµ‚äº†
 	}elsif(($FORM{'passwd'} eq $guest_passwd)&&($use_guest_passwd ==1)){
-		$remove_mode="guest";		# íœƒ‚[ƒh
-		&remove_data("$file");		# íœˆ—
-		&jump_html;			# ƒpƒ‰ƒ[ƒ^ƒNƒŠƒA—p‚g‚s‚l‚k
-		exit;				# I—¹
+		$remove_mode="guest";		# å‰Šé™¤ãƒ¢ãƒ¼ãƒ‰
+		&remove_data("$file");		# å‰Šé™¤å‡¦ç†
+		&jump_html;			# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚¯ãƒªã‚¢ç”¨ï¼¨ï¼´ï¼­ï¼¬
+		exit;				# çµ‚äº†
 	}elsif($use_guest_passwd =='-1'){
-		$remove_mode="rmkey";		# íœƒ‚[ƒh
-		&remove_data("$file");		# íœˆ—
-		&jump_html;			# ƒpƒ‰ƒ[ƒ^ƒNƒŠƒA—p‚g‚s‚l‚k
-		exit;				# I—¹
+		$remove_mode="rmkey";		# å‰Šé™¤ãƒ¢ãƒ¼ãƒ‰
+		&remove_data("$file");		# å‰Šé™¤å‡¦ç†
+		&jump_html;			# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚¯ãƒªã‚¢ç”¨ï¼¨ï¼´ï¼­ï¼¬
+		exit;				# çµ‚äº†
 	}else{
-		&error("ƒpƒXƒ[ƒh‚ªˆá‚¢‚Ü‚·Díœ‚ğ’†~‚µ‚Ü‚µ‚½D");
+		&error("Wrong password. Deletion has been canceled.");
 	}
 
-}elsif($FORM{'bbsaction'} eq 'pf_change'){# ƒ‚[ƒh‚ªƒvƒƒtƒ@ƒCƒ‹•ÏX‚Ìê‡
-	&set_cookies;				# ƒNƒbƒL[‚ğƒZƒbƒg
-	&jump_html;				# ƒpƒ‰ƒ[ƒ^ƒNƒŠƒA—p‚g‚s‚l‚k
-	exit;					# I—¹
+}elsif($FORM{'bbsaction'} eq 'pf_change'){# ãƒ¢ãƒ¼ãƒ‰ãŒãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«å¤‰æ›´ã®å ´åˆ
+	&set_cookies;				# ã‚¯ãƒƒã‚­ãƒ¼ã‚’ã‚»ãƒƒãƒˆ
+	&jump_html;				# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚¯ãƒªã‚¢ç”¨ï¼¨ï¼´ï¼­ï¼¬
+	exit;					# çµ‚äº†
 
-}elsif($FORM{'bbsaction'} eq 'page_change'){# ƒ‚[ƒh‚ªƒy[ƒW•ÏX‚Ìê‡
-	&read_cookie;				# ƒNƒbƒL[‚ğ“Ç‚Ş
+}elsif($FORM{'bbsaction'} eq 'page_change'){# ãƒ¢ãƒ¼ãƒ‰ãŒãƒšãƒ¼ã‚¸å¤‰æ›´ã®å ´åˆ
+	&read_cookie;				# ã‚¯ãƒƒã‚­ãƒ¼ã‚’èª­è¾¼ã‚€
 
-}elsif($FORM{'bbsaction'} eq 'disp_form_only'){# ƒtƒH[ƒ€ƒEƒBƒ“ƒh•\¦‚Ìê‡
+}elsif($FORM{'bbsaction'} eq 'disp_form_only'){# ãƒ•ã‚©ãƒ¼ãƒ ã‚¦ã‚£ãƒ³ãƒ‰è¡¨ç¤ºã®å ´åˆ
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
 	&top_html;
-	&output_form_html;			# “ü—ÍƒtƒH[ƒ€‚ğ•\¦
+	&output_form_html;			# å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ ã‚’è¡¨ç¤º
 	print "</BODY></HTML>\n";
 	exit;
-}elsif($FORM{'bbsaction'} eq 'disp_rep_form'){# •ÔM—pƒEƒBƒ“ƒh•\¦‚Ìê‡
+}elsif($FORM{'bbsaction'} eq 'disp_rep_form'){# è¿”ä¿¡ç”¨ã‚¦ã‚£ãƒ³ãƒ‰è¡¨ç¤ºã®å ´åˆ
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
 	&top_html;
-	print "<UL><H2>‹L–NO. $FORM{'parent'}‚É•ÔM‚ğ‚µ‚Ü‚· <font size=-1 color=gray> („§:200•¶šˆÈ“à)</font></H2>\n";
+	print "<UL><H2>Reply to article No. $FORM{'parent'} <font size=-1 color=gray> (Recommended: 200 characters or less)</font></H2>\n";
 	print "[<a href=\"$cgi_name?amode=$FORM{'amode'}&p1=$FORM{'p1'}
-&p2=$FORM{'p2'}&page=$FORM{'page'}\">•ÔM‚µ‚È‚¢‚Å–ß‚é</a>]</UL>\n";
+&p2=$FORM{'p2'}&page=$FORM{'page'}\">Back without reply</a>]</UL>\n";
 	$form_sage_checkbox_html=qq|<INPUT TYPE="checkbox" NAME="sage" VALUE="1">sage| if($PM{'use_sage'} == 1);
-	&output_form_html;			# “ü—ÍƒtƒH[ƒ€‚ğ•\¦
-	&protect_from_BBS_cracker if($PM{'no_disp_for_cracker'}==1);# r‚µ‘Îô
-    	&output_html("$file");			# Œf¦”Â‚ğ•\¦
+	&output_form_html;			# å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ ã‚’è¡¨ç¤º
+	&protect_from_BBS_cracker if($PM{'no_disp_for_cracker'}==1);# è’ã—å¯¾ç­–
+    	&output_html("$file");			# æ²ç¤ºæ¿ã‚’è¡¨ç¤º
 	exit;
-# twitter—pAPI	
-}elsif($FORM{'twi'} ne ""){# twitter—pˆ—‚Ìê‡
-	# twitter—p‚Ì’ZkURLƒpƒ‰ƒ[ƒ^‚ğ•œŒ³
+# twitterç”¨API	
+}elsif($FORM{'twi'} ne ""){# twitterç”¨å‡¦ç†ã®å ´åˆ
+	# twitterç”¨ã®çŸ­ç¸®URLãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’å¾©å…ƒ
 	# http://myhost.jp/imgboard.cgi?twi=b100411033041p1024drfx
-# twitter‚Á‚Û‚¢•µˆÍ‹C‚Åˆá˜aŠ´‚ğ‚È‚­‚·‚©‚È
+# twitterã£ã½ã„é›°å›²æ°—ã§é•å’Œæ„Ÿã‚’ãªãã™ã‹ãª
 $PM{'top_style_option'}=qq|
 body { 
 background: #C0DEED url('http://www.big.or.jp/~talk/t-club/soft/img/twitter_bg.png') repeat-x;
 }
 |;
 	if($FORM{'twi'}=~ /b(\d+)p(\d+)(p*)(\d*)(\w+)x(\w*)/i){
-		$FORM{'blood'}	="$1";		# •œŒ³
-		$FORM{'parent'}	="$2";		# •œŒ³
-		$FORM{'page'}	="$4";		# •œŒ³
-		$FORM{'twia'}	="$5"; 		# twitter action‚ğ•œŒ³	
-		$FORM{'twip'}	="$6"; 		# twitter parameter‚ğ•œŒ³	
+		$FORM{'blood'}	="$1";		# å¾©å…ƒ
+		$FORM{'parent'}	="$2";		# å¾©å…ƒ
+		$FORM{'page'}	="$4";		# å¾©å…ƒ
+		$FORM{'twia'}	="$5"; 		# twitter actionã‚’å¾©å…ƒ	
+		$FORM{'twip'}	="$6"; 		# twitter parameterã‚’å¾©å…ƒ	
 	}
 	if($FORM{'twia'} eq "drf"){
-		$FORM{'bbsaction'}='disp_rep_form'; # •œŒ³
+		$FORM{'bbsaction'}='disp_rep_form'; # å¾©å…ƒ
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
 	&top_html;
-	print "<UL>from twitter<BR><H2>‰æ‘œƒXƒŒ‚ÉƒRƒƒ“ƒg‚µ‚Ü‚· <font size=-1 color=gray> („§:200•¶šˆÈ“à)</font></H2>\n";
+	print "<UL>from twitter<BR><H2>It'll comment on the image thread. <font size=-1 color=gray> (Recommended: 200 characters or less)</font></H2>\n";
 	print "[<font size=+1><a href=\"$cgi_name?amode=$FORM{'amode'}&p1=$FORM{'p1'}
-&p2=$FORM{'p2'}&page=$FORM{'page'}\">©Œf¦”Â‚Ö–ß‚é</a></font>]</UL>\n";
+&p2=$FORM{'p2'}&page=$FORM{'page'}\">â†Back to Bulletin Board</a></font>]</UL>\n";
 	$form_sage_checkbox_html=qq|<INPUT TYPE="checkbox" NAME="sage" VALUE="1">sage| if($PM{'use_sage'} == 1);
-	&output_form_html;			# “ü—ÍƒtƒH[ƒ€‚ğ•\¦
-	&protect_from_BBS_cracker if($PM{'no_disp_for_cracker'}==1);# r‚µ‘Îô
-    	&output_html("$file");			# Œf¦”Â‚ğ•\¦
+	&output_form_html;			# å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ ã‚’è¡¨ç¤º
+	&protect_from_BBS_cracker if($PM{'no_disp_for_cracker'}==1);# è’ã—å¯¾ç­–
+    	&output_html("$file");			# æ²ç¤ºæ¿ã‚’è¡¨ç¤º
 	exit;
 	}
 # 2008.06.26 for ipod/iPhone
-}elsif($FORM{'bbsaction'} eq 'disp_fullscr'){# ƒtƒ‹ƒXƒNƒŠ[ƒ“•\¦‚Ìê‡
+}elsif($FORM{'bbsaction'} eq 'disp_fullscr'){# ãƒ•ãƒ«ã‚¹ã‚¯ãƒªãƒ¼ãƒ³è¡¨ç¤ºã®å ´åˆ
     print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
-    &protect_from_BBS_cracker if($PM{'no_disp_for_cracker'}==1);# r‚µ‘Îô
+    &protect_from_BBS_cracker if($PM{'no_disp_for_cracker'}==1);# è’ã—å¯¾ç­–
     &disp_fullscreen_html($FORM{'timg_location'},$FORM{'timg_location'},$FORM{'timg_w'},$FORM{'timg_h'},$FORM{'timg_dsize'},$FORM{'timg_type'});
 exit;
 
-# ”z•z”Å‚Å‚Í–¢g—p
-}elsif($FORM{'bbsaction'} eq 'remove_select'){	# íœ‹L–‚Ì‘I‘ğ
+# é…å¸ƒç‰ˆã§ã¯æœªä½¿ç”¨
+}elsif($FORM{'bbsaction'} eq 'remove_select'){	# å‰Šé™¤è¨˜äº‹ã®é¸æŠ
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
-	$title=qq| íœŠm”F |; 
+	$title=qq| å‰Šé™¤ç¢ºèª |; 
 	&top_html;
-	&output_remove_select_html;		# íœƒpƒXŠm”F‰æ–Ê‚ğo‚·
+	&output_remove_select_html;		# å‰Šé™¤ãƒ‘ã‚¹ç¢ºèªç”»é¢ã‚’å‡ºã™
 	print "</BODY></HTML>\n";
 	exit;
 
-}elsif($FORM{'bbsaction'} eq 'edit_form'){	# ‹L–•ÒW‰æ–Ê
+}elsif($FORM{'bbsaction'} eq 'edit_form'){	# è¨˜äº‹ç·¨é›†ç”»é¢
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
-	$title=qq| C³ƒtƒH[ƒ€ |; 
+	$title=qq| ä¿®æ­£ãƒ•ã‚©ãƒ¼ãƒ  |; 
 
 	&edit_top_html;
 	&load_target_kiji("$FORM{'target'}","$file");
 
 	if($FORM{'amode'} eq "icon_edit"){
-	 &output_wp_upload_form;		# WP“ü—ÍƒtƒH[ƒ€‚ğ•\¦
+	 &output_wp_upload_form;		# WPå…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ ã‚’è¡¨ç¤º
 	}else{
-	 &output_form_html;			# “ü—ÍƒtƒH[ƒ€‚ğ•\¦
+	 &output_form_html;			# å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ ã‚’è¡¨ç¤º
 	}
 
 	print "</BODY></HTML>\n";
@@ -1992,75 +1994,75 @@ exit;
 
 }
 
-# ƒAƒNƒVƒ‡ƒ“‚ª‰½‚àw’è‚³‚ê‚Ä‚¢‚È‚¢‚ÍA•\¦‚Æ‚È‚é
-# Šeƒ‚[ƒh‚É‚æ‚è•\¦‰æ–Ê‚Ìí—Ş‚ğ•ªŠò‚³‚¹‚Ä•\¦‚³‚¹‚é
+# ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ãŒä½•ã‚‚æŒ‡å®šã•ã‚Œã¦ã„ãªã„æ™‚ã¯ã€è¡¨ç¤ºã¨ãªã‚‹
+# å„ãƒ¢ãƒ¼ãƒ‰ã«ã‚ˆã‚Šè¡¨ç¤ºç”»é¢ã®ç¨®é¡ã‚’åˆ†å²ã•ã›ã¦è¡¨ç¤ºã•ã›ã‚‹
 
-  &ext_config_mode if($EXTSUB{'mode'}==1);	# ŠO•”İ’è‚É‚æ‚é«—ˆŠg’£—p
+  &ext_config_mode if($EXTSUB{'mode'}==1);	# å¤–éƒ¨è¨­å®šã«ã‚ˆã‚‹å°†æ¥æ‹¡å¼µç”¨
 
   if($FORM{'mode'} eq "disp_admin_check_menu"){
-	# ŠÇ—ÒŠm”Fƒƒjƒ…[•\¦
+	# ç®¡ç†è€…ç¢ºèªãƒ¡ãƒ‹ãƒ¥ãƒ¼è¡¨ç¤º
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
 	&output_admin_check_HTML;
 	exit;
   }elsif($FORM{'mode'} eq "disp_icon_list"){
-	# ƒAƒCƒRƒ“ˆê——‚ğ•\¦
+	# ã‚¢ã‚¤ã‚³ãƒ³ä¸€è¦§ã‚’è¡¨ç¤º
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
 	&output_icon_list_HTML;
 	exit;
   }elsif($FORM{'mode'} eq "disp_admin_menu"){
-	# İ’è•ÏXƒƒjƒ…[‚ğ•\¦
+	# è¨­å®šå¤‰æ›´ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’è¡¨ç¤º
 	if(&check_passwd("$FORM{'apasswd'}","$admin_passwd","0")==1){
-		&set_admin_cookies; # ŠÇ—ÒƒpƒX‚ğˆê‹L‰¯
+		&set_admin_cookies; # ç®¡ç†è€…ãƒ‘ã‚¹ã‚’ä¸€æ™‚è¨˜æ†¶
 		print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
 		&output_admin_menu_HTML;
 	}else{
-		&error("ƒpƒXƒ[ƒh‚ªˆá‚¢‚Ü‚·Dˆ—‚ğ’†~‚µ‚Ü‚µ‚½D","","1");
+		&error("ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãŒé•ã„ã¾ã™ï¼å‡¦ç†ã‚’ä¸­æ­¢ã—ã¾ã—ãŸï¼","","1");
 	}
 	exit;
   }elsif($FORM{'mode'} eq "search_menu"){
-	# ƒ[ƒhŒŸõƒƒjƒ…[•\¦
+	# ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢ãƒ¡ãƒ‹ãƒ¥ãƒ¼è¡¨ç¤º
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
 
-	# 2010.04 ƒ[ƒhŒŸõƒƒjƒ…[‚É‚¨‚¯‚éA
-	# ƒNƒƒXƒTƒCƒgƒXƒNƒŠƒvƒeƒBƒ“ƒO‘Îô‚ğ’Ç‰Á
+	# 2010.04 ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã«ãŠã‘ã‚‹ã€
+	# ã‚¯ãƒ­ã‚¹ã‚µã‚¤ãƒˆã‚¹ã‚¯ãƒªãƒ—ãƒ†ã‚£ãƒ³ã‚°å¯¾ç­–ã‚’è¿½åŠ 
 	&form_check;
 
 	&output_search_menu_HTML;
 	if($FORM{'SearchWords'} ne ""){
-	    &protect_from_BBS_cracker if($PM{'no_disp_for_cracker'}==1);# r‚µ‘Îô
-    	    &output_html("$file");		# Œf¦”Â‚ğ•\¦
- 	    exit;				# I—¹
+	    &protect_from_BBS_cracker if($PM{'no_disp_for_cracker'}==1);# è’ã—å¯¾ç­–
+    	    &output_html("$file");		# æ²ç¤ºæ¿ã‚’è¡¨ç¤º
+ 	    exit;				# çµ‚äº†
 	}else{
-		print " ŒŸõƒ[ƒh‚ª‰½‚à‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½D“ü—Í‚µ‚Ä‚­‚¾‚³‚¢ \n";
+		print " æ¤œç´¢ãƒ¯ãƒ¼ãƒ‰ãŒä½•ã‚‚ã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸï¼å…¥åŠ›ã—ã¦ãã ã•ã„ \n";
 	}
 	&output_search_menu_HTML2;
 	exit;
   }elsif($FORM{'mode'} eq "keitai_menu"){
-	# Œg‘Ñ‘Î‰ƒƒjƒ…[‚ğ•\¦
+	# æºå¸¯å¯¾å¿œãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’è¡¨ç¤º
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
 	&output_keitai_menu_HTML;
 	exit;
   }else{
-    # ƒ‚[ƒh‚ªw’è‚³‚ê‚Ä‚È‚¢ê‡,Œf¦”Â‚ğ•\¦
-	&protect_from_BBS_cracker if($no_disp_for_cracker==1);	# r‚µ‘Îô
+    # ãƒ¢ãƒ¼ãƒ‰ãŒæŒ‡å®šã•ã‚Œã¦ãªã„å ´åˆ,æ²ç¤ºæ¿ã‚’è¡¨ç¤º
+	&protect_from_BBS_cracker if($no_disp_for_cracker==1);	# è’ã—å¯¾ç­–
 
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
-	# HTMLƒwƒbƒ_,ƒ{ƒfƒBDi‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+	# HTMLãƒ˜ãƒƒãƒ€,ãƒœãƒ‡ã‚£ï¼ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 	&top_html;
 	$COOKIE{'body'}="";
-	&output_form_html;					# ƒtƒH[ƒ€‚ğ•\¦
-	&output_html("$file");					# Œf¦”Â‚ğ•\¦
+	&output_form_html;					# ãƒ•ã‚©ãƒ¼ãƒ ã‚’è¡¨ç¤º
+	&output_html("$file");					# æ²ç¤ºæ¿ã‚’è¡¨ç¤º
 	exit;
   }
 
 exit;
 
 #=======================================================================#
-# ƒTƒuƒ‹[ƒ`ƒ“
+# ã‚µãƒ–ãƒ«ãƒ¼ãƒãƒ³
 #=======================================================================#
 
 #================#
-# ‰Šú‰»
+# åˆæœŸåŒ–
 #================#
 
 sub init_valiables{
@@ -2078,16 +2080,16 @@ sub init_valiables{
 
 	undef $tok2_cookie;
 
-	# 2010.06 add FLVPlayer—p‚É“Æ©‚ÌCGIŠÂ‹«•Ï”‚ğì‚é
-	undef %MYCGI_ENV; # ‰Šú‰»
-	# CGI–{‘Ì‚ÌURL
+	# 2010.06 add FLVPlayerç”¨ã«ç‹¬è‡ªã®CGIç’°å¢ƒå¤‰æ•°ã‚’ä½œã‚‹
+	undef %MYCGI_ENV; # åˆæœŸåŒ–
+	# CGIæœ¬ä½“ã®URL
 	$MYCGI_ENV{'cgi_url'}='http://'."$ENV{'HTTP_HOST'}"."$ENV{'REQUEST_URI'}";
-	# CGI‚Ì–{‘Ì‚Ì‚ ‚éƒfƒBƒŒƒNƒgƒŠ‚ÌURL
+	# CGIã®æœ¬ä½“ã®ã‚ã‚‹ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®URL
 	$MYCGI_ENV{'cgi_base_url'}="$MYCGI_ENV{'cgi_url'}";
 	$MYCGI_ENV{'cgi_base_url'}=~ s/^(.*)(\/)([^\/]*)$/$1$2/g;
 #&error("MYCGI_ENV{'cgi_url'} $MYCGI_ENV{'cgi_url'} MYCGI_ENV{'cgi_base_url'} $MYCGI_ENV{'cgi_base_url'}");
 
-	# 2012.09 iOS6ˆÈ~ŒŸo
+	# 2012.09 iOS6ä»¥é™æ¤œå‡º
 	if($HTTP_USER_AGENT=~ /iPhone|iPod|iPad/i){
 		$MYCGI_ENV{'iOS'}='true';
 		if($HTTP_USER_AGENT=~ /OS (\d)\_(\d)/i){
@@ -2105,12 +2107,12 @@ sub init_valiables{
 		$MYCGI_ENV{'flash_object_tag_support'}='true';
 	}
 
-	# ƒ{ƒ^ƒ“‚ÌƒTƒCƒY
+	# ãƒœã‚¿ãƒ³ã®ã‚µã‚¤ã‚º
 	$output_button_px="style=\"font-size: 16px\"";
 	$output_button_space="";
 	$output_link_space="";
 
-	# ƒXƒ}ƒtƒH/ƒ^ƒuƒŒƒbƒg‚Åƒ{ƒ^ƒ“‚ğ‘åŒ^‰»‚·‚é
+	# ã‚¹ãƒãƒ•ã‚©/ã‚¿ãƒ–ãƒ¬ãƒƒãƒˆã§ãƒœã‚¿ãƒ³ã‚’å¤§å‹åŒ–ã™ã‚‹
 	if($HTTP_USER_AGENT=~ /iPad|tab/i){
 		$output_button_px="style=\"font-size: 18px\"";
 #		$output_button_space="<BR>";
@@ -2122,45 +2124,45 @@ sub init_valiables{
 	}
 
 	if(int($])<5){
-		&error(" İ’èƒGƒ‰[BƒXƒNƒŠƒvƒg‚Ì‚Ps–Ú‚ÅƒpƒX‚Ìw’è‚³‚ê‚½Perl‚Ìƒo[ƒWƒ‡ƒ“ $] ‚ÍŒÃ‚·‚¬‚Ü‚·Bimgboard1.22R5ˆÈ~‚Å‚Íjcode.pl‚Ìƒo[ƒWƒ‡ƒ“‚ÌŠÖŒW‚ÅPerl5ˆÈã‚ª•K—v‚Å‚·BPerl5ˆÈã‚ÌƒpƒX‚ğ’T‚µ‚Ä‚»‚ê‚É•ÏX‚·‚é‚©APerl4‚Å‚à“®‚­R5\(for Perl4\)‚Æjcode_sj.pl‚ğimgboard.com‚É‚Ä“üè‚µ‚Ä‚­‚¾‚³‚¢B ");
+		&error(" Configuration error. The Perl version $] specified for the path in the first line of the script is too old. imgboard1.22R5 or later requires Perl5 or higher due to the version of jcode.pl. Find a path with Perl5 or higher and change it to that, or get R5\(for Perl4 \) and jcode_sj.pl at imgboard.com. ");
 	}
 
-	&check_browser_type;	# ƒuƒ‰ƒEƒUƒ`ƒFƒbƒN
-	&check_RH;		# Apache1.3.x‘Îô
-	&check_ISP;		# ƒvƒƒoƒCƒ_‚ğƒ`ƒFƒbƒN‚µ‚ÄAƒAƒhƒoƒCƒX‚ğo‚·
-	&check_imode;		# iƒ‚[ƒh‚©‚ç‚ÌƒAƒNƒZƒX‚È‚çw’èURL‚Ö”ò‚Î‚·
+	&check_browser_type;	# ãƒ–ãƒ©ã‚¦ã‚¶ãƒã‚§ãƒƒã‚¯
+	&check_RH;		# Apache1.3.xå¯¾ç­–
+	&check_ISP;		# ãƒ—ãƒ­ãƒã‚¤ãƒ€ã‚’ãƒã‚§ãƒƒã‚¯ã—ã¦ã€ã‚¢ãƒ‰ãƒã‚¤ã‚¹ã‚’å‡ºã™
+	&check_imode;		# iãƒ¢ãƒ¼ãƒ‰ã‹ã‚‰ã®ã‚¢ã‚¯ã‚»ã‚¹ãªã‚‰æŒ‡å®šURLã¸é£›ã°ã™
 
 	$cgi_name=&get_script_name;
-	#========= ˆÈ‰º‚Íƒ}ƒCƒi[ƒIƒvƒVƒ‡ƒ“‚Å‚· ( 0=no,1=yes)==========#
+	#========= ä»¥ä¸‹ã¯ãƒã‚¤ãƒŠãƒ¼ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã§ã™ ( 0=no,1=yes)==========#
 
-	# ƒuƒ‰ƒbƒNƒŠƒXƒgŠÖ˜A‚Ì’Ç‰Áİ’è
-	$no_disp_for_cracker	=0;	# ƒŠƒXƒgã‚ÌƒTƒCƒg‚É‚ÍŒf¦”Â‚ğŒ©‚¹‚é‚±‚Æ‚à‹Ö~‚·‚éB
-	$use_ext_blacklist	=1;	# ŠO•”‚Éblacklist.txt,blkword.txt
-					# ‚ª‚ ‚ê‚Î,‚»‚ÌƒŠƒXƒg‚ğƒ[ƒh‚·‚é
+	# ãƒ–ãƒ©ãƒƒã‚¯ãƒªã‚¹ãƒˆé–¢é€£ã®è¿½åŠ è¨­å®š
+	$no_disp_for_cracker	=0;	# ãƒªã‚¹ãƒˆä¸Šã®ã‚µã‚¤ãƒˆã«ã¯æ²ç¤ºæ¿ã‚’è¦‹ã›ã‚‹ã“ã¨ã‚‚ç¦æ­¢ã™ã‚‹ã€‚
+	$use_ext_blacklist	=1;	# å¤–éƒ¨ã«blacklist.txt,blkword.txt
+					# ãŒã‚ã‚Œã°,ãã®ãƒªã‚¹ãƒˆã‚’ãƒ­ãƒ¼ãƒ‰ã™ã‚‹
 
-	# ƒXƒpƒ€ƒŠƒXƒgŠÖ˜A‚Ì’Ç‰Áİ’è
-	$use_ext_spamlist	=1;	# ŠO•”‚Éspamlist.cgi,spamword.cgi
-					# ‚ª‚ ‚ê‚Î,‚»‚ÌƒŠƒXƒg‚ğƒ[ƒh‚·‚é
+	# ã‚¹ãƒ‘ãƒ ãƒªã‚¹ãƒˆé–¢é€£ã®è¿½åŠ è¨­å®š
+	$use_ext_spamlist	=1;	# å¤–éƒ¨ã«spamlist.cgi,spamword.cgi
+					# ãŒã‚ã‚Œã°,ãã®ãƒªã‚¹ãƒˆã‚’ãƒ­ãƒ¼ãƒ‰ã™ã‚‹
 
-	# ƒQƒXƒgƒpƒXƒ[ƒh‹@”\iPPP‘Î‰-IP”FØŒ^j
-	# “ŠeÒ©g‚ª‹L–‚ğíœ‚Å‚«‚é‹@”\‚Å‚·BÚ×‚ÍƒTƒ|[ƒgŒf¦”Â‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢B
+	# ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰æ©Ÿèƒ½ï¼ˆPPPå¯¾å¿œ-IPèªè¨¼å‹ï¼‰
+	# æŠ•ç¨¿è€…è‡ªèº«ãŒè¨˜äº‹ã‚’å‰Šé™¤ã§ãã‚‹æ©Ÿèƒ½ã§ã™ã€‚è©³ç´°ã¯ã‚µãƒãƒ¼ãƒˆæ²ç¤ºæ¿ã‚’å‚ç…§ã—ã¦ãã ã•ã„ã€‚
 	#
-	$use_guest_passwd	=1;	# ƒQƒXƒgƒpƒXƒ[ƒh‹@”\‚ğg—p
-	# i-1 íœƒL[®‚É‚·‚é,0g—p‚µ‚È‚¢i‚±‚Ìê‡‚ÍŠÇ—Ò‚Ì‚İíœ‰Â”\jA1ƒQƒXƒgƒpƒXƒ[ƒh‚ğg—p‚·‚é(‹­‚­„§)j
-	$guest_passwd		='guest';	# ‹L–íœ‚Ì ƒQƒXƒgƒpƒXƒ[ƒh(•ÏX‚Í•K—v‚ ‚è‚Ü‚¹‚ñ)
-	# IP‚ªŠ®‘Sˆê’v‚µ‚È‚­‚Ä‚àA“¯‚¶ƒTƒuƒlƒbƒg‚©‚ç‚ÌƒAƒNƒZƒX‚Í“¯ˆêl•¨‚Æ‚İ‚È‚µAíœ‚ğ‹–‰Â‚·‚é
+	$use_guest_passwd	=1;	# ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰æ©Ÿèƒ½ã‚’ä½¿ç”¨
+	# ï¼ˆ-1 å‰Šé™¤ã‚­ãƒ¼å¼ã«ã™ã‚‹,0ä½¿ç”¨ã—ãªã„ï¼ˆã“ã®å ´åˆã¯ç®¡ç†è€…ã®ã¿å‰Šé™¤å¯èƒ½ï¼‰ã€1ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’ä½¿ç”¨ã™ã‚‹(å¼·ãæ¨å¥¨)ï¼‰
+	$guest_passwd		='guest';	# è¨˜äº‹å‰Šé™¤æ™‚ã® ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰(å¤‰æ›´ã¯å¿…è¦ã‚ã‚Šã¾ã›ã‚“)
+	# IPãŒå®Œå…¨ä¸€è‡´ã—ãªãã¦ã‚‚ã€åŒã˜ã‚µãƒ–ãƒãƒƒãƒˆã‹ã‚‰ã®ã‚¢ã‚¯ã‚»ã‚¹ã¯åŒä¸€äººç‰©ã¨ã¿ãªã—ã€å‰Šé™¤ã‚’è¨±å¯ã™ã‚‹
 	$gp_allow_subnet	=1;
 
 
-	# ‚»‚Ì‘¼
-	$no_disp_RH_in_HTML_sorce=0;	# HTMLƒ\[ƒX‚ÉƒŠƒ‚ƒz‚ğ•\¦‚µ‚È‚¢
-	# -1=íIP•\¦,0=HTMLƒ\[ƒX‚Ì‚İIP•\¦,1=IPŠ®‘S”ñ•\¦
-	$auto_ip_if_danger_datatype=1;	# ŠëŒ¯‚Èƒf[ƒ^ƒ^ƒCƒv‚Ì‚ÍA“ŠeÒ‚ÌIP‚ğ©“®•\¦‚·‚é
-	$use_ip_privacy_filter=1;	# ƒvƒ‰ƒCƒoƒV[•ÛŒì‚Ì‚½‚ßIPƒAƒhƒŒƒX‚Ìˆê•”‚ğ•š‚¹š‚É
-	$use_sjis_header_for_Netscape4X ='0';# Netscape4.X•¶š‰»‚¯‘Îô(def=0)
-	$force_www_server_os_to='';	 # –¢g—pƒpƒ‰ƒ[ƒ^(w’è‚µ‚È‚¢‚±‚Æ) 
+	# ãã®ä»–
+	$no_disp_RH_in_HTML_sorce=0;	# HTMLã‚½ãƒ¼ã‚¹ã«ãƒªãƒ¢ãƒ›ã‚’è¡¨ç¤ºã—ãªã„
+	# -1=å¸¸æ™‚IPè¡¨ç¤º,0=HTMLã‚½ãƒ¼ã‚¹ã®ã¿IPè¡¨ç¤º,1=IPå®Œå…¨éè¡¨ç¤º
+	$auto_ip_if_danger_datatype=1;	# å±é™ºãªãƒ‡ãƒ¼ã‚¿ã‚¿ã‚¤ãƒ—ã®æ™‚ã¯ã€æŠ•ç¨¿è€…ã®IPã‚’è‡ªå‹•è¡¨ç¤ºã™ã‚‹
+	$use_ip_privacy_filter=1;	# ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ä¿è­·ã®ãŸã‚IPã‚¢ãƒ‰ãƒ¬ã‚¹ã®ä¸€éƒ¨ã‚’ä¼ã›å­—ã«
+	$use_sjis_header_for_Netscape4X ='0';# Netscape4.Xæ–‡å­—åŒ–ã‘å¯¾ç­–(def=0)
+	$force_www_server_os_to='';	 # æœªä½¿ç”¨ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿(æŒ‡å®šã—ãªã„ã“ã¨) 
 
-#------------------ ˆÈ‰º‚ÍƒvƒƒOƒ‰ƒ€ -----------------------------	
+#------------------ ä»¥ä¸‹ã¯ãƒ—ãƒ­ã‚°ãƒ©ãƒ  -----------------------------	
 	undef $call_from_imgboard_flag;
 	$call_from_imgboard_flag=1;
 
@@ -2169,10 +2171,10 @@ sub init_valiables{
 	if(($load_ext_config == 1)&&(-e "$ext_config_name")){
 		require "$ext_config_name";
 		if($EXTCFG{'ext_config_ver'} < 2001101500 ){
-			&error(" ŠO•”İ’èƒtƒ@ƒCƒ‹‚Ìƒo[ƒWƒ‡ƒ“ $ext_config_name‚ÍŒÃ‰ß‚¬‚é‚½‚ßg‚¦‚Ü‚¹‚ñBÅV”Å‚ğ‚²“üè‚¢‚½‚¾‚­‚©A“Ç‚İ‚Ü‚È‚¢İ’è‚É‚µ‚Ä‚­‚¾‚³‚¢B");
+			&error(" External configuration file version $ext_config_name is too old to use. Please obtain the latest version or set it not to be loaded.");
 		}
 		if($imgboard_ver < $EXTCFG{'support_imgboard_ver'} ){
-			&error(" ‚±‚ÌŠO•”İ’èƒtƒ@ƒCƒ‹($EXTCFG{'ext_config_ver'}-imgboard $EXTCFG{'support_imgboard_ver'}ˆÈ~—p)‚Í‚±‚Ìimgboard(ƒo[ƒWƒ‡ƒ“$imgboard_ver)‚Å‚Íg—p‚Å‚«‚Ü‚¹‚ñBÅV”Å‚ÌŠO•”İ’èƒtƒ@ƒCƒ‹‚ğ‚²“üè‚¢‚½‚¾‚­‚©A“Ç‚İ‚Ü‚È‚¢İ’è‚É‚µ‚Ä‚­‚¾‚³‚¢B");
+			&error(" This external configuration file (for $EXTCFG{'ext_config_ver'}-imgboard $EXTCFG{'support_imgboard_ver'} or later) is not available for this imgboard (version $imgboard_ver). Please obtain the latest version of the external configuration file or set it not to be loaded.");
 		}
 
 
@@ -2181,28 +2183,28 @@ sub init_valiables{
 &make_uniq_onetime_id;
 
 #======================#
-# SPAM‘Îô—pƒg[ƒNƒ“
+# SPAMå¯¾ç­–ç”¨ãƒˆãƒ¼ã‚¯ãƒ³
 #======================#
-# 2010.02 SPAM‘Îô‚Ì‚½‚ßAŒf¦”ÂŒÅ—L‚Ìƒƒ“ƒ^ƒCƒ€ID‚ğì¬‚·‚é
-# 2010.04 softbank‚ÌƒXƒ}[ƒgƒtƒHƒ“‘Îô‚ÅƒƒWƒbƒN•ÏX
+# 2010.02 SPAMå¯¾ç­–ã®ãŸã‚ã€æ²ç¤ºæ¿å›ºæœ‰ã®ãƒ¯ãƒ³ã‚¿ã‚¤ãƒ IDã‚’ä½œæˆã™ã‚‹
+# 2010.04 softbankã®ã‚¹ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒ³å¯¾ç­–ã§ãƒ­ã‚¸ãƒƒã‚¯å¤‰æ›´
 
 sub make_uniq_onetime_id{
 
 	local($ttmp_uniq_char)="";
 
-	# perl5‚ÌDigest‚âSHA256ƒ‚ƒWƒ…[ƒ‹‚ğg‚¦‚È‚¢ƒvƒƒoƒCƒ_‚ª‘½‚¢‚Ì‚ÅA
-	# “Æ©ƒƒWƒbƒN‚Å—Ş„‚µ‚É‚­‚¢HASH‘ã—pŒvZ‚ğ‚·‚é‚±‚Æ‚É‚µ‚½
+	# perl5ã®Digestã‚„SHA256ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã‚’ä½¿ãˆãªã„ãƒ—ãƒ­ãƒã‚¤ãƒ€ãŒå¤šã„ã®ã§ã€
+	# ç‹¬è‡ªãƒ­ã‚¸ãƒƒã‚¯ã§é¡æ¨ã—ã«ãã„HASHä»£ç”¨è¨ˆç®—ã‚’ã™ã‚‹ã“ã¨ã«ã—ãŸ
 
 	if(-e "$img_dir/index.html"){
-	 @UNQ_FILE_STAT=stat("$img_dir/index.html");	# ‘®«‚ğ’²¸
-	 $tttmp_pick_file_size		=substr($UNQ_FILE_STAT[7],-1,1);		# ƒtƒ@ƒCƒ‹ƒTƒCƒY‚ğæ“¾
+	 @UNQ_FILE_STAT=stat("$img_dir/index.html");	# å±æ€§ã‚’èª¿æŸ»
+	 $tttmp_pick_file_size		=substr($UNQ_FILE_STAT[7],-1,1);		# ãƒ•ã‚¡ã‚¤ãƒ«ã‚µã‚¤ã‚ºã‚’å–å¾—
 	 $tttmp_pick_file_lastupdate=substr($UNQ_FILE_STAT[9],-1,1);
 	}else{
 	 $tttmp_pick_file_size		=3;
 	 $tttmp_pick_file_lastupdate=4;
 	}
 
-	$tmp_token_time= substr(time,-7,2); #27.7ŠÔ’PˆÊ
+	$tmp_token_time= substr(time,-7,2); #27.7æ™‚é–“å˜ä½
 
 	$tmp_alphabet_sn	="$ENV{'SCRIPT_FILENAME'}";
 	$tmp_alphabet_sn	=~ s/[^a-zA-Z0-9]//g;
@@ -2215,28 +2217,28 @@ sub make_uniq_onetime_id{
 	
 #$admin_passwd = 'biko';	
 
-	# HTC disire‘Îô‚ÅƒƒWƒbƒN•ÏX(‚P•¶š’·‚­‚µ‚Ä‚¨‚­)
+	# HTC disireå¯¾ç­–ã§ãƒ­ã‚¸ãƒƒã‚¯å¤‰æ›´(ï¼‘æ–‡å­—é•·ãã—ã¦ãŠã)
 	$tttmp_pick_sa_base=substr($tmp_alphabet_saddr,-3,1)."$tttmp_pick_file_lastupdate".substr($admin_passwd,-1,1).substr($tmp_alphabet_sn,5,1).substr($tmp_alphabet_sa,5,1)."$tttmp_pick_file_lastupdate"."$tttmp_pick_file_lastupdate";
 
 #&error("$tttmp_pick_sa_base  $tmp_alphabet_sn $tmp_alphabet_sa s $tttmp_pick_file_lastupdate");
 
-	$tttmp_salt="$tttmp_pick_file_lastupdate"."$admin_passwd";# saltì¬
+	$tttmp_salt="$tttmp_pick_file_lastupdate"."$admin_passwd";# saltä½œæˆ
 	$tttmp_pick_sa		=  substr(time,-7,2)."$tttmp_pick_sa_base";
 	$tttmp_pick_sa_old	= (substr(time,-7,2)-1)."$tttmp_pick_sa_base";
 
-# token“®ìŠm”Ftest—p(100•b’PˆÊ‚Å–³Œø‚É)
+# tokenå‹•ä½œç¢ºèªtestç”¨(100ç§’å˜ä½ã§ç„¡åŠ¹ã«)
 #	$tttmp_pick_sa		=  substr(time,-4,2)."$tttmp_pick_sa_base";
 #	$tttmp_pick_sa_old	= (substr(time,-4,2)-1)."$tttmp_pick_sa_base";
 
 	
-	$uniq_token		=crypt($tttmp_pick_sa		,$tttmp_pick_sa);# HASH‘ã—p•¶š—ñì¬
-	$uniq_token_old	=crypt($tttmp_pick_sa_old	,$tttmp_pick_sa_old);# HASH‘ã—p•¶š—ñì¬ 27.7ŠÔ’PˆÊ‚Åˆê‚Â‘O
+	$uniq_token		=crypt($tttmp_pick_sa		,$tttmp_pick_sa);# HASHä»£ç”¨æ–‡å­—åˆ—ä½œæˆ
+	$uniq_token_old	=crypt($tttmp_pick_sa_old	,$tttmp_pick_sa_old);# HASHä»£ç”¨æ–‡å­—åˆ—ä½œæˆ 27.7æ™‚é–“å˜ä½ã§ä¸€ã¤å‰
 
-	# salt‚ğØ‚è—‚Æ‚·
+	# saltã‚’åˆ‡ã‚Šè½ã¨ã™
 	$uniq_token		=substr($uniq_token,2,11);
 	$uniq_token_old	=substr($uniq_token_old,2,11);
 
-	# URL‚Æ‘Š«‚Ìˆ«‚¢•¶š‚ğœ‚­
+	# URLã¨ç›¸æ€§ã®æ‚ªã„æ–‡å­—ã‚’é™¤ã
 	$uniq_token 	=~ s/[^a-zA-Z0-9]//g;
 	$uniq_token_old =~ s/[^a-zA-Z0-9]//g;
 
@@ -2246,7 +2248,7 @@ sub make_uniq_onetime_id{
 
 }
 
-	# 2006.03 SPAM‘Îô
+	# 2006.03 SPAMå¯¾ç­–
 	if($spam_keyword ne ""){
 		$POSTADDP{'UPLOADFORM'}="$POSTADDP{'UPLOADFORM'}\n"."<INPUT TYPE=\"HIDDEN\" NAME=\"sf\" VALUE=\"$spam_keyword\">\n<INPUT TYPE=\"HIDDEN\" NAME=\"onetime_token\" VALUE=\"$uniq_token\">";
 	}
@@ -2256,26 +2258,26 @@ sub make_uniq_onetime_id{
 #	if($limit_bbs_spam_flag==1){
 	if($filter_bbs_spam==1){
 		if($CHECK{'email'}==1){
-			&error(" ŠÇ—Ò‚Ìİ’èƒGƒ‰[Buƒ[ƒ‹•K{v‚Éİ’è‚³‚ê‚½ê‡ASPAMİ’è‚ÅuURLƒŠƒ“ƒN‚âƒ[ƒ‹ƒAƒhƒŒƒX‚Ì‚ ‚é‘‚«‚İ‚ğA–â“š–³—p‚Å‚·‚×‚Ä”pŠüv‚·‚é‚ÆA“Še‚Å‚«‚È‚­‚È‚è‚Ü‚·Bİ’è‚ğŒ©’¼‚µ‚Ä‚­‚¾‚³‚¢B ");
+			&error(" Admin configuration error. If you have set Email Required, you will not be able to post if you use the SPAM setting to discard all posts with URL links or email addresses, no questions asked. Please review your settings. ");
 		}
 	}
 
 	if(($jcode_name ne '')&&(-e "$jcode_name")){
 	    require "$jcode_name";
 	    eval &jcode'init('tokuho_check');
-	    # ¬Œ÷
+	    # æˆåŠŸ
 	    if($@ eq ""){
 		    $jcode_sj_version =&jcode'init('tokuho_check');
 		    if($jcode_sj_version < 2001070701 ){
-			&error(" ŠÇ—Òİ’è‚ÌƒGƒ‰[Bˆ—‚ğ’†~‚µ‚Ü‚µ‚½B<BR>
-			jcode_sj.pl‚Ìƒo[ƒWƒ‡ƒ“ $jcode_sj_version ‚ÍŒÃ‰ß‚¬‚Ü‚·B
-			ÅV”Å‚ğ‚²—˜—p‚­‚¾‚³‚¢B");
+			&error(" ç®¡ç†è€…è¨­å®šã®ã‚¨ãƒ©ãƒ¼ã€‚å‡¦ç†ã‚’ä¸­æ­¢ã—ã¾ã—ãŸã€‚<BR>
+			jcode_sj.plã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ $jcode_sj_version ã¯å¤éãã¾ã™ã€‚
+			æœ€æ–°ç‰ˆã‚’ã”åˆ©ç”¨ãã ã•ã„ã€‚");
 	    	    }
 	    }else{
-	    # ¸”s
-		&error(" ŠÇ—Òİ’è‚ÌƒGƒ‰[Bˆ—‚ğ’†~‚µ‚Ü‚µ‚½B<BR>
-			jcode_sj.pl‚ÍŒÃ‰ß‚¬‚é‚©A‚ ‚é‚¢‚Íƒ}ƒbƒ`‚µ‚Ä‚¢‚È‚¢ƒ^ƒCƒv‚Ì•¨‚Å‚·B
-			ÅV”Å‚ğ‚²—˜—p‚­‚¾‚³‚¢B");
+	    # å¤±æ•—
+		&error(" ç®¡ç†è€…è¨­å®šã®ã‚¨ãƒ©ãƒ¼ã€‚å‡¦ç†ã‚’ä¸­æ­¢ã—ã¾ã—ãŸã€‚<BR>
+			jcode_sj.plã¯å¤éãã‚‹ã‹ã€ã‚ã‚‹ã„ã¯ãƒãƒƒãƒã—ã¦ã„ãªã„ã‚¿ã‚¤ãƒ—ã®ç‰©ã§ã™ã€‚
+			æœ€æ–°ç‰ˆã‚’ã”åˆ©ç”¨ãã ã•ã„ã€‚");
 	    }
 	}else{
 	}
@@ -2283,7 +2285,7 @@ sub make_uniq_onetime_id{
 }
 
 #================#
-# ŠJ“XŠm”F
+# é–‹åº—ç¢ºèª
 #================#
 
 sub check_open{
@@ -2291,41 +2293,41 @@ sub check_open{
 }
 
 #=====================#
-# “ü—Íƒf[ƒ^‚ğ“Ç‚Ş
+# å…¥åŠ›ãƒ‡ãƒ¼ã‚¿ã‚’èª­ã‚€
 #=====================#
 
 sub read_input{
 
-	# •Ï”‚Ì‰Šú‰»
+	# å¤‰æ•°ã®åˆæœŸåŒ–
 	local($name);
 	undef $img_data_exists;
 	undef @NEWFNAMES;
 	undef $jcode_eval_check_flag;
 
-	# ƒŠƒ[ƒh•GET‚Å‚©‚Â•ÔM‚È‚µ‚Ìê‡‚ÍˆÈ‰º‚Ìˆ—‚ğƒXƒLƒbƒv
-	if($ENV{'CONTENT_LENGTH'}==0){	# ƒŠƒ[ƒh & GET‚Ìê‡
-		&read_cookie;		# ƒNƒbƒL[‚Ìƒ[ƒh
-		if($PM{'use_rep'}==1){	# •ÔM‚ ‚è‚Ìê‡
-					# ƒEƒBƒ“ƒh•`‰æ‚Ì‚½‚ß‚ÉGETó‚¯“ü‚ê
-		}else{			# •ÔM‚È‚µ‚Ìê‡
+	# ãƒªãƒ­ãƒ¼ãƒ‰ï¼†GETã§ã‹ã¤è¿”ä¿¡ãªã—ã®å ´åˆã¯ä»¥ä¸‹ã®å‡¦ç†ã‚’ã‚¹ã‚­ãƒƒãƒ—
+	if($ENV{'CONTENT_LENGTH'}==0){	# ãƒªãƒ­ãƒ¼ãƒ‰æ™‚ & GETã®å ´åˆ
+		&read_cookie;		# ã‚¯ãƒƒã‚­ãƒ¼ã®ãƒ­ãƒ¼ãƒ‰
+		if($PM{'use_rep'}==1){	# è¿”ä¿¡ã‚ã‚Šã®å ´åˆ
+					# ã‚¦ã‚£ãƒ³ãƒ‰æç”»ã®ãŸã‚ã«GETå—ã‘å…¥ã‚Œ
+		}else{			# è¿”ä¿¡ãªã—ã®å ´åˆ
 #			return	if($form_disp_on_board==1);
 		}
 	}
 
-	# ƒf[ƒ^‚Ìæ“¾•“]‘—ƒf[ƒ^‚ÌƒTƒCƒY‚ğƒ`ƒFƒbƒN
+	# ãƒ‡ãƒ¼ã‚¿ã®å–å¾—ï¼†è»¢é€ãƒ‡ãƒ¼ã‚¿ã®ã‚µã‚¤ã‚ºã‚’ãƒã‚§ãƒƒã‚¯
     	$ENV{'REQUEST_METHOD'} =~ tr/a-z/A-Z/;
 
 	if(($ENV{'SERVER_SOFTWARE'}=~ /BlackJumboDog/i)&&($allow_other_multimedia_data==1)){
-	  # ©‘îƒT[ƒo‚Í‘¼l‚É–À˜f‚ğ‚©‚¯‚È‚¢‚Ì‚ÅA‹K§‚ğŠÉ‚­‚·‚é
-	  if($max_upload_size > 218000){$max_upload_size='218000';}# •ÏX‹Ö~
+	  # è‡ªå®…ã‚µãƒ¼ãƒã¯ä»–äººã«è¿·æƒ‘ã‚’ã‹ã‘ãªã„ã®ã§ã€è¦åˆ¶ã‚’ç·©ãã™ã‚‹
+	  if($max_upload_size > 218000){$max_upload_size='218000';}# å¤‰æ›´ç¦æ­¢
 	}elsif(($ENV{'SERVER_SOFTWARE'}=~ /AnWeb/i)&&($allow_other_multimedia_data==1)){
-	  # ©‘îƒT[ƒo‚Í‘¼l‚É–À˜f‚ğ‚©‚¯‚È‚¢‚Ì‚ÅA‹K§‚ğŠÉ‚­‚·‚é
-	  if($max_upload_size > 218000){$max_upload_size='218000';}# •ÏX‹Ö~
+	  # è‡ªå®…ã‚µãƒ¼ãƒã¯ä»–äººã«è¿·æƒ‘ã‚’ã‹ã‘ãªã„ã®ã§ã€è¦åˆ¶ã‚’ç·©ãã™ã‚‹
+	  if($max_upload_size > 218000){$max_upload_size='218000';}# å¤‰æ›´ç¦æ­¢
 	}elsif(($ENV{'SERVER_SOFTWARE'}=~ /04WebServer/i)&&($allow_other_multimedia_data==1)){
-	  # ©‘îƒT[ƒo‚Í‘¼l‚É–À˜f‚ğ‚©‚¯‚È‚¢‚Ì‚ÅA‹K§‚ğŠÉ‚­‚·‚é
-	  if($max_upload_size > 218000){$max_upload_size='218000';}# •ÏX‹Ö~
+	  # è‡ªå®…ã‚µãƒ¼ãƒã¯ä»–äººã«è¿·æƒ‘ã‚’ã‹ã‘ãªã„ã®ã§ã€è¦åˆ¶ã‚’ç·©ãã™ã‚‹
+	  if($max_upload_size > 218000){$max_upload_size='218000';}# å¤‰æ›´ç¦æ­¢
 	}else{
-	  if($max_upload_size > 118000){$max_upload_size='118000';}# •ÏX‹Ö~
+	  if($max_upload_size > 118000){$max_upload_size='118000';}# å¤‰æ›´ç¦æ­¢
 	}
 
 		$max_content_length	=($max_upload_size + 1)*1000;
@@ -2333,7 +2335,7 @@ sub read_input{
 
 	if($ENV{'REQUEST_METHOD'} eq "POST"){
 
-		# OS‚Ìí•Ê‚ğ”»•Ê
+		# OSã®ç¨®åˆ¥ã‚’åˆ¤åˆ¥
 		$www_server_os =&check_www_server_os;
 
 		if($www_server_os=~ /win/i){
@@ -2341,24 +2343,24 @@ sub read_input{
 		}
 
 		if($ENV{'CONTENT_LENGTH'} > 120000000){
-		# Unix‚Í³íBWin ‚Í‰º‹LƒƒbƒZ[ƒW‚ğo‚³‚¸‚ÉI—¹‚·‚é‚æ‚¤‚¾
-			&error(" ƒf[ƒ^—e—Ê‚ª‘å‚«‚·‚¬‚Ü‚·B$max_content_limit KBˆÈ‰º‚É‚µ‚Ä‚­‚¾‚³‚¢Bp ");
+		# Unixã¯æ­£å¸¸ã€‚Win ã¯ä¸‹è¨˜ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’å‡ºã•ãšã«çµ‚äº†ã™ã‚‹ã‚ˆã†ã 
+			&error(" Data size is too large. Please keep it under $max_content_limit KB please. p");
 			exit;
 		}
 
-		# 2000/02/02 •ÏX
+		# 2000/02/02 å¤‰æ›´
 		read(STDIN, $buffer, $ENV{'CONTENT_LENGTH'});
 
 		if($ENV{'CONTENT_LENGTH'} > $max_content_length){
-			&error(" ƒf[ƒ^—e—Ê‚ª‘å‚«‚·‚¬‚Ü‚·B$max_content_limit KBˆÈ‰º‚É‚µ‚Ä‚­‚¾‚³‚¢Br ");
+			&error(" Data size is too large. Please keep it under $max_content_limit KB right?");
 			exit;
 		}
 
    	 }elsif($ENV{'REQUEST_METHOD'} eq 'GET'){
 		$buffer = $ENV{'QUERY_STRING'};
 
-		# XSS‘Îô 2012.04.18
-		# onClick“™javascriptƒCƒxƒ“ƒg‚ğœ‹(ƒNƒƒXƒTƒCƒgƒXƒNƒŠƒvƒeƒBƒ“ƒO‘Îô)		
+		# XSSå¯¾ç­– 2012.04.18
+		# onClickç­‰javascriptã‚¤ãƒ™ãƒ³ãƒˆã‚’é™¤å»(ã‚¯ãƒ­ã‚¹ã‚µã‚¤ãƒˆã‚¹ã‚¯ãƒªãƒ—ãƒ†ã‚£ãƒ³ã‚°å¯¾ç­–)		
 		$buffer =~ s/(onClick|onblur|onchange|onmouse|onError|onload|onfocus|onselect|onsubmit|onunload|onreset|onabort|ondblclick|onkey|ondragdrop)(\w{0,8})(\s*)(\=|%3d)/RemovebyImgboardSecurityCheck_JS/ig;
 		$buffer =~ s/(<|%3C)/RemovebyImgboardSecurityCheck_3C/ig;
 		$buffer =~ s/(>|%3E)/RemovebyImgboardSecurityCheck_3E/ig;
@@ -2367,9 +2369,9 @@ sub read_input{
 		return 0; 
 	 }
 
-	# “ú•tŠÖ˜A
+	# æ—¥ä»˜é–¢é€£
 
-	# ·[“ü—Íƒpƒ‰ƒ[ƒ^‚ğƒ`ƒFƒbƒN
+	# æ™‚å·®ãƒ¼å…¥åŠ›ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’ãƒã‚§ãƒƒã‚¯
 	if(($gisa=~ /^(\d+)$/)&&($gisa != 0)){
 		$gisa=$gisa;
 	}else{
@@ -2378,7 +2380,7 @@ sub read_input{
 
 	($sec,$min,$hour,$mday,$mon,$year,$wday,$yday) = localtime(time + $gisa*60*60);
 
-	$year += 1900;				# 2000”N‘Îô
+	$year += 1900;				# 2000å¹´å¯¾ç­–
 
 	$month = $mon + 1;
 	if ($month < 10) { $month = "0$month"; }
@@ -2389,37 +2391,37 @@ sub read_input{
 
 	$unq_id="$year"."$month"."$mday"."$hour"."$min"."$sec";
 
-	# -----ƒtƒH[ƒ€‚ÌƒfƒR[ƒhˆ—------#
+	# -----ãƒ•ã‚©ãƒ¼ãƒ ã®ãƒ‡ã‚³ãƒ¼ãƒ‰å‡¦ç†------#
 
-	# ”ñƒ}ƒ‹ƒ`ƒp[ƒg‚ÌƒtƒH[ƒ€ˆ—
-	# íœ,ƒy[ƒW•ÏX“™
+	# éãƒãƒ«ãƒãƒ‘ãƒ¼ãƒˆæ™‚ã®ãƒ•ã‚©ãƒ¼ãƒ å‡¦ç†
+	# å‰Šé™¤,ãƒšãƒ¼ã‚¸å¤‰æ›´æ™‚ç­‰
 	if($ENV{'CONTENT_TYPE'} !~ /multipart\/form-data/){
     		@pairs = split(/&/,$buffer);
     		foreach $pair(@pairs){
     			($name,$value) = split(/=/,$pair);
     			$value =~ tr/+/ /;
     			$value =~ s/%([a-fA-F0-9][a-fA-F0-9])/pack("C", hex($1))/eg;
-    			&jcode'convert(*value, 'sjis','','z');	# sjis‚É•ÏŠ·
+    			&jcode'convert(*value, 'sjis','','z');	# sjisã«å¤‰æ›
     			
-    			# 2011.12.15 XSS‘Îô
-				$value =~ s/(%3C|<)(\s*)script//ig;		# scriptƒ^ƒO‹Ö~
-				$value =~ s/(%3C|<)(\s*)EMBED//ig;		# EMBEDƒ^ƒO‹Ö~
-				$value =~ s/(%3C|<)(\s*)OBJECT//ig;		# OBJECTƒ^ƒO‹Ö~
-				$value =~ s/(%3C|<)(\s*)iframe//ig;		# SCRIPTƒ^ƒO‹Ö~
+    			# 2011.12.15 XSSå¯¾ç­–
+				$value =~ s/(%3C|<)(\s*)script//ig;		# scriptã‚¿ã‚°ç¦æ­¢
+				$value =~ s/(%3C|<)(\s*)EMBED//ig;		# EMBEDã‚¿ã‚°ç¦æ­¢
+				$value =~ s/(%3C|<)(\s*)OBJECT//ig;		# OBJECTã‚¿ã‚°ç¦æ­¢
+				$value =~ s/(%3C|<)(\s*)iframe//ig;		# SCRIPTã‚¿ã‚°ç¦æ­¢
 
-				$value =~ s/(%3C|<)(\s*)/&lt;/ig;		# ƒ^ƒO‹Ö~
-				$value =~ s/(%3E|>)(\s*)/&gt;/ig;		# ƒ^ƒO‹Ö~
+				$value =~ s/(%3C|<)(\s*)/&lt;/ig;		# ã‚¿ã‚°ç¦æ­¢
+				$value =~ s/(%3E|>)(\s*)/&gt;/ig;		# ã‚¿ã‚°ç¦æ­¢
 				
     			$FORM{$name} = $value;
     		}
 
-	# ƒ}ƒ‹ƒ`ƒp[ƒg‚ÌƒtƒH[ƒ€ˆ—
-	# ‹L–“Še—p‚ÌƒtƒH[ƒ€
+	# ãƒãƒ«ãƒãƒ‘ãƒ¼ãƒˆæ™‚ã®ãƒ•ã‚©ãƒ¼ãƒ å‡¦ç†
+	# è¨˜äº‹æŠ•ç¨¿ç”¨ã®ãƒ•ã‚©ãƒ¼ãƒ 
 	}else{
-		# METHOD‚Ìƒ`ƒFƒbƒN	
-		&error(" multipart\/form-data‚ğg‚¤‚Æ‚«‚Í METHOD‚ğPOST‚É‚µ‚Ä‚­‚¾‚³‚¢B ") if($ENV{'REQUEST_METHOD'} ne "POST");
+		# METHODã®ãƒã‚§ãƒƒã‚¯	
+		&error(" multipart\/form-dataMETHOD should be set to POST when using ") if($ENV{'REQUEST_METHOD'} ne "POST");
 
-		# multipart/form-data‚Ìê‡‚Ìˆ—
+		# multipart/form-dataã®å ´åˆã®å‡¦ç†
 		$buffer =~ /^(.+)\r\n/;
 		$boundary = $1;
 		@pairs = split(/$boundary/, $buffer);
@@ -2429,61 +2431,61 @@ sub read_input{
 			@vars = split(/\r\n/, $pair);
 			$vars = @vars;
 
-			#---ƒTƒ|[ƒg—p----#
-			if(($check_count=='7')&&($FORM{'email'} eq "mt1")){&error(" ƒfƒoƒbƒNƒ‚[ƒhall-$vars,vars0- $vars[0]<BR>,1-$vars[1]<BR>\n,2-$vars[2]<BR>\n,3-$vars[3]<BR>\n,4-$vars[4]<BR>\n,5-$vars[5]<BR>\n,6-$vars[6]\n<BR>,7-$vars[7]\n. <BR>SAL $vip_n<BR>,Perl ver $] <BR>@vars test ");}
+			#---ã‚µãƒãƒ¼ãƒˆç”¨----#
+			if(($check_count=='7')&&($FORM{'email'} eq "mt1")){&error(" ãƒ‡ãƒãƒƒã‚¯ãƒ¢ãƒ¼ãƒ‰all-$vars,vars0- $vars[0]<BR>,1-$vars[1]<BR>\n,2-$vars[2]<BR>\n,3-$vars[3]<BR>\n,4-$vars[4]<BR>\n,5-$vars[5]<BR>\n,6-$vars[6]\n<BR>,7-$vars[7]\n. <BR>SAL $vip_n<BR>,Perl ver $] <BR>@vars test ");}
 			#-----------------#
 
 			if(($vars > 4)&&($vars[1] =~ /name\=\"(.+)\"\;\sfilename\=\"(.+)\"/)){
 
-				# ƒtƒ@ƒCƒ‹ƒAƒbƒvƒ[ƒh‚Ìˆ—
+				# ãƒ•ã‚¡ã‚¤ãƒ«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã®å‡¦ç†
 				$name  = $1;
 				$fname = $2;
 				$content_type = $vars[2];
 
-				# --- ƒTƒ|[ƒg—p 2 ----#
-				if($FORM{'email'} eq "mt2"){&error("ƒfƒoƒbƒNƒ‚[ƒhall-$vars,name $name fname $fname content_type $content_type ");}
+				# --- ã‚µãƒãƒ¼ãƒˆç”¨ 2 ----#
+				if($FORM{'email'} eq "mt2"){&error("ãƒ‡ãƒãƒƒã‚¯ãƒ¢ãƒ¼ãƒ‰all-$vars,name $name fname $fname content_type $content_type ");}
 				#-----------------#
 
 
-                      		# “Á—áˆ—iƒ}ƒCƒ€‚ª•s–¾‚Èê‡j
+                      		# ç‰¹ä¾‹å‡¦ç†ï¼ˆãƒã‚¤ãƒ ãŒä¸æ˜ãªå ´åˆï¼‰
 
 				if(($fname ne "")&&($content_type eq "")){
 
-# ˆÈ‰º‚Ì‚RƒP[ƒX‚ª‘z’è‚³‚ê‚éD
-# ƒP[ƒX‚PjMacƒ†[ƒU‚ªƒtƒ@ƒCƒ‹–¼‚ÉŠg’£q‚Ì‚È‚¢ƒtƒ@ƒCƒ‹‚ğƒAƒbƒvƒ[ƒh
-# ƒP[ƒX‚QjMac,Win,Unixƒ†[ƒU‚ªƒuƒ‰ƒEƒU‚Ì’m‚ç‚È‚¢(Plug-in‚Ì‚È‚¢)ƒf[ƒ^‚ğƒAƒbƒvƒ[ƒh
+# ä»¥ä¸‹ã®ï¼“ã‚±ãƒ¼ã‚¹ãŒæƒ³å®šã•ã‚Œã‚‹ï¼
+# ã‚±ãƒ¼ã‚¹ï¼‘ï¼‰Macãƒ¦ãƒ¼ã‚¶ãŒãƒ•ã‚¡ã‚¤ãƒ«åã«æ‹¡å¼µå­ã®ãªã„ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰
+# ã‚±ãƒ¼ã‚¹ï¼’ï¼‰Mac,Win,Unixãƒ¦ãƒ¼ã‚¶ãŒãƒ–ãƒ©ã‚¦ã‚¶ã®çŸ¥ã‚‰ãªã„(Plug-inã®ãªã„)ãƒ‡ãƒ¼ã‚¿ã‚’ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰
 
-# ‚±‚Ìê‡‚Íƒf[ƒ^‚Ìƒwƒbƒ_•”•ª‚ÌƒeƒLƒXƒg‰ğÍ‚©‚ç‚Ì©“®”»•Ê‚ğ‚İ‚éiGIF,JPEG,PNGjD
-# ¸”s‚µ‚½‚çŠg’£q‚ª‘¶İ‚·‚é‚©‚Ç‚¤‚©‚ğƒ`ƒFƒbƒN
-# ‘¶İ‚µ‚½‚çŒã‚ÌŠg’£q‚É‚æ‚é”»’f‚É”C‚¹‚éD
-# ‘¶İ‚µ‚È‚¢ê‡Œx‚ğo‚µI—¹D
+# ã“ã®å ´åˆã¯ãƒ‡ãƒ¼ã‚¿ã®ãƒ˜ãƒƒãƒ€éƒ¨åˆ†ã®ãƒ†ã‚­ã‚¹ãƒˆè§£æã‹ã‚‰ã®è‡ªå‹•åˆ¤åˆ¥ã‚’è©¦ã¿ã‚‹ï¼ˆGIF,JPEG,PNGï¼‰ï¼
+# å¤±æ•—ã—ãŸã‚‰æ‹¡å¼µå­ãŒå­˜åœ¨ã™ã‚‹ã‹ã©ã†ã‹ã‚’ãƒã‚§ãƒƒã‚¯
+# å­˜åœ¨ã—ãŸã‚‰å¾Œã®æ‹¡å¼µå­ã«ã‚ˆã‚‹åˆ¤æ–­ã«ä»»ã›ã‚‹ï¼
+# å­˜åœ¨ã—ãªã„å ´åˆè­¦å‘Šã‚’å‡ºã—çµ‚äº†ï¼
 
-					# ƒf[ƒ^ƒwƒbƒ_‚©‚ç‰æ‘œ‚Ìí—Ş‚ğ©“®”»•Ê
+					# ãƒ‡ãƒ¼ã‚¿ãƒ˜ãƒƒãƒ€ã‹ã‚‰ç”»åƒã®ç¨®é¡ã‚’è‡ªå‹•åˆ¤åˆ¥
 					if($vars[3] =~ /^GIF8/i){
-						$check_m .=" ƒwƒbƒ_[•ªÍ‚ÌŒ‹‰Ê‚S‚ÍGIF <BR>";
+						$check_m .=" ãƒ˜ãƒƒãƒ€ãƒ¼åˆ†æã®çµæœï¼”ã¯GIF <BR>";
 						$content_type="image/gif";
 					}elsif($vars[3] =~ /^(.+)JFIF/i){
-						$check_m .=" ƒwƒbƒ_[•ªÍ‚ÌŒ‹‰Ê‚S‚ÍJPEG <BR>";
+						$check_m .=" ãƒ˜ãƒƒãƒ€ãƒ¼åˆ†æã®çµæœï¼”ã¯JPEG <BR>";
 						$content_type="image/jpeg";
 					}elsif($vars[3] =~ /^\x89PNG/i){
-						$check_m .=" ƒwƒbƒ_[•ªÍ‚ÌŒ‹‰Ê‚S‚ÍPNG <BR>";
+						$check_m .=" ãƒ˜ãƒƒãƒ€ãƒ¼åˆ†æã®çµæœï¼”ã¯PNG <BR>";
 						$content_type="image/png";
-					# Šg’£q‚ç‚µ‚«•¨‚ª‚Â‚¢‚Ä‚¢‚éê‡
+					# æ‹¡å¼µå­ã‚‰ã—ãç‰©ãŒã¤ã„ã¦ã„ã‚‹å ´åˆ
 					}elsif($fname=~ /\.(\w){1,4}$/){
-						$content_type="unknown";#Œã‚ÌŠg’£q‚É‚æ‚é”»’f‚É”C‚¹‚é
+						$content_type="unknown";#å¾Œã®æ‹¡å¼µå­ã«ã‚ˆã‚‹åˆ¤æ–­ã«ä»»ã›ã‚‹
 					}else{
 						if($HTTP_USER_AGENT =~ /MAC/i){
-							&error(" ƒAƒbƒvƒ[ƒhƒGƒ‰[BƒAƒbƒvƒ[ƒhƒf[ƒ^‚Ì‘®«‚ª”»’f‚Å‚«‚Ü‚¹‚ñB<BR>\n‚ ‚È‚½‚ªMacƒ†[ƒU‚Ìê‡,ƒAƒbƒvƒ[ƒh‘ÎÛ‚Ìƒtƒ@ƒCƒ‹–¼‚ÉŠg’£q(gif.jpeg.png“™)‚ª<BR>\n‚Â‚¢‚Ä‚È‚¢‰Â\”\\«‚ª‚ ‚è‚Ü‚·B<BR>\nƒtƒ@ƒCƒ‹–¼‚É“KØ‚ÈŠg’£q‚ğ‚Â‚¯‚Ä‚­‚¾‚³‚¢B<BR><!--fname,$fname,Mime_types,$content_types,Mes.$check_m-->");	
+							&error("Upload error. Attribute of upload data cannot be determined. <BR>\nIf you are a Mac user, the filename you are uploading may not have an <BR>\nextension (such as gif.jpeg.png). <BR>\nPlease add an appropriate extension to the file name.<BR><!--fname,$fname,Mime_types,$content_types,Mes.$check_m-->");	
 						}else{
-							&error(" ƒAƒbƒvƒ[ƒhƒGƒ‰[BƒAƒbƒvƒ[ƒhƒf[ƒ^‚Ì‘®«‚ª”»’f‚Å‚«‚Ü‚¹‚ñB<BR>\nƒtƒ@ƒCƒ‹–¼‚ÉŠg’£q(gif.jpeg“™)‚ª<BR>\n‚Â‚¢‚Ä‚È‚¢‰Â\”\\«‚ª‚ ‚è‚Ü‚·B<BR>\nƒtƒ@ƒCƒ‹–¼‚É“KØ‚ÈŠg’£q‚ğ‚Â‚¯‚Ä‚­‚¾‚³‚¢B<BR><!--fname,$fname,Mime_types,$content_types,Mes.$check_m-->");	
+							&error(" Upload error. Attribute of upload data cannot be determined. <BR>\nThe file name may not have an <BR>\nextension (such as gif.jpeg). <BR>\nPlease add an appropriate extension to the file name.<BR><!--fname,$fname,Mime_types,$content_types,Mes.$check_m-->");	
 						}
 					}
 
-					# ƒ}ƒCƒ€ƒ^ƒCƒv‚æ‚èAŠg’£q‚ğì‚é
+					# ãƒã‚¤ãƒ ã‚¿ã‚¤ãƒ—ã‚ˆã‚Šã€æ‹¡å¼µå­ã‚’ä½œã‚‹
 					$ext = &content_type_check($content_type);
 
-					# ‰æ‘œƒf[ƒ^‚Ì‚İ‚ğ’Šo
-					# ($vars[3]‚ÉÀ‘Ì,4=D_End $vars 5)
+					# ç”»åƒãƒ‡ãƒ¼ã‚¿ã®ã¿ã‚’æŠ½å‡º
+					# ($vars[3]ã«å®Ÿä½“,4=D_End $vars 5)
 					foreach($i=3; $i<$vars;$i++){
 						if($data eq ''){
 							$data = $vars[$i];
@@ -2492,15 +2494,15 @@ sub read_input{
 						}
 					}
 					$data=~ s/\r\nD_End$//;
-				# ’Êí‚ÌƒAƒbƒvƒ[ƒh‚Ìê‡iƒ}ƒCƒ€ƒf[ƒ^‚ª’Ê’m‚³‚ê‚½ê‡j
+				# é€šå¸¸ã®ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã®å ´åˆï¼ˆãƒã‚¤ãƒ ãƒ‡ãƒ¼ã‚¿ãŒé€šçŸ¥ã•ã‚ŒãŸå ´åˆï¼‰
 				}else{
 
 
-                         	       # ƒ}ƒCƒ€ƒ^ƒCƒv‚æ‚èAŠg’£q‚ğì‚é
+                         	       # ãƒã‚¤ãƒ ã‚¿ã‚¤ãƒ—ã‚ˆã‚Šã€æ‹¡å¼µå­ã‚’ä½œã‚‹
 					$ext = &content_type_check("$content_type");
 
-					# ‰æ‘œƒf[ƒ^‚Ì‚İ‚ğ’Šo
-                        	        #($vars[4]‚ÉÀ‘Ì,5=D_End,$vars 6)
+					# ç”»åƒãƒ‡ãƒ¼ã‚¿ã®ã¿ã‚’æŠ½å‡º
+                        	        #($vars[4]ã«å®Ÿä½“,5=D_End,$vars 6)
 					foreach($i=4; $i<$vars; $i++){
 						if($data eq ''){
 							$data = $vars[$i];
@@ -2513,36 +2515,36 @@ sub read_input{
 
 				$img_dir = '.' if($img_dir eq '');
 
-				# ‰æ‘œ•Û‘¶ƒfƒBƒŒƒNƒgƒŠ‚ÌŠm”F
+				# ç”»åƒä¿å­˜ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®ç¢ºèª
 				if($img_dir=~ /^http\:\/\//i){
-					&error(" img_dir‚Ìw’è‚ªŠÔˆá‚¦‚Ä‚¢‚Ü‚·B<BR> ƒfƒBƒŒƒNƒgƒŠ‚Æ‚t‚q‚k‚Í•Ê‚ÌŠT”O‚Å‚·BƒfƒBƒŒƒNƒgƒŠw’è‚ªAhttp‚Ån‚Ü‚é‚±‚Æ‚Í‚ ‚è‚Ü‚¹‚ñB<BR> İ’è‚ğ•ÏX‚µ‚Ä‚­‚¾‚³‚¢B");
+					&error(" img_dir is specified incorrectly. <BR> Directories and URLs are different concepts. A directory specification never begins with http. <BR> Please change the settings.");
 				}
 				if(-d "$img_dir"){
 				}else{
-					&error(" ‰æ‘œƒf[ƒ^•Û‘¶—pƒfƒBƒŒƒNƒgƒŠ\"$img_dir\"‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñD<BR>w’èƒfƒBƒŒƒNƒgƒŠ\"$img_dir\"‚ª‘¶İ‚µ‚È‚¢‰Â\”\\«‚ª‚ ‚è‚Ü‚·<BR>‰æ‘œ•Û‘¶—pƒfƒBƒŒƒNƒgƒŠ‚ÌƒpƒXİ’è‚ğ‚²Šm”F‚­‚¾‚³‚¢D");
+					&error(" The image data saving directory \"$img_dir\" cannot be found. <BR>The specified directory \"$img_dir\" may not exist.<BR>Please check the path setting for the directory for saving images. ");
 				}
 
-				# ƒpƒX‚ğÁ‚µ‚ÄAƒtƒ@ƒCƒ‹–¼‚Ì‚İ‚ğc‚·B
-				#95/NT‚©‚ç‚ÌƒAƒbƒvƒ[ƒh‚É‘Î‰
+				# ãƒ‘ã‚¹ã‚’æ¶ˆã—ã¦ã€ãƒ•ã‚¡ã‚¤ãƒ«åã®ã¿ã‚’æ®‹ã™ã€‚
+				#95/NTã‹ã‚‰ã®ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã«å¯¾å¿œ
 				$fname=~ s/^(.*)\\//;
-				# UNIX ‚©‚ç‚ÌƒAƒbƒvƒ[ƒh‚É‘Î‰
+				# UNIX ã‹ã‚‰ã®ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã«å¯¾å¿œ
 				$fname=~ s/^(.*)\///;
 
-				#&error("ƒtƒ@ƒCƒ‹–¼ $fname");
+				#&error("ãƒ•ã‚¡ã‚¤ãƒ«å $fname");
 
-				$use_orig_name=0;		# ƒIƒŠƒWƒiƒ‹ƒtƒ@ƒCƒ‹–¼•Û‘¶‹@”\íœ			
-								# ¡Œã‚Í imgboard2015‚Å‚Ì‚İƒTƒ|[ƒg
+				$use_orig_name=0;		# ã‚ªãƒªã‚¸ãƒŠãƒ«ãƒ•ã‚¡ã‚¤ãƒ«åä¿å­˜æ©Ÿèƒ½å‰Šé™¤			
+								# ä»Šå¾Œã¯ imgboard2015ã§ã®ã¿ã‚µãƒãƒ¼ãƒˆ
 				if($use_orig_name==1){				
 				#	&use_orig_name;
 				}else{
-				# ‚Åƒtƒ@ƒCƒ‹–¼‚ğ•t‚¯‚éƒIƒvƒVƒ‡ƒ“B
-				# ƒtƒ@ƒCƒ‹–¼‚ÌƒRƒ“ƒtƒŠƒNƒg‚ğ–h‚®
+				# æ™‚åˆ»ã§ãƒ•ã‚¡ã‚¤ãƒ«åã‚’ä»˜ã‘ã‚‹ã‚ªãƒ—ã‚·ãƒ§ãƒ³ã€‚
+				# ãƒ•ã‚¡ã‚¤ãƒ«åã®ã‚³ãƒ³ãƒ•ãƒªã‚¯ãƒˆã‚’é˜²ã
 
 					$date_count="19981204201523";
 					$date_count="$year"."$month"."$mday"."$hour"."$min"."$sec";
 
 
-					# ƒtƒ@ƒCƒ‹–¼‚ªd‚È‚éê‡•ÏX‚·‚é
+					# ãƒ•ã‚¡ã‚¤ãƒ«åãŒé‡ãªã‚‹å ´åˆå¤‰æ›´ã™ã‚‹
 					if( -e "$img_dir/img$date_count\.$ext"){
 						$date_count++;
 						$unq_id++;
@@ -2550,19 +2552,19 @@ sub read_input{
 						$date_count++;
 						$unq_id++;
 					}elsif( -e "$img_dir/img$date_count\.$ext"){
-						&error(" ƒtƒ@ƒCƒ‹–¼Œˆ’èˆ—’†‚ÉƒGƒ‰[‚ª”­¶‚µ‚Ü‚µ‚½Bƒx[ƒXmode ");
+						&error(" An error occurred during the file naming process. Time-based mode ");
 					}
 
 					$new_fname = "img$date_count\.$ext";
 				}
 
-				# •¡”ƒAƒbƒvƒ[ƒh‘Î‰—p
+				# è¤‡æ•°ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰å¯¾å¿œç”¨
 				push(@NEWFNAMES, $new_fname);
 
-				# ‰æ‘œƒTƒCƒYê—pƒŠƒ~ƒbƒ^‚É‚æ‚éƒ`ƒFƒbƒN
+				# ç”»åƒã‚µã‚¤ã‚ºå°‚ç”¨ãƒªãƒŸãƒƒã‚¿ã«ã‚ˆã‚‹ãƒã‚§ãƒƒã‚¯
 				if($max_upload_img_size ne ""){
 				
-					# 2011.12 Android‚Ìê‡A‘å‚«‚È‰æ‘œ‚à‹–‰Â‚·‚é
+					# 2011.12 Androidã®å ´åˆã€å¤§ããªç”»åƒã‚‚è¨±å¯ã™ã‚‹
 					if($HTTP_USER_AGENT=~ /Android/i){
 				 	 if($max_upload_Android_img_size > $max_upload_img_size){
 				 		$max_upload_img_size=$max_upload_Android_img_size;
@@ -2571,14 +2573,14 @@ sub read_input{
 				
 				 if($ENV{'CONTENT_LENGTH'} > $max_upload_img_size*1024){
 				  if($new_fname=~ /\.gif$|\.jpe?g$|\.png$|\.bmp$/i){
-					&error(" ƒf\[ƒ^‚ª‘å‚«‚·‚¬‚Ü‚·B‰æ‘œƒTƒCƒY‚Í$max_upload_img_size KBˆÈ‰º‚É‚µ‚Ä‚©‚çA“Še‚µ‚Ä‚­‚¾‚³‚¢B<BR><BR>‚¨‚·‚·‚ß‰æ‘œk¬ƒc[ƒ‹<BR> Windows—p : <a href=http://www.vector.co.jp/soft/win95/art/se153674.html target=_blank>k¬ê—pƒc[ƒ‹</a><BR> Mac OS—p : <a href=http://itunes.apple.com/jp/app/resizeit/id416280139?mt=12 target=_blank>ResizeIt</a> <BR> Android—p : <a href=https://play.google.com/store/search?q=Image+Shrink+Lite&c=apps target=_blank>Image Shrink Lite</a> <BR>( ƒKƒ‰Œgƒ†\[ƒU[ ):Êƒ‚ÌB‰e‰æ¿‚ğFINE‚©‚çƒm\[ƒ}ƒ‹‚É•ÏX‚µ‚ÄAB‰e‚µ’¼‚µ‚Ä‚­‚¾‚³‚¢ <BR> ");
+					&error(" The data is too large. Please set the image size to $max_upload_img_size KB or less before posting. <BR><BR>Recommended image reduction tool<BR> For Windows: <a href=http://www.vector.co.jp/soft/win95/art/se153674.html target=_blank>Reduction tool</ a><BR> For Mac OS : <a href=http://itunes.apple.com/jp/app/resizeit/id416280139?mt=12 target=_blank>ResizeIt</a> <BR> For Android : < a href=https://play.google.com/store/search?q=Image+Shrink+Lite&c=apps target=_blank>Image Shrink Lite</a> Please change the image quality from FINE to normal and try again<BR>");
 					exit;
 				  }
 				 }
 				}
 
-				open(OUT, ">$img_dir/$new_fname")|| &error(" ‰æ‘œƒf[ƒ^‚ğ$img_dir‚É•Û‘¶’†‚ÉƒGƒ‰[‚ª‹N‚«‚Ü‚µ‚½D<BR>w’èƒfƒBƒŒƒNƒgƒŠ\"$img_dir\"‚É‘‚İ‹–‰Â‚ª‚È‚¢‰Â\”\\«‚ª‚ ‚è‚Ü‚·.<BR>ƒfƒBƒŒƒNƒgƒŠ‚Ìƒp[ƒ~ƒVƒ‡ƒ“İ’è‚ğŠm”F‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢D");
-				# IIS,PWS(NT/95)‘Îô
+				open(OUT, ">$img_dir/$new_fname")|| &error("An error occurred while saving image data to $img_dir. <BR>You may not have write permission in the specified directory \"$img_dir\".<BR>Please check the permission settings for the directory.");
+				# IIS,PWS(NT/95)å¯¾ç­–
 				if($www_server_os=~ /win/i){
 					binmode(OUT);
 				}
@@ -2587,19 +2589,19 @@ sub read_input{
 				  eval "flock(OUT,8);" if($PM{'flock'} == 1 );
 				close(OUT);
 
-				# ƒeƒ“ƒ|ƒ‰ƒŠƒAƒbƒvƒ[ƒhƒf[ƒ^‚Ì‘¶İŠm”Fƒtƒ‰ƒO
-				# Œãˆ—‚Å,“o˜^’†’fƒGƒ‰[”­¶‚É‰æ‘œƒtƒ@ƒCƒ‹‚ğíœ‚·‚é‚½‚ß‚Ég—pB
-				# íœ‚Ísub errorƒ‹[ƒ`ƒ““à‚Ås‚¤B
+				# ãƒ†ãƒ³ãƒãƒ©ãƒªã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ãƒ‡ãƒ¼ã‚¿ã®å­˜åœ¨ç¢ºèªãƒ•ãƒ©ã‚°
+				# å¾Œå‡¦ç†ã§,ç™»éŒ²ä¸­æ–­ã‚¨ãƒ©ãƒ¼ç™ºç”Ÿæ™‚ã«ç”»åƒãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‰Šé™¤ã™ã‚‹ãŸã‚ã«ä½¿ç”¨ã€‚
+				# å‰Šé™¤ã¯sub errorãƒ«ãƒ¼ãƒãƒ³å†…ã§è¡Œã†ã€‚
 				$img_data_exists=1;
 	
 			}elsif(($vars > 3) && ($vars[1] =~ /name\=\"(\S+)\"/)){
-                                # ‰æ‘œƒf[ƒ^ˆÈŠO‚ÌƒtƒH[ƒ€‚Ìˆ—
-                                #&error("varsƒf[ƒ^<BR>$vars $1-$vars[3] test");	
-				# ‚»‚Ì‘¼‚ÌƒtƒH[ƒ€ƒf[ƒ^‚Ìˆ—
+                                # ç”»åƒãƒ‡ãƒ¼ã‚¿ä»¥å¤–ã®ãƒ•ã‚©ãƒ¼ãƒ ã®å‡¦ç†
+                                #&error("varsãƒ‡ãƒ¼ã‚¿<BR>$vars $1-$vars[3] test");	
+				# ãã®ä»–ã®ãƒ•ã‚©ãƒ¼ãƒ ãƒ‡ãƒ¼ã‚¿ã®å‡¦ç†
 				$name =$1;
 				$value = "$vars[3]";
 
-				# ƒeƒLƒXƒgƒGƒŠƒA‚ÉŠÖ‚·‚éˆ—
+				# ãƒ†ã‚­ã‚¹ãƒˆã‚¨ãƒªã‚¢ã«é–¢ã™ã‚‹å‡¦ç†
 				if($vars > 5){
 					$value .= "\r\n";
 					foreach($i=4; $i<$vars; $i++){
@@ -2612,22 +2614,22 @@ sub read_input{
 
 				}
 
-				# sjis‚É•ÏŠ· (imgboard1.22 Rev.3)
-				# jcode_sj.plŠÖ˜A‚Ìİ’èƒ~ƒX‚ğƒgƒ‰ƒbƒv‚µ‚ÄŒŸo
-				# (ˆê“x¬Œ÷‚·‚ê‚ÎƒXƒLƒbƒv‚µ‚Ä‚‘¬‰»)
+				# sjisã«å¤‰æ› (imgboard1.22 Rev.3)
+				# jcode_sj.plé–¢é€£ã®è¨­å®šãƒŸã‚¹ã‚’ãƒˆãƒ©ãƒƒãƒ—ã—ã¦æ¤œå‡º
+				# (ä¸€åº¦æˆåŠŸã™ã‚Œã°ã‚¹ã‚­ãƒƒãƒ—ã—ã¦é«˜é€ŸåŒ–)
 				if($jcode_eval_check_flag != '1'){
 					eval "&jcode'convert(*value, 'sjis','','z');";
 					if($@ eq ""){
 					    $jcode_eval_check_flag=1;
-				 	    # ¬Œ÷
+				 	    # æˆåŠŸ
 					}else{
-				 	    # ¸”s
-	    					&error(" CGIİ’èƒGƒ‰[ ‰½‚ç‚©‚Ì——R‚Å“ú–{Œêƒ‰ƒCƒuƒ‰ƒŠu $jcode_name v‚Ì“Ç‚İ‚İ‚É¸”s‚µ‚Ü‚µ‚½B<BR> jcode_sj.pl“™‚Ì–¼‘O‚ª³‚µ‚­w’è‚³‚ê‚Ä‚¢‚È‚¢‚©A‚ ‚é‚¢‚Íw’èƒpƒXu $jcode_name v‚ÉŠY“–ƒtƒ@ƒCƒ‹‚ª‘¶İ‚µ‚È‚¢‚©A‚ ‚é‚¢‚Íƒp[ƒ~ƒbƒVƒ‡ƒ“‚ª³‚µ‚­‚È‚¢‚à‚Ì‚Æv‚í‚ê‚Ü‚· ");
+				 	    # å¤±æ•—
+	    					&error(" CGI setting error Failed to load the Japanese library "$jcode_name" for some reason. <BR> The name such as jcode_sj.pl is not specified correctly, or the corresponding file does not exist in the specified path "$jcode_name", or the permission seems to be incorrect. ");
 					}
 		    		}else{
 					&jcode'convert(*value, 'sjis','','z');
 		    		}
-				$FORM{$name} = $value;		# value‚ğ•Ô‚·
+				$FORM{$name} = $value;		# valueã‚’è¿”ã™
 
 			}
 		}
@@ -2635,12 +2637,12 @@ sub read_input{
 }
 
 #=========================#
-# ‹L–ƒf[ƒ^‚Ì’Ç‰Á
+# è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã®è¿½åŠ 
 #=========================#
 
 sub post_data{
 
-	local($tmp_file)	= $_[0];# ˆ—‚·‚éƒƒOƒtƒ@ƒCƒ‹–¼
+	local($tmp_file)	= $_[0];# å‡¦ç†ã™ã‚‹ãƒ­ã‚°ãƒ•ã‚¡ã‚¤ãƒ«å
 
 	undef @HEAD_MESSAGE;
 	undef @MESSAGE;
@@ -2650,32 +2652,32 @@ sub post_data{
 	local($sage_flag);
 
   	if($ENV{'REQUEST_METHOD'} ne 'POST'){
-		&error(" ƒZƒLƒ…ƒŠƒeƒBŒx <BR> GET‚É‚æ‚é‹L–“Še‚Í‚m‚f‚Å‚· ");
+		&error(" Security warning <BR> Article submission by GET is NG ");
 	}
 
 	&form_check;
 
 	if($error_message ne ''){
 		&rm_tmp_uploaded_files;
-		&set_cookies;		# ƒNƒbƒL[‚ğƒZƒbƒg(120Rev5ˆÈ~)
+		&set_cookies;		# ã‚¯ãƒƒã‚­ãƒ¼ã‚’ã‚»ãƒƒãƒˆ(120Rev5ä»¥é™)
 		&error($error_message);
 		exit;
 	}
 
-	# ‹L–‚Ì“ú•t•\¦i•ÏX‰Â”\)
+	# è¨˜äº‹ã®æ—¥ä»˜è¡¨ç¤ºï¼ˆå¤‰æ›´å¯èƒ½)
 	$date_data = "\[$year/$month/$mday,$hour:$min:$sec\]";
 
         if(($img_location ne '')&&($imgtitle eq '')){
-	# ƒ^ƒCƒgƒ‹‚ª‚È‚¢ê‡‚Íƒtƒ@ƒCƒ‹–¼‚ªƒ^ƒCƒgƒ‹
+	# ã‚¿ã‚¤ãƒˆãƒ«ãŒãªã„å ´åˆã¯ãƒ•ã‚¡ã‚¤ãƒ«åãŒã‚¿ã‚¤ãƒˆãƒ«
 		$imgtitle="$img_location";
 	}
-	# “Še‰æ‘œ‚Ì—e—Ê‚ğŒvZ
+	# æŠ•ç¨¿ç”»åƒã®å®¹é‡ã‚’è¨ˆç®—
 	if($img_location ne ''){
 		$content_length="$ENV{'CONTENT_LENGTH'}";
 		$content_length="$content_length"-800;
 		$content_length_kb=int($content_length/1024);
 
-		# R7 new Web‚ÅƒQƒbƒg‚µ‚½ƒtƒ@ƒCƒ‹‚ÉƒTƒCƒY‚É·Š·‚¦
+		# R7 new Webã§ã‚²ãƒƒãƒˆã—ãŸãƒ•ã‚¡ã‚¤ãƒ«ã«ã‚µã‚¤ã‚ºã«å·®æ›ãˆ
 		if($web_get_file_size > 0){
 			$content_length_kb=int($web_get_file_size*10/1024);
 			$content_length_kb=($content_length_kb / 10);
@@ -2688,28 +2690,29 @@ sub post_data{
 		}
 		if($FORM{'amode'} eq "post_webparts"){
 		 if($img_data_size > 52){
-			&error(" ƒGƒ‰[—e—ÊƒI[ƒo[Bƒp[ƒc‰æ‘œ‚Í50KBˆÈ‰º‚É‚µ‚Ä‚­‚¾‚³‚¢B<BR>	");	
+			&error(" Errorã€‚ Please keep part images under 50KB. <BR>	");	
 		 }
 		}
 		$img_data_size_num="$img_data_size";
 		$img_data_size="($img_data_size KB)";
 
-#		# Œ´‰æ‚Ìƒ_ƒCƒGƒbƒg‹@”\ 2005.09
+#		# åŸç”»ã®ãƒ€ã‚¤ã‚¨ãƒƒãƒˆæ©Ÿèƒ½ 2005.09
 #		if(($content_length_kb > 30)&&($tcontent_length_diet > 0)){
 #  		  $content_length_diet_kb=int($tcontent_length_diet/1024);
-#		  $img_data_size="(Diet $img_data_size_num KB¨$content_length_diet_kb KB)";
+#		  $img_data_size="(Diet $img_data_size_num KBâ†’$content_length_diet_kb KB)";
 #		}
 	}
 
-	# imgsize‚Ìƒo[ƒWƒ‡ƒ“‚ğƒ`ƒFƒbƒN
+	# imgsizeã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã‚’ãƒã‚§ãƒƒã‚¯
 	if($imgsize_lib_flag ==1){
 		unless($imgsize_version >=20010301){
-			&error(" ŠÇ—Òİ’è‚ÌƒGƒ‰[Bˆ—‚ğ’†~‚µ‚Ü‚µ‚½B<BR>
-			imgsize.pl‚Ìƒo[ƒWƒ‡ƒ“ $imgsize_version ‚ÍŒÃ‰ß‚¬‚Ü‚·BÅV”Å‚ğ‚²—˜—p‚­‚¾‚³‚¢B");
+			&error(" 
+Error in admin settings. Processing aborted. <BR>
+The imgsize.pl version $imgsize_version is too old. Please use the latest version.");
 		}
 	}
 
-	# “Še‰æ‘œ‚ÌƒvƒƒpƒeƒB‚ğæ“¾
+	# æŠ•ç¨¿ç”»åƒã®ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£ã‚’å–å¾—
 	&check_uploaded_img_property;
 	sub check_uploaded_img_property{
 	if((-e "$img_location")&&($imgsize_lib_flag== 1 )){	
@@ -2724,7 +2727,7 @@ sub post_data{
 	}
 	}
 
-	# ƒZƒpƒŒ[ƒ^‚Æ‚µ‚Ä–â‘è‚ ‚é‚à‚Ì‚ğA–‘O‚É’uŠ·
+	# ã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿ã¨ã—ã¦å•é¡Œã‚ã‚‹ã‚‚ã®ã‚’ã€äº‹å‰ã«ç½®æ›
 	$subject=&Enc_EQ("$subject");
 
 	undef $tmp_data;
@@ -2732,7 +2735,7 @@ sub post_data{
 	foreach $p_key(keys %FORM){
 		if($p_key=~ /opt_data_(.+)/){
 			$tmp_data=&Enc_EQ($FORM{$p_key});
-			# ‘‚«o‚µƒf[ƒ^‚Í]—ˆŒİŠ·‚ª•K—v
+			# æ›¸ãå‡ºã—ãƒ‡ãƒ¼ã‚¿ã¯å¾“æ¥äº’æ›ãŒå¿…è¦
 			$opt_data.="opt_data_"."$1"."\="."$tmp_data"."\;";
 			undef $tmp_data;
 		}elsif($p_key=~ /^opt(.{1,2})$/){
@@ -2743,31 +2746,31 @@ sub post_data{
 	}
 
 	if(-e "$tmp_file"){
-	}else{		# ƒRƒƒ“ƒg•Û‘¶ƒtƒ@ƒCƒ‹‚ª‚È‚¢ê‡,©“®ì¬‚ğ‚İ‚é
-		open(NEWFILE,">$tmp_file")||&error(" İ’èƒGƒ‰[Dƒf[ƒ^•Û‘¶—pƒtƒ@ƒCƒ‹\$tmp_file\"‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñD©“®ì¬‚ğ‚İ‚Ü‚µ‚½‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½Bˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	}else{		# ã‚³ãƒ¡ãƒ³ãƒˆä¿å­˜ãƒ•ã‚¡ã‚¤ãƒ«ãŒãªã„å ´åˆ,è‡ªå‹•ä½œæˆã‚’è©¦ã¿ã‚‹
+		open(NEWFILE,">$tmp_file")||&error("Setting error. The data save file \$tmp_file\" was not found. An attempt was made to create it automatically, but it failed. Processing was interrupted.");
 		close(NEWFILE);
  	}
 
-	# €”õŠ®—¹
+	# æº–å‚™å®Œäº†
 
-	# ƒƒbƒZ[ƒW‚ğ“Ç‚İ‚Ş
-	open(IN, "$tmp_file")|| &error(" İ’èƒGƒ‰[Dƒf[ƒ^•Û‘¶—pƒtƒ@ƒCƒ‹\"$tmp_file\"‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñDˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	# ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’èª­ã¿è¾¼ã‚€
+	open(IN, "$tmp_file")|| &error("Setting error. Cannot find the data save file \"$tmp_file\". Processing was interrupted.");
 
 	   eval "flock(IN,1);" if($PM{'flock'} == 1 );
 	   while(<IN>){
 
-		# HEADER•Û‘¶ («—ˆ‚Ö‚ÌŠg’£‚à‚±‚±‚Å‘Î‰)
+		# HEADERä¿å­˜ (å°†æ¥ã¸ã®æ‹¡å¼µã‚‚ã“ã“ã§å¯¾å¿œ)
 		if($_ =~ /^\#?\,param_/i){
 
-			# (#‚ÅƒRƒƒ“ƒgƒAƒEƒg‚µ‚½‚à‚Ì‚ğŠÜ‚Ş)
+			# (#ã§ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã—ãŸã‚‚ã®ã‚’å«ã‚€)
 			if($_ =~ /^\,param_seq_no(\s*)=(\s*)(\d+)(\s*)/i){
-				# ˜A”Ô‚ğæ“¾‚·‚é
+				# é€£ç•ªã‚’å–å¾—ã™ã‚‹
 				$old_seq_no="$3";
 			}elsif($_ =~ /^\,param_last_backup_date(\s*)=(\s*)(\d+)(\s*)/i){
-				# ÅIXV“ú‚ğæ“¾‚·‚é
+				# æœ€çµ‚æ›´æ–°æ—¥ã‚’å–å¾—ã™ã‚‹
 				$HEAD_MESSAGE{'last_backup_date'}="$3";
 			}elsif($_ =~ /^\,param_last_bloods(\s*)=(\s*)([^\;]*)(\;+)(\s*)/i){
-				# ÅV‚Ì‹L–‚Ìe‚ğæ“¾‚·‚é
+				# æœ€æ–°ã®è¨˜äº‹ã®è¦ªã‚’å–å¾—ã™ã‚‹
 				$HEAD_MESSAGE{'last_bloods'}="$3";
 				$HEAD_MESSAGE{'last_bloods'}=&Dec_EQ("$HEAD_MESSAGE{'last_bloods'}");
 			}else{
@@ -2776,7 +2779,7 @@ sub post_data{
 
 		}
 
-		# ‹L–‚ğƒoƒbƒtƒ@‚É“ü‚ê‚é
+		# è¨˜äº‹ã‚’ãƒãƒƒãƒ•ã‚¡ã«å…¥ã‚Œã‚‹
 		if($_ =~ /^([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]*)\t([^\t]*)/){
 			$tmp_mes_line="$_";
 			chop($tmp_mes_line);
@@ -2789,62 +2792,62 @@ sub post_data{
 	close(IN);
 
 
-	# ˜A”Ôˆ—
-	if($old_seq_no eq ""){# ‚È‚¢ê‡‚Íì‚é
+	# é€£ç•ªå‡¦ç†
+	if($old_seq_no eq ""){# ãªã„å ´åˆã¯ä½œã‚‹
 		$old_seq_no='0';
 	}
 	$new_seq_no=$old_seq_no+1;
 
-	# WebParts‚ªƒI[ƒo[‚µ‚È‚¢‚æ‚¤‚ÉŒx‚·‚é
+	# WebPartsãŒã‚ªãƒ¼ãƒãƒ¼ã—ãªã„ã‚ˆã†ã«è­¦å‘Šã™ã‚‹
 	if($limit_wp_max_message ne ""){
 	  if(($limit_wp_max_message-1) < $all_message){
-	    &error(" ƒGƒ‰[Bimgboard‚Å‚ÍAWebƒp[ƒc‚ÍÅ‘å $limit_wp_max_message ‚Ü‚Å‚µ‚©•Û‘¶‚Å‚«‚Ü‚¹‚ñB<P>‚»‚êˆÈã‚Ìƒp[ƒc‚âƒAƒCƒRƒ“‚ğ•Û‘¶‚µ‚½‚¢ê‡‚ÍAo–…ƒXƒNƒŠƒvƒgimgboard2010‚ğ‚²—˜—p‚­‚¾‚³‚¢B ");
+	    &error("error. In imgboard, web parts can only be saved up to $limit_wp_max_message. <P>If you want to save more parts and icons, please use sister script imgboard2010.");
 	  }
 	}
 
-        # ˆÃ†‰»
+        # æš—å·åŒ–
 	if(($rmkey ne "no_key")&&($rmkey ne "")){
 		$rmkey		= &make_pass("$rmkey");
 	}
 
-	# SNL‚Æ‚µ‚Ä‘¶İ‚·‚éƒf[ƒ^‚ÌƒŠƒXƒg‚ğì‚é
+	# SNLã¨ã—ã¦å­˜åœ¨ã™ã‚‹ãƒ‡ãƒ¼ã‚¿ã®ãƒªã‚¹ãƒˆã‚’ä½œã‚‹
 	foreach (@SNL_MADE_DATA){
 #		$existing_snl_type_list.="$_"."\/";
 	}
 
-	# —A“üURL‚Åƒ^ƒu‚Æ;‚ğƒGƒXƒP[ƒv
+	# è¼¸å…¥URLã§ã‚¿ãƒ–ã¨;ã‚’ã‚¨ã‚¹ã‚±ãƒ¼ãƒ—
 	$img_import_url=~ s/\t//g;
 	$img_import_url=~ s/\;//g;
 	$img_import_url=~ s/\s+$//g;
 
-	# sage‹@”\
+	# sageæ©Ÿèƒ½
 	if(($PM{'use_sage'} == 1)&&($tt_email=~ /^sage$/i)){
 		$tt_email="";
 		$sage_flag=1;
 	}
 
-	# V‚µ‚¢ƒƒbƒZ[ƒW‚ğì‚éiimgboard1.22VŒ`®j
+	# æ–°ã—ã„ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’ä½œã‚‹ï¼ˆimgboard1.22æ–°å½¢å¼ï¼‰
 	$new_message = "$subject\t$name\t$email\t$date_data\t$body<\!--opt\:$opt_data-->\t$img_location\t$imgtitle<\!--dsize=$img_data_size;type=$img_type;width=$img_width;height=$img_height;hw_racio=$img_hw_racio;size=$img_data_size_num;-->\t$new_seq_no\t$FORM{'blood'}\t$rmkey\t$unq_id\t";
 
 
-	# ƒŒƒX‚Ì•t‚¢‚½‹L–‚ğã‚Ö‚Á‚Äs‚­‚½‚ß‚ÉAeƒXƒŒƒbƒhƒŠƒXƒg‚Ö’Ç‰Á‚·‚é
-	# 2004.12 sage‹@”\‚ğ’Ç‰Á
+	# ãƒ¬ã‚¹ã®ä»˜ã„ãŸè¨˜äº‹ã‚’ä¸Šã¸æŒã£ã¦è¡ŒããŸã‚ã«ã€è¦ªã‚¹ãƒ¬ãƒƒãƒ‰ãƒªã‚¹ãƒˆã¸è¿½åŠ ã™ã‚‹
+	# 2004.12 sageæ©Ÿèƒ½ã‚’è¿½åŠ 
 	if(($FORM{'sage'} == "1")||($sage_flag == 1 )){
-	  # ƒŠƒXƒg‚É‹L˜^‚µ‚È‚¢
+	  # ãƒªã‚¹ãƒˆã«è¨˜éŒ²ã—ãªã„
 	}else{
 	  &update_bloods_list;
 	}
 
-	# ‹L–ƒf[ƒ^‚ğ’Ç‰Á‚·‚é
+	# è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã‚’è¿½åŠ ã™ã‚‹
 	if($FORM{'parent'} eq ""){
-	# e‹L–‚Ìê‡
+	# è¦ªè¨˜äº‹ã®å ´åˆ
 		unshift(@MESSAGE, $new_message);
-		$all_message++;	# ‹L–”‚Íˆê‚Â‘
+		$all_message++;	# è¨˜äº‹æ•°ã¯ä¸€ã¤å¢—
 
 
 	}else{
-	# q‹L–‚Ìê‡
-		# ‹L–ƒf[ƒ^‚ğ’Tõ‚·‚é
+	# å­è¨˜äº‹ã®å ´åˆ
+		# è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã‚’æ¢ç´¢ã™ã‚‹
 
 		$mes_counter=1;
 		$last_child_number=0;
@@ -2856,14 +2859,14 @@ sub post_data{
 			$mes_counter++;
 		}
 
-		# ‹L–ƒf[ƒ^‚ğ’Ç‰Á‚·‚é
+		# è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã‚’è¿½åŠ ã™ã‚‹
 		$mes_counter=1;
 
 		foreach(@MESSAGE){
 			push(@NEW_MESSAGE, $_);
 			if($mes_counter==$last_child_number){
 				push(@NEW_MESSAGE, $new_message);
-				$all_message++;	# ‹L–”‚Íˆê‚Â‘
+				$all_message++;	# è¨˜äº‹æ•°ã¯ä¸€ã¤å¢—
 			}
 			$mes_counter++;
 		}
@@ -2871,7 +2874,7 @@ sub post_data{
 
 	}
 
-	# ŒÃ‚¢‰æ‘œ‚ğíœ
+	# å¤ã„ç”»åƒã‚’å‰Šé™¤
 
 	if($all_message > $max_message){
 		for($i=$max_message; $i<$all_message; $i++){
@@ -2883,12 +2886,12 @@ sub post_data{
 
 				if($remove_file ne '' && -e $remove_file){
 					unlink($remove_file);
-					# ƒƒ^ƒtƒ@ƒCƒ‹‚àíœ‚·‚é
+					# ãƒ¡ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã‚‚å‰Šé™¤ã™ã‚‹
 					&rm_meta_file("$remove_file");
 
-					# Œg‘Ñ—pƒtƒ@ƒCƒ‹‚àíœ‚·‚é
+					# æºå¸¯ç”¨ãƒ•ã‚¡ã‚¤ãƒ«ã‚‚å‰Šé™¤ã™ã‚‹
 					if($remove_file=~ /\.(jpe?g|gif|png|bmp|mng)$/i){
-					  # SNL‚ÌƒpƒX‚ğ’²‚×‚é
+					  # SNLã®ãƒ‘ã‚¹ã‚’èª¿ã¹ã‚‹
 					  if($remove_imgtitle ne ''){
 					    &parse_img_param($remove_imgtitle);
 					  }
@@ -2902,7 +2905,7 @@ sub post_data{
 		}
 	}
 
-	# V‚µ‚¢ƒtƒ@ƒCƒ‹‚Æ‚µ‚Äo—Í
+	# æ–°ã—ã„ãƒ•ã‚¡ã‚¤ãƒ«ã¨ã—ã¦å‡ºåŠ›
 	if($all_message > $max_message){
 		$repost_message = $max_message;
 	}else{
@@ -2910,16 +2913,16 @@ sub post_data{
 	}
 
 	if($PM{'make_backup_file'}== 1 ){
- 	 &make_backup_file; # ƒoƒbƒNƒAƒbƒvƒtƒ@ƒCƒ‹©“®ì¬
+ 	 &make_backup_file; # ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ãƒ•ã‚¡ã‚¤ãƒ«è‡ªå‹•ä½œæˆ
 	}
 
-	# ‘‚«o‚µˆ—
+	# æ›¸ãå‡ºã—å‡¦ç†
 	open(OUT, "> $tmp_file")|| &check_file_open_error("$tmp_file");
 	eval "flock(OUT,2);" if($PM{'flock'} == 1 );
 
 		$HEAD_MESSAGE{'last_bloods'}=&Enc_EQ("$HEAD_MESSAGE{'last_bloods'}");
 
-		# HEAD•”•ª
+		# HEADéƒ¨åˆ†
 		print OUT "\,param_seq_no=$new_seq_no\n";
 		print OUT "\,param_last_backup_date=$HEAD_MESSAGE{'last_backup_date'};\n";
 		print OUT "\,param_last_bloods=$HEAD_MESSAGE{'last_bloods'};\n";
@@ -2927,7 +2930,7 @@ sub post_data{
 			print OUT "$_"; 
 		}
 
-		# ‹L–•”•ª
+		# è¨˜äº‹éƒ¨åˆ†
 		for($i=0; $i<$repost_message; $i++){
 			print OUT "$MESSAGE[$i]\n";
 		}
@@ -2939,23 +2942,23 @@ sub post_data{
 
 sub check_file_open_error{
 
-  local($tmp_ffile)= $_[0];	# ƒƒbƒZ[ƒW‚ğˆø”‚Æ‚µ‚Äæ“¾
+  local($tmp_ffile)= $_[0];	# ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’å¼•æ•°ã¨ã—ã¦å–å¾—
   unless(-e "$tmp_ffile"){
-	&error(" İ’èƒGƒ‰[Dƒf[ƒ^—p•Û‘¶ƒtƒ@ƒCƒ‹\"$tmp_ffile\"‚Éƒf[ƒ^‚ğ‘‚Ş‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½D\"$tmp_ffile\"‚Æ‚¢‚¤–¼‘O‚Ìƒtƒ@ƒCƒ‹‚ª³‚µ‚¢ˆÊ’u‚ÉŒ©‚Â‚©‚ç‚È‚¢‚½‚ß‚Å‚·BƒpƒX‚Ìİ’è‚ğÄŠm”F‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B“Šeˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	&error(" Configuration error. Could not write data to the data save file \"$tmp_ffile\". \The reason is that the file named "$tmp_ffile\" could not be found in the correct location. Please recheck the path setting. The submission process has been aborted.");
   }
 
   unless(-w "$tmp_ffile"){
-	&error(" İ’èƒGƒ‰[Dƒf[ƒ^—p•Û‘¶ƒtƒ@ƒCƒ‹\"$tmp_ffile\"‚Éƒf[ƒ^‚ğ‘‚Ş‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½D$tmp_ffile‚É‘Î‚·‚é‘‚İ‹–‰Â‚ª‚È‚¢‚½‚ß‚¾‚Æv‚í‚ê‚Ü‚·Dƒp[ƒ~ƒVƒ‡ƒ“‚Ìİ’è‚ğÄŠm”F‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B“Šeˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	&error(" Configuration error. Could not write data to the data save file \"$tmp_ffile\". This is because there is no permission to write to $tmp_ffile. Please recheck the permission settings. The submission process has been aborted.");
   }
   if($ENV{'OS'}=~ /Windows_NT/i){
-	&error(" İ’èƒGƒ‰[Dƒf[ƒ^—p•Û‘¶ƒtƒ@ƒCƒ‹\"$tmp_ffile\"‚Éƒf[ƒ^‚ğ‘‚Ş‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½DIIS‚ÅNTFSƒtƒ@ƒCƒ‹ƒVƒXƒeƒ€‚ğ—˜—p‚³‚ê‚Ä‚¢‚éê‡‚ÍAƒfƒBƒŒƒNƒgƒŠ‚ÌƒAƒNƒZƒX‹–‰Â‚Ìİ’è‚ğÄŠm”F‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B“Šeˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	&error(" Configuration error. If you are using the NTFS file system with IIS, please recheck your directory permission settings. The submission process has been aborted.");
   }
-  &error(" İ’èƒGƒ‰[Dƒf[ƒ^—p•Û‘¶ƒtƒ@ƒCƒ‹\"$tmp_ffile\"‚Éƒf[ƒ^‚ğ‘‚Ş‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½Dƒp[ƒ~ƒVƒ‡ƒ“‚Ìİ’è‚ğÄŠm”F‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B“Šeˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+  &error(" Configuration error. Could not write data to the data storage file \"$tmp_ffile\". Please recheck your permission settings. The submission process has been aborted.");
 }
 #
-# Å‹ß‚Ì‹L–‚Æ‚»‚ÌŒŒ“(ƒXƒŒƒbƒh)‚ğ‹L‰¯‚·‚éƒTƒuƒTƒuƒ‹[ƒ`ƒ“
-# imgboardR6‚ÌƒƒO‚É‚¨‚¢‚Ä‚Í‚P‚T‹L–•ª‚Ì‹L–‚h‚c‚Æ
-# e‚ÌŒŒ“(ƒXƒŒƒbƒh)‚ğƒpƒ‰ƒ[ƒ^‚Æ‚µ‚ÄŠo‚¦‚Ä‚¨‚­‚±‚Æ‚É‚·‚éB
+# æœ€è¿‘ã®è¨˜äº‹ã¨ãã®è¡€çµ±(ã‚¹ãƒ¬ãƒƒãƒ‰)ã‚’è¨˜æ†¶ã™ã‚‹ã‚µãƒ–ã‚µãƒ–ãƒ«ãƒ¼ãƒãƒ³
+# imgboardR6ã®ãƒ­ã‚°ã«ãŠã„ã¦ã¯ï¼‘ï¼•è¨˜äº‹åˆ†ã®è¨˜äº‹ï¼©ï¼¤ã¨
+# è¦ªã®è¡€çµ±(ã‚¹ãƒ¬ãƒƒãƒ‰)ã‚’ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã¨ã—ã¦è¦šãˆã¦ãŠãã“ã¨ã«ã™ã‚‹ã€‚
 #
 sub update_bloods_list{
 
@@ -2963,18 +2966,18 @@ sub update_bloods_list{
 
 #	return if($HEAD_MESSAGE{'last_bloods'} eq "");
 
-	# e‹L–’Ç‰Á‚Ìê‡,e[e‚Å’Ç‰Á‚·‚é
+	# è¦ªè¨˜äº‹è¿½åŠ ã®å ´åˆ,è¦ªãƒ¼è¦ªã§è¿½åŠ ã™ã‚‹
 	if($FORM{'parent'} eq ""){	
 		  return if($unq_id eq "");
 		  $b_new_list="$unq_id-$unq_id"."\,"."$HEAD_MESSAGE{'last_bloods'}";
 	}else{ 			
-	# q‹L–‚Ìê‡Aq[e‚Å’Ç‰Á‚·‚é
+	# å­è¨˜äº‹ã®å ´åˆã€å­ãƒ¼è¦ªã§è¿½åŠ ã™ã‚‹
 	  return if($unq_id eq "");
 	  return if($FORM{'blood'} eq "");
 	  $b_new_list="$unq_id-$FORM{'blood'}"."\,"."$HEAD_MESSAGE{'last_bloods'}";
 	}
 
-	# ‚P‚TˆÈã‚É‚È‚ê‚ÎA‚P‚UˆÈ~‚ÍÌ‚Ä‚é
+	# ï¼‘ï¼•ä»¥ä¸Šã«ãªã‚Œã°ã€ï¼‘ï¼–ä»¥é™ã¯æ¨ã¦ã‚‹
 	if($b_new_list=~ /^(\,*)([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)\,([\d|\-]*)(.*)/){
 		$b_new_list="$2"."\,"."$3"."\,"."$4"."\,"."$5"."\,"."$6"."\,"."$7"."\,"."$8"."\,"."$9"."\,"."$10"."\,"."$11"."\,"."$12"."\,"."$13"."\,"."$14"."\,"."$15"."\,"."$16"."\,";
 	}
@@ -2984,39 +2987,39 @@ sub update_bloods_list{
 #
 #
 #===================================#
-#  ©“®ƒoƒbƒNƒAƒbƒvì¬ˆ—(R6 new)
+#  è‡ªå‹•ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ä½œæˆå‡¦ç†(R6 new)
 #===================================#
 # 2001.07(ver.0.7)
-# –œˆê‚ÌƒT[ƒo‚Ìƒtƒ@ƒCƒ‹o—Í’†ƒ_ƒEƒ“‚â“Še‚É‚æ‚éƒƒOÁ¸–ŒÌ‚É
-# ”õ‚¦‚ÄA$PM{'backup_day_interval'}‚Åw’è‚³‚ê‚½ŠÔŠu“ú‚Åfile.dat‚Ì
-# ©“®ƒoƒbƒNƒAƒbƒv‚ğì‚é‹@”\‚ğ’Ç‰Á‚·‚éB
+# ä¸‡ä¸€ã®ã‚µãƒ¼ãƒã®ãƒ•ã‚¡ã‚¤ãƒ«å‡ºåŠ›ä¸­ãƒ€ã‚¦ãƒ³ã‚„æŠ•ç¨¿ã«ã‚ˆã‚‹ãƒ­ã‚°æ¶ˆå¤±äº‹æ•…ã«
+# å‚™ãˆã¦ã€$PM{'backup_day_interval'}ã§æŒ‡å®šã•ã‚ŒãŸé–“éš”æ—¥ã§file.datã®
+# è‡ªå‹•ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã‚’ä½œã‚‹æ©Ÿèƒ½ã‚’è¿½åŠ ã™ã‚‹ã€‚
 #
-# 2001.07 ‹óƒtƒ@ƒCƒ‹‚ÌƒoƒbƒNƒAƒbƒv‚É‚æ‚éƒtƒ@ƒCƒ‹Á‹‚ğ–h~
+# 2001.07 ç©ºãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã«ã‚ˆã‚‹ãƒ•ã‚¡ã‚¤ãƒ«æ¶ˆå»ã‚’é˜²æ­¢
 sub make_backup_file{
 
-# sub post_data“à‚ÅŒÄ‚Î‚ê‚é
-# $HEAD_MESSAGE{'last_backup_date'}‚ÉÅIƒoƒbƒNƒAƒbƒv“ú‚ª
-# unq_id ‚Æ“¯‚¶Œ`®‚Å“ü‚Á‚Ä‚¢‚éB
-# $PM{'backup_day_interval'}  ‚ÅƒoƒbƒNƒAƒbƒvŠÔŠu‚ğİ’è‚µ
-# $PM{'backup_file_name'} ‚ÉƒoƒbƒNƒAƒbƒvƒtƒ@ƒCƒ‹–¼‚ğw’è‚µAì‚Á‚Ä‚¨‚­‚±‚Æ
+# sub post_dataå†…ã§å‘¼ã°ã‚Œã‚‹
+# $HEAD_MESSAGE{'last_backup_date'}ã«æœ€çµ‚ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—æ—¥æ™‚ãŒ
+# unq_id ã¨åŒã˜å½¢å¼ã§å…¥ã£ã¦ã„ã‚‹ã€‚
+# $PM{'backup_day_interval'}  ã§ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—é–“éš”ã‚’è¨­å®šã—
+# $PM{'backup_file_name'} ã«ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ãƒ•ã‚¡ã‚¤ãƒ«åã‚’æŒ‡å®šã—ã€ä½œã£ã¦ãŠãã“ã¨
 
 	local($do_backup_flag);
 	local($today_day_count);
 	local($tmp_day_count);
 
-	# İ’è‚³‚ê‚Ä‚È‚¢‚Æ‚«‚Íˆ—‚µ‚È‚¢iŒİŠ·«j
+	# è¨­å®šã•ã‚Œã¦ãªã„ã¨ãã¯å‡¦ç†ã—ãªã„ï¼ˆäº’æ›æ€§ï¼‰
 	if(($PM{'backup_day_interval'} eq "")||($PM{'backup_file_name'} eq "")){
 	  return;
 	}
 
-	# ‹L–‚ª5ŒˆÈ‰º‚Ìê‡‚ÍAˆ—‚µ‚È‚¢
-	#i‹óƒtƒ@ƒCƒ‹‚ÌƒoƒbƒNƒAƒbƒv‚É‚æ‚éAƒoƒbƒNƒAƒbƒvƒtƒ@ƒCƒ‹Á–Å‚ğ–h‚®j
+	# è¨˜äº‹ãŒ5ä»¶ä»¥ä¸‹ã®å ´åˆã¯ã€å‡¦ç†ã—ãªã„
+	#ï¼ˆç©ºãƒ•ã‚¡ã‚¤ãƒ«ã®ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã«ã‚ˆã‚‹ã€ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ãƒ•ã‚¡ã‚¤ãƒ«æ¶ˆæ»…ã‚’é˜²ãï¼‰
 	if($all_message < 6 ){
 	  return;
 	}
 
 
-	# ‰‰ñ—p
+	# åˆå›ç”¨
 	if($HEAD_MESSAGE{'last_backup_date'} eq ""){
 	  $HEAD_MESSAGE{'last_backup_date'}='20001112020459';
 	}
@@ -3030,22 +3033,22 @@ sub make_backup_file{
 		}
 	}
 
-	# ‚±‚Ìƒtƒ‰ƒO‚ª1‚È‚çƒoƒbƒNƒAƒbƒv‚ğì‚é
+	# ã“ã®ãƒ•ãƒ©ã‚°ãŒ1ãªã‚‰ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—ã‚’ä½œã‚‹
 	if($do_backup_flag ==1){
 #&error("$unq_id-$HEAD_MESSAGE{'last_backup_date'}");
 		if(-e "$PM{'backup_file_name'}"){
-		   $HEAD_MESSAGE{'last_backup_date'}=$unq_id;# ÅIƒoƒbƒNƒAƒbƒv“ú‚ğXV
+		   $HEAD_MESSAGE{'last_backup_date'}=$unq_id;# æœ€çµ‚ãƒãƒƒã‚¯ã‚¢ãƒƒãƒ—æ—¥ã‚’æ›´æ–°
 
 #		   &write_file_data("$PM{'backup_file_name'}");
 
-# ã‚Ìsub write_file_data‚Ì‘ã—piR5.2—p‚ÌŒİŠ·•”•ªj================
-	# ‘‚«o‚µˆ—
+# ä¸Šã®sub write_file_dataã®ä»£ç”¨ï¼ˆR5.2ç”¨ã®äº’æ›éƒ¨åˆ†ï¼‰================
+	# æ›¸ãå‡ºã—å‡¦ç†
 	open(OUT, "> $PM{'backup_file_name'}")|| &check_file_open_error("$PM{'backup_file_name'}");
 	eval "flock(OUT,2);" if($PM{'flock'} == 1 );
 
 		$HEAD_MESSAGE{'last_bloods'}=&Enc_EQ("$HEAD_MESSAGE{'last_bloods'}");
 
-		# HEAD•”•ª
+		# HEADéƒ¨åˆ†
 		print OUT "\,param_seq_no=$new_seq_no\n";
 		print OUT "\,param_last_backup_date=$HEAD_MESSAGE{'last_backup_date'};\n";
 		print OUT "\,param_last_bloods=$HEAD_MESSAGE{'last_bloods'};\n";
@@ -3053,7 +3056,7 @@ sub make_backup_file{
 			print OUT "$_"; 
 		}
 
-		# ‹L–•”•ª
+		# è¨˜äº‹éƒ¨åˆ†
 		for($i=0; $i<$repost_message; $i++){
 			print OUT "$MESSAGE[$i]\n";
 		}
@@ -3063,33 +3066,34 @@ sub make_backup_file{
 	close(OUT);
 # ==========================================================
 		}else{
-	   	&error(" İ’èƒGƒ‰[B“Šeˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½B‹L–ƒoƒbƒNƒAƒbƒvƒf[ƒ^•Û‘¶—pƒtƒ@ƒCƒ‹\"$PM{'backup_file_name'}\"‚Éƒf[ƒ^‚ğ‘‚Ş‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½D<BR>\"$PM{'backup_file_name'}\"‚Æ‚¢‚¤–¼‘O‚Ìƒtƒ@ƒCƒ‹‚ª³‚µ‚¢ˆÊ’u‚ÉŒ©‚Â‚©‚ç‚È‚¢‚½‚ß‚Å‚·Bƒtƒ@ƒCƒ‹‚ğ‚Ü‚¾ì‚Á‚Ä‚¢‚È‚¢l‚ÍA$PM{'file'}‚ğƒRƒs[‚µ‚Ä$PM{'backup_file_name'}‚Æ‚¢‚¤–¼‘O‚É‚µ‚ÄA“¯‚¶ƒfƒBƒŒƒNƒgƒŠ‚É’u‚«Aƒp[ƒ~ƒbƒVƒ‡ƒ“‚ğ‚U‚O‚U“™‚É‚µ‚Ä‰º‚³‚¢B’u‚¢‚½‚¯‚ÇA‚Ü‚½‚±‚ÌƒGƒ‰[‚ªo‚½l‚ÍAƒpƒX‚Ìİ’è‚ğÄŠm”F‚µ‚Ä‚İ‚Ä‚­‚¾‚³‚¢B");
+	   	&error("Configuration error. Post processing was interrupted. Data could not be written to the article backup data storage file \"$PM{'backup_file_name'}\". <BR>The file named \"$PM{'backup_file_name'}\" was not found in the correct location. If you haven't created the file yet, copy $PM{'file'}, name it $PM{'backup_file_name'}, put it in the same directory, and set the permissions to 606, etc. If you put it, but you get this error again, please check the path settings again.");
 		}
 	}
 }
 #
 #=================================#
-#  ‹L–ƒf[ƒ^‚Ìíœ (ƒƒCƒ“•”)
+#  è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã®å‰Šé™¤ (ãƒ¡ã‚¤ãƒ³éƒ¨)
 #=================================#
 #
 sub remove_data{
 
-	local($tmp_file)	= $_[0];# ˆ—‚·‚éƒƒOƒtƒ@ƒCƒ‹–¼
+	local($tmp_file)	= $_[0];# å‡¦ç†ã™ã‚‹ãƒ­ã‚°ãƒ•ã‚¡ã‚¤ãƒ«å
 
-	@remove_list=@_;# ˆø” íœƒŠƒXƒg(Vƒ‚[ƒh ¡‚Í–¢g—p)
+	@remove_list=@_;# å¼•æ•° å‰Šé™¤ãƒªã‚¹ãƒˆ(æ–°ãƒ¢ãƒ¼ãƒ‰ ä»Šã¯æœªä½¿ç”¨)
 	$tmpnum=0;
 	local($tmp_blood_name)=0;
-	local($killed_blood_name);# Á‚³‚ê‚½e‹L–‚ÌŒŒ“‚ğˆê‹L‰¯
+	local($killed_blood_name);# æ¶ˆã•ã‚ŒãŸè¦ªè¨˜äº‹ã®è¡€çµ±ã‚’ä¸€æ™‚è¨˜æ†¶
 	undef @HEAD_MESSAGE;
 
-	# ¡ƒZƒLƒ…ƒŠƒeƒBƒ`ƒFƒbƒN
+	# â– ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ãƒã‚§ãƒƒã‚¯
  	if($ENV{'REQUEST_METHOD'} eq 'GET'){
-	  &error(" ƒGƒ‰[B‚¢‚½‚¸‚ç–h~‚Ì‚½‚ßAGETƒ\ƒ\\ƒbƒh‚Å‚ÍAíœ‚Å‚«‚È‚¢d—l‚É‚È‚Á‚Ä‚¢‚Ü‚· ");
+	  &error("
+error. To prevent tampering, it is designed so that it cannot be deleted with the GET method.");
 	}
 
-	# ¡•¡”‚Ìíœw’è‚ğó‚¯æ‚èA”z—ñ‚É‚·‚é
-	# rmid‹Œ˜A”ÔSVŒÅ—LID‚ğƒ`ƒFƒbƒNƒ{ƒbƒNƒX‚©‚ç‚à‚ç‚¤
-	# R4Œ`®‚ğ@old_remove_list R6Œ`®‚ğ@remove_list‚Ö“ü‚ê‚é‚±‚Æ
+	# â– è¤‡æ•°ã®å‰Šé™¤æŒ‡å®šã‚’å—ã‘å–ã‚Šã€é…åˆ—ã«ã™ã‚‹
+	# rmidæ—§é€£ç•ªSæ–°å›ºæœ‰IDã‚’ãƒã‚§ãƒƒã‚¯ãƒœãƒƒã‚¯ã‚¹ã‹ã‚‰ã‚‚ã‚‰ã†
+	# R4å½¢å¼ã‚’@old_remove_list R6å½¢å¼ã‚’@remove_listã¸å…¥ã‚Œã‚‹ã“ã¨
 
 	foreach $form(sort keys %FORM){
 	   if($form =~ /^rmid/){
@@ -3102,19 +3106,19 @@ sub remove_data{
 	   }
 	}
 
-	$remove_article_number= @remove_list;	# íœ—\’è”
+	$remove_article_number= @remove_list;	# å‰Šé™¤äºˆå®šæ•°
 
-	# ƒf[ƒ^‚ğ“Ç‚İ‚İ‚È‚ª‚çAíœ‚·‚é‚à‚Ì‚ÍƒXƒLƒbƒv‚µAÅŒã‚É‘‚«o‚·B
-	open(IN, "$tmp_file")|| &error(" İ’èƒGƒ‰[Dƒf[ƒ^•Û‘¶—pƒtƒ@ƒCƒ‹\"$tmp_file\"‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñDˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	# ãƒ‡ãƒ¼ã‚¿ã‚’èª­ã¿è¾¼ã¿ãªãŒã‚‰ã€å‰Šé™¤ã™ã‚‹ã‚‚ã®ã¯ã‚¹ã‚­ãƒƒãƒ—ã—ã€æœ€å¾Œã«æ›¸ãå‡ºã™ã€‚
+	open(IN, "$tmp_file")|| &error(" Setting error. Cannot find file "$tmp_file\" for data storage. The process was aborted.");
 	eval "flock(IN,1);" if($PM{'flock'} == 1 );
 	while(<IN>){
 
 		if($_ =~ /^\,param_last_bloods(\s*)=(\s*)([^\;]*)(\;+)(\s*)/i){
-				# ÅVƒXƒŒƒbƒhƒŠƒXƒg‚ğæ“¾‚·‚é
+				# æœ€æ–°ã‚¹ãƒ¬ãƒƒãƒ‰ãƒªã‚¹ãƒˆã‚’å–å¾—ã™ã‚‹
 				$HEAD_MESSAGE{'last_bloods'}="$3";
 				$HEAD_MESSAGE{'last_bloods'}=&Dec_EQ("$HEAD_MESSAGE{'last_bloods'}");
 		}elsif($_ =~ /^\#?\,param_/i){
-			# HEADER‚ğ•Û‘¶‚·‚é(#‚ÅƒRƒƒ“ƒgƒAƒEƒg‚µ‚½‚à‚Ì‚ğŠÜ‚Ş)
+			# HEADERã‚’ä¿å­˜ã™ã‚‹(#ã§ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã—ãŸã‚‚ã®ã‚’å«ã‚€)
 			push(@HEAD_MESSAGE, $_);
 			next;
 		}
@@ -3125,38 +3129,38 @@ sub remove_data{
 			$tmpnum++;
 			undef @LDATA;
 
-			$tmpdata 	= $_;	# ‘S‘Ìƒf[ƒ^‚ğ•Û‘¶
-			chop($tmpdata);		# ‰üsƒR[ƒh‚ğœ‚­
-			@LDATA 	= split(/\t/,"$_");	# Ø’f‚µ‚Ä”z—ñ‚É“ü‚ê‚é
-			$tmp_body	= $LDATA[4];	# check_guest_passwd‚Ö“n‚·
-			$tmpimg  	= $LDATA[5];	# ‰æ‘œ
+			$tmpdata 	= $_;	# å…¨ä½“ãƒ‡ãƒ¼ã‚¿ã‚’ä¿å­˜
+			chop($tmpdata);		# æ”¹è¡Œã‚³ãƒ¼ãƒ‰ã‚’é™¤ã
+			@LDATA 	= split(/\t/,"$_");	# åˆ‡æ–­ã—ã¦é…åˆ—ã«å…¥ã‚Œã‚‹
+			$tmp_body	= $LDATA[4];	# check_guest_passwdã¸æ¸¡ã™
+			$tmpimg  	= $LDATA[5];	# ç”»åƒ
 			$tmp_imgtitle 	= $LDATA[6];
-			$tmp_seq_no  	= $LDATA[7];	# ˜A”Ô
-			$tmp_blood_name	= $LDATA[8];	# e‚ÌŒŒ“ID(q‹Ÿ‚Ì‚İ‚Â)
-			$tmp_rmkey	= $LDATA[9];	# íœƒL[
-			$tmp_unq_id	= $LDATA[10];	# ŒÅ—LID(ƒx[ƒX)
+			$tmp_seq_no  	= $LDATA[7];	# é€£ç•ª
+			$tmp_blood_name	= $LDATA[8];	# è¦ªã®è¡€çµ±ID(å­ä¾›ã®ã¿æŒã¤)
+			$tmp_rmkey	= $LDATA[9];	# å‰Šé™¤ã‚­ãƒ¼
+			$tmp_unq_id	= $LDATA[10];	# å›ºæœ‰ID(æ™‚åˆ»ãƒ™ãƒ¼ã‚¹)
 
 			$flag_remove	= 0;
 			undef $host_flag;
 			undef $allow_remove_flag;
 
-			# e‚ªÁ‚¦‚½ê‡‚Íq‹L–‚Í–â“š–³—p‚Å‘S•”Á‚·
+			# è¦ªãŒæ¶ˆãˆãŸå ´åˆã¯å­è¨˜äº‹ã¯å•ç­”ç„¡ç”¨ã§å…¨éƒ¨æ¶ˆã™
 			if($killed_blood_name ne ""){
 				if($killed_blood_name eq "$tmp_blood_name"){
-				# ³‹K‚ÉÁ‚¦‚½e‚ÆŒŒ“‚ªˆê’v‚µ‚½ê‡Aq‚àÁ‚·
-				# i@TMPMESSAGE‚Ö•Û‘¶‚µ‚È‚¢‚ÅŸ‚Ìƒ‹[ƒv‚Ös‚­j
+				# æ­£è¦ã«æ¶ˆãˆãŸè¦ªã¨è¡€çµ±ãŒä¸€è‡´ã—ãŸå ´åˆã€å­ã‚‚æ¶ˆã™
+				# ï¼ˆ@TMPMESSAGEã¸ä¿å­˜ã—ãªã„ã§æ¬¡ã®ãƒ«ãƒ¼ãƒ—ã¸è¡Œãï¼‰
 
-				  # q‹L–‚Ì‰æ‘œƒf[ƒ^‚ğÁ‚·
-				  if($tmpimg ne ""){ # q‹L–‚É“Y•t‰æ‘œ‚ª‚ ‚ê‚Î
-				    # ‰æ‘œƒtƒ@ƒCƒ‹‚ğíœ‚·‚é
+				  # å­è¨˜äº‹ã®ç”»åƒãƒ‡ãƒ¼ã‚¿ã‚’æ¶ˆã™
+				  if($tmpimg ne ""){ # å­è¨˜äº‹ã«æ·»ä»˜ç”»åƒãŒã‚ã‚Œã°
+				    # ç”»åƒãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‰Šé™¤ã™ã‚‹
 				    if(-e $tmpimg){
 					unlink($tmpimg);
-					# ƒƒ^ƒtƒ@ƒCƒ‹‚àíœ‚·‚é
+					# ãƒ¡ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã‚‚å‰Šé™¤ã™ã‚‹
 					&rm_meta_file("$tmpimg");
 
-					# Œg‘Ñ—pƒtƒ@ƒCƒ‹‚àíœ‚·‚é
+					# æºå¸¯ç”¨ãƒ•ã‚¡ã‚¤ãƒ«ã‚‚å‰Šé™¤ã™ã‚‹
 					if($tmpimg=~ /\.(jpe?g|gif|png|bmp|mng)$/i){
-					  # SNL‚ÌƒpƒX‚ğ’²‚×‚é
+					  # SNLã®ãƒ‘ã‚¹ã‚’èª¿ã¹ã‚‹
 					  if($tmp_imgtitle ne ''){
 					    &parse_img_param($tmp_imgtitle);
 					  }
@@ -3165,39 +3169,39 @@ sub remove_data{
 
 				    }
 				  }
-				# ‹L–‚ªíœ‚³‚ê‚½‚çƒXƒŒƒbƒhƒŠƒXƒg‚©‚çíœ‚·‚é
+				# è¨˜äº‹ãŒå‰Šé™¤ã•ã‚ŒãŸã‚‰ã‚¹ãƒ¬ãƒƒãƒ‰ãƒªã‚¹ãƒˆã‹ã‚‰å‰Šé™¤ã™ã‚‹
 				  $HEAD_MESSAGE{'last_bloods'}=~ s/$tmp_unq_id\-(\d+)\,//gi;	
 
-				  # e‚È‚µ‚Ìq‹L–‚Ìíœ‚É¬Œ÷
+				  # è¦ªãªã—ã®å­è¨˜äº‹ã®å‰Šé™¤ã«æˆåŠŸ
 				  next;
 				}
 			}
 
-			undef @do_remove_list; # ‰Šú‰»‚·‚é
+			undef @do_remove_list; # åˆæœŸåŒ–ã™ã‚‹
 
-			# ‚±‚±‚ÅV‹Œ‚Ìw’è‚Ìˆá‚¢‚ğ‹zû‚·‚é
+			# ã“ã“ã§æ–°æ—§ã®æŒ‡å®šã®é•ã„ã‚’å¸åã™ã‚‹
 			if($tmp_unq_id ne ""){	
-			# R6Œ`®‚ÌƒƒO‚Ìê‡
-			# ŒÅ—LID‚ÅÁ‚·(‚æ‚èˆÀ‘S)
+			# R6å½¢å¼ã®ãƒ­ã‚°ã®å ´åˆ
+			# å›ºæœ‰IDã§æ¶ˆã™(ã‚ˆã‚Šå®‰å…¨)
 				$tmp_rm_num="$tmp_unq_id";
 				@do_remove_list=@remove_list;
 			}else{
-			# R4ˆÈ‘O‚Ì‹ŒŒ`®‚ÌƒƒO‚Ìê‡
-			# ƒy[ƒW’†‚Ì˜A”Ô‚ÅÁ‚·
+			# R4ä»¥å‰ã®æ—§å½¢å¼ã®ãƒ­ã‚°ã®å ´åˆ
+			# ãƒšãƒ¼ã‚¸ä¸­ã®é€£ç•ªã§æ¶ˆã™
 				$tmp_rm_num="$tmpnum";
 				@do_remove_list=@old_remove_list;
 			}
 
-			# ‚±‚Ìs‚ªíœƒŠƒXƒg‚É‚ ‚é‚©ŒŸõ
+			# ã“ã®è¡ŒãŒå‰Šé™¤ãƒªã‚¹ãƒˆã«ã‚ã‚‹ã‹æ¤œç´¢
 			foreach $tmp_list(@do_remove_list){
 
 				if($tmp_rm_num == $tmp_list){
 
 				  if($remove_mode eq "guest"){
-				    # ƒQƒXƒgƒpƒXƒ[ƒh‚ğƒ`ƒFƒbƒN
+				    # ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’ãƒã‚§ãƒƒã‚¯
 					&check_guest_passwd;
 				  }elsif($remove_mode eq "rmkey"){
-				    # íœƒL[‚ğƒ`ƒFƒbƒN
+				    # å‰Šé™¤ã‚­ãƒ¼ã‚’ãƒã‚§ãƒƒã‚¯
 					&check_rmkey("$tmp_rmkey");
 				  }else{
 					$allow_remove_flag=1;
@@ -3206,17 +3210,17 @@ sub remove_data{
 				  if($allow_remove_flag ==1){
 
 					$flag_remove = 1;
-					# q‹L–‚É“Y•t‰æ‘œ‚ª‚ ‚ê‚Î
+					# å­è¨˜äº‹ã«æ·»ä»˜ç”»åƒãŒã‚ã‚Œã°
 					if($tmpimg ne ""){ 
-					  # ‰æ‘œƒtƒ@ƒCƒ‹‚ğíœ
+					  # ç”»åƒãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‰Šé™¤
 					  if(-e $tmpimg){
 						unlink($tmpimg);
-						# ƒƒ^ƒtƒ@ƒCƒ‹‚àíœ‚·‚é
+						# ãƒ¡ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã‚‚å‰Šé™¤ã™ã‚‹
 						&rm_meta_file("$tmpimg");
 
-						# Œg‘Ñ—pƒtƒ@ƒCƒ‹‚àíœ‚·‚é
+						# æºå¸¯ç”¨ãƒ•ã‚¡ã‚¤ãƒ«ã‚‚å‰Šé™¤ã™ã‚‹
 						if($tmpimg=~ /\.(jpe?g|gif|png|bmp|mng)$/i){
-						  # SNL‚ÌƒpƒX‚ğ’²‚×‚é
+						  # SNLã®ãƒ‘ã‚¹ã‚’èª¿ã¹ã‚‹
 						  if($tmp_imgtitle ne ''){
 						    &parse_img_param($tmp_imgtitle);
 						  }
@@ -3227,23 +3231,23 @@ sub remove_data{
 				  }
 				}
 			}
-			# Œ‹‰Ê‚Ìˆ—
+			# çµæœã®å‡¦ç†
 			if($flag_remove == 0){
-				# íœ‚É¸”s‚µ‚½‚Æ‚«‚ÍAƒoƒbƒtƒ@‚É“ü‚ê‚Ä•Û‘¶A‹L–‚ğc‚·
+				# å‰Šé™¤ã«å¤±æ•—ã—ãŸã¨ãã¯ã€ãƒãƒƒãƒ•ã‚¡ã«å…¥ã‚Œã¦ä¿å­˜ã€è¨˜äº‹ã‚’æ®‹ã™
 				push(@TMPMESSAGE, $tmpdata);
 			}else{
-				# íœ‚É¬Œ÷
+				# å‰Šé™¤ã«æˆåŠŸ
 
-				# ‹L–‚ªíœ‚³‚ê‚½‚çƒXƒŒƒbƒhƒŠƒXƒg‚©‚çíœ‚·‚é
+				# è¨˜äº‹ãŒå‰Šé™¤ã•ã‚ŒãŸã‚‰ã‚¹ãƒ¬ãƒƒãƒ‰ãƒªã‚¹ãƒˆã‹ã‚‰å‰Šé™¤ã™ã‚‹
 				$HEAD_MESSAGE{'last_bloods'}=~ s/$tmp_unq_id\-(\d+)\,//gi;	
 
-				if($tmp_blood_name eq ""){ # e‚Ìê‡
-			# e‚¾‚Á‚½ê‡‚ÍA‚»‚ÌŒŒ“‚ğ‹L‰¯‚µ‚Ä‚¨‚­
-			# Á‚³‚ê‚½e‚ÌŒŒ“‚ğ‚Âq‚ÍŒã‚Ìƒ‹[ƒv‚Å‘S•”Á‚¦‚é
+				if($tmp_blood_name eq ""){ # è¦ªã®å ´åˆ
+			# è¦ªã ã£ãŸå ´åˆã¯ã€ãã®è¡€çµ±ã‚’è¨˜æ†¶ã—ã¦ãŠã
+			# æ¶ˆã•ã‚ŒãŸè¦ªã®è¡€çµ±ã‚’æŒã¤å­ã¯å¾Œã®ãƒ«ãƒ¼ãƒ—ã§å…¨éƒ¨æ¶ˆãˆã‚‹
 					$killed_blood_name="$tmp_unq_id";
-				}else{ # q‚Ìê‡
-			# q‹L–’P“ÆÁ‹ie‚Íc‚éj‚Ìê‡A‚±‚±‚ğ’Ê‚é
-			# “Á‚É‚È‚É‚à‚µ‚È‚¢
+				}else{ # å­ã®å ´åˆ
+			# å­è¨˜äº‹å˜ç‹¬æ¶ˆå»ï¼ˆè¦ªã¯æ®‹ã‚‹ï¼‰ã®å ´åˆã€ã“ã“ã‚’é€šã‚‹
+			# ç‰¹ã«ãªã«ã‚‚ã—ãªã„
 					$killed_blood_name="";
 				}
 			}
@@ -3253,17 +3257,17 @@ sub remove_data{
 	close(IN);
 
 
-	# ƒf[ƒ^‚ğ‘‚«‚Ş
-	open(OUT, "> $tmp_file")|| &error("İ’èƒGƒ‰[DƒeƒLƒXƒgƒf[ƒ^•Û‘¶—pƒtƒ@ƒCƒ‹\"$tmp_file\"‚Éƒf[ƒ^‚ğ‘‚Ş‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñD<BR>‚¨‚»‚ç‚­ƒtƒ@ƒCƒ‹‚É‘Î‚µ‚Ä‘‚İ‹–‰Â‚ª‚È‚¢‚½‚ß‚¾‚Æv‚í‚ê‚Ü‚·Dˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	# ãƒ‡ãƒ¼ã‚¿ã‚’æ›¸ãè¾¼ã‚€
+	open(OUT, "> $tmp_file")|| &error("è¨­å®šã‚¨ãƒ©ãƒ¼ï¼ãƒ†ã‚­ã‚¹ãƒˆãƒ‡ãƒ¼ã‚¿ä¿å­˜ç”¨ãƒ•ã‚¡ã‚¤ãƒ«\"$tmp_file\"ã«ãƒ‡ãƒ¼ã‚¿ã‚’æ›¸è¾¼ã‚€ã“ã¨ãŒã§ãã¾ã›ã‚“ï¼<BR>ãŠãã‚‰ããƒ•ã‚¡ã‚¤ãƒ«ã«å¯¾ã—ã¦æ›¸è¾¼ã¿è¨±å¯ãŒãªã„ãŸã‚ã ã¨æ€ã‚ã‚Œã¾ã™ï¼å‡¦ç†ã¯ä¸­æ–­ã•ã‚Œã¾ã—ãŸï¼");
 	eval "flock(OUT,2);" if($PM{'flock'} == 1 );
 
 	$HEAD_MESSAGE{'last_bloods'}=&Enc_EQ("$HEAD_MESSAGE{'last_bloods'}");
 	print OUT "\,param_last_bloods=$HEAD_MESSAGE{'last_bloods'};\n";
 
-	foreach(@HEAD_MESSAGE){		# HEAD•”•ª
+	foreach(@HEAD_MESSAGE){		# HEADéƒ¨åˆ†
 		print OUT "$_"; 
 	}
-	foreach(@TMPMESSAGE){		# ‹L–•”•ª
+	foreach(@TMPMESSAGE){		# è¨˜äº‹éƒ¨åˆ†
 		print OUT "$_\n"; 
 	}
 	eval "flock(OUT,8);" if($PM{'flock'} == 1 );
@@ -3272,12 +3276,12 @@ sub remove_data{
 }
 #
 #====================================#
-# eƒXƒŒƒbƒhV’…‡UIDƒŠƒXƒg‚ğæ“¾‚·‚é
+# è¦ªã‚¹ãƒ¬ãƒƒãƒ‰æ–°ç€é †UIDãƒªã‚¹ãƒˆã‚’å–å¾—ã™ã‚‹
 #====================================#
-# $HEAD_MESSAGE{'last_bloods'}‚ğ“ü—Í‚Æ‚µ‚Ä
-# @NEW_BLOODS ‚Æ‚µ‚ÄeƒXƒŒƒbƒhV’…‡UIDƒŠƒXƒg‚ğo‚·
-# @RECENT_MESSAGE_UID ‚Æ‚µ‚ÄÅ‹ß‚Ì‹L–‚ÌV’…‡UIDƒŠƒXƒg‚ğo‚·
-#i@RECENT_MESSAGE_UID‚Í•›Y•¨B¡‚Í(new)•\¦‚Ég‚Á‚Ä‚¢‚éj
+# $HEAD_MESSAGE{'last_bloods'}ã‚’å…¥åŠ›ã¨ã—ã¦
+# @NEW_BLOODS ã¨ã—ã¦è¦ªã‚¹ãƒ¬ãƒƒãƒ‰æ–°ç€é †UIDãƒªã‚¹ãƒˆã‚’å‡ºã™
+# @RECENT_MESSAGE_UID ã¨ã—ã¦æœ€è¿‘ã®è¨˜äº‹ã®æ–°ç€é †UIDãƒªã‚¹ãƒˆã‚’å‡ºã™
+#ï¼ˆ@RECENT_MESSAGE_UIDã¯å‰¯ç”£ç‰©ã€‚ä»Šã¯(new)è¡¨ç¤ºã«ä½¿ã£ã¦ã„ã‚‹ï¼‰
 sub output_new_bloods_list{
 
 	undef @NEW_BLOODS;
@@ -3288,14 +3292,14 @@ sub output_new_bloods_list{
 
 	return if($HEAD_MESSAGE{'last_bloods'} eq "");
 
-	# qiej[e‚ÌƒyƒA‚É•ª‰ğ‚·‚é
+	# å­ï¼ˆè¦ªï¼‰ãƒ¼è¦ªã®ãƒšã‚¢ã«åˆ†è§£ã™ã‚‹
 	@SEP_FAMILY=split(/\,/,$HEAD_MESSAGE{'last_bloods'});
 
 	for($numb=0;$numb < scalar(@SEP_FAMILY) ;$numb++){
 	  ($b_child,$b_parent)=split(/\-/,$SEP_FAMILY[$numb]);
 	  if($b_parent ne ""){
 		$already_find_flag=0;
-		# Šù‚ÉeƒŠƒXƒg‚É‚ ‚ê‚Î’Ç‰Á‚µ‚È‚¢
+		# æ—¢ã«è¦ªãƒªã‚¹ãƒˆã«ã‚ã‚Œã°è¿½åŠ ã—ãªã„
 		foreach(@NEW_BLOODS){
 		  if($_ eq "$b_parent"){
 			$already_find_flag=1;
@@ -3313,44 +3317,44 @@ sub output_new_bloods_list{
 }
 
 #==================================================#
-#  ‹L–ƒf[ƒ^‚Ìíœ (ƒQƒXƒgƒpƒXƒ[ƒhƒ`ƒFƒbƒN•”)
+#  è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã®å‰Šé™¤ (ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãƒã‚§ãƒƒã‚¯éƒ¨)
 #==================================================#
 sub check_guest_passwd{
 
-# ƒQƒXƒgƒpƒXƒ[ƒh‹@”\‚ğ—LŒø‚É‚·‚é‚Æ,“ŠeÒ ,íœÒ ‚ÌIP‚ªˆê’v‚·‚éê‡
-# ƒQƒXƒgƒpƒXƒ[ƒh‚Å‹L–‚Ìíœ‚ª‚Å‚«‚éB
-# ƒ`ƒFƒbƒNl‚ğs‚¢,ğŒ‚ğ–‚½‚¹‚Î$allow_remove_flag=1‚Æ‚È‚éB
+# ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰æ©Ÿèƒ½ã‚’æœ‰åŠ¹ã«ã™ã‚‹ã¨,æŠ•ç¨¿è€… ,å‰Šé™¤è€… ã®IPãŒä¸€è‡´ã™ã‚‹å ´åˆ
+# ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã§è¨˜äº‹ã®å‰Šé™¤ãŒã§ãã‚‹ã€‚
+# ãƒã‚§ãƒƒã‚¯lã‚’è¡Œã„,æ¡ä»¶ã‚’æº€ãŸã›ã°$allow_remove_flag=1ã¨ãªã‚‹ã€‚
 
-	# “ŠeÒ‚ÌƒzƒXƒg–¼‚ğæ“¾
-	if($tmp_body=~ /userF\s([^>]*)(\s*)--/){
+	# æŠ•ç¨¿è€…ã®ãƒ›ã‚¹ãƒˆåã‚’å–å¾—
+	if($tmp_body=~ /userï¼š\s([^>]*)(\s*)--/){
 		$tmp_user_IP="$1";
 		$tmp_user_IP=&tiny_decode("$tmp_user_IP"); #2002.02
 
-		#PPP&DHCP‘Îô
-		# ƒŠƒ‚[ƒgƒzƒXƒg‚ª”š‚Ì‚İ‚Ìê‡
+		#PPP&DHCPå¯¾ç­–
+		# ãƒªãƒ¢ãƒ¼ãƒˆãƒ›ã‚¹ãƒˆãŒæ•°å­—ã®ã¿ã®å ´åˆ
 		if($tmp_user_IP=~ /^(\d+)\.(\d+)\.(\d+)\.(\d+)$/){
-			#$gp_allow_subnet=1‚É‚·‚é‚Æ,Š®‘Sˆê’v‚µ‚È‚­‚Ä‚à
-			# “¯ˆêƒTƒuƒlƒbƒg‚È‚çíœ‚Å‚«‚éB (PPP,DHCP‘Îô)
+			#$gp_allow_subnet=1ã«ã™ã‚‹ã¨,å®Œå…¨ä¸€è‡´ã—ãªãã¦ã‚‚
+			# åŒä¸€ã‚µãƒ–ãƒãƒƒãƒˆãªã‚‰å‰Šé™¤ã§ãã‚‹ã€‚ (PPP,DHCPå¯¾ç­–)
 			if($gp_allow_subnet==1){
-				$kkk=" •”•ªˆê’v ";
+				$kkk=" éƒ¨åˆ†ä¸€è‡´ ";
 				$tmp_user_IP="$1.$2.$3";
 			}else{
-				$kkk=" Š®‘Sˆê’v ";
+				$kkk=" å®Œå…¨ä¸€è‡´ ";
 				$tmp_user_IP="$1.$2.$3.$4";
 			}
 			$host_flag=1;
-		# ƒŠƒ‚[ƒgƒzƒXƒg‚ªƒzƒXƒg–¼‚Ìê‡
+		# ãƒªãƒ¢ãƒ¼ãƒˆãƒ›ã‚¹ãƒˆãŒãƒ›ã‚¹ãƒˆåã®å ´åˆ
 		}elsif($tmp_user_IP=~ /(\w+)\.(\w+)$/){
-			@DOMAINS = split(/\./,$tmp_user_IP);	# ƒuƒƒbƒN‚É•ªŠ„
-			$block_number= @DOMAINS;		# ƒuƒƒbƒN”‚ğæ“¾
+			@DOMAINS = split(/\./,$tmp_user_IP);	# ãƒ–ãƒ­ãƒƒã‚¯ã«åˆ†å‰²
+			$block_number= @DOMAINS;		# ãƒ–ãƒ­ãƒƒã‚¯æ•°ã‚’å–å¾—
 			if($block_number ==0){$block_number=20; }
 				undef $tmp_user_IP;
 			if($gp_allow_subnet == 0 ){
-				$kkk=" Š®‘Sˆê’v ";
+				$kkk=" å®Œå…¨ä¸€è‡´ ";
 				$bc_start=0;
 				$tmp_user_IP=$DOMAINS[$bc_start];
 			}else{
-				$kkk=" •”•ªˆê’v ";
+				$kkk=" éƒ¨åˆ†ä¸€è‡´ ";
 				$bc_start=1;
 				$tmp_user_IP="."."$DOMAINS[$bc_start]";
 			}
@@ -3367,82 +3371,82 @@ sub check_guest_passwd{
 	   	$tmp_user_IP="No IP info";
 		$host_flag=0;
 	}
-	# ‹L–“o˜^Ò‚Æ guestíœÒ‚ÌREMOTE_HOST‚ªˆê’v‚·‚é‚Æíœ‚Å‚«‚é
+	# è¨˜äº‹ç™»éŒ²è€…ã¨ guestå‰Šé™¤è€…ã®REMOTE_HOSTãŒä¸€è‡´ã™ã‚‹ã¨å‰Šé™¤ã§ãã‚‹
 	$tmp_user_IP	=~ s/\./\\./g;
 	if(($host_flag==1)&&($REMOTE_HOST=~ /$tmp_user_IP/)){
 		$allow_remove_flag=1;
 	}else{
-		$skipped_guest_remove++;	# ƒQƒXƒgŒ ŒÀ‚Åíœ¸”s‚µ‚½‹L–‚Ì”
+		$skipped_guest_remove++;	# ã‚²ã‚¹ãƒˆæ¨©é™ã§å‰Šé™¤å¤±æ•—ã—ãŸè¨˜äº‹ã®æ•°
 		if($remove_article_number=='1'){
-			&error(" ƒQƒXƒgƒpƒXƒ[ƒh‚É‚æ‚éíœ‚Í,“ŠeÒ ,íœÒ ‚ÌIP‚ª $kkk ‚·‚éê‡‚Ì‚İ—LŒø‚Å‚·<!-- b $bc_start \n $block_number \n P-IP $tmp_user_IP \n RH- $REMOTE_HOST-->");
-		# ‚·‚×‚Ä‚Ìíœw’è‚ªƒQƒXƒgŒ ŒÀ‚Åíœ‚Å‚«‚È‚¢‚à‚Ì‚¾‚Á‚½ê‡‚Ì‚İ,ƒGƒ‰[‚ğo‚·
-		# íœ‰Â”\,•s‰Â”\‚È‚à‚Ì‚ª‚Ç‚¿‚ç‚à‚ ‚éê‡‚ÍƒGƒ‰[‚ğo‚³‚È‚¢‚Å,ˆ—‚ğÅŒã‚Ü‚Åi‚ß‚é
+			&error(" ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã«ã‚ˆã‚‹å‰Šé™¤ã¯,æŠ•ç¨¿è€… ,å‰Šé™¤è€… ã®IPãŒ $kkk ã™ã‚‹å ´åˆã®ã¿æœ‰åŠ¹ã§ã™<!-- b $bc_start \n $block_number \n P-IP $tmp_user_IP \n RH- $REMOTE_HOST-->");
+		# ã™ã¹ã¦ã®å‰Šé™¤æŒ‡å®šãŒã‚²ã‚¹ãƒˆæ¨©é™ã§å‰Šé™¤ã§ããªã„ã‚‚ã®ã ã£ãŸå ´åˆã®ã¿,ã‚¨ãƒ©ãƒ¼ã‚’å‡ºã™
+		# å‰Šé™¤å¯èƒ½,ä¸å¯èƒ½ãªã‚‚ã®ãŒã©ã¡ã‚‰ã‚‚ã‚ã‚‹å ´åˆã¯ã‚¨ãƒ©ãƒ¼ã‚’å‡ºã•ãªã„ã§,å‡¦ç†ã‚’æœ€å¾Œã¾ã§é€²ã‚ã‚‹
 		}elsif($remove_article_number == "$skipped_guest_remove"){
-			&error(" ƒQƒXƒgƒpƒXƒ[ƒh‚É‚æ‚éíœ‚Í,“ŠeÒ ,íœÒ ‚ÌIP‚ª $kkk ‚·‚éê‡‚Ì‚İ—LŒø‚Å‚·<!-- b $bc_start \n $block_number \n P-IP $tmp_user_IP \n RH- $REMOTE_HOST-->");
+			&error(" ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã«ã‚ˆã‚‹å‰Šé™¤ã¯,æŠ•ç¨¿è€… ,å‰Šé™¤è€… ã®IPãŒ $kkk ã™ã‚‹å ´åˆã®ã¿æœ‰åŠ¹ã§ã™<!-- b $bc_start \n $block_number \n P-IP $tmp_user_IP \n RH- $REMOTE_HOST-->");
 		}
 	}
 }
 
 #==================================================#
-#  ‹L–ƒf[ƒ^‚Ìíœ (íœƒL[•”)
+#  è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã®å‰Šé™¤ (å‰Šé™¤ã‚­ãƒ¼éƒ¨)
 #==================================================#
-# 2001.02(ˆÃ†‰»‘Î‰) 
+# 2001.02(æš—å·åŒ–å¯¾å¿œ) 
 sub check_rmkey{
 
-# íœƒL[‹@”\‚ğ—LŒø‚É‚·‚é‚Æ,íœƒL[‚ªˆê’v‚·‚éê‡A‹L–‚Ìíœ‚ª‚Å‚«‚éB
-# ƒQƒXƒgƒpƒXƒ[ƒh‚Æ‚Ì“¯g—p‚Í‚Å‚«‚È‚¢BíœƒL[‚ªİ’è‚³‚ê‚Ä‚È‚¢ê‡‚ÍA
-# ‹L–‚Ìíœ‚ª‚Å‚«‚éBƒ`ƒFƒbƒN‚ğs‚¢,ğŒ‚ğ–‚½‚¹‚Î$allow_remove_flag=1‚Æ‚È‚éB
+# å‰Šé™¤ã‚­ãƒ¼æ©Ÿèƒ½ã‚’æœ‰åŠ¹ã«ã™ã‚‹ã¨,å‰Šé™¤ã‚­ãƒ¼ãŒä¸€è‡´ã™ã‚‹å ´åˆã€è¨˜äº‹ã®å‰Šé™¤ãŒã§ãã‚‹ã€‚
+# ã‚²ã‚¹ãƒˆãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã¨ã®åŒæ™‚ä½¿ç”¨ã¯ã§ããªã„ã€‚å‰Šé™¤ã‚­ãƒ¼ãŒè¨­å®šã•ã‚Œã¦ãªã„å ´åˆã¯ã€
+# è¨˜äº‹ã®å‰Šé™¤ãŒã§ãã‚‹ã€‚ãƒã‚§ãƒƒã‚¯ã‚’è¡Œã„,æ¡ä»¶ã‚’æº€ãŸã›ã°$allow_remove_flag=1ã¨ãªã‚‹ã€‚
 
-	local($ttmp_rmkey) = @_;	# ‹L–’†‚É–„‚ß‚Ü‚ê‚½íœƒL[
-	# ƒtƒH[ƒ€‚Å“ü—Í‚³‚ê‚½íœƒL[iˆÃ†‰»‘Oj
+	local($ttmp_rmkey) = @_;	# è¨˜äº‹ä¸­ã«åŸ‹ã‚è¾¼ã¾ã‚ŒãŸå‰Šé™¤ã‚­ãƒ¼
+	# ãƒ•ã‚©ãƒ¼ãƒ ã§å…¥åŠ›ã•ã‚ŒãŸå‰Šé™¤ã‚­ãƒ¼ï¼ˆæš—å·åŒ–å‰ï¼‰
 	local($tmp_form_rmkey)=$FORM{'passwd'};	
 
-	# ƒtƒH[ƒ€‚Å“ü—Í‚³‚ê‚½íœƒL[iˆÃ†‰»‚µ‚½‚à‚Ìj
+	# ãƒ•ã‚©ãƒ¼ãƒ ã§å…¥åŠ›ã•ã‚ŒãŸå‰Šé™¤ã‚­ãƒ¼ï¼ˆæš—å·åŒ–ã—ãŸã‚‚ã®ï¼‰
 	local($cpt_form_rmkey);	
 	$cpt_form_rmkey=&make_pass($tmp_form_rmkey);
 
 	if(($ttmp_rmkey eq "")||($ttmp_rmkey eq "no_key")){
-		# íœƒL[‚ªƒƒO‚É‚È‚¢ŒÃ‚¢‹L–‚Ìê‡Aíœ‚ğ•s‹–‰Â
-		# íœƒL[‚ªƒƒO‚É‚È‚¢‹L–‚Ìê‡Aíœ‚ğ•s‹–‰Â
-		$skipped_rmkey_remove++;	# íœ¸”s‚µ‚½‹L–‚Ì”
+		# å‰Šé™¤ã‚­ãƒ¼ãŒãƒ­ã‚°ã«ãªã„å¤ã„è¨˜äº‹ã®å ´åˆã€å‰Šé™¤ã‚’ä¸è¨±å¯
+		# å‰Šé™¤ã‚­ãƒ¼ãŒãƒ­ã‚°ã«ãªã„è¨˜äº‹ã®å ´åˆã€å‰Šé™¤ã‚’ä¸è¨±å¯
+		$skipped_rmkey_remove++;	# å‰Šé™¤å¤±æ•—ã—ãŸè¨˜äº‹ã®æ•°
 
 		if($remove_article_number=='1'){
-			&error(" ƒpƒXƒ[ƒh‚ªˆá‚¢‚Ü‚·Díœ‚ğ’†~‚µ‚Ü‚µ‚½ ");
+			&error(" ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãŒé•ã„ã¾ã™ï¼å‰Šé™¤ã‚’ä¸­æ­¢ã—ã¾ã—ãŸ ");
 		}elsif($remove_article_number == "$skipped_rmkey_remove"){
-			&error(" ƒpƒXƒ[ƒh‚ªˆá‚¢‚Ü‚·Díœ‚ğ’†~‚µ‚Ü‚µ‚½ ");
+			&error(" ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãŒé•ã„ã¾ã™ï¼å‰Šé™¤ã‚’ä¸­æ­¢ã—ã¾ã—ãŸ ");
 		}
 		return;
 	}else{
-		# íœƒL[‚ªƒƒO‚É‘¶İ‚·‚éê‡
+		# å‰Šé™¤ã‚­ãƒ¼ãŒãƒ­ã‚°ã«å­˜åœ¨ã™ã‚‹å ´åˆ
 		if($tmp_form_rmkey eq ""){
-			&error(" íœƒL[‚ª“ü—Í‚³‚ê‚Ä‚¢‚Ü‚¹‚ñBíœ‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B<BR>‚±‚Ì‹L–‚É‚Í“ŠeÒ‚É‚æ‚èAíœƒL[‚ªİ’è‚³‚ê‚Ä‚¢‚Ü‚·B‹L–“Še‚É—p‚¢‚½íœƒL[‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B‚È‚¨AíœƒL[‚ğ–Y¸‚µ‚½ê‡‚ÍAŒf¦”ÂŠÇ—Ò‚É—Š‚ñ‚Åíœ‚µ‚Ä‚à‚ç‚Á‚Ä‚­‚¾‚³‚¢ ");
+			&error(" å‰Šé™¤ã‚­ãƒ¼ãŒå…¥åŠ›ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚å‰Šé™¤ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚<BR>ã“ã®è¨˜äº‹ã«ã¯æŠ•ç¨¿è€…ã«ã‚ˆã‚Šã€å‰Šé™¤ã‚­ãƒ¼ãŒè¨­å®šã•ã‚Œã¦ã„ã¾ã™ã€‚è¨˜äº‹æŠ•ç¨¿æ™‚ã«ç”¨ã„ãŸå‰Šé™¤ã‚­ãƒ¼ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚ãªãŠã€å‰Šé™¤ã‚­ãƒ¼ã‚’å¿˜å¤±ã—ãŸå ´åˆã¯ã€æ²ç¤ºæ¿ç®¡ç†è€…ã«é ¼ã‚“ã§å‰Šé™¤ã—ã¦ã‚‚ã‚‰ã£ã¦ãã ã•ã„ ");
 		}elsif($tmp_form_rmkey eq "$ttmp_rmkey"){
 			$allow_remove_flag=1;
 		}elsif($cpt_form_rmkey eq "$ttmp_rmkey"){
 			$allow_remove_flag=1;
 		}else{
-			$FORM{'passwd'}="****(©ƒZƒLƒ…ƒŠƒeƒB‘Îô‚Ì‚½‚ß”ñ•\\¦\)" if($FORM{'passwd'}=~ /ZzZ/);
-			&error(" “ü—Í‚³‚ê‚½íœƒL[u$FORM{'passwd'}v‚ªˆá‚¢‚Ü‚·Bíœ‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½B<BR>‚±‚Ì‹L–‚É‚Í“ŠeÒ‚É‚æ‚èAíœƒL[‚ªİ’è‚³‚ê‚Ä‚¢‚Ü‚·B‹L–“Še‚É—p‚¢‚½íœƒL[‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B‚È‚¨AíœƒL[‚ğ–Y¸‚µ‚½ê‡‚ÍAŒf¦”ÂŠÇ—Ò‚É—Š‚ñ‚Åíœ‚µ‚Ä‚à‚ç‚Á‚Ä‚­‚¾‚³‚¢ ");
+			$FORM{'passwd'}="****(â†ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£å¯¾ç­–ã®ãŸã‚éè¡¨\ç¤º\)" if($FORM{'passwd'}=~ /ZzZ/);
+			&error(" å…¥åŠ›ã•ã‚ŒãŸå‰Šé™¤ã‚­ãƒ¼ã€Œ$FORM{'passwd'}ã€ãŒé•ã„ã¾ã™ã€‚å‰Šé™¤ã§ãã¾ã›ã‚“ã§ã—ãŸã€‚<BR>ã“ã®è¨˜äº‹ã«ã¯æŠ•ç¨¿è€…ã«ã‚ˆã‚Šã€å‰Šé™¤ã‚­ãƒ¼ãŒè¨­å®šã•ã‚Œã¦ã„ã¾ã™ã€‚è¨˜äº‹æŠ•ç¨¿æ™‚ã«ç”¨ã„ãŸå‰Šé™¤ã‚­ãƒ¼ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ã€‚ãªãŠã€å‰Šé™¤ã‚­ãƒ¼ã‚’å¿˜å¤±ã—ãŸå ´åˆã¯ã€æ²ç¤ºæ¿ç®¡ç†è€…ã«é ¼ã‚“ã§å‰Šé™¤ã—ã¦ã‚‚ã‚‰ã£ã¦ãã ã•ã„ ");
 		}
 	}
 
 }
 
 #=====================#
-# ƒNƒbƒL[‚ğ“Ç‚Ş
+# ã‚¯ãƒƒã‚­ãƒ¼ã‚’èª­ã‚€
 #=====================#
 
 sub read_cookie{
 
 	local($ttt_cookie)=$ENV{'HTTP_COOKIE'};
 
-	# URLƒfƒR[ƒh‚ğ‚·‚é(2002.08.12)
+	# URLãƒ‡ã‚³ãƒ¼ãƒ‰ã‚’ã™ã‚‹(2002.08.12)
 	$ttt_cookie=~ s/%([0-9A-Fa-f][0-9A-Fa-f])/pack("C", hex($1))/eg;
 
     		@pairs = split(/\;/,$ttt_cookie);
     		foreach $pair(@pairs){
     			local($name,$value) = split(/\=/,$pair);
-			# ƒGƒ“ƒR[ƒh‚µ‚½ƒZƒpƒŒ[ƒ^‚ğ–ß‚·D	
+			# ã‚¨ãƒ³ã‚³ãƒ¼ãƒ‰ã—ãŸã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿ï¼ã‚’æˆ»ã™ï¼	
 			$name		=~ s/Enc_eq/\=/g;
 			$value	=~ s/Enc_eq/\=/g;
 			$name 	=~ s/ //g;
@@ -3461,19 +3465,19 @@ sub read_cookie{
 }
 
 #========================#
-# ƒNƒbƒL[‚ğ‘‚­(R6aVer)
+# ã‚¯ãƒƒã‚­ãƒ¼ã‚’æ›¸ã(R6aVer)
 #========================#
 
 sub set_cookies{
 
 	undef $set_value;
 
-	# ƒZƒpƒŒ[ƒ^‚Æ‹æ•Ê‚Å‚«‚È‚­‚È‚é‚ğ–‘O‚ÉEnc_eq‚É’uŠ·
+	# ã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿ã¨åŒºåˆ¥ã§ããªããªã‚‹ï¼ã‚’äº‹å‰ã«Enc_eqã«ç½®æ›
 
-	$FORM{'utc'}=$new_utc_set;	# ˜A‘±“ŠeƒJƒEƒ“ƒ^
+	$FORM{'utc'}=$new_utc_set;	# é€£ç¶šæŠ•ç¨¿ã‚«ã‚¦ãƒ³ã‚¿
 
-	# íœƒL[‚Ì‹L‰¯A”ñ‹L‰¯
-	$FORM{'rmkey'}=&make_pass("$FORM{'rmkey'}");	# ˆÃ†‰»
+	# å‰Šé™¤ã‚­ãƒ¼ã®è¨˜æ†¶ã€éè¨˜æ†¶
+	$FORM{'rmkey'}=&make_pass("$FORM{'rmkey'}");	# æš—å·åŒ–
 	$FORM{'rmkey'}="" if($FORM{'rmkeym'} ne "on");	# Clear	
 
 	&CEnc_EQ('subject');
@@ -3482,7 +3486,7 @@ sub set_cookies{
 	&CEnc_EQ('view_mode');
 	&CEnc_EQ('viewport_set');
 
-	# 2014.02 ’Ç‰Á
+	# 2014.02 è¿½åŠ 
 	&CEnc_EQ('form_mode'); 
 	
 	&CEnc_EQ('optA');
@@ -3494,12 +3498,12 @@ sub set_cookies{
 	&CEnc_EQ('entry_passwd');
 	&CEnc_EQ('rmkey');
 	&CEnc_EQ('rmkeym');
-	# 2012.10 à–¾È—ª‘Î‰
+	# 2012.10 èª¬æ˜çœç•¥å¯¾å¿œ
 	&CEnc_EQ('middle_html_disp');
 
 	foreach $p_key(keys %T_COOKIE){
-		# ƒpƒXƒ[ƒh‚ÍXXXpasswd‚Æ‚¢‚¤NAME‚É‚·‚é
-		# ‚±‚ê‚ÍˆÃ†‰»‚³‚ê‚é
+		# ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã¯XXXpasswdã¨ã„ã†NAMEã«ã™ã‚‹
+		# ã“ã‚Œã¯æš—å·åŒ–ã•ã‚Œã‚‹
 		if($p_key=~ /_passwd$/){
 			$T_COOKIE{$p_key}=&make_pass("$T_COOKIE{$p_key}");
 		}
@@ -3511,19 +3515,19 @@ sub set_cookies{
 }
 
 #=================================#
-# ƒNƒbƒL[‚ğ‘‚­(ŠÇ—ƒƒjƒ…[—p)
+# ã‚¯ãƒƒã‚­ãƒ¼ã‚’æ›¸ã(ç®¡ç†ãƒ¡ãƒ‹ãƒ¥ãƒ¼ç”¨)
 #=================================#
 
 sub set_admin_cookies{
 
 	undef $set_value;
 
-	# ƒZƒpƒŒ[ƒ^‚Æ‹æ•Ê‚Å‚«‚È‚­‚È‚é‚ğ–‘O‚ÉEnc_eq‚É’uŠ·
+	# ã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿ã¨åŒºåˆ¥ã§ããªããªã‚‹ï¼ã‚’äº‹å‰ã«Enc_eqã«ç½®æ›
 	&CEnc_EQ('apasswd');
 
 	foreach $p_key(keys %T_COOKIE){
-		# ƒpƒXƒ[ƒh‚ÍXXXpasswd‚Æ‚¢‚¤NAME‚É‚·‚é
-		# ‚±‚ê‚ÍˆÃ†‰»‚³‚ê‚é
+		# ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã¯XXXpasswdã¨ã„ã†NAMEã«ã™ã‚‹
+		# ã“ã‚Œã¯æš—å·åŒ–ã•ã‚Œã‚‹
 		if($p_key=~ /passwd$/){
 			$T_COOKIE{$p_key}=&make_pass("$T_COOKIE{$p_key}");
 		}
@@ -3534,7 +3538,7 @@ sub set_admin_cookies{
 	&set_cookie("imgboardad121","$set_value");
 }
 
-# ŒJ‚è•Ô‚µ
+# ç¹°ã‚Šè¿”ã—
 sub CEnc_EQ{
 	local($p_name)=$_[0];
 	$T_COOKIE{$p_name}	=$FORM{$p_name};
@@ -3543,7 +3547,7 @@ sub CEnc_EQ{
 }
 
 sub Enc_EQ{
-	# ƒZƒpƒŒ[ƒ^‚Æ‹æ•Ê‚Å‚«‚È‚­‚È‚é•¶š‚ğ–‘O‚É’uŠ·
+	# ã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿ã¨åŒºåˆ¥ã§ããªããªã‚‹æ–‡å­—ã‚’äº‹å‰ã«ç½®æ›
 	local($tmp_data)=@_;
 	$tmp_data	=~ s/\=/Enc_eq/g;
 	$tmp_data	=~ s/\:/Enc_cln/g;
@@ -3553,7 +3557,7 @@ sub Enc_EQ{
 }
 
 sub Dec_EQ{
-	# ƒZƒpƒŒ[ƒ^‚Æ‹æ•Ê‚Å‚«‚È‚­‚È‚é•¶š‚ğ•œŒ³
+	# ã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿ã¨åŒºåˆ¥ã§ããªããªã‚‹æ–‡å­—ã‚’å¾©å…ƒ
 	local($tmp_data)=@_;
 	$tmp_data	=~ s/Enc_eq/\=/g;
 	$tmp_data	=~ s/Enc_cln/\:/g;
@@ -3564,10 +3568,10 @@ sub Dec_EQ{
 
 sub set_cookie{
 
-	#Copyright(C) to-ru@big.or.jp (1.20ˆÈ~ 2000”N‘Î‰ NEWƒo[ƒWƒ‡ƒ“)
+	#Copyright(C) to-ru@big.or.jp (1.20ä»¥é™ 2000å¹´å¯¾å¿œ NEWãƒãƒ¼ã‚¸ãƒ§ãƒ³)
         local($name,$value) = @_;
         local($sec,$min,$hour,$mday,$mon,$year,$wday,$date);
-        local($days) = 180;      # Expire Date(—LŒøŠúŠÔBƒfƒtƒHƒ‹ƒg180“ú)
+        local($days) = 180;      # Expire Date(æœ‰åŠ¹æœŸé–“ã€‚ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ180æ—¥)
 
         ($sec,$min,$hour,$mday,$mon,$year,$wday) 
                         = (localtime(time+$days*24*60*60))[0,1,2,3,4,5,6];
@@ -3581,25 +3585,25 @@ sub set_cookie{
                   "Jul","Aug","Sep","Oct","Nov","Dec")[$mon];
         $date = "$wday, $mday\-$mon\-$year $hour:$min:$sec GMT";
 
-	# 2002.08.12 Opera‘Îô‚Å“ú–{Œê‚ğURLƒGƒ“ƒR[ƒh‚·‚é‚±‚Æ‚É‚µ‚½
+	# 2002.08.12 Operaå¯¾ç­–ã§æ—¥æœ¬èªã‚’URLã‚¨ãƒ³ã‚³ãƒ¼ãƒ‰ã™ã‚‹ã“ã¨ã«ã—ãŸ
 	$value =~ s/(\W)/sprintf("%%%02X", unpack("C", $1))/eg;
-        print "Set-Cookie: $name=$value; expires=$date\n";      # ƒNƒbƒL[o—Í
+        print "Set-Cookie: $name=$value; expires=$date\n";      # ã‚¯ãƒƒã‚­ãƒ¼å‡ºåŠ›
 #&error("Set-Cookie: $name=$value; expires=$date\n");
 
-	# tok2‘Î‰
+	# tok2å¯¾å¿œ
 	if($SERVER_NAME=~ /tok2\.com/){
 	  $tok2_cookie="$name=$value; expires=$date\n";
 	}
 }
 
 #=========================#
-# Content-type ‚Ìƒ`ƒFƒbƒN
+# Content-type ã®ãƒã‚§ãƒƒã‚¯
 #=========================#
 sub content_type_check{
 
 	local($content_type) = @_;
 
-# ‰æ‘œ
+# ç”»åƒ
 	$ext{'image/jpg'}	= 'jpg'; 
 	$ext{'image/jpeg'}	= 'jpg'; 	# for NN
 	$ext{'image/pjpg'}	= 'jpg';
@@ -3609,41 +3613,41 @@ sub content_type_check{
 	$ext{'image/x-png'}	= 'png';	# for PNG  file
 	$ext{'image/png'}	= 'png';	# for PNG  file
 
-	# gif,jpegˆÈŠO‚ÉˆÈ‰º‚Ìƒ^ƒCƒv‚Ìƒf[ƒ^‚à“Še‚Å‚«‚é‚æ‚¤‚É‚·‚é‚É‚Í
-	# ‰Šúİ’è‚É‚Ä$allow_other_multimedia_data‚ğ1‚É‚µ‚Ä‚­‚¾‚³‚¢D
+	# gif,jpegä»¥å¤–ã«ä»¥ä¸‹ã®ã‚¿ã‚¤ãƒ—ã®ãƒ‡ãƒ¼ã‚¿ã‚‚æŠ•ç¨¿ã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹ã«ã¯
+	# åˆæœŸè¨­å®šã«ã¦$allow_other_multimedia_dataã‚’1ã«ã—ã¦ãã ã•ã„ï¼
 	if($allow_other_multimedia_data ==1){
 		&additional_content_types;
 	}
-	# imgƒ^ƒO‚Å–„‚ß‚İ‰Â”\‚Èƒ^ƒCƒv
+	# imgã‚¿ã‚°ã§åŸ‹ã‚è¾¼ã¿å¯èƒ½ãªã‚¿ã‚¤ãƒ—
 	foreach(keys %ext){
 		if($content_type =~ /$_/ig){
 			return $ext{$_};
 		}
 	}
-	# imgƒ^ƒO‚Å–„‚ß‚Ş‚ÆŠëŒ¯‚Èƒ^ƒCƒv
+	# imgã‚¿ã‚°ã§åŸ‹ã‚è¾¼ã‚€ã¨å±é™ºãªã‚¿ã‚¤ãƒ—
 	foreach(keys %ext2){
 		if($content_type =~ /$_/ig){
 			return $ext2{$_};
 		}
 	}
-        # ‚±‚ê‚Å‚à‘Ê–Ú‚È‚çŠg’£q‚©‚ç”»’f
+        # ã“ã‚Œã§ã‚‚é§„ç›®ãªã‚‰æ‹¡å¼µå­ã‹ã‚‰åˆ¤æ–­
 	 if($fname=~ /\.gif$/i){return 'gif';}
 	 if($fname=~ /\.jpe?g$/i){return 'jpg';}
 
-	# gif,jpegˆÈŠO‚ÉˆÈ‰º‚Ìƒ^ƒCƒv‚Ìƒf[ƒ^‚à“Še‚Å‚«‚é‚æ‚¤‚É‚·‚é‚É‚Í
-	# ‰Šúİ’è‚É‚Ä$allow_other_multimedia_data‚ğ1‚É‚µ‚Ä‚­‚¾‚³‚¢D
+	# gif,jpegä»¥å¤–ã«ä»¥ä¸‹ã®ã‚¿ã‚¤ãƒ—ã®ãƒ‡ãƒ¼ã‚¿ã‚‚æŠ•ç¨¿ã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹ã«ã¯
+	# åˆæœŸè¨­å®šã«ã¦$allow_other_multimedia_dataã‚’1ã«ã—ã¦ãã ã•ã„ï¼
         if($allow_other_multimedia_data ==1){
-         # (©•ª‚ÅƒŠƒXƒg‚ğ‚³‚ç‚É’Ç‰Á‚·‚éê‡‚Ì’ˆÓ)
-         # cgi,asp,pl,sh,exe.shtml,js,jse,vbs,vbe,hta,wsh,xlm“™‚ÌŠg’£q‚ÍƒZƒL
-	 # ƒ…ƒŠƒeƒBãŠëŒ¯‚È‚Ì‚Åâ‘Î’Ç‰Á‚µ‚È‚¢‚±‚Æi“Á‚ÉWindowsƒ†[ƒUj
+         # (è‡ªåˆ†ã§ãƒªã‚¹ãƒˆã‚’ã•ã‚‰ã«è¿½åŠ ã™ã‚‹å ´åˆã®æ³¨æ„)
+         # cgi,asp,pl,sh,exe.shtml,js,jse,vbs,vbe,hta,wsh,xlmç­‰ã®æ‹¡å¼µå­ã¯ã‚»ã‚­
+	 # ãƒ¥ãƒªãƒ†ã‚£ä¸Šå±é™ºãªã®ã§çµ¶å¯¾è¿½åŠ ã—ãªã„ã“ã¨ï¼ˆç‰¹ã«Windowsãƒ¦ãƒ¼ã‚¶ï¼‰
 
 	# IMAGE
-	 if($fname=~ /\.png$/i){return 'png';}	# PNG      Œ`®
-#	 if($fname=~ /\.bmp$/i){return 'bmp';}	# Win BMP  Œ`®
-	 if($fname=~ /\.pict$/i){return 'pict';}# Mac PICT Œ`®
-	 if($fname=~ /\.pdf$/i){return 'pdf';}	# Adobe PDFŒ`®
-#	 if($fname=~ /\.xps$/i){return 'xps';}	# XPS(MS-PDF)Œ`® 2009.06 add
-	 if($fname=~ /\.epub$/i){return 'epub';}# “dq‘Ğƒtƒ@ƒCƒ‹ 2009.12
+	 if($fname=~ /\.png$/i){return 'png';}	# PNG      å½¢å¼
+#	 if($fname=~ /\.bmp$/i){return 'bmp';}	# Win BMP  å½¢å¼
+	 if($fname=~ /\.pict$/i){return 'pict';}# Mac PICT å½¢å¼
+	 if($fname=~ /\.pdf$/i){return 'pdf';}	# Adobe PDFå½¢å¼
+#	 if($fname=~ /\.xps$/i){return 'xps';}	# XPS(MS-PDF)å½¢å¼ 2009.06 add
+	 if($fname=~ /\.epub$/i){return 'epub';}# é›»å­æ›¸ç±ãƒ•ã‚¡ã‚¤ãƒ« 2009.12
 
 	 if($fname=~ /\.cbz$/i){return 'ebz';}	# Comic Book Zip 2012.08 add
 	 if($fname=~ /\.cbr$/i){return 'ebr';}	# Comic Book RAR 2012.08 add
@@ -3652,17 +3656,17 @@ sub content_type_check{
 #	 if($fname=~ /\.ppt$/i){return 'ppt';}	# PowerPoint
 #	 if($fname=~ /\.rtf$/i){return 'rtf';}	# Word98
 #	 if($fname=~ /\.doc$/i){return 'doc';}	# Word
-#	 if($fname=~ /\.xls$/i){return 'xls';}	# •\ŒvZ(excel)
-#	 if($fname=~ /\.csv$/i){return 'csv';}	# ƒf[ƒ^ƒx[ƒX
-#	 if($fname=~ /\.mht$/i){return 'mht';}	# MS Web ’PˆêƒA[ƒJƒCƒu
+#	 if($fname=~ /\.xls$/i){return 'xls';}	# è¡¨è¨ˆç®—(excel)
+#	 if($fname=~ /\.csv$/i){return 'csv';}	# ãƒ‡ãƒ¼ã‚¿ãƒ™ãƒ¼ã‚¹
+#	 if($fname=~ /\.mht$/i){return 'mht';}	# MS Web å˜ä¸€ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–
 
 	# MS_OFFICE2007
 #	 if($fname=~ /\.pptx$/i){return 'pptx';}	# PowerPoint2007(XML)
 #	 if($fname=~ /\.docx$/i){return 'docx';}	# Word2007(XML)
 #	 if($fname=~ /\.xlsx$/i){return 'xlsx';}	# excel2007(XML)
-#	 if($fname=~ /\.pptm$/i){return 'pptm';}	# PowerPoint2007(XML)Macro—LŒø
-#	 if($fname=~ /\.docm$/i){return 'docm';}	# Word2007(XML)Macro—LŒø
-#	 if($fname=~ /\.xlsm$/i){return 'xlsm';}	# excel2007(XML)Macro—LŒø
+#	 if($fname=~ /\.pptm$/i){return 'pptm';}	# PowerPoint2007(XML)Macroæœ‰åŠ¹
+#	 if($fname=~ /\.docm$/i){return 'docm';}	# Word2007(XML)Macroæœ‰åŠ¹
+#	 if($fname=~ /\.xlsm$/i){return 'xlsm';}	# excel2007(XML)Macroæœ‰åŠ¹
 
 	# Archive
 	 if($fname=~ /\.lzh$/i){return 'lzh';}	# LHA
@@ -3671,92 +3675,92 @@ sub content_type_check{
 	 if($fname=~ /\.tar\.z$/i){return 'tar.Z';}
 	 if($fname=~ /\.tar\.gz$/i){return 'tar.gz';}
 	 if($fname=~ /\.tgz$/i){return 'tgz';}  # 200509 add
-	 if($fname=~ /\.rar$/i){return 'rar';}  # RARŒ`®
+	 if($fname=~ /\.rar$/i){return 'rar';}  # RARå½¢å¼
 
-	# ˆÃ†‰»Archive
-	 if($fname=~ /\.atc$/i){return 'atc';}  # ƒAƒ^ƒbƒVƒ…ƒP[ƒXŒ`®
-	 if($fname=~ /\.7z$/i){return '7z';}  # ƒZƒuƒ“ƒWƒbƒvŒ`®
+	# æš—å·åŒ–Archive
+	 if($fname=~ /\.atc$/i){return 'atc';}  # ã‚¢ã‚¿ãƒƒã‚·ãƒ¥ã‚±ãƒ¼ã‚¹å½¢å¼
+	 if($fname=~ /\.7z$/i){return '7z';}  # ã‚»ãƒ–ãƒ³ã‚¸ãƒƒãƒ—å½¢å¼
 
-	# —L‚Ì“®‰æA‰¹Šy‚Ìˆá–@DL”±‘¥‰»2012.10.01‚É‘Î‰
+	# æœ‰å„Ÿã®å‹•ç”»ã€éŸ³æ¥½ã®é•æ³•DLç½°å‰‡åŒ–2012.10.01ã«å¯¾å¿œ
 	if($allow_video_and_audio_data == 1){
 
 	# WindowsMedia
 	 if($fname=~ /\.wma?$/i){return 'wma';}	# Windows Media Audio
-	 if($fname=~ /\.asf$/i){return 'asf';}	# Windows Media (ASFŒ`®)
-	 if($fname=~ /\.asx$/i){return 'asx';}	# Windows Media (ASFŒ`® Redirecter)
-	 if($fname=~ /\.wmv$/i){return 'wmv';}	# Windows Media ƒI[ƒfƒBƒI/ƒrƒfƒI ƒtƒ@ƒCƒ‹
+	 if($fname=~ /\.asf$/i){return 'asf';}	# Windows Media (ASFå½¢å¼)
+	 if($fname=~ /\.asx$/i){return 'asx';}	# Windows Media (ASFå½¢å¼ Redirecter)
+	 if($fname=~ /\.wmv$/i){return 'wmv';}	# Windows Media ã‚ªãƒ¼ãƒ‡ã‚£ã‚ª/ãƒ“ãƒ‡ã‚ª ãƒ•ã‚¡ã‚¤ãƒ«
 
 	# Other Audio
-	 if($fname=~ /\.at3$/i){return 'at3';}	# ATRAC3 ƒtƒ@ƒCƒ‹
+	 if($fname=~ /\.at3$/i){return 'at3';}	# ATRAC3 ãƒ•ã‚¡ã‚¤ãƒ«
 
-	# Œg‘ÑiFOMA) new
-	 if($fname=~ /\.mp3$/i){return 'mp3';}	# MP3ƒf[ƒ^
-	 if($fname=~ /\.mp4$/i){return 'mp4';}	# MP4ƒf[ƒ^(iƒ‚[ƒVƒ‡ƒ“)
+	# æºå¸¯ï¼ˆFOMA) new
+	 if($fname=~ /\.mp3$/i){return 'mp3';}	# MP3ãƒ‡ãƒ¼ã‚¿
+	 if($fname=~ /\.mp4$/i){return 'mp4';}	# MP4ãƒ‡ãƒ¼ã‚¿(iãƒ¢ãƒ¼ã‚·ãƒ§ãƒ³)
 
 	 
-	 # ƒXƒ}[ƒgƒtƒHƒ“‚âimgboard FLV Player‚Æ‚ÌŒİŠ·«‘Îô
+	 # ã‚¹ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒ³ã‚„imgboard FLV Playerã¨ã®äº’æ›æ€§å¯¾ç­–
 	 if($ENV{'CONTENT_LENGTH'} < 10000*1024){
-	  # 10MBˆÈ‰º‚Ìê‡
-	  if($fname=~ /\.3gp$/i){return '3gp';}	# MP4ƒf[ƒ^(iƒ‚[ƒVƒ‡ƒ“)
-	  if($fname=~ /\.3gpp$/i){return '3gpp';}# MP4ƒf[ƒ^(iƒ‚[ƒVƒ‡ƒ“)
-	  if($fname=~ /\.3gp4$/i){return '3gp4';}# MP4ƒf[ƒ^(iƒ‚[ƒVƒ‡ƒ“)
+	  # 10MBä»¥ä¸‹ã®å ´åˆ
+	  if($fname=~ /\.3gp$/i){return '3gp';}	# MP4ãƒ‡ãƒ¼ã‚¿(iãƒ¢ãƒ¼ã‚·ãƒ§ãƒ³)
+	  if($fname=~ /\.3gpp$/i){return '3gpp';}# MP4ãƒ‡ãƒ¼ã‚¿(iãƒ¢ãƒ¼ã‚·ãƒ§ãƒ³)
+	  if($fname=~ /\.3gp4$/i){return '3gp4';}# MP4ãƒ‡ãƒ¼ã‚¿(iãƒ¢ãƒ¼ã‚·ãƒ§ãƒ³)
 	 }else{
-	  # ‚Ç‚¤‚¹iƒ€[ƒr[‚Å‚ÍÄ¶‚Å‚«‚È‚¢B
-	  # ‚æ‚Á‚ÄAƒXƒ}[ƒgƒtƒHƒ“‚âFlv Player‚ÆŒİŠ·«‚Ì—Ç‚¢mp4‚É‚·‚é
-	  if($fname=~ /\.3gp$/i){return 'mp4';}	# MP4ƒf[ƒ^
-	  if($fname=~ /\.3gpp$/i){return 'mp4';}# MP4ƒf[ƒ^
-	  if($fname=~ /\.3gp4$/i){return 'mp4';}# MP4ƒf[ƒ^
+	  # ã©ã†ã›iãƒ ãƒ¼ãƒ“ãƒ¼ã§ã¯å†ç”Ÿã§ããªã„ã€‚
+	  # ã‚ˆã£ã¦ã€ã‚¹ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒ³ã‚„Flv Playerã¨äº’æ›æ€§ã®è‰¯ã„mp4ã«ã™ã‚‹
+	  if($fname=~ /\.3gp$/i){return 'mp4';}	# MP4ãƒ‡ãƒ¼ã‚¿
+	  if($fname=~ /\.3gpp$/i){return 'mp4';}# MP4ãƒ‡ãƒ¼ã‚¿
+	  if($fname=~ /\.3gp4$/i){return 'mp4';}# MP4ãƒ‡ãƒ¼ã‚¿
 	 }
 
-	 # 2010.08 iPhone‚Ì“®‰æ‘Î‰
+	 # 2010.08 iPhoneã®å‹•ç”»å¯¾å¿œ
  	 if($fname=~ /\.mov$/i){return 'mp4';}
 	 
-	 # 2009.10 iPhone‘Î‰’Ç‰Á
-	 if($fname=~ /\.m4v$/i){return 'm4v';}	# M4vƒtƒ@ƒCƒ‹
+	 # 2009.10 iPhoneå¯¾å¿œè¿½åŠ 
+	 if($fname=~ /\.m4v$/i){return 'm4v';}	# M4vãƒ•ã‚¡ã‚¤ãƒ«
 
 
-	# 2009.06’Ç‰Á
+	# 2009.06è¿½åŠ 
 #	 if($fname=~ /\.ogm$/i){return 'ogm';}	# ogg Vorbis
-#	 if($fname=~ /\.mkv$/i){return 'mkv';}	# MKVƒRƒ“ƒeƒi(DivX7“™)
+#	 if($fname=~ /\.mkv$/i){return 'mkv';}	# MKVã‚³ãƒ³ãƒ†ãƒŠ(DivX7ç­‰)
 #	 if($fname=~ /\.ogv$/i){return 'ogv';}	# ogg Theora (VP3 for HTML5)
 
 
-	 # ‚»‚Ì‘¼×‚©‚¢•¨‚ÍíœB¡Œã‚Í imgboard 2010‚ğ‚²—˜—p‚­‚¾‚³‚¢B
+	 # ãã®ä»–ç´°ã‹ã„ç‰©ã¯å‰Šé™¤ã€‚ä»Šå¾Œã¯ imgboard 2010ã‚’ã”åˆ©ç”¨ãã ã•ã„ã€‚
 
 	 if($fname=~ /\.avi$/i){return 'avi';}
 	 if($fname=~ /\.mpg$/i){return 'mpg';}
 
-	# 2006.12.13 Flash Movie’Ç‰Á
+	# 2006.12.13 Flash Movieè¿½åŠ 
 	 if($fname=~ /\.flv$/i){return 'flv';}	# Flash Video
 
-	# 2010.06.08 imgboard FLV Player—p‚É’Ç‰Á
+	# 2010.06.08 imgboard FLV Playerç”¨ã«è¿½åŠ 
 	 if($fname=~ /\.f4v$/i){return 'mp4';}	# Flash Video
 	 if($fname=~ /\.f4a$/i){return 'mp4';}	# Flash Video
-#	 if($fname=~ /\.f4b$/i){return 'mp4';}	# Flash Video(•ÛŒì•t‚«‚È‚Ì‚ÅÄ¶‚Å‚«‚È‚¢)
+#	 if($fname=~ /\.f4b$/i){return 'mp4';}	# Flash Video(ä¿è­·ä»˜ããªã®ã§å†ç”Ÿã§ããªã„)
 
 	} #end of $allow_video_and_audio_data
         } #end of allow_other_multimedia_data == OK
 
 	$unknown_data_exit=1;
 
-# ƒf[ƒ^ƒ^ƒCƒv•s–¾‚Ìê‡‚ÌÅI”»’f
+# ãƒ‡ãƒ¼ã‚¿ã‚¿ã‚¤ãƒ—ä¸æ˜ã®å ´åˆã®æœ€çµ‚åˆ¤æ–­
 	if($unknown_data_exit==1){
-		&error(" Œ»İ‚Ìİ’è‚Å‚ÍA‚±‚Ìƒ^ƒCƒv‚Ìƒf[ƒ^‚ÍƒAƒbƒvƒ[ƒh‚Å‚«‚Ü‚¹‚ñD");
+		&error(" ç¾åœ¨ã®è¨­å®šã§ã¯ã€ã“ã®ã‚¿ã‚¤ãƒ—ã®ãƒ‡ãƒ¼ã‚¿ã¯ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã§ãã¾ã›ã‚“ï¼");
 	}else{
 		return 'dat';
 	}
 }
 
 #==========================#
-# Content-type ‚Ì©“®•âŠ®
+# Content-type ã®è‡ªå‹•è£œå®Œ
 #==========================#
 sub additional_content_types{
 
-# Šg’£q‚ª‚È‚¢ƒtƒ@ƒCƒ‹‚ªƒAƒbƒvƒ[ƒh‚³‚ê‚½ê‡Aƒuƒ‰ƒEƒU‚©‚ç’Ê’m‚³‚ê‚½
-# ƒ}ƒCƒ€ƒ^ƒCƒv‚©‚çŠg’£q‚ğŒˆ’è‚µ‚Ü‚·BMacƒ†[ƒU‚©‚ç‚ÌŠg’£q‚È‚µƒtƒ@ƒCƒ‹
-# ‚ÌƒAƒbƒvƒ[ƒh‚É‘Î‰‚·‚é‚½‚ß‚Ì•”•ª‚Å‚·B
+# æ‹¡å¼µå­ãŒãªã„ãƒ•ã‚¡ã‚¤ãƒ«ãŒã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã•ã‚ŒãŸå ´åˆã€ãƒ–ãƒ©ã‚¦ã‚¶ã‹ã‚‰é€šçŸ¥ã•ã‚ŒãŸ
+# ãƒã‚¤ãƒ ã‚¿ã‚¤ãƒ—ã‹ã‚‰æ‹¡å¼µå­ã‚’æ±ºå®šã—ã¾ã™ã€‚Macãƒ¦ãƒ¼ã‚¶ã‹ã‚‰ã®æ‹¡å¼µå­ãªã—ãƒ•ã‚¡ã‚¤ãƒ«
+# ã®ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã«å¯¾å¿œã™ã‚‹ãŸã‚ã®éƒ¨åˆ†ã§ã™ã€‚
 
-# ‰æ‘œŒni‚»‚Ì‘¼j
+# ç”»åƒç³»ï¼ˆãã®ä»–ï¼‰
 #	$ext{'image/x-png'}	= 'png';	# for PNG  file
 #	$ext{'image/png'}	= 'png';	# for PNG  file
 	$ext{'image/pict'}	= 'pict';	# for PICT file
@@ -3768,53 +3772,53 @@ sub additional_content_types{
 
 	$ext2{'application/epub'}= 'epub';	# for kindle(epub) 2009.12
 
-# ƒA[ƒJƒCƒuŒn
+# ã‚¢ãƒ¼ã‚«ã‚¤ãƒ–ç³»
 	$ext2{'application/zip'}= 'zip';	# for ZIP   (Win)
 	$ext2{'x-zip'}= 'zip';			# for ZIP   (Win)
 	$ext2{'compressed/lha'}= 'lzh';		# for LZH   (Win)
 	$ext2{'x-tar'}= 'tar';			# for TAR   (Unix)
 	$ext2{'application/x-7z-compressed'}= '7z';	# for 7ZIP
 
-	# —L‚Ì“®‰æA‰¹Šy‚Ìˆá–@DL”±‘¥‰»2012.10.01‚É‘Î‰
+	# æœ‰å„Ÿã®å‹•ç”»ã€éŸ³æ¥½ã®é•æ³•DLç½°å‰‡åŒ–2012.10.01ã«å¯¾å¿œ
 	if($allow_video_and_audio_data == 1){
 
-# 3D & ƒrƒfƒIŒn
-	# TODO mov‚à¬‚³‚¢‚Æ‚«‚Í3GP‚ÉƒŠƒl[ƒ€‚µ‚½•û‚ª‚¢‚¢‚©‚à
+# 3D & ãƒ“ãƒ‡ã‚ªç³»
+	# TODO movã‚‚å°ã•ã„ã¨ãã¯3GPã«ãƒªãƒãƒ¼ãƒ ã—ãŸæ–¹ãŒã„ã„ã‹ã‚‚
 	$ext2{'video/quicktime'}	= 'mov';# for QuickTime  file
 	$ext2{'video/(.*)mpeg'}	= 'mpeg';	# for MPEG file
 	$ext2{'video/(.*)msvideo'}= 'avi';	# for AVI  file
 	$ext2{'video/(.*)-asf'}= 'asf';		# for NetShow file
 	$ext2{'video/avi'}= 'avi';		# for AVI  file
-	$ext2{'video/x-ms-wvx'}= 'wvx';    # Windows Media ƒI[ƒfƒBƒI/ƒrƒfƒI ƒVƒ‡[ƒgƒJƒbƒg
-	$ext2{'video/x-ms-wmv'}= 'wmv';    # Windows Media ƒI[ƒfƒBƒI/ƒrƒfƒI ƒtƒ@ƒCƒ‹
-	 # ƒXƒ}[ƒgƒtƒHƒ“‚âimgboard FLV Player‚Æ‚ÌŒİŠ·«‘Îô
+	$ext2{'video/x-ms-wvx'}= 'wvx';    # Windows Media ã‚ªãƒ¼ãƒ‡ã‚£ã‚ª/ãƒ“ãƒ‡ã‚ª ã‚·ãƒ§ãƒ¼ãƒˆã‚«ãƒƒãƒˆ
+	$ext2{'video/x-ms-wmv'}= 'wmv';    # Windows Media ã‚ªãƒ¼ãƒ‡ã‚£ã‚ª/ãƒ“ãƒ‡ã‚ª ãƒ•ã‚¡ã‚¤ãƒ«
+	 # ã‚¹ãƒãƒ¼ãƒˆãƒ•ã‚©ãƒ³ã‚„imgboard FLV Playerã¨ã®äº’æ›æ€§å¯¾ç­–
 	if($ENV{'CONTENT_LENGTH'} < 10000*1024){
-	 # 10MBˆÈ‰º‚Ìê‡
+	 # 10MBä»¥ä¸‹ã®å ´åˆ
 	 $ext2{'video/3gpp'}	= '3gp';	# for i-Motion file
 	 $ext2{'video/3gp'}	= '3gp';	# for i-Motion file
 	 $ext2{'audio/3gpp'}	= '3gp';	# for i-Motion file
-	 # 10MBˆÈã‚¾‚ÆA‚Ç‚¤‚¹Ä¶‚Å‚«‚È‚¢‚Ì‚ÅA
-	 # FLVPlayer‚âiPhone/iPad‚ÆŒİŠ·«‚Ì‚‚¢mp4Šg’£q‚É‚·‚é
+	 # 10MBä»¥ä¸Šã ã¨ã€ã©ã†ã›å†ç”Ÿã§ããªã„ã®ã§ã€
+	 # FLVPlayerã‚„iPhone/iPadã¨äº’æ›æ€§ã®é«˜ã„mp4æ‹¡å¼µå­ã«ã™ã‚‹
 	}else{
 	 $ext2{'video/3gpp'}	= 'mp4';	# for i-Motion file
 	 $ext2{'video/3gp'}	= 'mp4';	# for i-Motion file
 	 $ext2{'audio/3gpp'}	= 'mp4';	# for i-Motion file
 	}
 
-# 2006.12.13 ’Ç‰Á
-	$ext2{'video/x-flv'}	= 'flv';	# Flash Videoƒf[ƒ^
-	$ext2{'video/x-m4v'}	= 'm4v';	# M4v ƒf[ƒ^
+# 2006.12.13 è¿½åŠ 
+	$ext2{'video/x-flv'}	= 'flv';	# Flash Videoãƒ‡ãƒ¼ã‚¿
+	$ext2{'video/x-m4v'}	= 'm4v';	# M4v ãƒ‡ãƒ¼ã‚¿
 
-# ‰¹ŠyŒn
+# éŸ³æ¥½ç³»
 	$ext2{'audio/mpeg'}= 'mp3';			# for MPEG Audio
 	$ext2{'audio/x-mpegurl'}= 'm3u';		# for MPEG Audio
 	$ext2{'audio/x-wav'}= 'wav';		# for WAV Audio
 
 	} #end of $allow_video_and_audio_data
 
-# ‰ïĞ‚Åd–‚É–ğ—§‚¿Œn
-#	$ext2{'text/html'}= 'html';	 	# HTMLƒeƒLƒXƒg
-#	$ext2{'text/plain'}= 'txt'; 		# ƒeƒLƒXƒg
+# ä¼šç¤¾ã§ä»•äº‹ã«å½¹ç«‹ã¡ç³»
+#	$ext2{'text/html'}= 'html';	 	# HTMLãƒ†ã‚­ã‚¹ãƒˆ
+#	$ext2{'text/plain'}= 'txt'; 		# ãƒ†ã‚­ã‚¹ãƒˆ
 #	$ext2{'msword'}= 'doc';			# MS_WORD
 #	$ext2{'excel'}= 'xls';			# MS_Excel
 #	$ext2{'powerpoint'}= 'ppt';			# MS_PowerPoint
@@ -3822,15 +3826,15 @@ sub additional_content_types{
 }
 # 2009.10 new
 #=========================================#
-#  Šg’£q‚©‚çƒ}ƒCƒ€‚ğŒvZ‚·‚éƒ‹[ƒ`ƒ“
+#  æ‹¡å¼µå­ã‹ã‚‰ãƒã‚¤ãƒ ã‚’è¨ˆç®—ã™ã‚‹ãƒ«ãƒ¼ãƒãƒ³
 #=========================================#
-# HTML5‚Ì–„‚ß‚İ—p‚ÉAŠg’£q‚©‚çƒ}ƒCƒ€‚ğŒvZ‚·‚éƒ‹[ƒ`ƒ“
+# HTML5ã®åŸ‹ã‚è¾¼ã¿ç”¨ã«ã€æ‹¡å¼µå­ã‹ã‚‰ãƒã‚¤ãƒ ã‚’è¨ˆç®—ã™ã‚‹ãƒ«ãƒ¼ãƒãƒ³
 #  
 #
 sub make_html5_mimetype{
 
-    local($tmpp_check_ctype)		=$_[0];# ˆø”1‚Æ‚µ‚Äæ“¾
-	local($tmpp_img_location)		=$_[1];# ˆø”2‚Æ‚µ‚Äæ“¾
+    local($tmpp_check_ctype)		=$_[0];# å¼•æ•°1ã¨ã—ã¦å–å¾—
+	local($tmpp_img_location)		=$_[1];# å¼•æ•°2ã¨ã—ã¦å–å¾—
 
 	 if($tmpp_check_ctype=~ /video/i){
 	# video
@@ -3851,123 +3855,123 @@ sub make_html5_mimetype{
 }
 #
 #=========================#
-# htmlo—Í
+# htmlå‡ºåŠ›
 #=========================#
 
 #====================================#
-# ƒtƒH[ƒ€•”•ª‚Ì‚g‚s‚l‚k‚ğo—Í‚·‚é
+# ãƒ•ã‚©ãƒ¼ãƒ éƒ¨åˆ†ã®ï¼¨ï¼´ï¼­ï¼¬ã‚’å‡ºåŠ›ã™ã‚‹
 #====================================#
 
 sub output_form_html{
 
-	# •\¦ƒ‚[ƒhˆÈŠO‚È‚çƒtƒH[ƒ€‚ğo‚³‚È‚¢
+	# è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ä»¥å¤–ãªã‚‰ãƒ•ã‚©ãƒ¼ãƒ ã‚’å‡ºã•ãªã„
 	if($FORM{'mode'} ne ""){
 		return;
 	}
 
-	# C³‹L–‘I‘ğ‰æ–Ê‚È‚çƒtƒH[ƒ€‚ğo‚³‚È‚¢
+	# ä¿®æ­£è¨˜äº‹é¸æŠç”»é¢ãªã‚‰ãƒ•ã‚©ãƒ¼ãƒ ã‚’å‡ºã•ãªã„
 	if(($FORM{'amode'} eq "select_edit")&&($FORM{'bbsaction'} ne "edit_form")){
 		return;
 	}
 
-	# ‘ã“ü‚·‚é•Ï”‚ğ€”õ
+	# ä»£å…¥ã™ã‚‹å¤‰æ•°ã‚’æº–å‚™
 
-	# •\¦ƒ‚[ƒhEƒfƒtƒHƒ‹ƒg‘I‘ğ’l
+	# è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ãƒ»ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆé¸æŠå€¤
 	if($COOKIE{'view_mode'} ne ""){
 		&select_default_view_mode;
-	# 2010.06.23 –¢“ŠeŒoŒ±Ò‚ÉFLV Player‚ª•\¦‚³‚ê‚È‚¢–â‘è‚É‘Îˆ
+	# 2010.06.23 æœªæŠ•ç¨¿çµŒé¨“è€…ã«FLV PlayerãŒè¡¨ç¤ºã•ã‚Œãªã„å•é¡Œã«å¯¾å‡¦
 	}else{
 		if($show_img_on_board == 1){
 			$COOKIE{'view_mode'}='as_cgi_defined';
 		}
 	}
 
-	# ƒtƒH[ƒ€—“‚ÌF
+	# ãƒ•ã‚©ãƒ¼ãƒ æ¬„ã®è‰²
 	if($HTTP_USER_AGENT =~ /IE/i){
 		$bgcolor_ie="bgcolor=GRAY";
 	}
 
    #==================================================#
-   # “¯ˆêƒEƒBƒ“ƒh•\¦iƒfƒtƒHƒ‹ƒgj‚ÌŒf¦”Â‚Ìæ“ª
+   # åŒä¸€ã‚¦ã‚£ãƒ³ãƒ‰è¡¨ç¤ºæ™‚ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆï¼‰ã®æ²ç¤ºæ¿ã®å…ˆé ­
    #==================================================#
 
 	if(($form_disp_on_board ==1)||($FORM{'bbsaction'} eq 'disp_form_only')||($FORM{'bbsaction'} eq 'disp_rep_form')||($FORM{'bbsaction'} eq 'edit_form')){
 
-		# ‘Oˆ—i–„‚İƒf[ƒ^‚ğ‰ÁHj
+		# å‰å‡¦ç†ï¼ˆåŸ‹è¾¼ã¿ãƒ‡ãƒ¼ã‚¿ã‚’åŠ å·¥ï¼‰
 
-		# ‰ïˆõƒpƒXƒ[ƒhİ’è‚ğ‚µ‚Ä‚È‚¢ê‡A€–Ú‚Ío‚³‚È‚¢B
+		# ä¼šå“¡ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰è¨­å®šã‚’ã—ã¦ãªã„å ´åˆã€é …ç›®ã¯å‡ºã•ãªã„ã€‚
 		if(($use_passwd_flag != 1)||(($PM{'res_no_passwd_flag'}== 1)&&($FORM{'bbsaction'} eq 'disp_rep_form'))){
 			$cm_out_pw_h='<!--';
 			$cm_out_pw_f='-->';
 		}
 
-		# ƒ^ƒO‚ğ‹–‰Â‚·‚éê‡A’ˆÓ‘‚«‚ğ’Ç‰Á‚µƒ~ƒX‚ğ—\–h‚·‚éB
+		# ã‚¿ã‚°ã‚’è¨±å¯ã™ã‚‹å ´åˆã€æ³¨æ„æ›¸ãã‚’è¿½åŠ ã—ãƒŸã‚¹ã‚’äºˆé˜²ã™ã‚‹ã€‚
 		if($use_tag == 1){
-# •’Ê‹@”\‚È‚Ì‚ÅAà–¾‚â‚ß‚½(2012.10)
-#			$tag_siyou_tyuui='<LI>ƒ^ƒOg—p‰ÂBg—p‚·‚éê‡A•Â‚¶–Y‚ê‚É‚²’ˆÓ‚­‚¾‚³‚¢';
+# æ™®é€šæ©Ÿèƒ½ãªã®ã§ã€èª¬æ˜ã‚„ã‚ãŸ(2012.10)
+#			$tag_siyou_tyuui='<LI>ã‚¿ã‚°ä½¿ç”¨å¯ã€‚ä½¿ç”¨ã™ã‚‹å ´åˆã€é–‰ã˜å¿˜ã‚Œã«ã”æ³¨æ„ãã ã•ã„';
 		}
 
-		# youTubeƒ^ƒO‚ğ‹–‰Â‚·‚éê‡Aà–¾‚ğ•\¦‚·‚é
+		# youTubeã‚¿ã‚°ã‚’è¨±å¯ã™ã‚‹å ´åˆã€èª¬æ˜ã‚’è¡¨ç¤ºã™ã‚‹
 		if($use_youtube_tag_in_comment == 1){
-			$tag_siyou_tyuui="$tag_siyou_tyuui".'<LI><a href="http://www.youtube.com/?gl=JP&hl=ja">youTube</a>‚Ìê‡‚ÍA"‹¤—L"‚Ì<B>youtu . be</B>‚ÌURL‚ğ ,<a href="http://www.nicovideo.jp/">ƒjƒR“®</a>,ustreamã‚Ì“®‰æ‚ğŒf¦”Â‚É–„•\¦‚·‚éê‡‚ÍA"–„‚ß‚İƒR[ƒh"‚ğ1ŒÂA‚»‚Ì‚Ü‚Ü–{•¶—“‚ÉƒRƒsƒy‚µ‚Ä‚­‚¾‚³‚¢ </LI>';
+			$tag_siyou_tyuui="$tag_siyou_tyuui".'<LI><a href="http://www.youtube.com/?gl=JP&hl=ja">youTube</a>ã®å ´åˆã¯ã€"å…±æœ‰"ã®<B>youtu . be</B>ã®URLã‚’ ,<a href="http://www.nicovideo.jp/">ãƒ‹ã‚³å‹•</a>,ustreamä¸Šã®å‹•ç”»ã‚’æ²ç¤ºæ¿ã«åŸ‹è¾¼è¡¨ç¤ºã™ã‚‹å ´åˆã¯ã€"åŸ‹ã‚è¾¼ã¿ã‚³ãƒ¼ãƒ‰"ã‚’1å€‹ã€ãã®ã¾ã¾æœ¬æ–‡æ¬„ã«ã‚³ãƒ”ãƒšã—ã¦ãã ã•ã„ </LI>';
 		}
 
-		# •ÔME•ÒWƒtƒH[ƒ€‚Í‰æ‘œƒAƒbƒvƒ[ƒh‚³‚¹‚È‚¢
+		# è¿”ä¿¡ãƒ»ç·¨é›†ãƒ•ã‚©ãƒ¼ãƒ æ™‚ã¯ç”»åƒã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã•ã›ãªã„
 		if(($FORM{'bbsaction'} eq 'disp_rep_form')||($FORM{'bbsaction'} eq 'edit_form')||($COOKIE{'form_mode'} =~ /movie/i)){
 			$cm_out_img_h='<!--';
 			$cm_out_img_f='-->';
 		}
 
 
-		# ‰Šúİ’è‚ğ•ÏX‚µ‚Ä‚È‚¢ê‡AI—¹ƒ{ƒ^ƒ“‚Ío‚³‚È‚¢B
-		if(($form_disp_on_board==0)||($back_url eq 'http://‚ ‚È‚½‚ÌƒvƒƒoƒCƒ_/‚ ‚È‚½‚ÌƒfƒBƒŒƒNƒgƒŠ/index.html')){
+		# åˆæœŸè¨­å®šã‚’å¤‰æ›´ã—ã¦ãªã„å ´åˆã€çµ‚äº†ãƒœã‚¿ãƒ³ã¯å‡ºã•ãªã„ã€‚
+		if(($form_disp_on_board==0)||($back_url eq 'http://ã‚ãªãŸã®ãƒ—ãƒ­ãƒã‚¤ãƒ€/ã‚ãªãŸã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª/index.html')){
 			$cm_out_exit_h='<!--';
 			$cm_out_exit_f='-->';
 		}
 
-	# “ü—ÍƒtƒH[ƒ€•”form_html‚ÌHTML‚ğo—Íi‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+	# å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ éƒ¨form_htmlã®HTMLã‚’å‡ºåŠ›ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 	&form_html;
 
-	# C³ƒEƒBƒ“ƒh‚Ì‚ÍˆÈ‰º‚ğo‚³‚È‚¢
+	# ä¿®æ­£ã‚¦ã‚£ãƒ³ãƒ‰ã®æ™‚ã¯ä»¥ä¸‹ã‚’å‡ºã•ãªã„
 	return if($FORM{'bbsaction'} eq "edit_form");
 	
 	if($FORM{'bbsaction'} eq 'disp_rep_form'){
 
 print<<HTML_END;
 <HR>
-<!--Œf¦”Â’†‰›•”‚Ìà–¾•”•ªA-->
+<!--æ²ç¤ºæ¿ä¸­å¤®éƒ¨ã®èª¬æ˜éƒ¨åˆ†A-->
 <font size=-1>
  <UL>
-   <LI><!--ƒ^ƒOg—pã‚Ì’ˆÓ‚ª©“®‚Å“ü‚è‚Ü‚·-->$tag_siyou_tyuui
+   <LI><!--ã‚¿ã‚°ä½¿ç”¨ä¸Šã®æ³¨æ„ãŒè‡ªå‹•ã§å…¥ã‚Šã¾ã™-->$tag_siyou_tyuui
 </UL>
 </font>
 HTML_END
 
 	}else{
 
-		# ƒAƒ“ƒJ[ƒŠƒ“ƒN•”•ª‚ğo—Íi‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# ã‚¢ãƒ³ã‚«ãƒ¼ãƒªãƒ³ã‚¯éƒ¨åˆ†ã‚’å‡ºåŠ›ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		&link_top_html if($form_disp_on_board ==1);
 
-		# “ü—ÍƒtƒH[ƒ€‰º‚Ìà–¾•”•ª‚ğo—Íi‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ ä¸‹ã®èª¬æ˜éƒ¨åˆ†ã‚’å‡ºåŠ›ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		&middle_A_html;
 	}
 
 	&middle_B_html if($form_disp_on_board ==1);
 
    #================================#
-   # •ÊƒEƒBƒ“ƒh•\¦‚ÌŒf¦”Â‚Ìæ“ª
+   # åˆ¥ã‚¦ã‚£ãƒ³ãƒ‰è¡¨ç¤ºæ™‚ã®æ²ç¤ºæ¿ã®å…ˆé ­
    #================================#
 
 	}else{
-		#‰Šúİ’è‚ğ•ÏX‚µ‚Ä‚È‚¢ê‡AI—¹ƒ{ƒ^ƒ“‚Ío‚³‚È‚¢B
-		if($back_url eq 'http://‚ ‚È‚½‚ÌƒvƒƒoƒCƒ_/‚ ‚È‚½‚ÌƒfƒBƒŒƒNƒgƒŠ/index.html'){
+		#åˆæœŸè¨­å®šã‚’å¤‰æ›´ã—ã¦ãªã„å ´åˆã€çµ‚äº†ãƒœã‚¿ãƒ³ã¯å‡ºã•ãªã„ã€‚
+		if($back_url eq 'http://ã‚ãªãŸã®ãƒ—ãƒ­ãƒã‚¤ãƒ€/ã‚ãªãŸã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª/index.html'){
 			$cm_out_exit_h='<!--';
 			$cm_out_exit_f='-->';
 		}
 
 	&middle_B_html if($form_disp_on_board ==0);
 
-	# ƒAƒ“ƒJ[ƒŠƒ“ƒN•”•ª‚ğo—Íi‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+	# ã‚¢ãƒ³ã‚«ãƒ¼ãƒªãƒ³ã‚¯éƒ¨åˆ†ã‚’å‡ºåŠ›ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 	&link_top_html;
 
 print<<EOF;
@@ -3977,7 +3981,7 @@ print<<EOF;
  <FORM METHOD=GET ACTION="$back_url">
  <TD>
   <FONT SIZE=-1>
-   $cm_out_exit_h<INPUT TYPE=SUBMIT VALUE="ƒgƒbƒvƒy[ƒW‚Ö–ß‚é" $output_button_px>$cm_out_exit_f
+   $cm_out_exit_h<INPUT TYPE=SUBMIT VALUE="ãƒˆãƒƒãƒ—ãƒšãƒ¼ã‚¸ã¸æˆ»ã‚‹" $output_button_px>$cm_out_exit_f
   </FONT>
  </TD>
 </FORM>
@@ -3987,21 +3991,21 @@ print<<EOF;
 <FORM>
  <TD>
   <FONT SIZE=-1>
-   <INPUT TYPE="button" VALUE="“Še" $output_button_px 
+   <INPUT TYPE="button" VALUE="æŠ•ç¨¿" $output_button_px 
 onClick="input_form=window.open('$cgi_name?bbsaction=disp_form_only&page=$disp_page&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=$FORM{'amode'}','form_window','toolbar=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,close=yes,width=730,height=400');">
   </FONT>
  </TD>
 </FORM>
 
 <NOSCRIPT>
-<!-- Javascript”ñ‘Î‰ƒuƒ‰ƒEƒU—p -->
+<!-- Javascriptéå¯¾å¿œãƒ–ãƒ©ã‚¦ã‚¶ç”¨ -->
 <FORM action="$cgi_name" method=GET TARGET="form_window">
 <INPUT TYPE=HIDDEN NAME="bbsaction" VALUE="disp_form_only">
 <INPUT TYPE=HIDDEN NAME="page" VALUE="$disp_page">
 
  <TD>
   <FONT SIZE=-1>
-   <INPUT TYPE=SUBMIT VALUE="“Še(Javascript ”ñ‘Î‰ƒuƒ‰ƒEƒU—p)" $output_button_px>
+   <INPUT TYPE=SUBMIT VALUE="æŠ•ç¨¿(Javascript éå¯¾å¿œãƒ–ãƒ©ã‚¦ã‚¶ç”¨)" $output_button_px>
   </FONT>
  </TD>
 </FORM>
@@ -4014,35 +4018,35 @@ onClick="input_form=window.open('$cgi_name?bbsaction=disp_form_only&page=$disp_p
 EOF
 	}
    #============================================#
-   # •ÊƒEƒBƒ“ƒh•\¦‚ÌŒf¦”Â‚Ìæ“ª‚±‚±‚Ü‚Å
+   # åˆ¥ã‚¦ã‚£ãƒ³ãƒ‰è¡¨ç¤ºæ™‚ã®æ²ç¤ºæ¿ã®å…ˆé ­ã“ã“ã¾ã§
    #============================================#
 
 }
 
 #====================================#
-# ‹L–•”•ª‚Ì‚g‚s‚l‚k‚ğo—Í‚·‚é
+# è¨˜äº‹éƒ¨åˆ†ã®ï¼¨ï¼´ï¼­ï¼¬ã‚’å‡ºåŠ›ã™ã‚‹
 #====================================#
 
 sub output_html{
 
-	local($tmp_file)	= $_[0];# ˆ—‚·‚éƒƒOƒtƒ@ƒCƒ‹–¼
+	local($tmp_file)	= $_[0];# å‡¦ç†ã™ã‚‹ãƒ­ã‚°ãƒ•ã‚¡ã‚¤ãƒ«å
 
-        # cgi_wrapg—pƒvƒƒoƒCƒ_‘Îô
-	# ŒÃ‚¢ƒvƒƒoƒCƒ_‚Ì’†‚É‚Ícgi_wrap‚ğg‚Á‚Ä‚¢‚éƒvƒƒoƒCƒ_‚ª‚ ‚è‚Ü‚·B
-	# ‘Š‘ÎƒpƒXw’è‚ğg—p‚·‚éê‡A‰º‹L‚Ì”’l‚ğ1‚É‚µ‚ÄA‚»‚ÌƒCƒ[ƒW
-	# •Û‘¶ƒfƒBƒŒƒNƒgƒŠ‚ÌURL‚ğ$img_url‚Åw’è‚·‚é‚±‚Æ‚É‚æ‚èAŒf¦”Â‚ğ
-	# g—p‚·‚é–‚ª‚Å‚«‚Ü‚·B‚»‚êˆÈŠO‚Ìl‚Í•K‚¸0‚Éw’è‚µ‚Ä‚­‚¾‚³‚¢B
-	# ‚È‚¨A1‚ğw’è‚µ‚½ê‡‚Í$img_url‚Ìİ’è‚ª•K{‚É‚È‚è‚Ü‚·B   
+        # cgi_wrapä½¿ç”¨ãƒ—ãƒ­ãƒã‚¤ãƒ€å¯¾ç­–
+	# å¤ã„ãƒ—ãƒ­ãƒã‚¤ãƒ€ã®ä¸­ã«ã¯cgi_wrapã‚’ä½¿ã£ã¦ã„ã‚‹ãƒ—ãƒ­ãƒã‚¤ãƒ€ãŒã‚ã‚Šã¾ã™ã€‚
+	# ç›¸å¯¾ãƒ‘ã‚¹æŒ‡å®šã‚’ä½¿ç”¨ã™ã‚‹å ´åˆã€ä¸‹è¨˜ã®æ•°å€¤ã‚’1ã«ã—ã¦ã€ãã®ã‚¤ãƒ¡ãƒ¼ã‚¸
+	# ä¿å­˜ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã®URLã‚’$img_urlã§æŒ‡å®šã™ã‚‹ã“ã¨ã«ã‚ˆã‚Šã€æ²ç¤ºæ¿ã‚’
+	# ä½¿ç”¨ã™ã‚‹äº‹ãŒã§ãã¾ã™ã€‚ãã‚Œä»¥å¤–ã®äººã¯å¿…ãš0ã«æŒ‡å®šã—ã¦ãã ã•ã„ã€‚
+	# ãªãŠã€1ã‚’æŒ‡å®šã—ãŸå ´åˆã¯$img_urlã®è¨­å®šãŒå¿…é ˆã«ãªã‚Šã¾ã™ã€‚   
 
-	$using_cgi_wrap=0;#(ƒfƒtƒHƒ‹ƒg0)
+	$using_cgi_wrap=0;#(ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0)
 
-	# ƒƒbƒZ[ƒW‚ğ“Ç‚İ‚Ş
-	# “Ç‚İ‚È‚ª‚çƒy[ƒW¶¬‚É•K—v‚Èî•ñ‚ğì‚é
+	# ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’èª­ã¿è¾¼ã‚€
+	# èª­è¾¼ã¿ãªãŒã‚‰ãƒšãƒ¼ã‚¸ç”Ÿæˆã«å¿…è¦ãªæƒ…å ±ã‚’ä½œã‚‹
 
 	undef	@HEAD_MESSAGE;
-	undef	@GOUP_MESSAGE;	  # ã‚Ö‚Á‚Äs‚­ƒƒbƒZ[ƒW(‚½‚¾”²‚¢‚½‚à‚Ì)
-	undef	@LATEST_MESSAGE;  # ã‚Ö‚Á‚Äs‚­ƒƒbƒZ[ƒW(ƒ\[ƒgŒã)
-	undef	@RECENT_MESSAGE_UID;  # Å‹ß“o˜^‚³‚ê‚½ƒƒbƒZ[ƒW
+	undef	@GOUP_MESSAGE;	  # ä¸Šã¸æŒã£ã¦è¡Œããƒ¡ãƒƒã‚»ãƒ¼ã‚¸(ãŸã æŠœã„ãŸã‚‚ã®)
+	undef	@LATEST_MESSAGE;  # ä¸Šã¸æŒã£ã¦è¡Œããƒ¡ãƒƒã‚»ãƒ¼ã‚¸(ã‚½ãƒ¼ãƒˆå¾Œ)
+	undef	@RECENT_MESSAGE_UID;  # æœ€è¿‘ç™»éŒ²ã•ã‚ŒãŸãƒ¡ãƒƒã‚»ãƒ¼ã‚¸
 
 #$PM{'res_go_up'} = 1;
 
@@ -4051,29 +4055,29 @@ sub output_html{
 	local($tmp_parent);
 
 
-	undef	@PAGE_START;	# ƒy[ƒWƒXƒ^[ƒg‚Ì‹L–”Ô†î•ñ‚ğ•Û‘¶‚·‚é”z—ñ
-	undef	@PAGE_END;	# ƒy[ƒWƒGƒ“ƒh  ‚Ì‹L–”Ô†î•ñ‚ğ•Û‘¶‚·‚é”z—ñ
-	undef	$page_parent_counter;	# e‹L–‚ğ”‚¦‚é
-	$total_counter="0";		# e{q‚Ì‹L–‚ğ”‚¦‚é
+	undef	@PAGE_START;	# ãƒšãƒ¼ã‚¸ã‚¹ã‚¿ãƒ¼ãƒˆã®è¨˜äº‹ç•ªå·æƒ…å ±ã‚’ä¿å­˜ã™ã‚‹é…åˆ—
+	undef	@PAGE_END;	# ãƒšãƒ¼ã‚¸ã‚¨ãƒ³ãƒ‰  ã®è¨˜äº‹ç•ªå·æƒ…å ±ã‚’ä¿å­˜ã™ã‚‹é…åˆ—
+	undef	$page_parent_counter;	# è¦ªè¨˜äº‹ã‚’æ•°ãˆã‚‹
+	$total_counter="0";		# è¦ªï¼‹å­ã®è¨˜äº‹ã‚’æ•°ãˆã‚‹
 
-	# ŒŸõ—p•Ï”
+	# æ¤œç´¢ç”¨å¤‰æ•°
 	local($search_words)	= $FORM{'SearchWords'};
-	local($match_mode)	= $FORM{'MatchMode'};	# ŒŸõƒ^ƒCƒv(AND OR)
+	local($match_mode)	= $FORM{'MatchMode'};	# æ¤œç´¢ã‚¿ã‚¤ãƒ—(AND OR)
 	local($match_flag);
 
-	# •ÔM‹L–‚ğì¬‚·‚éê‡‚ÍŒŸõ‹@”\‚ğ—¬—p‚·‚é
-	# e‹L–‚ÌŒŒ“‚ğ‚Â‹L–‚ğ•\¦‚·‚é
+	# è¿”ä¿¡è¨˜äº‹ã‚’ä½œæˆã™ã‚‹å ´åˆã¯æ¤œç´¢æ©Ÿèƒ½ã‚’æµç”¨ã™ã‚‹
+	# è¦ªè¨˜äº‹ã®è¡€çµ±ã‚’æŒã¤è¨˜äº‹ã‚’è¡¨ç¤ºã™ã‚‹
 	if($FORM{'bbsaction'} eq 'disp_rep_form'){
 		$search_words		="$FORM{'blood'}";
 		$match_mode		="AND";
 	}
 
-	# ƒ‹[ƒv‚É“ü‚é‘O‚Éƒ`ƒFƒbƒN•‰ºˆ—‚ğ‚µ‚Ä‚¨‚­
+	# ãƒ«ãƒ¼ãƒ—ã«å…¥ã‚‹å‰ã«ãƒã‚§ãƒƒã‚¯ï¼†ä¸‹å‡¦ç†ã‚’ã—ã¦ãŠã
 	if(($FORM{'mode'} eq "search_menu")||($FORM{'bbsaction'} eq 'disp_rep_form')){
 	    if($search_words eq ""){
-		&error(" ŒŸõƒ[ƒh‚ª“ü—Í‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ ");
+		&error(" æ¤œç´¢ãƒ¯ãƒ¼ãƒ‰ãŒå…¥åŠ›ã•ã‚Œã¦ã„ã¾ã›ã‚“ ");
 	    }else{
-		$search_words =~ s/@/ /g;
+		$search_words =~ s/ã€€/ /g;
 		@tmp_search_words = split(/\s+/, $search_words);
 	    }
 	}
@@ -4083,17 +4087,17 @@ sub output_html{
 
 	push(@PAGE_START,0);
 
-	# ğŒ‚Éˆê’v‚·‚é‚à‚Ì‚ğ@MESSAGE‚É“ü‚ê‚é
+	# æ¡ä»¶ã«ä¸€è‡´ã™ã‚‹ã‚‚ã®ã‚’@MESSAGEã«å…¥ã‚Œã‚‹
 	while(<READ>){
 
-		# HEADER•Û‘¶ («—ˆ‚Ö‚ÌŠg’£‚à‚±‚±‚Å‘Î‰)
+		# HEADERä¿å­˜ (å°†æ¥ã¸ã®æ‹¡å¼µã‚‚ã“ã“ã§å¯¾å¿œ)
 		if($_ =~ /^\#?\,param_/i){
 
 			if($_ =~ /^\,param_last_update(\s*)=(\s*)(\d+)(\s*)/i){
-				# ÅIXV“ú‚ğæ“¾‚·‚é
+				# æœ€çµ‚æ›´æ–°æ—¥ã‚’å–å¾—ã™ã‚‹
 				$HEAD_MESSAGE{'last_update'}="$3";
 			}elsif($_ =~ /^\,param_last_bloods(\s*)=(\s*)([^\;]*)(\;+)(\s*)/i){
-				# ÅV‹L–‚ÌƒXƒŒƒbƒh‚ÌƒŠƒXƒg‚ğæ“¾‚·‚é
+				# æœ€æ–°è¨˜äº‹ã®ã‚¹ãƒ¬ãƒƒãƒ‰ã®ãƒªã‚¹ãƒˆã‚’å–å¾—ã™ã‚‹
 				$HEAD_MESSAGE{'last_bloods'}="$3";
 				$HEAD_MESSAGE{'last_bloods'}=&Dec_EQ("$HEAD_MESSAGE{'last_bloods'}");
 				&output_new_bloods_list;
@@ -4108,17 +4112,17 @@ sub output_html{
 		if($_ =~ /^([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]*)\t([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)/){
 			undef $match_flag;
 
-			# ŒŸõ
+			# æ¤œç´¢æ™‚
 			if(($FORM{'mode'} eq "search_menu")||($FORM{'bbsaction'} eq 'disp_rep_form')){
 
-			  $tmp_line_data=$_;	# ŒŸõ‚·‚éƒ‰ƒCƒ“‚ğ•Û‘¶
+			  $tmp_line_data=$_;	# æ¤œç´¢ã™ã‚‹ãƒ©ã‚¤ãƒ³ã‚’ä¿å­˜
 
 			  foreach $tmp_search_word(@tmp_search_words) {
 #&error("$tmp_search_word");
 
 				# 2004.05
-				$tmp_search_word=~ tr/A-Z/a-z/;	# ¬•¶š‚É“ˆê
-				$tmp_line_data	=~ tr/A-Z/a-z/;	# ¬•¶š‚É“ˆê
+				$tmp_search_word=~ tr/A-Z/a-z/;	# å°æ–‡å­—ã«çµ±ä¸€
+				$tmp_line_data	=~ tr/A-Z/a-z/;	# å°æ–‡å­—ã«çµ±ä¸€
 
 				$tmp_enc_search_word=&Enc_EQ("$tmp_search_word");
 
@@ -4148,20 +4152,20 @@ if(($tmp_search_word =~/http/)&&($tmp_line_data =~/http/)){
 			  }else{
 				next;
 			  }
-			# ”ñŒŸõ
+			# éæ¤œç´¢æ™‚
 			}else{
-				# ƒŒƒX‚Ì‚Â‚¢‚½‹L–‚ğã‚Ö‚Á‚Äs‚­‚½‚ß‚É
-				# @MESSAGE‚Ö“ü‚ê‚¸‚ÉA@GOUP_MESSAGE‚Ö
+				# ãƒ¬ã‚¹ã®ã¤ã„ãŸè¨˜äº‹ã‚’ä¸Šã¸æŒã£ã¦è¡ŒããŸã‚ã«
+				# @MESSAGEã¸å…¥ã‚Œãšã«ã€@GOUP_MESSAGEã¸
 				if($PM{'res_go_up'} == 1){
 					undef $tp_match_flag;
 					local($tp_loop_counter)=0;
 					foreach $tmp_parent(@NEW_BLOODS){
-					  # 5ƒXƒŒƒbƒh‚Ü‚Åã‚Ö‚Á‚Äs‚­
-					  # ‚»‚êˆÈã‚É‚·‚é‚Æ•‰‰×‚ªã‚ª‚é‚Ì‚Å‚â‚ß‚é
+					  # 5ã‚¹ãƒ¬ãƒƒãƒ‰ã¾ã§ä¸Šã¸æŒã£ã¦è¡Œã
+					  # ãã‚Œä»¥ä¸Šã«ã™ã‚‹ã¨è² è·ãŒä¸ŠãŒã‚‹ã®ã§ã‚„ã‚ã‚‹
 					  last if($tp_loop_counter >= 5);
 					  if(($tmp_parent eq "$9")||($tmp_parent eq "$11")){
 						$tp_match_flag = 1;
-						last;# ŒŸo‚µ‚½‚ç”²‚¯‚é
+						last;# æ¤œå‡ºã—ãŸã‚‰æŠœã‘ã‚‹
 					  }
 					  $tp_loop_counter++;
 					}
@@ -4188,17 +4192,17 @@ if(($tmp_search_word =~/http/)&&($tmp_line_data =~/http/)){
 
 
 
-	# ƒŒƒX‚Ì‚Â‚¢‚½‹L–‚ğã‚Ö‚Á‚Äs‚­‚½‚ß‚ÉA
-	# @MESSAGE‚Ìæ’[‚É‘«‚·
-	# ‚‘¬‰»A’á•‰‰×‰»‚Ì‚½‚ß‚ÉAƒŠƒXƒg‚É“ü‚ê‚Ä‚©‚çAƒ\[ƒg‚·‚é
+	# ãƒ¬ã‚¹ã®ã¤ã„ãŸè¨˜äº‹ã‚’ä¸Šã¸æŒã£ã¦è¡ŒããŸã‚ã«ã€
+	# @MESSAGEã®å…ˆç«¯ã«è¶³ã™
+	# é«˜é€ŸåŒ–ã€ä½è² è·åŒ–ã®ãŸã‚ã«ã€ãƒªã‚¹ãƒˆã«å…¥ã‚Œã¦ã‹ã‚‰ã€ã‚½ãƒ¼ãƒˆã™ã‚‹
 
 	if($PM{'res_go_up'} == 1){
-	  # ŒŸõ‚ÆƒŒƒX‚Ìê‡‚Í‘«‚³‚È‚¢
+	  # æ¤œç´¢ã¨ãƒ¬ã‚¹ã®å ´åˆã¯è¶³ã•ãªã„
 	  if(($FORM{'mode'} ne "search_menu")&&($FORM{'bbsaction'} ne 'disp_rep_form')){
 	      local($tmp_goup_line);
 	      $tp_loop_counter=0;
 	      foreach $tmp_parent(@NEW_BLOODS){
-		  # 5ƒXƒŒƒbƒh‚Ü‚Åã‚Ö‚Á‚Äs‚­
+		  # 5ã‚¹ãƒ¬ãƒƒãƒ‰ã¾ã§ä¸Šã¸æŒã£ã¦è¡Œã
 		  last if($tp_loop_counter >= 5);
 	       foreach $tmp_goup_line(@GOUP_MESSAGE){
 		if($tmp_goup_line =~ /^([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]*)\t([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)/){
@@ -4209,7 +4213,7 @@ if(($tmp_search_word =~/http/)&&($tmp_line_data =~/http/)){
 	       }
 		$tp_loop_counter++;
 	      }
-		# @MESSAGE‚Ìæ’[‚É‘«‚·
+		# @MESSAGEã®å…ˆç«¯ã«è¶³ã™
 		unshift(@MESSAGE,@LATEST_MESSAGE);
 # Debug
 #	&error("mes @MESSAGE");
@@ -4218,14 +4222,14 @@ if(($tmp_search_word =~/http/)&&($tmp_line_data =~/http/)){
 	}
 
 
-	# ƒy[ƒWî•ñ‚ğì‚é
+	# ãƒšãƒ¼ã‚¸æƒ…å ±ã‚’ä½œã‚‹
 	foreach(@MESSAGE){
 
 		if($_ =~ /^([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]*)\t([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)/){
 
-			# ‹L–‰{——Aƒy[ƒW¶¬‚É•K—v‚Èî•ñ(@PAGE_START)‚ğ—pˆÓ‚·‚é
+			# è¨˜äº‹é–²è¦§ã€ãƒšãƒ¼ã‚¸ç”Ÿæˆã«å¿…è¦ãªæƒ…å ±(@PAGE_START)ã‚’ç”¨æ„ã™ã‚‹
 			if($9 ne ""){
-#				$child_kiji_flag="1";	# q‹L–Šm”F—pƒtƒ‰ƒO
+#				$child_kiji_flag="1";	# å­è¨˜äº‹ç¢ºèªç”¨ãƒ•ãƒ©ã‚°
 			}else{
 				$page_parent_counter++;
 			}
@@ -4242,7 +4246,7 @@ if(($tmp_search_word =~/http/)&&($tmp_line_data =~/http/)){
 	
 #&error("start @PAGE_START end @PAGE_END");
 
-	# ƒy[ƒW‚ğŒˆ‚ß‚é
+	# ãƒšãƒ¼ã‚¸ã‚’æ±ºã‚ã‚‹
 	$total_page=@PAGE_START;
 
 	if($FORM{'page'} > 0){
@@ -4260,13 +4264,13 @@ if(($tmp_search_word =~/http/)&&($tmp_line_data =~/http/)){
 	&output_kiji_html;
 
    #====================================#
-   # ‹L–•”•ª‚Ì‚g‚s‚l‚k‚ğo—Í‚·‚é
+   # è¨˜äº‹éƒ¨åˆ†ã®ï¼¨ï¼´ï¼­ï¼¬ã‚’å‡ºåŠ›ã™ã‚‹
    #====================================#
 
 sub output_kiji_html{
 
 
-	# ƒ†[ƒUƒvƒƒtƒ@ƒCƒ‹w’è•”•ª‚Ì‚g‚s‚l‚ki‘Š·‚¦‚Ísub form_usr_profile_html‚ÌŠ‚Ås‚¤j
+	# ãƒ¦ãƒ¼ã‚¶ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«æŒ‡å®šéƒ¨åˆ†ã®ï¼¨ï¼´ï¼­ï¼¬ï¼ˆæ›¸æ›ãˆã¯sub form_usr_profile_htmlã®æ‰€ã§è¡Œã†ï¼‰
 	if($user_selected_view_mode==1){
 		&form_user_profile_html;
 	}
@@ -4275,48 +4279,48 @@ sub output_kiji_html{
 
 	if($FORM{'mode'} eq "search_menu"){
 	  print"<CENTER>\n";
-	  print"$total_counterŒ‚Ì‹L–‚ªƒqƒbƒg‚µ‚Ü‚µ‚½ \n";
+	  print"$TOTAL_COUNTER Articles hit \n";
 	  print"</CENTER>\n";
 	}elsif($FORM{'bbsaction'} eq 'disp_rep_form'){
 	  print"<UL>\n";
-	  print" «ˆÈ‰º‚Ì‹L–ƒXƒŒƒbƒh‚ÉAƒtƒH[ƒ€‚Ì“à—e‚ª’Ç‰Á‚³‚ê‚Ü‚· ";
+	  print" â†“ The form content will be added to the following article thread ";
 	  print"</UL>\n";
 	}
 
-	# ŠO•”ƒtƒ@ƒCƒ‹—p‚Ìˆ—‚ğƒ[ƒhi«—ˆŠg’£—pj
+	# å¤–éƒ¨ãƒ•ã‚¡ã‚¤ãƒ«ç”¨ã®å‡¦ç†ã‚’ãƒ­ãƒ¼ãƒ‰ï¼ˆå°†æ¥æ‹¡å¼µç”¨ï¼‰
 	if($EXTSUB{'kiji_pre_loop'} == 1){
 		 &ext_config_kiji_pre_loop;
 	}
 
-	# ŠÇ—Òƒ‚[ƒh‰ğœ—p‚ÌƒŠƒ“ƒN‚ğo‚·
+	# ç®¡ç†è€…ãƒ¢ãƒ¼ãƒ‰è§£é™¤ç”¨ã®ãƒªãƒ³ã‚¯ã‚’å‡ºã™
 	if($FORM{'amode'} ne ""){
 	  print qq| <P><CENTER>\n|;
-	  print qq| <TABLE bgcolor=yellow><TR><TD><B>---- Œ»İAŒf¦”Â‚ÍŠÇ—Òƒ‚[ƒh$amode_done_mes01‚Å‚· -----</B></TD><TD><A HREF="$cgi_name?page=$FORM{'page'}&p1=$FORM{'p1'}&p2=$FORM{'p2'}"> [ŠÇ—Òƒ‚[ƒhI—¹] </a></TD><TR></TABLE> \n|;
+	  print qq| <TABLE bgcolor=yellow><TR><TD><B>---- The board is currently in admin mode $amode_done_mes01 -----</B></TD><TD><A HREF="$cgi_name?page=$FORM{'page'}&p1=$FORM{'p1'}&p2=$FORM{'p2'}"> [ç®¡ç†è€…ãƒ¢ãƒ¼ãƒ‰çµ‚äº†] </a></TD><TR></TABLE> \n|;
 	  print qq| </CENTER>\n|;
 	}
 
 
-	# ‹L–íœw’è—p‚ÌƒtƒH[ƒ€ŠJn•”
-	print"<!-- ‹L–íœw’è—p‚ÌƒtƒH[ƒ€ŠJn•” -->\n";
+	# è¨˜äº‹å‰Šé™¤æŒ‡å®šç”¨ã®ãƒ•ã‚©ãƒ¼ãƒ é–‹å§‹éƒ¨
+	print"<!-- è¨˜äº‹å‰Šé™¤æŒ‡å®šç”¨ã®ãƒ•ã‚©ãƒ¼ãƒ é–‹å§‹éƒ¨ -->\n";
 	print"<FORM ACTION=\"$cgi_name\" METHOD =\"POST\" style=\"display: inline\">\n";
 	print"<INPUT TYPE=HIDDEN NAME=\"page\" VALUE=$disp_page>\n";
 	print"<INPUT TYPE=HIDDEN NAME=\"amode\" VALUE=$FORM{'amode'}>\n";
 	print"<INPUT TYPE=HIDDEN NAME=\"p1\" VALUE=$FORM{'p1'}>\n";
 	print"<INPUT TYPE=HIDDEN NAME=\"p2\" VALUE=$FORM{'p2'}>\n";
-	print"$POSTADDP{'REMOVEFORM'}<!-- Šg’£—p -->\n";
-	print"<!-- ˆÈ~‹L–•”‚Å‚· -->\n";
+	print"$POSTADDP{'REMOVEFORM'}<!-- æ‹¡å¼µç”¨ -->\n";
+	print"<!-- ä»¥é™è¨˜äº‹éƒ¨ã§ã™ -->\n";
 
 	# 2008.08
-	$oya_kiji_embed_flag=0;		# e‹L–‚ªEMBEDŒnŠm”F—pƒtƒ‰ƒO
-	$child_kiji_embed_flag=0;	# q‹L–‚ªEMBEDŒnŠm”F—pƒtƒ‰ƒO
+	$oya_kiji_embed_flag=0;		# è¦ªè¨˜äº‹ãŒEMBEDç³»ç¢ºèªç”¨ãƒ•ãƒ©ã‚°
+	$child_kiji_embed_flag=0;	# å­è¨˜äº‹ãŒEMBEDç³»ç¢ºèªç”¨ãƒ•ãƒ©ã‚°
 
-	# ‹L–•” inu
+	# è¨˜äº‹éƒ¨ inu
 	for($i=$PAGE_START[$disp_page-1];$i<=$PAGE_END[$disp_page-1];$i++){
 		if($MESSAGE[$i]	=~ /^([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]*)\t([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)/){
 
-			# ƒpƒ‰ƒ[ƒ^‚Ì€”õ
-			undef $child_kiji_flag;	# q‹L–Šm”F—pƒtƒ‰ƒO
-			undef $old_kiji_flag;	# ‹ŒŒ`®Šm”F—pƒtƒ‰ƒO
+			# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã®æº–å‚™
+			undef $child_kiji_flag;	# å­è¨˜äº‹ç¢ºèªç”¨ãƒ•ãƒ©ã‚°
+			undef $old_kiji_flag;	# æ—§å½¢å¼ç¢ºèªç”¨ãƒ•ãƒ©ã‚°
 
 			undef $tmp_seq_no;
 			undef $tmp_blood_name;
@@ -4324,7 +4328,7 @@ sub output_kiji_html{
 			undef $tmp_unq_id;
 			undef $tmp_snl_location;
 
-			undef $new_kiji_flag; # Å‹ß‚Ì‹L–ƒtƒ‰ƒO
+			undef $new_kiji_flag; # æœ€è¿‘ã®è¨˜äº‹ãƒ•ãƒ©ã‚°
 
 			$tmp_subject		= $1;
 			$tmp_name		= $2;
@@ -4333,42 +4337,42 @@ sub output_kiji_html{
 			$tmp_body		= $5;
 			$tmp_img_location	= $6;
 			$tmp_imgtitle		= $7;
-			$tmp_seq_no		= $8;	# ˜A”Ô
-			$tmp_blood_name		= $9;	# e‚ÌŒŒ“ID(q‹Ÿ‚Ì‚İ‚Â)
-			$tmp_rmkey		= $10;	# íœƒL[
-			$tmp_unq_id		= $11;	# ŒÅ—LID(ƒx[ƒX)
+			$tmp_seq_no		= $8;	# é€£ç•ª
+			$tmp_blood_name		= $9;	# è¦ªã®è¡€çµ±ID(å­ä¾›ã®ã¿æŒã¤)
+			$tmp_rmkey		= $10;	# å‰Šé™¤ã‚­ãƒ¼
+			$tmp_unq_id		= $11;	# å›ºæœ‰ID(æ™‚åˆ»ãƒ™ãƒ¼ã‚¹)
 			$new_p1			= $12;
 			$new_p2			= $13;
 
 
 			$tmp_rm_number		= $i+1;
 
-			# €”õ
+			# æº–å‚™
 
  			if($tmp_unq_id eq ""){
-				$old_kiji_flag="1";	# ‹ŒŒ`®Šm”F—pƒtƒ‰ƒO
+				$old_kiji_flag="1";	# æ—§å½¢å¼ç¢ºèªç”¨ãƒ•ãƒ©ã‚°
 			}
 
 			if($tmp_blood_name ne ""){
-				$child_kiji_flag="1";	# q‹L–Šm”F—pƒtƒ‰ƒO
+				$child_kiji_flag="1";	# å­è¨˜äº‹ç¢ºèªç”¨ãƒ•ãƒ©ã‚°
 			}else{
 #				$parent_counter++
 			}
 
-			# ‰ñ‚è‚±‚İƒŒƒCƒAƒEƒg—p
+			# å›ã‚Šã“ã¿ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆç”¨
 			$tmp_bq_opt		= "";
 
 # Debug
 # &error("rmid @RECENT_MESSAGE_UID");
 
-			# ÅV“Še‹L–‚É‚Íƒtƒ‰ƒO‚ğ—§‚Ä‚é
+			# æœ€æ–°æŠ•ç¨¿è¨˜äº‹ã«ã¯ãƒ•ãƒ©ã‚°ã‚’ç«‹ã¦ã‚‹
  			if($PM{'disp_new_notice'}==1){
 			    $tp_loop_counter=0;
 			    foreach $recent_uid(@RECENT_MESSAGE_UID){
-				# ã‚°ƒXƒŒƒbƒh”1`10B‘‚â‚·‚Æ’x‚­‚È‚é‚Ì‚Å’ˆÓB
+				# ä¸Šã’ã‚¹ãƒ¬ãƒƒãƒ‰æ•°1ï½10ã€‚å¢—ã‚„ã™ã¨é…ããªã‚‹ã®ã§æ³¨æ„ã€‚
  			     last if($tp_loop_counter >= 5 ); # 2014.02 change
  			     if($recent_uid == $tmp_unq_id ){
-				$new_kiji_flag="1";	# Å‹ß‚Ì‹L–ƒtƒ‰ƒO
+				$new_kiji_flag="1";	# æœ€è¿‘ã®è¨˜äº‹ãƒ•ãƒ©ã‚°
 				last;
 			     }
 			     $tp_loop_counter++;
@@ -4384,24 +4388,24 @@ sub output_kiji_html{
 			undef %USTREAM_VIDEO;	# 2010.05
 			undef %HTML5_PARAM;		# 2010.05
 
-			# imgtitle‚©‚çî•ñ‚ğ”²‚«o‚·
+			# imgtitleã‹ã‚‰æƒ…å ±ã‚’æŠœãå‡ºã™
 			if($tmp_imgtitle ne ""){
 				$tmp_imgtitle=&parse_img_param("$tmp_imgtitle");
 			}
 
 
-			# —\”õ“ü—Í€–Úƒpƒ‰ƒ[ƒ^‚ğ•œŒ³
-			# body‚Ì’†‚ÉAƒRƒƒ“ƒgƒAƒEƒgŒ`®‚Åƒf[ƒ^‚Í‰B‚µ•Û‘¶‚³‚ê‚Ä‚¢‚é
-			# ‘®<!--opt:ƒpƒ‰ƒ[ƒ^–¼=’l;ƒpƒ‰ƒ[ƒ^–¼2=’l2EEE-->
-			#<!--opt:‚Æ-->‚ğœ‚«ƒpƒ‰ƒ[ƒ^•”‚ğ’Šo‚·‚éˆ—
+			# äºˆå‚™å…¥åŠ›é …ç›®ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’å¾©å…ƒ
+			# bodyã®ä¸­ã«ã€ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆå½¢å¼ã§ãƒ‡ãƒ¼ã‚¿ã¯éš ã—ä¿å­˜ã•ã‚Œã¦ã„ã‚‹
+			# æ›¸å¼<!--opt:ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å=å€¤;ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å2=å€¤2ãƒ»ãƒ»ãƒ»-->
+			#<!--opt:ã¨-->ã‚’é™¤ããƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿éƒ¨ã‚’æŠ½å‡ºã™ã‚‹å‡¦ç†
 			if($tmp_body ne ''){
 				($tmp_body,$opt_form_data)	=split(/<\!--opt:/,$tmp_body);
 				$opt_form_data			=~ s/-->//g;
 			}
-			#ƒpƒ‰ƒ[ƒ^$opt_form_data‚ª’Ç‰Á‚³‚ê‚Ä‚¢‚éê‡D
+			#ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿$opt_form_dataãŒè¿½åŠ ã•ã‚Œã¦ã„ã‚‹å ´åˆï¼
 
-		        undef %OPTDATA;		# VR6
-		        undef %OPT_FORM_DATA;	# ‹ŒR5ŒİŠ·—p
+		        undef %OPTDATA;		# æ–°R6
+		        undef %OPT_FORM_DATA;	# æ—§R5äº’æ›ç”¨
 
 			if($opt_form_data ne ''){
 				foreach ( split(/;/,$opt_form_data)){
@@ -4409,22 +4413,22 @@ sub output_kiji_html{
 					$value=&Dec_EQ("$value");
 					if($name=~ /^opt_data_(.+)$/){
 					  $OPTDATA{"opt$1"}	= $value;
-					  $OPT_FORM_DATA{"opt$1"}= $value;# ‹ŒR5ŒİŠ·—p
-					# ™X‚É‚±‚¿‚ç‚ÖƒVƒtƒg
+					  $OPT_FORM_DATA{"opt$1"}= $value;# æ—§R5äº’æ›ç”¨
+					# å¾ã€…ã«ã“ã¡ã‚‰ã¸ã‚·ãƒ•ãƒˆ
 					}elsif($name=~ /^opt(.+)$/){
 					  $OPTDATA{"$name"}	= $value;
-					  $OPT_FORM_DATA{"$name"}= $value;# ‹ŒR5ŒİŠ·—p
+					  $OPT_FORM_DATA{"$name"}= $value;# æ—§R5äº’æ›ç”¨
 					}
 				}
 			}
 
-			# ‘Šè‚ÌƒzƒXƒg–¼‚ğ•Ï”$user_IP ‚É‘ã“ü
-			# i‚È‚è‚·‚Ü‚µ–h~‚È‚Ç‚Ì–î‚Å‘Šè‚Ì‚h‚o‚ğ•\¦‚µ‚½‚¢ê‡‚Í‚±‚Ì•Ï”‚ğg‚Á‚Ä‰º‚³‚¢j
-			if($tmp_body=~ /userF\s([^>]*)(\s*)--/){
+			# ç›¸æ‰‹ã®ãƒ›ã‚¹ãƒˆåã‚’å¤‰æ•°$user_IP ã«ä»£å…¥
+			# ï¼ˆãªã‚Šã™ã¾ã—é˜²æ­¢ãªã©ã®äº‹æƒ…ã§ç›¸æ‰‹ã®ï¼©ï¼°ã‚’è¡¨ç¤ºã—ãŸã„å ´åˆã¯ã“ã®å¤‰æ•°ã‚’ä½¿ã£ã¦ä¸‹ã•ã„ï¼‰
+			if($tmp_body=~ /userï¼š\s([^>]*)(\s*)--/){
 			    $user_IP="$1";
 			    $user_IP=&tiny_decode("$user_IP"); #2002.02
 
-			    # $user_IPî•ñ‚ğƒvƒ‰ƒCƒoƒV[•ÛŒì‚Ì‚½‚ßAˆê•”ƒ}ƒXƒN‚µ‚Ä‰B‚·
+			    # $user_IPæƒ…å ±ã‚’ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ä¿è­·ã®ãŸã‚ã€ä¸€éƒ¨ãƒã‚¹ã‚¯ã—ã¦éš ã™
 			    if($use_ip_privacy_filter==1){
 			       &user_IP_privacy_filter;
 			    }
@@ -4433,120 +4437,120 @@ sub output_kiji_html{
 			}
 
 			if($no_disp_RH_in_HTML_sorce==1){
-				$tmp_body=~ s/userF\s([^>]*)(\s*)--/userF na --/g;
+				$tmp_body=~ s/userï¼š\s([^>]*)(\s*)--/userï¼š na --/g;
 			}else{
-			    $tmp_body=~ s/userF\s([^>]*)(\s*)--/userF $user_IP--/g;
+			    $tmp_body=~ s/userï¼š\s([^>]*)(\s*)--/userï¼š $user_IP--/g;
 			}
 
 
-			# disp_mode(•\¦ƒ‚[ƒh)‚ğŒˆ’è
+			# disp_mode(è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰)ã‚’æ±ºå®š
 
 			undef $disp_mode;
 
 			&check_mode;
 
 
-			# ƒeƒLƒXƒgƒŠƒ“ƒN—p‚g‚s‚l‚kw’è•”‚É‘ã“ü‚·‚é$data_type‚ğ‘I‘ğ
-			# iƒ|ƒŠƒV[jˆ«ˆÓ‚Ì‚ ‚éƒAƒbƒvƒ[ƒhƒf[ƒ^‚ğƒ†[ƒU‚ª
-			# ‚¤‚Á‚©‚èƒNƒŠƒbƒN‚µ‚Äƒgƒ‰ƒuƒ‹‚ÉŠª‚«‚Ü‚ê‚é‚±‚Æ‚ª‚È‚¢‚æ‚¤‚ÉA
-			# ƒf[ƒ^‚Ìí—Ş‚ğŠg’£q‚©‚ç©“®“I‚É‰ğÍA•\¦‚µA’ˆÓ‚ğŠ«‹N‚·‚éB
+			# ãƒ†ã‚­ã‚¹ãƒˆãƒªãƒ³ã‚¯ç”¨ï¼¨ï¼´ï¼­ï¼¬æŒ‡å®šéƒ¨ã«ä»£å…¥ã™ã‚‹$data_typeã‚’é¸æŠ
+			# ï¼ˆãƒãƒªã‚·ãƒ¼ï¼‰æ‚ªæ„ã®ã‚ã‚‹ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ãƒ‡ãƒ¼ã‚¿ã‚’ãƒ¦ãƒ¼ã‚¶ãŒ
+			# ã†ã£ã‹ã‚Šã‚¯ãƒªãƒƒã‚¯ã—ã¦ãƒˆãƒ©ãƒ–ãƒ«ã«å·»ãè¾¼ã¾ã‚Œã‚‹ã“ã¨ãŒãªã„ã‚ˆã†ã«ã€
+			# ãƒ‡ãƒ¼ã‚¿ã®ç¨®é¡ã‚’æ‹¡å¼µå­ã‹ã‚‰è‡ªå‹•çš„ã«è§£æã€è¡¨ç¤ºã—ã€æ³¨æ„ã‚’å–šèµ·ã™ã‚‹ã€‚
 
 			$disp_ip_flag=0;
 			undef $data_type;
 
 			if($tmp_img_location ne ""){
 			  if($tmp_img_location=~ /\.gif$|\.jpe?g$|\.png$/i){
-				$data_type=" ‰æ@‘œ ";
+				$data_type=" ç”»ã€€åƒ ";
 			  }elsif($tmp_img_location=~ /\.aiff?$|\.aifc$|\.snd$|\.au$|\.midi?$|\.wav$/i){
-				$data_type=" ‰¹@º ";
+				$data_type=" éŸ³ã€€å£° ";
 			  }elsif($tmp_img_location=~ /\.mp4$/i){
-				$data_type=" “®‰æ\/‰¹º [MP4Œ`®¨QuickTimeÄ¶ (<a href=http://www.apple.com/jp/quicktime/ target=_blank>PCÄ¶</a>)] ";
+				$data_type=" å‹•ç”»\/éŸ³å£° [MP4å½¢å¼â†’QuickTimeå†ç”Ÿ (<a href=http://www.apple.com/jp/quicktime/ target=_blank>PCå†ç”Ÿ</a>)] ";
 			  }elsif($tmp_img_location=~ /\.mp3$/i){
-				$data_type=" ‰¹@º (MP3Œ`®) ";
+				$data_type=" éŸ³ã€€å£° (MP3å½¢å¼) ";
 			  }elsif($tmp_img_location=~ /\.wma?$/i){
-				$data_type=" ‰¹@º (Windows Media Audio) ";
+				$data_type=" éŸ³ã€€å£° (Windows Media Audio) ";
 			  }elsif($tmp_img_location=~ /\.at3$/i){
-				$data_type=" ‰¹@º (ATRAC3Œ`®) ";
+				$data_type=" éŸ³ã€€å£° (ATRAC3å½¢å¼) ";
 			  }elsif($tmp_img_location=~ /\.ogg$/i){
-				$data_type=" ‰¹@º (ogg Vorbis Œ`®) ";
+				$data_type=" éŸ³ã€€å£° (ogg Vorbis å½¢å¼) ";
 			  }elsif($tmp_img_location=~ /\.te?xt$|\.html?$/i){
-				$data_type=" ƒeƒLƒXƒg ";
+				$data_type=" ãƒ†ã‚­ã‚¹ãƒˆ ";
 			  }elsif($tmp_img_location=~ /\.pdf$/i){
-				$data_type=" Adobe PDF ‘—Ş ";
+				$data_type=" Adobe PDF æ›¸é¡ ";
 			  }elsif($tmp_img_location=~ /\.xps$/i){
-				$data_type=" XPS MS”ÅPDF ‘—Ş ";
+				$data_type=" XPS MSç‰ˆPDF æ›¸é¡ ";
 			  }elsif($tmp_img_location=~ /\.epub$/i){
-				$data_type=" “dq‘Ğ epub‘—Ş ";
+				$data_type=" é›»å­æ›¸ç± epubæ›¸é¡ ";
 			  }elsif($tmp_img_location=~ /\.cbr$|\.cbz$/i){
-				$data_type=" “dqƒ}ƒ“ƒK‘—Ş [Comic Book (<a href=http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html target=_blank>PC‰{——</a>)] ";
+				$data_type=" é›»å­ãƒãƒ³ã‚¬æ›¸é¡ [Comic Book (<a href=http://blog.kowalczyk.info/software/sumatrapdf/free-pdf-reader.html target=_blank>PCé–²è¦§</a>)] ";
 			  
 
-			  # 2009.10 ƒAƒ^ƒbƒVƒ…ƒP[ƒX‘Î‰
+			  # 2009.10 ã‚¢ã‚¿ãƒƒã‚·ãƒ¥ã‚±ãƒ¼ã‚¹å¯¾å¿œ
 			  }elsif($tmp_img_location=~ /\.atc$/i){
-				$data_type=" ˆ³kƒf\[ƒ^ [AESˆÃ†‰» (<a href=http://www.forest.impress.co.jp/library/software/atasshecase/ target=_blank>PC‰ğ“€</a>)] ";
+				$data_type=" åœ§ç¸®ãƒ‡\ãƒ¼ã‚¿ [AESæš—å·åŒ– (<a href=http://www.forest.impress.co.jp/library/software/atasshecase/ target=_blank>PCè§£å‡</a>)] ";
 			  }elsif($tmp_img_location=~ /\.7z$/i){
-				$data_type=" ˆ³kƒf\[ƒ^ [7zipˆÃ†‰» (<a href=http://lhaz.softonic.jp/ target=_blank>PC‰ğ“€</a>)] ";
+				$data_type=" åœ§ç¸®ãƒ‡\ãƒ¼ã‚¿ [7zipæš—å·åŒ– (<a href=http://lhaz.softonic.jp/ target=_blank>PCè§£å‡</a>)] ";
 			  }elsif($tmp_img_location=~ /\.(zip|tar|rar|arj|tar.g?z)$/i){
-				$data_type=" ˆ³kƒf\[ƒ^($1Œ`®) ";
+				$data_type=" åœ§ç¸®ãƒ‡\ãƒ¼ã‚¿($1å½¢å¼) ";
 
-			# Œg‘Ñ 2002.04.05 update
+			# æºå¸¯ 2002.04.05 update
 
 			  }elsif($tmp_img_location=~ /\.mng$/i){
-				$data_type=" “®@‰æ [JSKY-Animation]";
+				$data_type=" å‹•ã€€ç”» [JSKY-Animation]";
 			  }elsif($tmp_img_location=~ /\.amc$/i){
-#				$data_type=" “®@‰æ [ezmovieŒ`®]";
-				$data_type=" “®@‰æ/’…ƒ€[ƒr [ au ezmovieŒ`®(<a href=http://www.au.kddi.com/ezfactory/mm/ezmovie1.html target=_blank>PCÄ¶</a>)]";
+#				$data_type=" å‹•ã€€ç”» [ezmovieå½¢å¼]";
+				$data_type=" å‹•ã€€ç”»/ç€ãƒ ãƒ¼ãƒ“ [ au ezmovieå½¢å¼(<a href=http://www.au.kddi.com/ezfactory/mm/ezmovie1.html target=_blank>PCå†ç”Ÿ</a>)]";
 			  }elsif($tmp_img_location=~ /\.3gp$/i){
-				$data_type=" “®@‰æ [iƒ‚[ƒVƒ‡ƒ“ or ’…ƒ€[ƒr or  QuickTimeˆ³k (<a href=http://www.apple.com/jp/quicktime/ target=_blank>PCÄ¶</a>)] ";
+				$data_type=" å‹•ã€€ç”» [iãƒ¢ãƒ¼ã‚·ãƒ§ãƒ³ or ç€ãƒ ãƒ¼ãƒ“ or  QuickTimeåœ§ç¸® (<a href=http://www.apple.com/jp/quicktime/ target=_blank>PCå†ç”Ÿ</a>)] ";
 			  }elsif($tmp_img_location=~ /\.flv$/i){
-# 2006.12.13 FLV‘Î‰
-				$data_type=" “®@‰æ [Flash VideoŒ`®¨FLVÄ¶ (<a href=http://www.gomplayer.jp/ target=_blank>PCÄ¶</a>)] ";
+# 2006.12.13 FLVå¯¾å¿œ
+				$data_type=" å‹•ã€€ç”» [Flash Videoå½¢å¼â†’FLVå†ç”Ÿ (<a href=http://www.gomplayer.jp/ target=_blank>PCå†ç”Ÿ</a>)] ";
 			  }elsif($tmp_img_location=~ /\.mkv$/i){
-				$data_type=" “®@‰æ [MKVŒ`®¨PCÄ¶ (<a href=http://www.gomplayer.jp/ target=_blank>PCÄ¶</a>)] ";
-			  # 2009.06 OGM‘Î‰
+				$data_type=" å‹•ã€€ç”» [MKVå½¢å¼â†’PCå†ç”Ÿ (<a href=http://www.gomplayer.jp/ target=_blank>PCå†ç”Ÿ</a>)] ";
+			  # 2009.06 OGMå¯¾å¿œ
 			  }elsif($tmp_img_location=~ /\.ogm$/i){
-				$data_type=" “®@‰æ [OGMŒ`®¨PCÄ¶ (<a href=http://www.gomplayer.jp/ target=_blank>PCÄ¶</a>)] ";
+				$data_type=" å‹•ã€€ç”» [OGMå½¢å¼â†’PCå†ç”Ÿ (<a href=http://www.gomplayer.jp/ target=_blank>PCå†ç”Ÿ</a>)] ";
 			  }elsif($tmp_img_location=~ /\.ogv$/i){
-				$data_type=" “®@‰æ [OGVŒ`®¨PCÄ¶ (<a href=http://www.gomplayer.jp/ target=_blank>PCÄ¶</a>)] ";
-			  # 2009.12 m4v‘Î‰
+				$data_type=" å‹•ã€€ç”» [OGVå½¢å¼â†’PCå†ç”Ÿ (<a href=http://www.gomplayer.jp/ target=_blank>PCå†ç”Ÿ</a>)] ";
+			  # 2009.12 m4vå¯¾å¿œ
 			  }elsif($tmp_img_location=~ /\.m4v$/i){
-				$data_type=" “®@‰æ [M4VŒ`®¨QuickTimeÄ¶ (<a href=http://www.apple.com/jp/quicktime/ target=_blank>PCÄ¶</a>)] ";
+				$data_type=" å‹•ã€€ç”» [M4Vå½¢å¼â†’QuickTimeå†ç”Ÿ (<a href=http://www.apple.com/jp/quicktime/ target=_blank>PCå†ç”Ÿ</a>)] ";
 			  }elsif($tmp_img_location=~ /\.mmf$/i){
-				$data_type=" ‰¹@º [’…‚¤‚½/’…ƒƒ(Docomo)(<a href=http://www.vector.co.jp/soft/win95/net/se211027.html target=_blank>PCÄ¶</a>)] ";
+				$data_type=" éŸ³ã€€å£° [ç€ã†ãŸ/ç€ãƒ¡ãƒ­(Docomo)(<a href=http://www.vector.co.jp/soft/win95/net/se211027.html target=_blank>PCå†ç”Ÿ</a>)] ";
 			  }elsif($tmp_img_location=~ /\.pmd$|\.qcp$/i){
-				$data_type=" ‰¹@º [EZ‰¹º/‚«‚á‚çƒƒ]";
+				$data_type=" éŸ³ã€€å£° [EZéŸ³å£°/ãã‚ƒã‚‰ãƒ¡ãƒ­]";
 			  }elsif($tmp_img_location=~ /\.mld$/i){
-				$data_type=" ‰¹@º [’…‚¤‚½/’…ƒƒ(Docomo)]";
+				$data_type=" éŸ³ã€€å£° [ç€ã†ãŸ/ç€ãƒ¡ãƒ­(Docomo)]";
 # 2009.12 add
 			  }elsif($tmp_img_location=~ /\.m4a$/i){
-				$data_type=" ‰¹@º [MPEG-4 AAC Audio(<a href=http://www.apple.com/jp/itunes/download/ target=_blank>PCÄ¶</a>)]";
+				$data_type=" éŸ³ã€€å£° [MPEG-4 AAC Audio(<a href=http://www.apple.com/jp/itunes/download/ target=_blank>PCå†ç”Ÿ</a>)]";
 			  }elsif($tmp_img_location=~ /\.m4b$/i){ # 2009.06 add
-				$data_type=" ‰¹@º [MPEG-4 AAC DRM Audio(<a href=http://www.apple.com/jp/itunes/download/ target=_blank>PCÄ¶</a>)]";
+				$data_type=" éŸ³ã€€å£° [MPEG-4 AAC DRM Audio(<a href=http://www.apple.com/jp/itunes/download/ target=_blank>PCå†ç”Ÿ</a>)]";
 			  }elsif($tmp_img_location=~ /\.m4p$/i){ # 2009.06 add
-				$data_type=" ‰¹@º [MPEG-4 AAC iTune DRM Audio(<a href=http://www.apple.com/jp/itunes/download/ target=_blank>PCÄ¶</a>)]";
+				$data_type=" éŸ³ã€€å£° [MPEG-4 AAC iTune DRM Audio(<a href=http://www.apple.com/jp/itunes/download/ target=_blank>PCå†ç”Ÿ</a>)]";
 			  }elsif($tmp_img_location=~ /\.amr$/i){ # 2009.12 add
-				$data_type=" ‰¹@º [AMRŒ`®¨QuickTimeÄ¶ (<a href=http://www.apple.com/jp/quicktime/ target=_blank>PCÄ¶</a>)]";
+				$data_type=" éŸ³ã€€å£° [AMRå½¢å¼â†’QuickTimeå†ç”Ÿ (<a href=http://www.apple.com/jp/quicktime/ target=_blank>PCå†ç”Ÿ</a>)]";
 			  }elsif($tmp_img_location=~ /\.ppt$|\.xls$|\.csv$|\.rtf$|\.doc$/i){
-				$data_type=" OFFICE ‘—Ş ";
+				$data_type=" OFFICE æ›¸é¡ ";
 			  }elsif($tmp_img_location=~ /\.pptx$|\.xlsx$|\.docx$/i){
-				$data_type=" MS OFFICE2007 ‘—Ş ";
+				$data_type=" MS OFFICE2007 æ›¸é¡ ";
 			  }elsif($tmp_img_location=~ /\.pptm$|\.xlsm$|\.docm$/i){
-				$data_type=" OFFICE2007‘—Ş(Macro—LŒø) ";
+				$data_type=" OFFICE2007æ›¸é¡(Macroæœ‰åŠ¹) ";
 			  }elsif($tmp_img_location=~ /\.slk$/i){
-				$data_type=" •\ŒvZ”Ä—pŒğŠ·ƒf\[ƒ^ ‘—Ş ";
+				$data_type=" è¡¨è¨ˆç®—æ±ç”¨äº¤æ›ãƒ‡\ãƒ¼ã‚¿ æ›¸é¡ ";
 			  }elsif($tmp_img_location=~ /\.wri$/i){
-				$data_type=" Windows ƒ\[ƒhƒpƒbƒg‘—Ş ";
+				$data_type=" Windows ãƒ¯\ãƒ¼ãƒ‰ãƒ‘ãƒƒãƒˆæ›¸é¡ ";
 			  }else{
 				$disp_ip_flag=1;
-				$data_type=" ƒf[ƒ^ ";
+				$data_type=" ãƒ‡ãƒ¼ã‚¿ ";
 			  }
 			}
 
 #========================#
-# CGI‚ÌURL‚ğŒˆ‚ß‚é
+# CGIã®URLã‚’æ±ºã‚ã‚‹
 #========================#
 # imgboard FLV Player 2010.06.02 update
-# ƒ[ƒ‹ƒŠƒ“ƒN/imgboard FLV Player—p
+# ãƒ¡ãƒ¼ãƒ«ãƒªãƒ³ã‚¯/imgboard FLV Playerç”¨
 # 
 sub make_contents_url {
 
@@ -4558,16 +4562,16 @@ sub make_contents_url {
 #
 &make_contents_url;
 
-# 3GP‚ÍFlashPlayer‚ÅÄ¶‚Å‚«‚È‚©‚Á‚½
-			if((($COOKIE{'view_mode'} eq "")&&($show_img_on_board == 1))||($COOKIE{'view_mode'}=~ /as_cgi_defined$|text_img_type12$|text_img_type13$|text_img_type2$|text_img_type3$|text_img_type4$|text_img_type5$/i)){ #ƒI[ƒgi‚¨‚Ü‚©‚¹)
+# 3GPã¯FlashPlayerã§å†ç”Ÿã§ããªã‹ã£ãŸ
+			if((($COOKIE{'view_mode'} eq "")&&($show_img_on_board == 1))||($COOKIE{'view_mode'}=~ /as_cgi_defined$|text_img_type12$|text_img_type13$|text_img_type2$|text_img_type3$|text_img_type4$|text_img_type5$/i)){ #ã‚ªãƒ¼ãƒˆï¼ˆãŠã¾ã‹ã›)
 
-			  # “®‰æ‚ÌƒŠƒ“ƒN‚ğì‚éB“®‰æ‚Í’P“Æ‚Å‚È‚­AƒXƒŒƒbƒh’PˆÊ‚Åˆø—pAQÆ‚³‚ê‚éd—l‚Æ‚·‚éi˜b‘è‚ğ”­U‚³‚¹‚È‚¢‚½‚ßj
-			  # FlashVars‚Ì‹æØ‚è‚ª&‚È‚Ì‚ÅAurl‚É&‚ğŠÜ‚Ş‚à‚Ì‚ğ“ü‚ê‚é‚Æ‚¨‚©‚µ‚­‚È‚éB‚±‚±‚¾‚¯‚ÍAURLƒGƒXƒP[ƒv‚µ‚Ä‚¨‚±‚¤
+			  # å‹•ç”»ã®ãƒªãƒ³ã‚¯ã‚’ä½œã‚‹ã€‚å‹•ç”»ã¯å˜ç‹¬ã§ãªãã€ã‚¹ãƒ¬ãƒƒãƒ‰å˜ä½ã§å¼•ç”¨ã€å‚ç…§ã•ã‚Œã‚‹ä»•æ§˜ã¨ã™ã‚‹ï¼ˆè©±é¡Œã‚’ç™ºæ•£ã•ã›ãªã„ãŸã‚ï¼‰
+			  # FlashVarsã®åŒºåˆ‡ã‚ŠãŒ&ãªã®ã§ã€urlã«&ã‚’å«ã‚€ã‚‚ã®ã‚’å…¥ã‚Œã‚‹ã¨ãŠã‹ã—ããªã‚‹ã€‚ã“ã“ã ã‘ã¯ã€URLã‚¨ã‚¹ã‚±ãƒ¼ãƒ—ã—ã¦ãŠã“ã†
 			  $HTML5_PARAM{'thread_link'} 		="http://"."$ENV{'SERVER_NAME'}"."$ENV{'SCRIPT_NAME'}"."?twi=b"."$tmp_unq_id"."p"."$tmp_seq_no"."p"."$disp_page"."drfx";
 		      $HTML5_PARAM{'thread_link'} 		=~ s/(\W)/sprintf("%%%02X", unpack("C", $1))/eg;
 			  $HTML5_PARAM{'img_box_base_url'}	="$MYCGI_ENV{'img_box_base_url'}";
 		      $HTML5_PARAM{'img_box_base_url'}	=~ s/(\W)/sprintf("%%%02X", unpack("C", $1))/eg;
-		      $HTML5_PARAM{'token_time'} 		= substr(time,-7,2); #27.7ŠÔ’PˆÊ
+		      $HTML5_PARAM{'token_time'} 		= substr(time,-7,2); #27.7æ™‚é–“å˜ä½
 
 			  if($MYCGI_ENV{'flash_object_tag_support'} eq 'true'){
 			    if($tmp_img_location=~ /\.flv$|\.f4v$|\.f4a$|\.f4b$|\.mp4$|\.mov$/i){
@@ -4582,79 +4586,79 @@ sub make_contents_url {
 				</embed>
 				</object><BR>|;
 				}
-			  # imode‚ÆHTML5‚Å‹¤’Ê‚·‚é‘‚«•û‚ğ‚µ‚½‚¢‚ªBobjectƒ^ƒO‚É‚·‚é‚ÆAƒ}ƒCƒ€‚ÌéŒ¾ƒGƒ‰[‚ÉŒµ‚µ‚­‚È‚é‚Ì‚Å‚â‚ß‚½B
+			  # imodeã¨HTML5ã§å…±é€šã™ã‚‹æ›¸ãæ–¹ã‚’ã—ãŸã„ãŒã€‚objectã‚¿ã‚°ã«ã™ã‚‹ã¨ã€ãƒã‚¤ãƒ ã®å®£è¨€ã‚¨ãƒ©ãƒ¼ã«å³ã—ããªã‚‹ã®ã§ã‚„ã‚ãŸã€‚
 			  # http://www.html5.jp/html5doctor/the-video-element.html	
 			  }elsif($HTTP_USER_AGENT=~ /^docomo/i){
 			  # http://www.nttdocomo.co.jp/service/imode/make/content/imotion/mp4/distribution/index.html
 #			    $HTML5_PARAM{'object_tag_type'}=&make_html5_mimetype('video',"$tmp_img_location");
 			    if($tmp_img_location=~ /\.mp4$|\.3gp$/i){
 				$data_type=qq|<object declare id="obj$tmp_unq_id" width="640" height="360" data="$MYCGI_ENV{'img_box_base_url'}" type="video/3gpp">
-				</object><A href="#obj$tmp_unq_id">iƒ‚[ƒVƒ‡ƒ“</A><BR>|;
+				</object><A href="#obj$tmp_unq_id">iãƒ¢ãƒ¼ã‚·ãƒ§ãƒ³</A><BR>|;
 				}
 			  }else{
 			    # HTML5 for iPhone/iPod/iPad
 			    if($tmp_img_location=~ /\.mp4$|\.m4v$|\.mov$|\.3gp?p$|\.3g2$/i){
-				# videoƒ^ƒO‹Lq
+				# videoã‚¿ã‚°è¨˜è¿°
 				# http://dev.opera.com/articles/view/introduction-html5-video/
 				$data_type=qq|<video width="640" height="360" src="$tmp_img_location" id="obj$tmp_unq_id" controls poster>
-				<p>HTML5‚Ìvideo‚É‘Î‰‚µ‚½ƒuƒ‰ƒEƒU[‚ğ‚²—˜—p‰º‚³‚¢</p>
+				<p>HTML5ã®videoã«å¯¾å¿œã—ãŸãƒ–ãƒ©ã‚¦ã‚¶ãƒ¼ã‚’ã”åˆ©ç”¨ä¸‹ã•ã„</p>
 				</video><BR>|;
 				}
 			  }
 			}
 
 			
-			#ŠëŒ¯“x‚Ì‚‚¢ƒf[ƒ^‚Ìê‡‚ÍIP‚ğ©“®•\¦‚·‚é
+			#å±é™ºåº¦ã®é«˜ã„ãƒ‡ãƒ¼ã‚¿ã®å ´åˆã¯IPã‚’è‡ªå‹•è¡¨ç¤ºã™ã‚‹
 			undef $auto_user_IP;
 			if(($auto_ip_if_danger_datatype==1)&&($disp_ip_flag ==1)){
-				$auto_user_IP="i"."$user_IP"."j";
+				$auto_user_IP="ï¼ˆ"."$user_IP"."ï¼‰";
 			}elsif($no_disp_RH_in_HTML_sorce=='-1'){
-				$auto_user_IP="i"."$user_IP"."j";
+				$auto_user_IP="ï¼ˆ"."$user_IP"."ï¼‰";
 			}else{
 				$auto_user_IP="";
 			}
 
 			if($tmp_img_location ne ''){
-				# ‰æ‘œƒ^ƒCƒgƒ‹‚ª‚È‚¢ê‡,‰æ‘œ–¼‚ğƒ^ƒCƒgƒ‹‚É
+				# ç”»åƒã‚¿ã‚¤ãƒˆãƒ«ãŒãªã„å ´åˆ,ç”»åƒåã‚’ã‚¿ã‚¤ãƒˆãƒ«ã«
 				$tmp_imgtitle = $tmp_img_location if $tmp_imgtitle eq '';
-				$tmp_imgtitle =~ s/^(.*)\///;	# ƒpƒX‚ğÁ‹‚µ‚Ä–¼‘O‚Ì‚İ‚É‚·‚é
+				$tmp_imgtitle =~ s/^(.*)\///;	# ãƒ‘ã‚¹ã‚’æ¶ˆå»ã—ã¦åå‰ã®ã¿ã«ã™ã‚‹
 	
 			}
 
-			undef $ddd;	#ƒfƒoƒbƒO—pƒpƒ‰ƒ[ƒ^
-			undef %KIJI_LAYLOUT; #‹L–Å“K‰»—p‚ÌƒŒƒCƒAƒEƒg(‰ñ‚è‚İƒŒƒCƒAƒEƒg”»’f—pj
+			undef $ddd;	#ãƒ‡ãƒãƒƒã‚°ç”¨ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿
+			undef %KIJI_LAYLOUT; #è¨˜äº‹æœ€é©åŒ–ç”¨ã®ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ(å›ã‚Šè¾¼ã¿ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆåˆ¤æ–­ç”¨ï¼‰
 
-			# ‰æ‘œ‚ÌƒTƒCƒY•ÏX
+			# ç”»åƒã®ã‚µã‚¤ã‚ºå¤‰æ›´
 			if(($tmp_img_location!~ /\.dat$/)&&($tmp_img_location=~ /\.gif$|\.jpe?g$|\.png$|\.bmp$/i)){
 				$KIJI_LAYLOUT{'exist_image'}=1;
 				&check_img;
-			# imgboard FLV Player ‘Îôi‚±‚±‚Åˆø‚ÁŠ|‚¯‚ÄƒŠƒTƒCƒY‚·‚éj
+			# imgboard FLV Player å¯¾ç­–ï¼ˆã“ã“ã§å¼•ã£æ›ã‘ã¦ãƒªã‚µã‚¤ã‚ºã™ã‚‹ï¼‰
 			}elsif($tmp_img_location=~ /\.flv$|\.f4v$|\.f4a$|\.f4b$|\.mp4$|\.3gp$/i){
 					&check_flash_and_iframe_img('flash');
 		    }else{
-		    	# –„‚ß‚İFlash“®‰æ‚ÌƒTƒCƒY•ÏX
+		    	# åŸ‹ã‚è¾¼ã¿Flashå‹•ç”»ã®ã‚µã‚¤ã‚ºå¤‰æ›´
 				if($tmp_body=~ /<object(.|\n)*application\/x\-shockwave\-flash/i){
 					&check_flash_and_iframe_img('flash');
-				# 2011.02.04 ƒjƒRƒjƒRŠO•”–„‚ß‚İ
+				# 2011.02.04 ãƒ‹ã‚³ãƒ‹ã‚³å¤–éƒ¨åŸ‹ã‚è¾¼ã¿
 				}elsif($tmp_body=~ /\.nicovideo\.jp\//i){
 					&check_flash_and_iframe_img('ext_nicovideo');
-				# 2011.12.15 YouTube/GoogleMap iframe–„‚ß‚İ‘Î‰
+				# 2011.12.15 YouTube/GoogleMap iframeåŸ‹ã‚è¾¼ã¿å¯¾å¿œ
 				}elsif($tmp_body=~ /<iframe(.|\n)*src\=\"(https?\:\/\/|\/\/)/i){
 					&check_flash_and_iframe_img('iframe');
-				# 2014.02.14 Theta360–„‚ß‚İ‘Î‰
+				# 2014.02.14 Theta360åŸ‹ã‚è¾¼ã¿å¯¾å¿œ
 				}elsif($tmp_body=~ /https?\:\/\/theta360\.com/i){
 					&check_flash_and_iframe_img('ext_theta360');
-				# 2014.02.24 FC2–„‚ß‚İ‘Î‰
+				# 2014.02.24 FC2åŸ‹ã‚è¾¼ã¿å¯¾å¿œ
 				}elsif($tmp_body=~ /<script(.|\n)*fc2.com\//i){
 					&check_flash_and_iframe_img('script_fc2');
 		    	}
 		    }
 
 			#=============================================================#
-			# CGI•ÊƒfƒBƒŒƒNƒgƒŠƒTƒCƒgAcgiwrapƒTƒCƒg‘Îô(imgboard1.22 Rev.3)
+			# CGIåˆ¥ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã‚µã‚¤ãƒˆã€cgiwrapã‚µã‚¤ãƒˆå¯¾ç­–(imgboard1.22 Rev.3)
 			#=============================================================#
 
-			# ŒİŠ·«‚Ì‚½‚ß
+			# äº’æ›æ€§ã®ãŸã‚
 			if($SERVER_NAME eq ""){
 				$SERVER_NAME		=$ENV{'SERVER_NAME'};
 			}
@@ -4670,7 +4674,7 @@ sub make_contents_url {
 			}
 
 			if(($tmp_img_location =~ /^\/(.+)\/(.+)$/)||($using_cgi_wrap==1)){
-				# â‘ÎƒpƒXw’è‚Ìê‡‚ÍURLw’è‚É•ÏX
+				# çµ¶å¯¾ãƒ‘ã‚¹æŒ‡å®šã®å ´åˆã¯URLæŒ‡å®šã«å¤‰æ›´
 				if($using_cgi_wrap==1){
 					$tmp_img_location=~ s/^(.+)\///g;
 			    	}else{
@@ -4681,12 +4685,12 @@ sub make_contents_url {
 			}
 
 
-			# ©“®URLƒŠƒ“ƒN‚ğ‚·‚é
+			# è‡ªå‹•URLãƒªãƒ³ã‚¯ã‚’ã™ã‚‹
 			if($auto_url_link==1){
 				$tmp_body=&set_auto_url_link($tmp_body);
 			}
 
-			# ƒ[ƒ‹ƒAƒhƒŒƒX‚ª‚ ‚éê‡‚Ì‚İƒŠƒ“ƒN‚É‚·‚é
+			# ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ãŒã‚ã‚‹å ´åˆã®ã¿ãƒªãƒ³ã‚¯ã«ã™ã‚‹
 			if(($tmp_email ne " no_email")&&($tmp_email!~ /^(\s+)$/)){
 			  $mail_a_start	="<A HREF=\"mailto:$tmp_email\">";
 			  $mail_a_end	="</A>";
@@ -4695,62 +4699,62 @@ sub make_contents_url {
 			  $mail_a_end	="";
 			}
 
-			# HTMLƒuƒƒbƒN‚Ì‰Šú‰»
+			# HTMLãƒ–ãƒ­ãƒƒã‚¯ã®åˆæœŸåŒ–
 			undef $html_block_A;
 			undef $size_sitei;
 	
 			undef $disp_seq_no;	
 
-			# Œg‘Ñ‚©‚ç‚Ì“Še‚Ìê‡Aí—Ş‚ğ•\¦‚·‚é
+			# æºå¸¯ã‹ã‚‰ã®æŠ•ç¨¿ã®å ´åˆã€ç¨®é¡ã‚’è¡¨ç¤ºã™ã‚‹
 			undef $keitai_env_link;
 			if($OPTDATA{'optKeitaiFlag'} ne ""){
 
-			  # 2003.12 SoftBank‘Îô
+			  # 2003.12 SoftBankå¯¾ç­–
 #			  if($OPTDATA{'optKeitaiMachineType'}=~ /v/i){
 			   if($OPTDATA{'optKeitaiFlag'}=~ /J\-PHONE|SoftBank/i){
 				$OPTDATA{'optKeitaiFlag'}="SoftBank";
 	   		   }
 #	  		  }
 
-	  		  $keitai_env_link=qq|$OPTDATA{'optKeitaiFlag'}F$OPTDATA{'optKeitaiMachineType'}|;
+	  		  $keitai_env_link=qq|$OPTDATA{'optKeitaiFlag'}ï¼š$OPTDATA{'optKeitaiMachineType'}|;
 			}
 
 			if($tmp_seq_no ne ""){
 				$disp_seq_no="No\."."$tmp_seq_no";
 			}
 
-			# html_block_A‚É‘ã“ü‚·‚é—v‘f‚ğŒÄ‚Ño‚µi•ÏX‚Í‰Šúİ’è‚Å‚¨‚±‚È‚¤j
+			# html_block_Aã«ä»£å…¥ã™ã‚‹è¦ç´ ã‚’å‘¼ã³å‡ºã—ï¼ˆå¤‰æ›´ã¯åˆæœŸè¨­å®šã§ãŠã“ãªã†ï¼‰
 			&set_html_block;
 
-			# ŠO•”ƒtƒ@ƒCƒ‹—p‚Ìˆ—‚ğƒ[ƒh
-			# ƒAƒCƒRƒ“•t‚«Œf¦”Â“™‚É‘Î‰
+			# å¤–éƒ¨ãƒ•ã‚¡ã‚¤ãƒ«ç”¨ã®å‡¦ç†ã‚’ãƒ­ãƒ¼ãƒ‰
+			# ã‚¢ã‚¤ã‚³ãƒ³ä»˜ãæ²ç¤ºæ¿ç­‰ã«å¯¾å¿œ
 			if($EXTSUB{'kiji'} == 1){
 			 &ext_config_kiji;
 			}
 
-			# 2006.10 ƒ_ƒCƒWƒFƒXƒgƒ‚[ƒh‚ÌáŠQ‰ñ”ğ 2011.06C³
+			# 2006.10 ãƒ€ã‚¤ã‚¸ã‚§ã‚¹ãƒˆãƒ¢ãƒ¼ãƒ‰ã®éšœå®³å›é¿ 2011.06ä¿®æ­£
 	  		if(($tmp_body=~ /<object/i)||($tmp_body=~ /https?\:\/\/youtu\.be\//i)||($tmp_body=~ /nicovideo\.jp/i)||($tmp_body=~ /\<iframe/i)||($tmp_body=~ /\<script/i)){
 			 $digest_flag=0;
 			}
 
-			# 2004.07 ƒ_ƒCƒWƒFƒXƒgƒ‚[ƒh‚ğ’Ç‰Á
+			# 2004.07 ãƒ€ã‚¤ã‚¸ã‚§ã‚¹ãƒˆãƒ¢ãƒ¼ãƒ‰ã‚’è¿½åŠ 
 			if($digest_flag==1){
 				$tmp_digest_limit=300;
-				# ‰Šúİ’è‚Åİ’è‚µ‚½§ŒÀ‚æ‚è’·‚¢ê‡ 
+				# åˆæœŸè¨­å®šã§è¨­å®šã—ãŸåˆ¶é™ã‚ˆã‚Šé•·ã„å ´åˆ 
 				if(length($tmp_body) >$tmp_digest_limit){
- 				 # æ“ª‚©‚çw’èƒoƒCƒg‚Ü‚Å‚Ì‚İc‚·
+ 				 # å…ˆé ­ã‹ã‚‰æŒ‡å®šãƒã‚¤ãƒˆã¾ã§ã®ã¿æ®‹ã™
 				 $tmp_body =substr("$tmp_body",0,"$tmp_digest_limit");
 				 $tmp_body .=" .... ";
-				 if($child_kiji_flag != '1' ){	# e‚Ìê‡
-				   $tmp_body .=" <BR>(<a href=\"$cgi_name?mode=search_menu&amode=$FORM{'amode'}&SearchWords=$tmp_unq_id\" target=_blank>‚±‚ÌƒXƒŒƒbƒh‚Ì‘S•¶‚ğ•\\¦</a>)";
+				 if($child_kiji_flag != '1' ){	# è¦ªã®å ´åˆ
+				   $tmp_body .=" <BR>(<a href=\"$cgi_name?mode=search_menu&amode=$FORM{'amode'}&SearchWords=$tmp_unq_id\" target=_blank>ã“ã®ã‚¹ãƒ¬ãƒƒãƒ‰ã®å…¨æ–‡ã‚’è¡¨\ç¤º</a>)";
 				 }
 				}
 			}
 
 
-			# 2008.08 ƒŒƒCƒAƒEƒg“K³‰»
+			# 2008.08 ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆé©æ­£åŒ–
 			if($child_kiji_flag != 1){
-			  # e‹L–‚Éyoutubeƒ^ƒO“™‚ªŠÜ‚Ü‚ê‚éê‡ (2011.06C³)
+			  # è¦ªè¨˜äº‹ã«youtubeã‚¿ã‚°ç­‰ãŒå«ã¾ã‚Œã‚‹å ´åˆ (2011.06ä¿®æ­£)
 		  		if(($tmp_body=~ /<object/i)||($tmp_body=~ /https?\:\/\/youtu\.be\//i)||($tmp_body=~ /nicovideo\.jp/i)||($tmp_body=~ /\<iframe/i)||($tmp_body=~ /\<script/i)){
 					$oya_kiji_embed_flag=1;
 				}else{
@@ -4764,33 +4768,33 @@ sub make_contents_url {
 				}
 			}
 
-			# €”õI‚í‚è
+			# æº–å‚™çµ‚ã‚ã‚Š
 
 	#------------------------------------------------------------------#
-	# ‹L–•”•ª‚Ì‚g‚s‚l‚k(•ÒW‚Í‰Šúİ’è•”‚Å‚¨‚±‚È‚Á‚Ä‚­‚¾‚³‚¢)
-	# ‚PDƒeƒLƒXƒg‹L–EEEEE&kiji_base_html;
+	# è¨˜äº‹éƒ¨åˆ†ã®ï¼¨ï¼´ï¼­ï¼¬(ç·¨é›†ã¯åˆæœŸè¨­å®šéƒ¨ã§ãŠã“ãªã£ã¦ãã ã•ã„)
+	# ï¼‘ï¼ãƒ†ã‚­ã‚¹ãƒˆè¨˜äº‹ãƒ»ãƒ»ãƒ»ãƒ»ãƒ»&kiji_base_html;
 	#
-	# ‚QD‰æ‘œ‚Ì‚ ‚é‹L–‚Ìê‡(‚Rí—Ş‚©‚ç‘I‘ğ)
+	# ï¼’ï¼ç”»åƒã®ã‚ã‚‹è¨˜äº‹ã®å ´åˆ(ï¼“ç¨®é¡ã‹ã‚‰é¸æŠ)
 
 	undef $disp_re;
 
-	if($child_kiji_flag == '1' ){	# q‚Ìê‡
+	if($child_kiji_flag == '1' ){	# å­ã®å ´åˆ
 		$disp_re="";
 
-# TODOe‚ª‰æ‘œ‚ğ‚à‚Á‚Ä‚¢‚éƒXƒŒƒbƒh‚ÅAq‹L–‚Å©•ª‚É–„‚İ‰æ‘œ‚ª‚È‚¯‚ê‚ÎAe‹L–‚É‰ñ‚è‚ñ‚ÅAƒRƒƒ“ƒg‚ğ•\¦‚µ‚½‚¢
+# TODOè¦ªãŒç”»åƒã‚’ã‚‚ã£ã¦ã„ã‚‹ã‚¹ãƒ¬ãƒƒãƒ‰ã§ã€å­è¨˜äº‹ã§è‡ªåˆ†ã«åŸ‹è¾¼ã¿ç”»åƒãŒãªã‘ã‚Œã°ã€è¦ªè¨˜äº‹ã«å›ã‚Šè¾¼ã‚“ã§ã€ã‚³ãƒ¡ãƒ³ãƒˆã‚’è¡¨ç¤ºã—ãŸã„
 
-# 2012.10 HTML”ñ„§ƒ^ƒO‚ÌŒİŠ·«–â‘è‚ğCSS‚Å‰ü‘P
+# 2012.10 HTMLéæ¨å¥¨ã‚¿ã‚°ã®äº’æ›æ€§å•é¡Œã‚’CSSã§æ”¹å–„
 $br_auto_clear="<BR CLEAR=\"LEFT\" style=\"clear :left\">";
 
 		if(($FORM{'mode'} eq "search_menu")&&($FORM{'SearchWords'} ne "$tmp_blood_name")){
 		  print"<BR CLEAR=\"left\" style=\"clear: left\">\n";
-		  #2004.05 ŒŸõ‚ÉeqŠÖŒW‚ª•´‚ç‚í‚µ‚¢‚Ì‚ÅƒZƒpƒŒ[ƒ^‚ğ’Ç‰Á
+		  #2004.05 æ¤œç´¢æ™‚ã«è¦ªå­é–¢ä¿‚ãŒç´›ã‚‰ã‚ã—ã„ã®ã§ã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿ã‚’è¿½åŠ 
 		  print"<HR SIZE=5>|\n";
 		}
 
-		# 2006.10.29 youTube‘Î‰
+		# 2006.10.29 youTubeå¯¾å¿œ
 
-		# q‹L–‚É‰æ‘œA‚ ‚é‚¢‚Íyoutubeƒ^ƒO‚ªŠÜ‚Ü‚ê‚éê‡ (2008.08C³)
+		# å­è¨˜äº‹ã«ç”»åƒã€ã‚ã‚‹ã„ã¯youtubeã‚¿ã‚°ãŒå«ã¾ã‚Œã‚‹å ´åˆ (2008.08ä¿®æ­£)
 		if($oya_kiji_embed_flag == 1){
 		  	if(($child_kiji_embed_flag == 1)||($KIJI_LAYLOUT{'exist_image'} == 1)){
 			  print"<BR CLEAR=\"left\" style=\"clear: left\">\n";
@@ -4806,15 +4810,15 @@ $br_auto_clear="<BR CLEAR=\"LEFT\" style=\"clear :left\">";
 		  	}
 		}
 
-		# 2010.03 ƒŒƒCƒAƒEƒg‰ü—Ç(e‚Ì‰æ‘œ‘å‚«‚¢ê‡‚Í‰ñ‚è‚Ş)
-		# e‚ªƒfƒJƒCê‡‚Í‰ñ‚è‚İ‰ğœ
+		# 2010.03 ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆæ”¹è‰¯(è¦ªã®ç”»åƒå¤§ãã„å ´åˆã¯å›ã‚Šè¾¼ã‚€)
+		# è¦ªãŒãƒ‡ã‚«ã‚¤å ´åˆã¯å›ã‚Šè¾¼ã¿è§£é™¤
 		if($oya_kiji_img_width > 800){
 			if($KIJI_LAYLOUT{'out_img_width'} > 100){
 #				&error("oya over 800 $oya_kiji_img_width");
 			  	print"<BR CLEAR=\"left\" style=\"clear: left\">\n";
 			}
 		}elsif($oya_kiji_img_width > 500){
-			# e{q‚ªƒfƒJƒCê‡‚Í‰ñ‚è‚İ‰ğœ
+			# è¦ªï¼‹å­ãŒãƒ‡ã‚«ã‚¤å ´åˆã¯å›ã‚Šè¾¼ã¿è§£é™¤
 			if($KIJI_LAYLOUT{'out_img_width'} > 300){
 			  print"<BR CLEAR=\"left\" style=\"clear: left\">\n";
 			}
@@ -4823,45 +4827,45 @@ $br_auto_clear="<BR CLEAR=\"LEFT\" style=\"clear :left\">";
 		print"<TABLE border=0>\n";
 		print"<TR><TD NOWRAP ALIGN=RIGHT VALIGN=TOP $tmp_td_width>&gt&gt</TD><TD $res_table_sitei>\n";
 
-	}else{				# e‚Ìê‡
+	}else{				# è¦ªã®å ´åˆ
 
-		# •‚ğw’è‚·‚é
+		# å¹…ã‚’æŒ‡å®šã™ã‚‹
 		$tmp_td_width="";
 
-# TODOq‹L–‚ÌãˆÊ‚R‚ÂˆÈ‰º‚É–„‚İ‰æ‘œ‚ª‚È‚¯‚ê‚ÎAe‹L–‚Íbr_clear‚µ‚È‚¢‚ÅAƒRƒƒ“ƒg‚ğ‰ñ‚è‚Ü‚¹‚½‚¢
+# TODOå­è¨˜äº‹ã®ä¸Šä½ï¼“ã¤ä»¥ä¸‹ã«åŸ‹è¾¼ã¿ç”»åƒãŒãªã‘ã‚Œã°ã€è¦ªè¨˜äº‹ã¯br_clearã—ãªã„ã§ã€ã‚³ãƒ¡ãƒ³ãƒˆã‚’å›ã‚Šè¾¼ã¾ã›ãŸã„
 $br_auto_clear="";
-$oya_kiji_img_width="$KIJI_LAYLOUT{'out_img_width'}"; # ƒOƒ[ƒoƒ‹‚Å‹L‰¯
-$oya_kiji_img_height="$KIJI_LAYLOUT{'out_img_height'}";# ƒOƒ[ƒoƒ‹‚Å‹L‰¯
+$oya_kiji_img_width="$KIJI_LAYLOUT{'out_img_width'}"; # ã‚°ãƒ­ãƒ¼ãƒãƒ«ã§è¨˜æ†¶
+$oya_kiji_img_height="$KIJI_LAYLOUT{'out_img_height'}";# ã‚°ãƒ­ãƒ¼ãƒãƒ«ã§è¨˜æ†¶
 
 		if(($disp_mode eq "text_only")||($disp_mode eq "img_icon")||($disp_mode eq "img_text_link")){
 			$tmp_td_width=qq|WIDTH="7%"|;
 		}
 
 		if(($PM{'use_rep'} == 1)&&($FORM{'bbsaction'} ne 'disp_rep_form')&&($FORM{'amode'} ne 'select_edit')&&($FORM{'amode'} ne 'show_ip')){
-		  $disp_re=qq|<a href="$cgi_name?bbsaction=disp_rep_form&amode=$FORM{'amode'}&page=$disp_page&blood=$tmp_unq_id&parent=$tmp_seq_no">•ÔM</a>|;
+		  $disp_re=qq|<a href="$cgi_name?bbsaction=disp_rep_form&amode=$FORM{'amode'}&page=$disp_page&blood=$tmp_unq_id&parent=$tmp_seq_no">è¿”ä¿¡</a>|;
 		  if($PM{'use_twitter_link'} == 1){
-		  # API•ÏX‚É”º‚¢C³ 2011.06.08
+		  # APIå¤‰æ›´ã«ä¼´ã„ä¿®æ­£ 2011.06.08
 		  # http://watcher.moe-nifty.com/memo/docs/twitterAPI.txt
-			# “ú–{Œê‚Í•s‰Â(UTF-8‚ÍPerl–{‘Ì‚Éƒ‚ƒWƒ…[ƒ‹’Ç‰Á‚ª‘O’ñ‚É‚È‚èŠÂ‹«ˆË‘¶‚·‚é‚½‚ß)
+			# æ—¥æœ¬èªã¯ä¸å¯(UTF-8ã¯Perlæœ¬ä½“ã«ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«è¿½åŠ ãŒå‰æã«ãªã‚Šç’°å¢ƒä¾å­˜ã™ã‚‹ãŸã‚)
 		    $disp_twia="IMAGE #imgboard "."$PM{'twitter_hash01'}"."$PM{'twitter_mes01'}"." http://"."$ENV{'SERVER_NAME'}"."$ENV{'SCRIPT_NAME'}"."?twi=b"."$tmp_unq_id"."p"."$tmp_seq_no"."p"."$disp_page"."drfx";
 		    $disp_twia =~ s/(\W)/sprintf("%%%02X", unpack("C", $1))/eg;
 		    $disp_re="$disp_re "." (<a href=\"http://twitter.com/?status="."$disp_twia"."\" target=\"twitter01\">t</a>)";
 		  }
 		}
 		print"<BR CLEAR=\"left\" style=\"clear: left\">\n";
-		# 2010.06 add iPhone/iPad‚ÅƒŒƒCƒAƒEƒg‚ª—‚ê‚é–‚ª‚ ‚é‚Ì‚Å‚³‚ç‚É‰ñ‚è‚İ‰ğœ‚ğd‚Ë‚é
+		# 2010.06 add iPhone/iPadã§ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆãŒä¹±ã‚Œã‚‹äº‹ãŒã‚ã‚‹ã®ã§ã•ã‚‰ã«å›ã‚Šè¾¼ã¿è§£é™¤ã‚’é‡ã­ã‚‹
 		if($HTTP_USER_AGENT=~ /ipod|iphone|ipad/i){
 			print"<BR CLEAR=\"all\"  style=\"clear: left\">\n";
 		}
 		print"<HR>\n";
 	}
 
-	$disp_re="" if($old_kiji_flag == '1');# ‹ŒŒ`®‚È‚ç•ÔMƒŠƒ“ƒN‚ğo‚³‚È‚¢
+	$disp_re="" if($old_kiji_flag == '1');# æ—§å½¢å¼ãªã‚‰è¿”ä¿¡ãƒªãƒ³ã‚¯ã‚’å‡ºã•ãªã„
 
 	if($FORM{'bbsaction'} ne 'disp_rep_form'){
 #	print"<INPUT TYPE=\"CHECKBOX\" NAME=\"rm_number_$tmp_rm_number\" VALUE=\"1\">\n";
 	# R6 new
-	# ‹Œ˜A”Ô S VŒÅ—LID‚ğ‘—‚é(S‚ÍƒZƒpƒŒ[ƒ^)
+	# æ—§é€£ç•ª S æ–°å›ºæœ‰IDã‚’é€ã‚‹(Sã¯ã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿)
 	$mes_rmid="rmid"."$tmp_rm_number"."S"."$tmp_unq_id";
 	$disp_rm_cbox=qq|<INPUT TYPE="CHECKBOX" NAME="$mes_rmid" VALUE="1">\n|;
 	print "$disp_rm_cbox";
@@ -4872,36 +4876,36 @@ $oya_kiji_img_height="$KIJI_LAYLOUT{'out_img_height'}";# ƒOƒ[ƒoƒ‹‚Å‹L‰¯
 
 	print" <!--$disp_mode-->\n";
 
-	# q‹L–
+	# å­è¨˜äº‹
 	if($child_kiji_flag == '1' ){
-		# •ÔM‹L–i‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# è¿”ä¿¡è¨˜äº‹ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		&kiji_rep_html;
 		print"</TD></TR></TABLE>\n";
-	# e‹L–
+	# è¦ªè¨˜äº‹
 	}else{
 
 	  if($disp_mode eq "text_only"){
-		# ƒeƒLƒXƒg‹L–i‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# ãƒ†ã‚­ã‚¹ãƒˆè¨˜äº‹ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		&kiji_base_html;
 	  }elsif($disp_mode eq "img_icon"){
-		# ƒAƒCƒRƒ““\•t‚¯i‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# ã‚¢ã‚¤ã‚³ãƒ³è²¼ä»˜ã‘ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		$html_block_A="$icon_html_block";
 		&kiji_base_html;
 	  }elsif($disp_mode eq "img_auto"){
-		# ƒI[ƒgƒŠƒTƒCƒY“\•t‚¯i‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# ã‚ªãƒ¼ãƒˆãƒªã‚µã‚¤ã‚ºè²¼ä»˜ã‘ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		$size_sitei="$w_set $h_set";
 		&kiji_base2_html;
 	  }elsif($disp_mode eq "img_w_static"){
-		# ‰¡ŒÅ’èƒTƒCƒY“\•t‚¯i‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# æ¨ªå›ºå®šã‚µã‚¤ã‚ºè²¼ä»˜ã‘ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		$size_sitei="$w_set $h_set";
 		&kiji_base2_html;
  	  }elsif($disp_mode eq "img_h_static"){
- 		# cŒÅ’èƒTƒCƒY“\•t‚¯i‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+ 		# ç¸¦å›ºå®šã‚µã‚¤ã‚ºè²¼ä»˜ã‘ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
  		$size_sitei="$w_set $h_set";
  		$html_block_A="$icon_html_block";
  		&kiji_base_html;
 	  }elsif($disp_mode eq "img_original"){
-		# Œ³ƒTƒCƒY“\•t‚¯i‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# å…ƒã‚µã‚¤ã‚ºè²¼ä»˜ã‘ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		$size_sitei="$w_set $h_set";
 		if($FORM{'amode'} eq "remove_webparts"){
 			&kiji_base_icon_html;
@@ -4909,46 +4913,46 @@ $oya_kiji_img_height="$KIJI_LAYLOUT{'out_img_height'}";# ƒOƒ[ƒoƒ‹‚Å‹L‰¯
 			&kiji_base2_html;
 		}
 	  }elsif($disp_mode eq "img_limit_max"){
-		# Å‘åƒTƒCƒY§ŒÀ“\•t‚¯i‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# æœ€å¤§ã‚µã‚¤ã‚ºåˆ¶é™è²¼ä»˜ã‘ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		$size_sitei="$w_set $h_set";
 		&kiji_base2_html;
 	  }elsif($disp_mode eq "img_text_link"){
-		# ‰æ‘œ‚ÍƒŠƒ“ƒN
-		$html_block_A="$textlink_html_block";	#i‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# ç”»åƒã¯ãƒªãƒ³ã‚¯
+		$html_block_A="$textlink_html_block";	#ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		&kiji_base_html;
 	  }else{
-		# ƒeƒLƒXƒg‹L–i‘Š·‚¦‚Í‰Šúİ’è‚ÌŠ‚Ås‚¤j
+		# ãƒ†ã‚­ã‚¹ãƒˆè¨˜äº‹ï¼ˆæ›¸æ›ãˆã¯åˆæœŸè¨­å®šã®æ‰€ã§è¡Œã†ï¼‰
 		&kiji_base_html;
 	  }
 
 	}
-# •ÔM‚É“ü‚é‚½‚ß‚ÌƒŠƒ“ƒN
+# è¿”ä¿¡ã«å…¥ã‚‹ãŸã‚ã®ãƒªãƒ³ã‚¯
 if($FORM{'amode'} eq "select_edit"){
 
 print<<HTML_END;
-<BR>[<a href="$cgi_name?bbsaction=edit_form&target=$tmp_unq_id&target_no=$tmp_seq_no&p1=$FORM{'p1'}&p2=$FORM{'p2'}&page=$FORM{'page'}&amode=select_edit">\ªã‹L‚Ì‹L–‚ğC\³\</a>]
+<BR>[<a href="$cgi_name?bbsaction=edit_form&target=$tmp_unq_id&target_no=$tmp_seq_no&p1=$FORM{'p1'}&p2=$FORM{'p2'}&page=$FORM{'page'}&amode=select_edit">\â†‘Modified the above article â†‘Positive\</a>]
 HTML_END
 
 }	
 	}
-	}# forƒ‹[ƒv‚ÌI—¹
+	}# forãƒ«ãƒ¼ãƒ—ã®çµ‚äº†
 
-	# •ÔM‚Ì‚Æ‚«‚ÌQl‹L–—p‚Ì‚g‚s‚l‚k‰º•”
+	# è¿”ä¿¡ã®ã¨ãã®å‚è€ƒè¨˜äº‹ç”¨ã®ï¼¨ï¼´ï¼­ï¼¬ä¸‹éƒ¨
 	if($FORM{'bbsaction'} eq 'disp_rep_form'){
 print<<HTML_END;
 	<BR CLEAR="left" style="clear: left">
 	</FORM>
 	<HR>
-	[<a href="$cgi_name?amode=$FORM{'amode'}&page=$FORM{'page'}">•ÔM‚µ‚È‚¢‚Å–ß‚é</a>]
+	[<a href="$cgi_name?amode=$FORM{'amode'}&page=$FORM{'page'}">Back without reply</a>]
 	</BODY></HTML>
 HTML_END
 	exit;
 	}
 
 
-	# ƒtƒbƒ^[‚ğ•\¦
+	# ãƒ•ãƒƒã‚¿ãƒ¼ã‚’è¡¨ç¤º
 
-	# ‰º•”‚Éƒoƒi[L‚ğ‹`–±•t‚¯‚ç‚ê‚Ä‚¢‚éê‡‚ÍAİ’è•”‚Ì$html_for_bottom_banner‚ÉHTMLƒ\[ƒX‚ğ‘‚¢‚Ä‚­‚¾‚³‚¢    
+	# ä¸‹éƒ¨ã«ãƒãƒŠãƒ¼åºƒå‘Šã‚’ç¾©å‹™ä»˜ã‘ã‚‰ã‚Œã¦ã„ã‚‹å ´åˆã¯ã€è¨­å®šéƒ¨ã®$html_for_bottom_bannerã«HTMLã‚½ãƒ¼ã‚¹ã‚’æ›¸ã„ã¦ãã ã•ã„    
 
 
  	$dd_guest_passwd="$guest_passwd";
@@ -4959,25 +4963,25 @@ print<<HTML_END;
 	$html_for_bottom_banner
 	<INPUT TYPE="HIDDEN" NAME="bbsaction" VALUE="remove">
 	<font size=-1>
-	íœ•û–@ <BR>
-	ŸŠÇ—lF íœ‘ÎÛ‚Ì¶—“‚ğƒ`ƒFƒbƒNi•¡”w’è‰ÂjAê—pƒpƒXƒ[ƒh‚ğ‰º—“‚É“ü—Í‚µAuíœv‚ğ‰Ÿ‚· <BR>
+	å‰Šé™¤æ–¹æ³• <BR>
+	â—†Manager: Check the left column for the deletion target (multiple designation possible), enter the dedicated password in the lower column, and press "Delete". <BR>
 HTML_END
 
 	if($use_guest_passwd =='1'){
 
 print<<HTML_END;
-	Ÿ“ŠeÒF “Še‚É—p‚¢‚½ƒp\ƒ\\ƒR\ƒ“‚ÅƒAƒNƒZƒX‚µA©•ª‚Ì‹L–‚Ì¶—“‚ğƒ`ƒFƒbƒNA‚»‚Ì‚Ü‚Üuíœv‚ğ‰Ÿ‚·iƒpƒXƒ[ƒh•s—v!!j<BR>
+	â—†Contributors: Access with the Contributor: Check the left column for the deletion target (multiple designation possible), enter the deletion key entered at the time of submission in the lower column, and press "Delete"..com you used to post your article, check the left column of your article and press "Delete" (no password required!).<BR>
 HTML_END
 
         }elsif($use_guest_passwd =='-1'){
 		$dd_guest_passwd="$COOKIE{'rmkey'}";
 	 if($COOKIE{'rmkey'} ne ""){
 print<<HTML_END;
-	Ÿ“ŠeÒF  íœ‘ÎÛ‚Ì¶—“‚ğƒ`ƒFƒbƒNi•¡”w’è‰ÂjA“Še‚É“ü—Í‚µ‚½íœƒL[‚ğ‰º—“‚É“ü—Í‚µuíœv‚ğ‰Ÿ‚·<BR>(ƒL[‚ğ‹L‰¯‚µ‚Ä‚¢‚éê‡‚Í©“®“ü—Í‚³‚ê‚Ü‚·)<BR>
+	â—† Submitter: Check the left column for the deletion target (multiple designation possible), enter the deletion key entered at the time of submission in the lower column, and press "Delete" <BR>(If the key is memorized, it will be entered automatically).<BR>
 HTML_END
 	 }else{
 print<<HTML_END;
-	Ÿ“ŠeÒF  íœ‘ÎÛ‚Ì¶—“‚ğƒ`ƒFƒbƒNi•¡”w’è‰ÂjA“Še‚É“ü—Í‚µ‚½íœƒL[‚ğ‰º—“‚É“ü—Í‚µuíœv‚ğ‰Ÿ‚·<BR>
+	â—†Contributor: Check the left column for the deletion target (multiple designation possible), enter the deletion key entered at the time of submission in the lower column, and press "Delete".<BR>
 HTML_END
 	 }
         }
@@ -4985,7 +4989,7 @@ HTML_END
 print<<HTML_END;
 	<INPUT TYPE="PASSWORD" NAME="passwd" SIZE="10" VALUE="$dd_guest_passwd">
 	</font>
-	<INPUT TYPE="SUBMIT" VALUE="íœ">
+	<INPUT TYPE="SUBMIT" VALUE="å‰Šé™¤">
 	</FORM>
 <BR>
 <BR>
@@ -4993,32 +4997,32 @@ HTML_END
 
 &output_button_HTML(1);
 	
-	# ‰ü‘¢,”ñ‰ü‘¢‚ğ–â‚í‚¸,ƒNƒŒƒWƒbƒg‚Ì•ÏX‚ÍŒÅ‚­‚¨’f‚è‚µ‚Ü‚·Bi’˜ìŒ NŠQ‚Æ‚È‚è‚Ü‚·j
-	# ‚È‚¨,“–ƒXƒNƒŠƒvƒg‚Ìˆê•”,‚ ‚é‚¢‚Í‘S•”‚ğ—˜—p,‚ ‚é‚¢‚ÍQl‚É‚µ‚½ƒXƒNƒŠƒvƒg‚ğì¬‚³‚ê‚½ê‡‚à,
-	# ‚©‚È‚ç‚¸“–ƒŠƒ“ƒN‚ğ‚»‚ÌŒf¦”Â‚É•t‰Á‚µ‚Ä‚­‚¾‚³‚¢B
+	# æ”¹é€ ,éæ”¹é€ ã‚’å•ã‚ãš,ã‚¯ãƒ¬ã‚¸ãƒƒãƒˆã®å¤‰æ›´ã¯å›ºããŠæ–­ã‚Šã—ã¾ã™ã€‚ï¼ˆè‘—ä½œæ¨©ä¾µå®³ã¨ãªã‚Šã¾ã™ï¼‰
+	# ãªãŠ,å½“ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®ä¸€éƒ¨,ã‚ã‚‹ã„ã¯å…¨éƒ¨ã‚’åˆ©ç”¨,ã‚ã‚‹ã„ã¯å‚è€ƒã«ã—ãŸã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚’ä½œæˆã•ã‚ŒãŸå ´åˆã‚‚,
+	# ã‹ãªã‚‰ãšå½“ãƒªãƒ³ã‚¯ã‚’ãã®æ²ç¤ºæ¿ã«ä»˜åŠ ã—ã¦ãã ã•ã„ã€‚
 	print "<HR>\n";
 	print "<DIV ALIGN=\"RIGHT\">";
-	print "<B>FREE <A HREF=\"http:\/\/www.big.or.jp\/~talk\/welcome\/welcome7mey2.cgi?v=v04c\">imgboard R6.1v4c <\/A>!!<\/B><BR>\n";
+	print "<B>FREE <A HREF=\"http:\/\/www.big.or.jp\/~talk\/welcome\/welcome7mey2.cgi?v=v04c\">imgboard R6.1v4c <\/A> (jp)!!<\/B><BR>\n";
 	print "<\/DIV><BR>\n";
 }
 
-	print "<BR>\n"; # ƒ}ƒ‹ƒ`ƒ^ƒbƒ`”ñ‘Î‰‚ÌŠg‘åƒ{ƒ^ƒ“‘Îô(XPERIA)
+	print "<BR>\n"; # ãƒãƒ«ãƒã‚¿ãƒƒãƒéå¯¾å¿œã®æ‹¡å¤§ãƒœã‚¿ãƒ³å¯¾ç­–(XPERIA)
 	print "<\/BODY>\n<\/HTML>\n";
 
 }
 
 #====================================#
-# disp_modei•\¦ƒ‚[ƒhj‚ğ‘I‘ğ‚·‚é
+# disp_modeï¼ˆè¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ï¼‰ã‚’é¸æŠã™ã‚‹
 #====================================#
 
 sub check_mode{		
 
-	# ƒeƒLƒXƒg‚Ì‚İ
+	# ãƒ†ã‚­ã‚¹ãƒˆã®ã¿
 	if($tmp_img_location eq ""){
 		$disp_mode="text_only";
-	# ƒf[ƒ^•t‚«
+	# ãƒ‡ãƒ¼ã‚¿ä»˜ã
 	}else{
-		# ƒ†[ƒU‚ªƒNƒbƒL[‚Å•\¦ƒ‚[ƒh‚ğˆÈ‘O‘I‘ğ‚µ‚Ä‚¢‚éê‡,‚»‚ê‚ğ—Dæ
+		# ãƒ¦ãƒ¼ã‚¶ãŒã‚¯ãƒƒã‚­ãƒ¼ã§è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰ã‚’ä»¥å‰é¸æŠã—ã¦ã„ã‚‹å ´åˆ,ãã‚Œã‚’å„ªå…ˆ
 		if(($COOKIE{'view_mode'} ne "")&&($COOKIE{'view_mode'} ne "as_cgi_defined")&&($user_selected_view_mode==1)){
 			if(($tmp_img_location!~ /\.dat$/)&&($tmp_img_location=~ /\.gif$|\.jpe?g$|\.png$|\.bmp$/i)){
 				$disp_mode="img_icon" if($COOKIE{'view_mode'} eq "text_img_type1");
@@ -5030,27 +5034,27 @@ sub check_mode{
 				$disp_mode="img_text_link";
 			}
 
-		# ˆÈ‘O‘I‘ğ‚µ‚Ä‚È‚¢ê‡,‰Šúİ’è‚Ì’Ê‚è
+		# ä»¥å‰é¸æŠã—ã¦ãªã„å ´åˆ,åˆæœŸè¨­å®šã®é€šã‚Š
 		}else{
 			if(($show_img_on_board ==0)||($tmp_img_location=~ /\.dat$/)||($tmp_img_location!~ /\.gif$|\.jpe?g$|\.png$|\.bmp$/i)){
-				# ƒeƒLƒXƒgƒŠƒ“ƒN
+				# ãƒ†ã‚­ã‚¹ãƒˆãƒªãƒ³ã‚¯
 				$disp_mode="img_text_link";
 			}else{
-			# ‚a‚a‚rã‚É’¼Ú“\•t		# ƒNƒbƒL[–¢g—p‚ÌŒÅ’èw’è neko
-				if($on_board_img_size==0){	# ƒAƒCƒRƒ“
+			# ï¼¢ï¼¢ï¼³ä¸Šã«ç›´æ¥è²¼ä»˜		# ã‚¯ãƒƒã‚­ãƒ¼æœªä½¿ç”¨æ™‚ã®å›ºå®šæŒ‡å®š neko
+				if($on_board_img_size==0){	# ã‚¢ã‚¤ã‚³ãƒ³
 					$disp_mode="img_icon";
-				}elsif($on_board_img_size==1){	# ƒI[ƒg
+				}elsif($on_board_img_size==1){	# ã‚ªãƒ¼ãƒˆ
 					$disp_mode="img_auto";
-				}elsif($on_board_img_size==2){	# ‰¡ŒÅ’è
+				}elsif($on_board_img_size==2){	# æ¨ªå›ºå®š
 					$disp_mode="img_w_static";
-				}elsif($on_board_img_size==3){	# ƒIƒŠƒWƒiƒ‹
+				}elsif($on_board_img_size==3){	# ã‚ªãƒªã‚¸ãƒŠãƒ«
 					$disp_mode="img_original";
-				}elsif($on_board_img_size==4){	# cŒÅ’è
+				}elsif($on_board_img_size==4){	# ç¸¦å›ºå®š
 					$disp_mode="img_h_static";
-				}elsif($on_board_img_size==5){	# ‹É’[‚É‘å‚«‚È‰æ‘œ‚Ì‚İk¬
+				}elsif($on_board_img_size==5){	# æ¥µç«¯ã«å¤§ããªç”»åƒã®ã¿ç¸®å°
 					$disp_mode="img_limit_max";
 				}else{
-					$disp_mode="img_icon";	# error‚ÍƒAƒCƒRƒ“‚É‚µ‚Æ‚­
+					$disp_mode="img_icon";	# erroræ™‚ã¯ã‚¢ã‚¤ã‚³ãƒ³ã«ã—ã¨ã
 				}
 			}
 		}
@@ -5058,10 +5062,10 @@ sub check_mode{
 }
 #
 #==============================================#
-# IMGƒvƒƒpƒeƒB”»•Ê • •\¦ƒTƒCƒY•ÏXˆ—•”
+# IMGãƒ—ãƒ­ãƒ‘ãƒ†ã‚£åˆ¤åˆ¥ ï¼† è¡¨ç¤ºã‚µã‚¤ã‚ºå¤‰æ›´å‡¦ç†éƒ¨
 #==============================================#
 
-# $disp_mode‚É]‚¢A•\¦ƒTƒCƒY‚Ì•ÏX‚ğÀÛ‚És‚¤ƒ‹[ƒ`ƒ“
+# $disp_modeã«å¾“ã„ã€è¡¨ç¤ºã‚µã‚¤ã‚ºã®å¤‰æ›´ã‚’å®Ÿéš›ã«è¡Œã†ãƒ«ãƒ¼ãƒãƒ³
 sub check_img{
 
 	$use_imgsize=1;
@@ -5070,7 +5074,7 @@ sub check_img{
 	undef $orig_height;
 	undef $w_set;
 	undef $h_set;
-	# file.dat‚Éheight,widthî•ñ‚ª‚ ‚é‚©‚Ç‚¤‚©‚ğƒ`ƒFƒbƒNB
+	# file.datã«height,widthæƒ…å ±ãŒã‚ã‚‹ã‹ã©ã†ã‹ã‚’ãƒã‚§ãƒƒã‚¯ã€‚
 	if(($IMG_PARAMETERS{'width'}>2)&&($IMG_PARAMETERS{'height'}>2)&&($IMG_PARAMETERS{'hw_racio'}>1)){
 		    $img_parameters_exist=1;
 	}else{
@@ -5081,19 +5085,19 @@ sub check_img{
 
 		$check_img_location="$tmp_img_location";
 
-# ‹L–“Še‚É‰æ‘œ‚Ì‚‚³A•î•ñ‚ğ‰ğÍ‚µA‹L–ƒf[ƒ^‚Æ‹¤‚É‹L˜^‚µ‚Ä‚¨‚­B
-# •\¦A‰ğÍŒ‹‰Ê‚ªŠù‚É‹L˜^‚³‚ê‚Ä‚¢‚éê‡‚Íimgsize‚É‚æ‚é‰ğÍ‚ğƒXƒLƒbƒvB
-# ‚±‚ê‚É‚æ‚è‰æ‘œ‰ğÍ‰ñ”‚ğŒ¸‚ç‚µ•‰‰×ŒyŒ¸‚·‚é‚Æ‹¤‚ÉA’´‚‘¬ƒŒƒCƒAƒEƒg‚ğ
-# ÀŒ»‚·‚éB‚È‚¨Aimgsize.pl‚É‚ÍAfile–¼‚ğdummy‚Æ‚µ‚Ä’Ê’mB
+# è¨˜äº‹æŠ•ç¨¿æ™‚ã«ç”»åƒã®é«˜ã•ã€å¹…æƒ…å ±ã‚’è§£æã—ã€è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã¨å…±ã«è¨˜éŒ²ã—ã¦ãŠãã€‚
+# è¡¨ç¤ºæ™‚ã€è§£æçµæœãŒæ—¢ã«è¨˜éŒ²ã•ã‚Œã¦ã„ã‚‹å ´åˆã¯imgsizeã«ã‚ˆã‚‹è§£æã‚’ã‚¹ã‚­ãƒƒãƒ—ã€‚
+# ã“ã‚Œã«ã‚ˆã‚Šç”»åƒè§£æå›æ•°ã‚’æ¸›ã‚‰ã—è² è·è»½æ¸›ã™ã‚‹ã¨å…±ã«ã€è¶…é«˜é€Ÿãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆã‚’
+# å®Ÿç¾ã™ã‚‹ã€‚ãªãŠã€imgsize.plã«ã¯ã€fileåã‚’dummyã¨ã—ã¦é€šçŸ¥ã€‚
 
 		$check_img_location='dummy' if ($img_parameters_exist==1);
 
 		if($disp_mode eq 'img_icon'){
-		# ƒAƒCƒRƒ“‰»Bˆø”‚R‚ÍŠî–{ƒTƒCƒYiÈ—ª‰Âj	
+		# ã‚¢ã‚¤ã‚³ãƒ³åŒ–ã€‚å¼•æ•°ï¼“ã¯åŸºæœ¬ã‚µã‚¤ã‚ºï¼ˆçœç•¥å¯ï¼‰	
 			&imgsize("$check_img_location",'iconize','4000');
 		}elsif($disp_mode eq 'img_w_static'){
-		# ‰¡ƒTƒCƒYŒÅ’èBˆø”‚R‚Í‰¡ƒTƒCƒYAˆø”‚S‚ÍÅ‘åclimitiÈ—ª‰Âj	
-			# ƒŒƒCƒAƒEƒg‚ğ‘µ‚¦‚é‚±‚Æ‚ª‚Å‚«‚éB	
+		# æ¨ªã‚µã‚¤ã‚ºå›ºå®šã€‚å¼•æ•°ï¼“ã¯æ¨ªã‚µã‚¤ã‚ºã€å¼•æ•°ï¼”ã¯æœ€å¤§ç¸¦limitï¼ˆçœç•¥å¯ï¼‰	
+			# ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆã‚’æƒãˆã‚‹ã“ã¨ãŒã§ãã‚‹ã€‚	
 			if($COOKIE{'viewport_set'}=~ /(\d{3,5})/){
 			 if($1 > 2400){ #2560dot
 			  &imgsize("$check_img_location",'static_width','1800','2400');
@@ -5101,19 +5105,19 @@ sub check_img{
 			  &imgsize("$check_img_location",'static_width','1600','2048');
 			 }elsif($1 >= 1920){	# 1920(FullHD)
 			  &imgsize("$check_img_location",'static_width','1440','1920');
-			 }elsif($1 >= 1600){	# 1600,1680“™ ‰¡’·PC
+			 }elsif($1 >= 1600){	# 1600,1680ç­‰ æ¨ªé•·PC
 			  &imgsize("$check_img_location",'static_width','960','1280');
-			 }elsif($1 >=  1366){	# 1366,1368,1440 ‰¡’· AV Note“™
+			 }elsif($1 >=  1366){	# 1366,1368,1440 æ¨ªé•· AV Noteç­‰
 			  &imgsize("$check_img_location",'static_width','960','1280');
-			 }elsif($1 >=  1280){	# 1280 ‰¡’·Note“™
+			 }elsif($1 >=  1280){	# 1280 æ¨ªé•·Noteç­‰
 			  &imgsize("$check_img_location",'static_width','800','1280');
-			 }elsif($1 >  1024){	# 1152“™(TV‚ª‘½‚¢)
+			 }elsif($1 >  1024){	# 1152ç­‰(TVãŒå¤šã„)
 			  &imgsize("$check_img_location",'static_width','640','960');
 			 }elsif($1 == 1024){	# XGA
 			  &imgsize("$check_img_location",'static_width','560','896');
-			 }elsif($1 >= 960){		# XGA‘Š“–Note‚âNetBook ƒ^ƒuƒŒƒbƒg
+			 }elsif($1 >= 960){		# XGAç›¸å½“Noteã‚„NetBook ã‚¿ãƒ–ãƒ¬ãƒƒãƒˆ
 			  &imgsize("$check_img_location",'static_width','480','896');
-			 }elsif($1 >=  800){	# ƒQ[ƒ€‹@AMIDƒfƒoƒCƒX
+			 }elsif($1 >=  800){	# ã‚²ãƒ¼ãƒ æ©Ÿã€MIDãƒ‡ãƒã‚¤ã‚¹
 			  &imgsize("$check_img_location",'static_width','384','512');
 			 }else{
 			  &imgsize("$check_img_location",'static_width','384','512');
@@ -5124,29 +5128,29 @@ sub check_img{
 			  &imgsize("$check_img_location",'static_width','640','960');
 			}
 		}elsif($disp_mode eq 'img_original'){
-		# ƒIƒŠƒWƒiƒ‹ƒTƒCƒYBˆø”‚R‚Í•\¦”{—¦(”{—¦•ÏX‰Â”\)	
+		# ã‚ªãƒªã‚¸ãƒŠãƒ«ã‚µã‚¤ã‚ºã€‚å¼•æ•°ï¼“ã¯è¡¨ç¤ºå€ç‡(å€ç‡å¤‰æ›´å¯èƒ½)	
 			&imgsize("$check_img_location",'x_per','100%');
 		}elsif($disp_mode eq 'img_h_static'){
-		# cƒTƒCƒYŒÅ’èBˆø”‚R‚ÍcƒTƒCƒYAˆø”‚S‚ÍÅ‘å‰¡limitiÈ—ª‰Âj
-			# ˆÈ‰ºƒpƒ‰ƒ[ƒ^‚Å‰æ‘œ‚Í1024x768‰æ–Ê‚ÅƒWƒƒƒXƒg•\¦‚É‚È‚é	
+		# ç¸¦ã‚µã‚¤ã‚ºå›ºå®šã€‚å¼•æ•°ï¼“ã¯ç¸¦ã‚µã‚¤ã‚ºã€å¼•æ•°ï¼”ã¯æœ€å¤§æ¨ªlimitï¼ˆçœç•¥å¯ï¼‰
+			# ä»¥ä¸‹ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã§ç”»åƒã¯1024x768ç”»é¢ã§ã‚¸ãƒ£ã‚¹ãƒˆè¡¨ç¤ºã«ãªã‚‹	
 			if($COOKIE{'viewport_set'}=~ /(\d{3,5})/){
 			 if($1 > 2400){ #2560dot
 			  &imgsize("$check_img_location",'static_height','980','1800');
 			 }elsif($1 >= 1920){	# 1920(FullHD)
 			  &imgsize("$check_img_location",'static_height','900','1600');
-			 }elsif($1 >= 1600){	# 1600,1680“™ ‰¡’·PC
+			 }elsif($1 >= 1600){	# 1600,1680ç­‰ æ¨ªé•·PC
 			  &imgsize("$check_img_location",'static_height','810','1400');
-			 }elsif($1 >=  1366){	# 1366,1368,1440 ‰¡’· AV Note“™
+			 }elsif($1 >=  1366){	# 1366,1368,1440 æ¨ªé•· AV Noteç­‰
 			  &imgsize("$check_img_location",'static_height','680','1000');
-			 }elsif($1 >=  1280){	# 1280 ‰¡’·Note“™
+			 }elsif($1 >=  1280){	# 1280 æ¨ªé•·Noteç­‰
 			  &imgsize("$check_img_location",'static_height','680','1000');
-			 }elsif($1 >  1024){	# 1152“™(TV‚ª‘½‚¢)
+			 }elsif($1 >  1024){	# 1152ç­‰(TVãŒå¤šã„)
 			  &imgsize("$check_img_location",'static_height','680','1000');
 			 }elsif($1 == 1024){	# XGA
 			  &imgsize("$check_img_location",'static_height','680','1000');
-			 }elsif($1 >= 960){		# XGA‘Š“–Note‚âNetBook ƒ^ƒuƒŒƒbƒg
+			 }elsif($1 >= 960){		# XGAç›¸å½“Noteã‚„NetBook ã‚¿ãƒ–ãƒ¬ãƒƒãƒˆ
 			  &imgsize("$check_img_location",'static_height','680','1000');
-			 }elsif($1 >=  800){	# ƒQ[ƒ€‹@AMIDƒfƒoƒCƒX
+			 }elsif($1 >=  800){	# ã‚²ãƒ¼ãƒ æ©Ÿã€MIDãƒ‡ãƒã‚¤ã‚¹
 			  &imgsize("$check_img_location",'static_height','480','780');
 			 }else{
 			  &imgsize("$check_img_location",'static_height','360','600');
@@ -5155,25 +5159,25 @@ sub check_img{
 			  &imgsize("$check_img_location",'static_height','680','1000');
 			}
 		}elsif($disp_mode eq 'img_auto'){
-		# ƒCƒ“ƒeƒŠƒWƒFƒ“ƒgƒI[ƒgƒŠƒTƒCƒYBˆø”‚R‚Í–ÊÏŒn‚Ìƒpƒ‰ƒ[ƒ^iÈ—ª‰Âj
+		# ã‚¤ãƒ³ãƒ†ãƒªã‚¸ã‚§ãƒ³ãƒˆã‚ªãƒ¼ãƒˆãƒªã‚µã‚¤ã‚ºã€‚å¼•æ•°ï¼“ã¯é¢ç©ç³»ã®ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ï¼ˆçœç•¥å¯ï¼‰
 			if($COOKIE{'viewport_set'}=~ /(\d{3,5})/){
 			 if($1 > 2400){ #2560dot
 			 	&imgsize("$check_img_location",'auto_resize','600000000');
 			 }elsif($1 >= 1920){	# 1920(FullHD)
 				&imgsize("$check_img_location",'auto_resize','240000000');
-			 }elsif($1 >= 1600){	# 1600,1680“™ ‰¡’·PC
+			 }elsif($1 >= 1600){	# 1600,1680ç­‰ æ¨ªé•·PC
 				&imgsize("$check_img_location",'auto_resize','96000000');
-			 }elsif($1 >=  1366){	# 1366,1368,1440 ‰¡’· AV Note“™
+			 }elsif($1 >=  1366){	# 1366,1368,1440 æ¨ªé•· AV Noteç­‰
 				&imgsize("$check_img_location",'auto_resize','16000000');
-			 }elsif($1 >=  1280){	# 1280 ‰¡’·Note“™
+			 }elsif($1 >=  1280){	# 1280 æ¨ªé•·Noteç­‰
 				&imgsize("$check_img_location",'auto_resize','12000000');
-			 }elsif($1 >  1024){	# 1152“™(TV‚ª‘½‚¢)
+			 }elsif($1 >  1024){	# 1152ç­‰(TVãŒå¤šã„)
 				&imgsize("$check_img_location",'auto_resize','7200000');
 			 }elsif($1 == 1024){	# XGA
 				&imgsize("$check_img_location",'auto_resize','6400000');
-			 }elsif($1 >= 960){		# XGA‘Š“–Note‚âNetBook ƒ^ƒuƒŒƒbƒg
+			 }elsif($1 >= 960){		# XGAç›¸å½“Noteã‚„NetBook ã‚¿ãƒ–ãƒ¬ãƒƒãƒˆ
 				&imgsize("$check_img_location",'auto_resize','3200000');
-			 }elsif($1 >=  800){	# ƒQ[ƒ€‹@AMIDƒfƒoƒCƒX
+			 }elsif($1 >=  800){	# ã‚²ãƒ¼ãƒ æ©Ÿã€MIDãƒ‡ãƒã‚¤ã‚¹
 				&imgsize("$check_img_location",'auto_resize','1600000');
 			 }else{
 				&imgsize("$check_img_location",'auto_resize','1600000');
@@ -5182,25 +5186,25 @@ sub check_img{
 			 &imgsize("$check_img_location",'auto_resize','6400000');
 			}
 		}elsif($disp_mode eq 'img_limit_max'){
-		# ‹É’[‚É‘å‚«‚È‰æ‘œ‚Ì‚İk¬Bˆø”‚R‚Íc§ŒÀƒTƒCƒYAˆø”‚S‚Í‰¡§ŒÀƒTƒCƒYiÈ—ª‰Âj
+		# æ¥µç«¯ã«å¤§ããªç”»åƒã®ã¿ç¸®å°ã€‚å¼•æ•°ï¼“ã¯ç¸¦åˆ¶é™ã‚µã‚¤ã‚ºã€å¼•æ•°ï¼”ã¯æ¨ªåˆ¶é™ã‚µã‚¤ã‚ºï¼ˆçœç•¥å¯ï¼‰
 			if($COOKIE{'viewport_set'}=~ /(\d{3,5})/){
 			 if($1 > 2400){ #2560dot
 				&imgsize("$check_img_location",'limit_by_max_size','960','1800');
 			 }elsif($1 >= 1920){	# 1920(FullHD)
 				&imgsize("$check_img_location",'limit_by_max_size','960','1600');
-			 }elsif($1 >= 1600){	# 1600,1680“™ ‰¡’·PC
+			 }elsif($1 >= 1600){	# 1600,1680ç­‰ æ¨ªé•·PC
 				&imgsize("$check_img_location",'limit_by_max_size','640','1200');
-			 }elsif($1 >=  1366){	# 1366,1368,1440 ‰¡’· AV Note“™
+			 }elsif($1 >=  1366){	# 1366,1368,1440 æ¨ªé•· AV Noteç­‰
 				&imgsize("$check_img_location",'limit_by_max_size','640','900');
-			 }elsif($1 >=  1280){	# 1280 ‰¡’·Note“™
+			 }elsif($1 >=  1280){	# 1280 æ¨ªé•·Noteç­‰
 				&imgsize("$check_img_location",'limit_by_max_size','640','900');
-			 }elsif($1 >  1024){	# 1152“™(TV‚ª‘½‚¢)
+			 }elsif($1 >  1024){	# 1152ç­‰(TVãŒå¤šã„)
 				&imgsize("$check_img_location",'limit_by_max_size','600','800');
 			 }elsif($1 == 1024){	# XGA
 				&imgsize("$check_img_location",'limit_by_max_size','560','720');
-			 }elsif($1 >= 960){		# XGA‘Š“–Note‚âNetBook ƒ^ƒuƒŒƒbƒg
+			 }elsif($1 >= 960){		# XGAç›¸å½“Noteã‚„NetBook ã‚¿ãƒ–ãƒ¬ãƒƒãƒˆ
 				&imgsize("$check_img_location",'limit_by_max_size','480','640');
-			 }elsif($1 >=  800){	# ƒQ[ƒ€‹@AMIDƒfƒoƒCƒX
+			 }elsif($1 >=  800){	# ã‚²ãƒ¼ãƒ æ©Ÿã€MIDãƒ‡ãƒã‚¤ã‚¹
 				&imgsize("$check_img_location",'limit_by_max_size','480','480');
 			 }else{
 				&imgsize("$check_img_location",'limit_by_max_size','480','480');
@@ -5215,23 +5219,23 @@ sub check_img{
 		$w_set= "width=$IMGSIZE{'out_width'}"		if($IMGSIZE{'out_width'} !=0);
 		$h_set= "height=$IMGSIZE{'out_height'}"		if($IMGSIZE{'out_height'} !=0);
 
-	# imgsize–¢g—p or imgsize.pl‚ªŒ©‚Â‚©‚ç‚È‚¢ê‡ neko
+	# imgsizeæœªä½¿ç”¨æ™‚ or imgsize.plãŒè¦‹ã¤ã‹ã‚‰ãªã„å ´åˆ neko
 	}else{
 		if($disp_mode eq 'img_icon'){
-		# ƒAƒCƒRƒ“‰»B
+		# ã‚¢ã‚¤ã‚³ãƒ³åŒ–ã€‚
 			$w_set= "width =60";
 			$h_set= "height=45";
 		}elsif($disp_mode eq 'img_w_static'){
-		# ŒÅ’èƒTƒCƒY‰»
+		# å›ºå®šã‚µã‚¤ã‚ºåŒ–
 			$w_set= "width =256";
 			$h_set= "height=192";
 		}elsif($disp_mode eq 'img_original'){
-		# ƒIƒŠƒWƒiƒ‹ƒTƒCƒY‰»	
+		# ã‚ªãƒªã‚¸ãƒŠãƒ«ã‚µã‚¤ã‚ºåŒ–	
 			undef $w_set;
 			undef $h_set;
 		}
 	}
-	# 2010.03 add ƒŒƒCƒAƒEƒg‰ü—Ç
+	# 2010.03 add ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆæ”¹è‰¯
 	if($w_set=~ /(\d+)/){
 		$KIJI_LAYLOUT{'out_img_width'}= $1;
 	}
@@ -5242,9 +5246,9 @@ sub check_img{
 }
 #
 #==============================================#
-# FlashƒrƒfƒI‚âiframe‚Ì•\¦ƒTƒCƒY•ÏXˆ—•”
+# Flashãƒ“ãƒ‡ã‚ªã‚„iframeã®è¡¨ç¤ºã‚µã‚¤ã‚ºå¤‰æ›´å‡¦ç†éƒ¨
 #==============================================#
-# view_mode‚É]‚¢A•\¦ƒTƒCƒY‚Ì•ÏX‚ğÀÛ‚És‚¤ƒ‹[ƒ`ƒ“
+# view_modeã«å¾“ã„ã€è¡¨ç¤ºã‚µã‚¤ã‚ºã®å¤‰æ›´ã‚’å®Ÿéš›ã«è¡Œã†ãƒ«ãƒ¼ãƒãƒ³
 sub check_flash_and_iframe_img{
 
 	undef $orig_width;
@@ -5253,7 +5257,7 @@ sub check_flash_and_iframe_img{
 	undef $h_set;
 	
 
-		if((($COOKIE{'view_mode'} eq "")&&($show_img_on_board == 1))||($COOKIE{'view_mode'}=~ /as_cgi_defined$|text_img_type12$|text_img_type13$|text_img_type2$|text_img_type3$|text_img_type4$|text_img_type5$/i)){ #ƒI[ƒgi‚¨‚Ü‚©‚¹)
+		if((($COOKIE{'view_mode'} eq "")&&($show_img_on_board == 1))||($COOKIE{'view_mode'}=~ /as_cgi_defined$|text_img_type12$|text_img_type13$|text_img_type2$|text_img_type3$|text_img_type4$|text_img_type5$/i)){ #ã‚ªãƒ¼ãƒˆï¼ˆãŠã¾ã‹ã›)
 
 			if($COOKIE{'viewport_set'}=~ /(\d{3,5})/){
 			 if($1 > 2400){ #2560dot
@@ -5262,19 +5266,19 @@ sub check_flash_and_iframe_img{
 				&change_flash_and_iframe_embed_size('1440','810');
 			 }elsif($1 >= 1920){	# 1920(FullHD)
 				&change_flash_and_iframe_embed_size('1280','720');
-			 }elsif($1 >= 1600){	# 1600,1680“™ ‰¡’·PC
+			 }elsif($1 >= 1600){	# 1600,1680ç­‰ æ¨ªé•·PC
 				&change_flash_and_iframe_embed_size('854','480');
-			 }elsif($1 >=  1366){	# 1366,1368,1440 ‰¡’· AV Note“™
+			 }elsif($1 >=  1366){	# 1366,1368,1440 æ¨ªé•· AV Noteç­‰
 				&change_flash_and_iframe_embed_size('854','480');
-			 }elsif($1 >=  1280){	# 1280 ‰¡’·Note“™
+			 }elsif($1 >=  1280){	# 1280 æ¨ªé•·Noteç­‰
 				&change_flash_and_iframe_embed_size('854','480');
-			 }elsif($1 >  1024){	# 1152“™(TV‚ª‘½‚¢)
+			 }elsif($1 >  1024){	# 1152ç­‰(TVãŒå¤šã„)
 				&change_flash_and_iframe_embed_size('640','360');
 			 }elsif($1 == 1024){	# XGA
 				&change_flash_and_iframe_embed_size('640','360');
-			 }elsif($1 >= 960){		# XGA‘Š“–Note‚âNetBook ƒ^ƒuƒŒƒbƒg
+			 }elsif($1 >= 960){		# XGAç›¸å½“Noteã‚„NetBook ã‚¿ãƒ–ãƒ¬ãƒƒãƒˆ
 				&change_flash_and_iframe_embed_size('640','360');
-			 }elsif($1 >=  800){	# ƒQ[ƒ€‹@AMIDƒfƒoƒCƒX
+			 }elsif($1 >=  800){	# ã‚²ãƒ¼ãƒ æ©Ÿã€MIDãƒ‡ãƒã‚¤ã‚¹
 				&change_flash_and_iframe_embed_size('480','270');
 			 }else{
 				&change_flash_and_iframe_embed_size('640','360');
@@ -5289,7 +5293,7 @@ sub check_flash_and_iframe_img{
 		$w_set= "width=$tmp_cfds_width"		if($tmp_cfds_width!=0);
 		$h_set= "height=$tmp_cfds_height"	if($tmp_cfds_height!=0);
 
-	# 2010.03 add ƒŒƒCƒAƒEƒg‰ü—Ç
+	# 2010.03 add ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆæ”¹è‰¯
 	if($w_set=~ /(\d+)/){
 		$KIJI_LAYLOUT{'out_img_width'}= $1;
 	}
@@ -5300,60 +5304,60 @@ sub check_flash_and_iframe_img{
 }
 #
 #==================================#
-# FlashƒrƒfƒI‚Ì–„‚İƒTƒCƒY‚Ì•ÏX 
+# Flashãƒ“ãƒ‡ã‚ªã®åŸ‹è¾¼ã¿ã‚µã‚¤ã‚ºã®å¤‰æ›´ 
 #==================================#
-# youtube,dailymotion,imgboard FLV player‚É—LŒø
-# ƒXƒgƒŠ[ƒgƒrƒ…[‚É‚à—LŒø
+# youtube,dailymotion,imgboard FLV playerã«æœ‰åŠ¹
+# ã‚¹ãƒˆãƒªãƒ¼ãƒˆãƒ“ãƒ¥ãƒ¼ã«ã‚‚æœ‰åŠ¹
 #
 sub change_flash_and_iframe_embed_size{
 
-	$tmp_cfds_width 	= $_[0];# ˆø” 2 w’è‰¡ƒTƒCƒY
-	$tmp_cfds_height	= $_[1];# ˆø” 3 w’ècƒTƒCƒY
+	$tmp_cfds_width 	= $_[0];# å¼•æ•° 2 æŒ‡å®šæ¨ªã‚µã‚¤ã‚º
+	$tmp_cfds_height	= $_[1];# å¼•æ•° 3 æŒ‡å®šç¸¦ã‚µã‚¤ã‚º
 	
 #TODO
-# 16:9‚Å‚È‚­A4:3–„‚ß‚İ‚µ‚½‚¢“®‰æƒTƒCƒg‚Í‚±‚±‚Åw’è 
+# 16:9ã§ãªãã€4:3åŸ‹ã‚è¾¼ã¿ã—ãŸã„å‹•ç”»ã‚µã‚¤ãƒˆã¯ã“ã“ã§æŒ‡å®š 
 @DOUGA_43_DOMAIN=('www.nicovideo.jp','video.fc2.com','xvideos.com');
 	
 	undef @TMP_DOUGA_43_DOMAIN;
-	@TMP_DOUGA_43_DOMAIN=@DOUGA_43_DOMAIN; # c‰¡4:3“®‰æƒTƒCƒgƒhƒƒCƒ“
+	@TMP_DOUGA_43_DOMAIN=@DOUGA_43_DOMAIN; # ç¸¦æ¨ª4:3å‹•ç”»ã‚µã‚¤ãƒˆãƒ‰ãƒ¡ã‚¤ãƒ³
 
-	if($COOKIE{'view_mode'}=~ /as_cgi_defined|text_img_type13/i){ #ƒTƒ€ƒlƒCƒ‹-‘å¬Mix
-		if($child_kiji_flag == '1' ){	# q‚Ìê‡
+	if($COOKIE{'view_mode'}=~ /as_cgi_defined|text_img_type13/i){ #ã‚µãƒ ãƒã‚¤ãƒ«-å¤§å°Mix
+		if($child_kiji_flag == '1' ){	# å­ã®å ´åˆ
 			return(0);
 		}
 	}
 	
-	# iframeƒ^ƒO‚É‚æ‚é–„‚İ‚Ìê‡ 2011.06
+	# iframeã‚¿ã‚°ã«ã‚ˆã‚‹åŸ‹è¾¼ã¿ã®å ´åˆ 2011.06
 	if(($tmp_body=~ /<iframe(.|\n)*src\=/i)||($tmp_body=~ /<object/i)){
-		# youtube‚Ìê‡‚ÍGUI•ª’²® 2011.06.08C³
+		# youtubeã®å ´åˆã¯GUIåˆ†èª¿æ•´ 2011.06.08ä¿®æ­£
 		if($tmp_body=~ /\/\/www\.youtube\./i){
 			$tmp_cfds_height = $tmp_cfds_height + 25 ;
 		}
-		# ustream‚Ìê‡‚Í4:3‚É‚·‚é
+		# ustreamã®å ´åˆã¯4:3ã«ã™ã‚‹
 		if($tmp_body=~ /http\:\/\/www\.ustream\./i){
 			$tmp_cfds_height = int( $tmp_cfds_width*0.75 ) + 26 ;
 		}
 	}
 
-	# “Á’è‚Ìiframe–„‚ß‚İƒTƒCƒg‚Í4:3‚É‚·‚é
+	# ç‰¹å®šã®iframeåŸ‹ã‚è¾¼ã¿ã‚µã‚¤ãƒˆã¯4:3ã«ã™ã‚‹
 
-	# @TMP_DOUGA_43_DOMAIN‚Æˆê’v‚µ‚½‚çOK
-	local($ttmp_43_dmatch)=0; # matchƒtƒ‰ƒO
+	# @TMP_DOUGA_43_DOMAINã¨ä¸€è‡´ã—ãŸã‚‰OK
+	local($ttmp_43_dmatch)=0; # matchãƒ•ãƒ©ã‚°
 	foreach (@TMP_DOUGA_43_DOMAIN){
 		next if($_ eq "");
-    	# ³‹K•\Œ»‚ğPerlƒpƒ^[ƒ“ƒ}ƒbƒ`‚Ö•ÏŠ·
+    	# æ­£è¦è¡¨ç¾ã‚’Perlãƒ‘ã‚¿ãƒ¼ãƒ³ãƒãƒƒãƒã¸å¤‰æ›
 	    $w_pattern=&change_pattern_match($_);
 		if($tmp_body=~ /$w_pattern/i){
 			$ttmp_43_dmatch=1;
 		}
 	}
-	# 4:3‚É‚·‚é
+	# 4:3ã«ã™ã‚‹
 	if($ttmp_43_dmatch == 1){
 		$tmp_cfds_height = int( $tmp_cfds_width*0.75 ) + 16 ;
 	}
 	
 
-	# widthw’è3‚Â‚È‚ç,‘z’èŠO‚Ì‰e‹¿‚ğ–h‚®‚½‚ß‚ÉƒAƒ{[ƒg
+	# widthæŒ‡å®š3ã¤ãªã‚‰,æƒ³å®šå¤–ã®å½±éŸ¿ã‚’é˜²ããŸã‚ã«ã‚¢ãƒœãƒ¼ãƒˆ
 	if($tmp_body=~ /(\s)width(\s*)=(.|\n)*(\s)width(\s*)=(.|\n)*(\s)width(\s*)=/i){
 		return(0);
 	}
@@ -5368,37 +5372,37 @@ sub change_flash_and_iframe_embed_size{
 	$tmp_body=~ s/(\s)height(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ height=\"$tmp_cfds_height\" align=\"left\" style=\"margin: 12px;float: left\"/ig;
 	}
 
-	# imgboard FLV Player‘Î‰ 2010.06
-	# objectƒ^ƒO‚É‚æ‚é–„‚İ‚Ìê‡
+	# imgboard FLV Playerå¯¾å¿œ 2010.06
+	# objectã‚¿ã‚°ã«ã‚ˆã‚‹åŸ‹è¾¼ã¿ã®å ´åˆ
 	if($data_type=~ /<object(.|\n)*application\/x\-shockwave\-flash/i){
 		$data_type=~ s/(\s)width(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ width=\"$tmp_cfds_width\"/ig;
 		$data_type=~ s/(\s)height(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ height=\"$tmp_cfds_height\" align=\"left\"/ig;
 	}
 
-	# theta360‘Î‰ 2014.02
-	# blockquoteƒ^ƒO‚É‚æ‚é–„‚İ‚Ìê‡
+	# theta360å¯¾å¿œ 2014.02
+	# blockquoteã‚¿ã‚°ã«ã‚ˆã‚‹åŸ‹è¾¼ã¿ã®å ´åˆ
 	if($tmp_body=~ /<blockquote(.|\n)*data\-width/i){
 		if($tmp_body=~ /https?\:\/\/theta360\.com/i){
-			# Theta‚Ìê‡‚Í—ÕêŠ´‚ğ‘‚·‚½‚ß‚ÉƒVƒlƒ}ƒXƒR[ƒv21:9‚É‚·‚é
+			# Thetaã®å ´åˆã¯è‡¨å ´æ„Ÿã‚’å¢—ã™ãŸã‚ã«ã‚·ãƒãƒã‚¹ã‚³ãƒ¼ãƒ—21:9ã«ã™ã‚‹
 			$tmp_cfds_width = int( $tmp_cfds_width*1.31 ) ;
 		}
 		$tmp_body=~ s/(\s)data\-width(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ data\-width=\"$tmp_cfds_width\"/ig;
 		$tmp_body=~ s/(\s)data\-height(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ data\-height=\"$tmp_cfds_height\"/ig;
 	}
 
-	# scriptƒ^ƒO‚É‚æ‚é–„‚İ‚Ìê‡
+	# scriptã‚¿ã‚°ã«ã‚ˆã‚‹åŸ‹è¾¼ã¿ã®å ´åˆ
 	if($tmp_body=~ /<script(.|\n)*w\=/i){
-		# FC2‘Î‰ 2014.02
+		# FC2å¯¾å¿œ 2014.02
 		$tmp_body=~ s/(\s)w=(\s*)(\"?)(\d+)(\%?)(\"?)/ w=\"$tmp_cfds_width\"/ig;
 		$tmp_body=~ s/(\s)h=(\s*)(\"?)(\d+)(\%?)(\"?)/ h=\"$tmp_cfds_height\"/ig;
 	}
 
-	# ‘Sƒ`ƒFƒbƒN’Ê‰ß‚È‚çOK
+	# å…¨ãƒã‚§ãƒƒã‚¯é€šéãªã‚‰OK
 	return(1);
 }
 #
 #=========================================#
-# •\¦ƒ‚[ƒhİ’è—p/ƒtƒH[ƒ€‚g‚s‚l‚k
+# è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰è¨­å®šç”¨/ãƒ•ã‚©ãƒ¼ãƒ ï¼¨ï¼´ï¼­ï¼¬
 #=========================================#
 
 sub form_user_profile_html{
@@ -5406,20 +5410,20 @@ sub form_user_profile_html{
 	local($tmp_page_disp)="$FORM{'page'}";
 	$tmp_page_disp=1 if($tmp_page_disp eq "");
 
-	# •ÔM‚Ì‚Í•ÏX‚³‚ê‚é‚Æƒpƒ‰ƒ[ƒ^‚ª”²‚¯‚Ä‚µ‚Ü‚¤‚Ì‚Å
-	# •\¦‚³‚¹‚È‚¢
+	# è¿”ä¿¡ã®æ™‚ã¯å¤‰æ›´ã•ã‚Œã‚‹ã¨ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãŒæŠœã‘ã¦ã—ã¾ã†ã®ã§
+	# è¡¨ç¤ºã•ã›ãªã„
 	if($FORM{'bbsaction'} eq "disp_rep_form"){
 		return;
 	}
 
-	# ŒŸõ‚Ì‚Í•ÏX‚³‚ê‚é‚Æƒpƒ‰ƒ[ƒ^‚ª”²‚¯‚Ä‚µ‚Ü‚¤‚Ì‚Å
-	# •\¦‚³‚¹‚È‚¢
+	# æ¤œç´¢ã®æ™‚ã¯å¤‰æ›´ã•ã‚Œã‚‹ã¨ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãŒæŠœã‘ã¦ã—ã¾ã†ã®ã§
+	# è¡¨ç¤ºã•ã›ãªã„
 	if($FORM{'mode'} eq "search_menu"){
 		return;
 	}
 
 if($CIMGSIZE{'smooze_mode'} > 0){
-	$yoko_sub_setumei=" ‚ğ‚Ù‚Ú ";
+	$yoko_sub_setumei=" ã‚’ã»ã¼ ";
 }
 
 if($COOKIE{'middle_html_disp'} == 1){
@@ -5429,16 +5433,16 @@ if($COOKIE{'middle_html_disp'} == 1){
 }
 
 print<<HTML_END;
-<!--–K–âƒ†[ƒU‚ªŒÂX‚É‚a‚a‚r‚É‰æ‘œ–„‚İ‚·‚é‚©‚Ç‚¤‚©‚ğ”»’fD
-Šó–]ƒ†[ƒU‚É‚Ì‚İ‰æ‘œ‚ğ–„‚İ\•\\¦\‚·‚é,-->
+<!--è¨ªå•ãƒ¦ãƒ¼ã‚¶ãŒå€‹ã€…ã«ï¼¢ï¼¢ï¼³ã«ç”»åƒåŸ‹è¾¼ã¿ã™ã‚‹ã‹ã©ã†ã‹ã‚’åˆ¤æ–­ï¼
+å¸Œæœ›ãƒ¦ãƒ¼ã‚¶ã«ã®ã¿ç”»åƒã‚’åŸ‹è¾¼ã¿\è¡¨\ç¤º\ã™ã‚‹,-->
 <FORM ACTION="$cgi_name" METHOD="POST" style="display: inline">	
-<DIV align=right><INPUT TYPE="CHECKBOX" NAME="middle_html_disp" VALUE="1" $CHECKED_PARAM{'middle_html_disp'}><font size="+1"> Ÿ‰ñ‚©‚çà–¾È—ª(“K—p‚Å”½‰f)</font><HR>
+<DIV align=right><INPUT TYPE="CHECKBOX" NAME="middle_html_disp" VALUE="1" $CHECKED_PARAM{'middle_html_disp'}><font size="+1"> æ¬¡å›ã‹ã‚‰èª¬æ˜çœç•¥(é©ç”¨ã§åæ˜ )</font><HR>
 <TABLE BORDER=1 CELLSPACING=2 CELLPADDING=1>
 <TR $bgcolor_ie></TR>
 <TR>
 <TD WIDTH="8"></TD>
 <TD bgcolor="gray">
-<font size="-1" color="lightgreen">•\\¦ƒ‚[ƒh <BR></font>
+<font size="-1" color="lightgreen">è¡¨\ç¤ºãƒ¢ãƒ¼ãƒ‰ <BR></font>
 <INPUT TYPE="HIDDEN" NAME="bbsaction" VALUE="pf_change">
 <INPUT TYPE="HIDDEN" NAME="page" VALUE="$tmp_page_disp">
 <INPUT TYPE="HIDDEN" NAME="amode" VALUE="$FORM{'amode'}">
@@ -5450,21 +5454,21 @@ $POSTADDP{'DISPMODE'}
 <TD></TD>
 <TD align=center>
 <SELECT NAME="view_mode" $output_button_px>
-<OPTION $selected_1 value="as_cgi_defined">ŠÇ—Ò„§‚É]‚¤
-<OPTION $selected_2 value="1-text_only">ƒeƒLƒXƒg‚Ì‚İiŒy‚¢j
-<OPTION $selected_3 value="text_img_type1">ƒAƒCƒRƒ“ƒTƒCƒY
-<OPTION $selected_4 value="text_img_type2">‰¡ƒTƒCƒY $yoko_sub_setumei ŒÅ’è
-<OPTION $selected_7 value="text_img_type5">‘å‚«‚¢‚à‚Ì‚¾‚¯k¬
-<OPTION $selected_5 value="text_img_type3">Œ´¡•\\¦
-<OPTION $selected_6 value="text_img_type4">ƒI[ƒgi‚¨‚Ü‚©‚¹j
+<OPTION $selected_1 value="as_cgi_defined">ç®¡ç†è€…æ¨å¥¨ã«å¾“ã†
+<OPTION $selected_2 value="1-text_only">ãƒ†ã‚­ã‚¹ãƒˆã®ã¿ï¼ˆè»½ã„ï¼‰
+<OPTION $selected_3 value="text_img_type1">ã‚¢ã‚¤ã‚³ãƒ³ã‚µã‚¤ã‚º
+<OPTION $selected_4 value="text_img_type2">æ¨ªã‚µã‚¤ã‚º $yoko_sub_setumei å›ºå®š
+<OPTION $selected_7 value="text_img_type5">å¤§ãã„ã‚‚ã®ã ã‘ç¸®å°
+<OPTION $selected_5 value="text_img_type3">åŸå¯¸è¡¨\ç¤º
+<OPTION $selected_6 value="text_img_type4">ã‚ªãƒ¼ãƒˆï¼ˆãŠã¾ã‹ã›ï¼‰
 </SELECT>
 HTML_END
 
 if(($COOKIE{'view_mode'} eq 'as_cgi_defined')||($COOKIE{'view_mode'} eq 'text_img_type2')||($COOKIE{'view_mode'} eq 'text_img_type4')){
 print<<HTML_END;
 <SELECT NAME="viewport_set" $output_button_px>
-<OPTION $selected_01 value="as_cgi_defined">‰¡•’l („§ÃŞÊŞ²½)
-<OPTION $selected_vps{'no'} value="">w’è‚È‚µ
+<OPTION $selected_01 value="as_cgi_defined">æ¨ªå¹…å€¤ (æ¨å¥¨ï¾ƒï¾ï¾Šï¾ï½²ï½½)
+<OPTION $selected_vps{'no'} value="">æŒ‡å®šãªã—
 <OPTION $selected_vps{'480'}  value="480">480
 <OPTION $selected_vps{'640'}  value="640">640
 <OPTION $selected_vps{'720'}  value="720">720
@@ -5477,12 +5481,12 @@ print<<HTML_END;
 <OPTION $selected_vps{'1024'} value="1024">1024 (XGA/iPad)
 <OPTION $selected_vps{'1136'} value="1136">1136 (iPhone5/5S)
 <OPTION $selected_vps{'1152'} value="1152">1152
-<OPTION $selected_vps{'1280'} value="1280">1280 (iPhone6/GalaxyŒn)
+<OPTION $selected_vps{'1280'} value="1280">1280 (iPhone6/Galaxyç³»)
 <OPTION $selected_vps{'1368'} value="1368">1368 (Note PC)
 <OPTION $selected_vps{'1440'} value="1440">1440
 <OPTION $selected_vps{'1600'} value="1600">1600
 <OPTION $selected_vps{'1680'} value="1680">1680
-<OPTION $selected_vps{'1920'} value="1920">1920 (ÌÙHD)
+<OPTION $selected_vps{'1920'} value="1920">1920 (ï¾Œï¾™HD)
 <OPTION $selected_vps{'2048'} value="2048">2048 (QXGA)
 <OPTION $selected_vps{'2560'} value="2560">2560
 <OPTION $selected_vps{'device-width'} value="device-width">Dot by Dot
@@ -5510,7 +5514,7 @@ print<<HTML_END;
 <INPUT TYPE="HIDDEN" NAME="optD" VALUE="$COOKIE{'optD'}">
 <INPUT TYPE="HIDDEN" NAME="rmkey" VALUE="$COOKIE{'rmkey'}">
 <INPUT TYPE="HIDDEN" NAME="rmkeym" VALUE="$COOKIE{'rmkeym'}">
-<input ID="btnVS1" type=submit value="“K—p" $output_button_px>
+<input ID="btnVS1" type=submit value="é©ç”¨" $output_button_px>
 <!-- $vip_n --></TD>
 </FORM>
 </TR>
@@ -5521,7 +5525,7 @@ HTML_END
 }
 #
 #====================================================#
-# ã‹LƒtƒH[ƒ€‚É‚¨‚¢‚ÄAƒfƒtƒHƒ‹ƒg‚Ìƒ{ƒ^ƒ“ˆÊ’u‚ğw’è
+# ä¸Šè¨˜ãƒ•ã‚©ãƒ¼ãƒ ã«ãŠã„ã¦ã€ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ãƒœã‚¿ãƒ³ä½ç½®ã‚’æŒ‡å®š
 #====================================================#
 
 sub select_default_view_mode{
@@ -5561,11 +5565,11 @@ sub select_default_view_mode{
 }
 #
 #=====================================================#
-# ‚»‚Ì‘¼‚ÌƒTƒuƒ‹[ƒ`ƒ“
+# ãã®ä»–ã®ã‚µãƒ–ãƒ«ãƒ¼ãƒãƒ³
 #=====================================================#
 #
 #=========================#
-# ƒtƒH[ƒ€‚Ìƒ`ƒFƒbƒN
+# ãƒ•ã‚©ãƒ¼ãƒ ã®ãƒã‚§ãƒƒã‚¯
 #=========================#
 
 sub form_check{
@@ -5574,159 +5578,159 @@ sub form_check{
 
 	foreach $form(sort keys %FORM){
 
-		# ƒtƒH[ƒ€‚Ì®Œ`
-		# ƒ^ƒO‹Ö~‚Ìê‡
+		# ãƒ•ã‚©ãƒ¼ãƒ ã®æ•´å½¢
+		# ã‚¿ã‚°ç¦æ­¢ã®å ´åˆ
 		if($use_tag !=1){
-			$FORM{$form} =~ s/</&lt;/g;		# ƒ^ƒO‹Ö~
-			$FORM{$form} =~ s/>/&gt;/g;		# ƒ^ƒO‹Ö~
+			$FORM{$form} =~ s/</&lt;/g;		# ã‚¿ã‚°ç¦æ­¢
+			$FORM{$form} =~ s/>/&gt;/g;		# ã‚¿ã‚°ç¦æ­¢
 
 
-			# Stylew’è	‹Ö~
+			# StyleæŒ‡å®š	ç¦æ­¢
 			$FORM{$form} =~ s/style(\s*)=(.|\n)*/
 			Sorry..You can not use style in comment./ig;
 
 		}else{
-		# ƒ^ƒO‹–‰Â‚Ìê‡
+		# ã‚¿ã‚°è¨±å¯ã®å ´åˆ
 
-# (Œf¦”ÂƒCƒ^ƒYƒ‰‘Îô) ŠeíŠëŒ¯ƒ^ƒO‚ğœ‹
+# (æ²ç¤ºæ¿ã‚¤ã‚¿ã‚ºãƒ©å¯¾ç­–) å„ç¨®å±é™ºã‚¿ã‚°ã‚’é™¤å»
 
-# 2011.12.14 XSS‘Îô‚ÅC³
+# 2011.12.14 XSSå¯¾ç­–ã§ä¿®æ­£
 if(($FORM{$form}=~ /</)||($FORM{$form}=~ /%3C/i)||($FORM{$form}=~ />/)||($FORM{$form}=~ /%3E/i)){
-# ƒ^ƒO‚ª‚ ‚Á‚½ê‡‚Ì‚İƒ`ƒFƒbƒN‚·‚é(‚‘¬‰»)
-$FORM{$form} =~ s/<!--(.|\n)*-->//g;			# SSI“™	œ‹
+# ã‚¿ã‚°ãŒã‚ã£ãŸå ´åˆã®ã¿ãƒã‚§ãƒƒã‚¯ã™ã‚‹(é«˜é€ŸåŒ–)
+$FORM{$form} =~ s/<!--(.|\n)*-->//g;			# SSIç­‰	é™¤å»
 $FORM{$form} =~ s/<IM(A?)G(E?)(\s|\n)*SRC(.|\n)*\.(cgi|pl)(\s*)>/ig
-Sorry..You can not load IMG tag CGI in comment./ig;	# IMGƒ^ƒO CGI	œ‹
+Sorry..You can not load IMG tag CGI in comment./ig;	# IMGã‚¿ã‚° CGI	é™¤å»
 $FORM{$form} =~ s/<(\/?)COMMENT(.|\n)*>(\s*)(\n?)/
-Sorry..You can not use COMMENT tag in comment./ig;	# COMMENTƒ^ƒO	œ‹
+Sorry..You can not use COMMENT tag in comment./ig;	# COMMENTã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/ActiveXObject/
-Sorry..You can not use ActiveXObject in comment./ig;# ActiveXObject	œ‹
+Sorry..You can not use ActiveXObject in comment./ig;# ActiveXObject	é™¤å»
 $FORM{$form} =~ s/document\.cookie/
-Sorry..You can not use cookie in comment./ig;		# •s³ƒNƒbƒL[QÆ	œ‹
+Sorry..You can not use cookie in comment./ig;		# ä¸æ­£ã‚¯ãƒƒã‚­ãƒ¼å‚ç…§	é™¤å»
 $FORM{$form} =~ s/<(\/?)BGSOUND(.|\n)*>(\s*)(\n?)/
-Sorry..You can not use BGSOUND tag in comment./ig;	# BGSOUND	œ‹
+Sorry..You can not use BGSOUND tag in comment./ig;	# BGSOUND	é™¤å»
 $FORM{$form} =~ s/(<|%3C)(\/?)FORM(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use FORM tag in comment./ig;		# FORM		œ‹
+Sorry..You can not use FORM tag in comment./ig;		# FORM		é™¤å»
 $FORM{$form} =~ s/<(\/?)MARQUEE(.|\n)*>(\s*)(\n?)/
-Sorry..You can not use MARQUEE tag in comment./ig;	# ƒ}[ƒL[	œ‹
+Sorry..You can not use MARQUEE tag in comment./ig;	# ãƒãƒ¼ã‚­ãƒ¼	é™¤å»
 $FORM{$form} =~ s/(<|%3C)(\/?)INPUT(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use FORM element tag in comment./ig;# FORM—v‘f	œ‹
+Sorry..You can not use FORM element tag in comment./ig;# FORMè¦ç´ 	é™¤å»
 $FORM{$form} =~ s/(<|%3C)(\/?)SELECT(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use FORM element tag in comment./ig;# SELECTƒ^ƒO	œ‹
+Sorry..You can not use FORM element tag in comment./ig;# SELECTã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/(<|%3C)(\/?)applet(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use JAVA in comment./ig;		# APPLET œ‹
-$FORM{$form} =~ s/(<|%3C)META(.+)Refresh(.|\n)*(>|%3E)(\s*)(\n?)//ig;#METAƒ^ƒO”ò‚Î‚µ‹Ö~
-# youTube‚Ì–„‚ß‚İ‚Å‘Î‰
-# embed ‚Æ‚©Aobjectƒ^ƒO‚ÍŠëŒ¯‚È‚Ì‚ÅAƒ`ƒFƒbƒN‚ÍŒµ–§‚É‚·‚é
+Sorry..You can not use JAVA in comment./ig;		# APPLET é™¤å»
+$FORM{$form} =~ s/(<|%3C)META(.+)Refresh(.|\n)*(>|%3E)(\s*)(\n?)//ig;#METAã‚¿ã‚°é£›ã°ã—ç¦æ­¢
+# youTubeã®åŸ‹ã‚è¾¼ã¿ã§å¯¾å¿œ
+# embed ã¨ã‹ã€objectã‚¿ã‚°ã¯å±é™ºãªã®ã§ã€ãƒã‚§ãƒƒã‚¯ã¯å³å¯†ã«ã™ã‚‹
 if(($use_youtube_tag_in_comment == 1)&&($form=~ /body/i)&&($FORM{$form}=~ /application\/x-shockwave-flash/i)){
  if(&check_youTube_tag("$FORM{$form}","$yt_check_level")==1){
-	# ƒ`ƒFƒbƒN–Æœ
+	# ãƒã‚§ãƒƒã‚¯å…é™¤
 
  }else{
 $FORM{$form} =~ s/(<|%3C)(\/?)OBJECT(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use OBJECT tag in comment./ig;	# OBJECT(ActiveX) œ‹
+Sorry..You can not use OBJECT tag in comment./ig;	# OBJECT(ActiveX) é™¤å»
 $FORM{$form} =~ s/(<|%3C)(\/?)EMBED(.+)SRC(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use EMBED tag in comment./ig;	# EMBEDƒ^ƒO	œ‹
+Sorry..You can not use EMBED tag in comment./ig;	# EMBEDã‚¿ã‚°	é™¤å»
  }
 
-# Šî–{‚Í‹Ö~
+# åŸºæœ¬ã¯ç¦æ­¢
 }else{
 $FORM{$form} =~ s/(<|%3C)(\/?)OBJECT(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use OBJECT tag in comment./ig;	# OBJECT(ActiveX) œ‹
+Sorry..You can not use OBJECT tag in comment./ig;	# OBJECT(ActiveX) é™¤å»
 $FORM{$form} =~ s/(<|%3C)(\/?)EMBED(.+)SRC(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use EMBED tag in comment./ig;	# EMBEDƒ^ƒO	œ‹
+Sorry..You can not use EMBED tag in comment./ig;	# EMBEDã‚¿ã‚°	é™¤å»
 }
 
-# iframeƒ^ƒO‚Ìƒ`ƒFƒbƒN 2011.06
-# youtube,Dailymotion,ustream,nicovideo‚È‚Ç‚ğ‹–‰Â‚·‚é
+# iframeã‚¿ã‚°ã®ãƒã‚§ãƒƒã‚¯ 2011.06
+# youtube,Dailymotion,ustream,nicovideoãªã©ã‚’è¨±å¯ã™ã‚‹
 if(&check_iframe_tag("$FORM{$form}","$yt_check_level")==1){
-	# ƒ`ƒFƒbƒN–Æœ
+	# ãƒã‚§ãƒƒã‚¯å…é™¤
 
-# Šî–{‚Í‹Ö~
+# åŸºæœ¬ã¯ç¦æ­¢
 }else{
 $FORM{$form} =~ s/(<|%3C)(\/?)iframe(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use IFRAME tag in comment./ig;	# IFRAMEƒ^ƒO	œ‹
+Sorry..You can not use IFRAME tag in comment./ig;	# IFRAMEã‚¿ã‚°	é™¤å»
 }
 
-# scriptƒ^ƒO‚Ìƒ`ƒFƒbƒNisub check_script_tag‚Æ‚µ‚Ä“Æ—§‚³‚¹‚½j
-# ƒjƒRƒjƒR‚ÌŠO•”ƒvƒŒƒCƒ„[–„‚ß‚İ‚ÆƒŠƒR[Theta360“™‚Å”­‰Î‚·‚é
+# scriptã‚¿ã‚°ã®ãƒã‚§ãƒƒã‚¯ï¼ˆsub check_script_tagã¨ã—ã¦ç‹¬ç«‹ã•ã›ãŸï¼‰
+# ãƒ‹ã‚³ãƒ‹ã‚³ã®å¤–éƒ¨ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼åŸ‹ã‚è¾¼ã¿ã¨ãƒªã‚³ãƒ¼Theta360ç­‰ã§ç™ºç«ã™ã‚‹
 if(&check_script_tag("$FORM{$form}","$yt_check_level")==1){
-	# ƒ`ƒFƒbƒN–Æœ(ÀÛ‚Í‚±‚ÌƒP[ƒX‚Í‚È‚¢)
+	# ãƒã‚§ãƒƒã‚¯å…é™¤(å®Ÿéš›ã¯ã“ã®ã‚±ãƒ¼ã‚¹ã¯ãªã„)
 }else{
-# 2011.12.14 XSS‘Îô‚ÅC³
+# 2011.12.14 XSSå¯¾ç­–ã§ä¿®æ­£
 $FORM{$form} =~ s/(<|%3C)(\/?)script(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use SCRIPT tag in comment./ig;	# Javascript,VBscript œ‹
+Sorry..You can not use SCRIPT tag in comment./ig;	# Javascript,VBscript é™¤å»
 }
 
 $FORM{$form} =~ s/(<|%3C)(\/?)SERVER(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use SERVER tag in comment./ig;	# SERVERƒ^ƒO	œ‹
+Sorry..You can not use SERVER tag in comment./ig;	# SERVERã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/<(\/?)plaintext(.|\n)*>(\s*)(\n?)/
-Sorry..You can not use plaintext tag in comment./ig;	# PLAINTEXTƒ^ƒO	œ‹
+Sorry..You can not use plaintext tag in comment./ig;	# PLAINTEXTã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/<(\/?)xmp(.|\n)*>(\s*)(\n?)/
-Sorry..You can not use xmp tag in comment./ig;		# XMPƒ^ƒO	œ‹
+Sorry..You can not use xmp tag in comment./ig;		# XMPã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/<(\/?)strike(.|\n)*>(\s*)(\n?)/
-Sorry..You can not use strike tag in comment./ig;	# STRIKEƒ^ƒO	œ‹
+Sorry..You can not use strike tag in comment./ig;	# STRIKEã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/<s>/
-Sorry..You can not use strike tag in comment./ig;	# STRIKEƒ^ƒO	œ‹
+Sorry..You can not use strike tag in comment./ig;	# STRIKEã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/<(\/?)listing(.|\n)*>(\s*)(\n?)/
-Sorry..You can not use listing tag in comment./ig;	# LISTINGƒ^ƒO	œ‹
+Sorry..You can not use listing tag in comment./ig;	# LISTINGã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/(<|%3C)(\/?)BODY(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use BODY tag in comment./ig;		# BODYƒ^ƒO	œ‹
+Sorry..You can not use BODY tag in comment./ig;		# BODYã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/<(\/?)TITLE(.|\n)*>(\s*)(\n?)/
-Sorry..You can not use TITLE tag in comment./ig;	# TITLEƒ^ƒO	œ‹
+Sorry..You can not use TITLE tag in comment./ig;	# TITLEã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/<(\/?)BASEFONT(.|\n)*>(\s*)(\n?)/
-Sorry..You can not use BASEFONT tag in comment./ig;	# BASEFONTƒ^ƒO	œ‹
+Sorry..You can not use BASEFONT tag in comment./ig;	# BASEFONTã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/(<|%3C)(\/?)frame(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use FRAME tag in comment./ig;	# FRAMEƒ^ƒO	œ‹
+Sorry..You can not use FRAME tag in comment./ig;	# FRAMEã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/(<|%3C)(\/?)HTML(.|\n)*(>|%3E)(\s*)(\n?)/
-Sorry..You can not use HTML tag in comment./ig;		# HTML•Âƒ^ƒO	œ‹
+Sorry..You can not use HTML tag in comment./ig;		# HTMLé–‰ã‚¿ã‚°	é™¤å»
 $FORM{$form} =~ s/(\/?)COMMENT(.|\n)*>(\s*)(\n?)/
-Sorry..You can not use COMMENT tag in comment./ig;	# COMMENTƒ^ƒO	œ‹
+Sorry..You can not use COMMENT tag in comment./ig;	# COMMENTã‚¿ã‚°	é™¤å»
 	}
-# ƒ^ƒO‚ª‚ ‚Á‚Ä‚à‚È‚­‚Ä‚à’²‚×‚é
+# ã‚¿ã‚°ãŒã‚ã£ã¦ã‚‚ãªãã¦ã‚‚èª¿ã¹ã‚‹
 #unless(($form eq "body")||($form eq "subject")||($form eq "view_mode")||($form eq "name")){
 if($FORM{$form} =~ /style(\s*)(\=|%3d)(.|\n)*font\-size:(\s*)(\d+)px/){
  if($4 > 48){
 $FORM{$form} =~ s/style(\s*)(\=|%3d)(.|\n)*/
-Sorry..You can not use style in tag on comment./ig;	# Stylew’è	‹Ö~
+Sorry..You can not use style in tag on comment./ig;	# StyleæŒ‡å®š	ç¦æ­¢
  }
 }
 if($FORM{$form} =~ /style(\s*)(\=|%3d)(.|\n)*script/){
 $FORM{$form} =~ s/style(\s*)(\=|%3d)(.|\n)*script/
-Sorry..You can not use style in tag on comment./ig;	# Stylew’è	‹Ö~
+Sorry..You can not use style in tag on comment./ig;	# StyleæŒ‡å®š	ç¦æ­¢
 }
-# visibilityˆ«—p“™
+# visibilityæ‚ªç”¨ç­‰
 if($FORM{$form} =~ /style(\s*)(\=|%3d)(.|\n)*bility/){
 $FORM{$form} =~ s/style(\s*)(\=|%3d)(.|\n)*bility/
-Sorry..You can not use style in tag on comment./ig;	# Stylew’è	‹Ö~
+Sorry..You can not use style in tag on comment./ig;	# StyleæŒ‡å®š	ç¦æ­¢
 }
 
-# ƒAƒ_ƒ‹ƒg“®‰æƒTƒCƒgƒ^ƒO‚Ìƒ`ƒFƒbƒN
+# ã‚¢ãƒ€ãƒ«ãƒˆå‹•ç”»ã‚µã‚¤ãƒˆã‚¿ã‚°ã®ãƒã‚§ãƒƒã‚¯
 #&check_douga_tag("$FORM{$form}");
 
 $FORM{$form} =~ s/(.|\n)*(onClick|onblur|onchange|onmouse|onError|onload|onfocus|onselect|onsubmit|onunload|onreset|onabort|ondblclick|onkey|ondragdrop)(\w{0,8})(\s*)(\=|%3d)/
-(imgboardƒZƒLƒ…ƒŠƒeƒB•ÛŒìƒVƒXƒeƒ€)Sorry..You can not use char <B><font color=red>$2<\/font><\/B> in comment./ig;	# onClick“™javascriptƒCƒxƒ“ƒg‚ğœ‹(ƒNƒƒXƒTƒCƒgƒXƒNƒŠƒvƒeƒBƒ“ƒO‘Îô)
+(imgboardã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ä¿è­·ã‚·ã‚¹ãƒ†ãƒ )Sorry..You can not use char <B><font color=red>$2<\/font><\/B> in comment./ig;	# onClickç­‰javascriptã‚¤ãƒ™ãƒ³ãƒˆã‚’é™¤å»(ã‚¯ãƒ­ã‚¹ã‚µã‚¤ãƒˆã‚¹ã‚¯ãƒªãƒ—ãƒ†ã‚£ãƒ³ã‚°å¯¾ç­–)
 #}
-#ŠëŒ¯ƒ^ƒOœ‹‚±‚±‚Ü‚Å
-			# IMGƒ^ƒO‚Ì–„‚İ‚ğ‰Â”ÛH
+#å±é™ºã‚¿ã‚°é™¤å»ã“ã“ã¾ã§
+			# IMGã‚¿ã‚°ã®åŸ‹è¾¼ã¿ã‚’å¯å¦ï¼Ÿ
 			if($use_img_tag_in_comment !=1){
-#				$FORM{$form} =~ s/<IM(A?)G(E?)(\s|\n)*SRC(.|\n)*>(\s*)(\n?)/Sorry..You can not use IMG tag in comment./gi;#IMGƒ^ƒOœ‹
-				$FORM{$form} =~ s/<IM(A?)G(E?)(\s|\n)*SRC(.|\n)*?>/Sorry..You can not use IMG tag in comment./gi;#IMGƒ^ƒOœ‹
+#				$FORM{$form} =~ s/<IM(A?)G(E?)(\s|\n)*SRC(.|\n)*>(\s*)(\n?)/Sorry..You can not use IMG tag in comment./gi;#IMGã‚¿ã‚°é™¤å»
+				$FORM{$form} =~ s/<IM(A?)G(E?)(\s|\n)*SRC(.|\n)*?>/Sorry..You can not use IMG tag in comment./gi;#IMGã‚¿ã‚°é™¤å»
 			}else{
-			# IMGƒ^ƒO‚ğ–„‚Şê‡‚ÍŠO•”‰æ‘œ‰æ‘œ‚Å‚ ‚é‚±‚Æ‚ğ–¾‹L‚·‚éB
+			# IMGã‚¿ã‚°ã‚’åŸ‹è¾¼ã‚€å ´åˆã¯å¤–éƒ¨ç”»åƒç”»åƒã§ã‚ã‚‹ã“ã¨ã‚’æ˜è¨˜ã™ã‚‹ã€‚
 				if(($form eq 'body')&&($FORM{$form}=~ /<IMA?GE?(\s)*SRC(.*)>/i)){
-					$FORM{$form} =~ s/ALT(\s)*=(\s)*\"(.+)\"/ /ig;	#ALTœ‹
-					$FORM{$form} =~ s/ALT(\s)*=(\s)*([^>]+)/ /ig;	#ALTœ‹
-					$FORM{$form} =~ s/border(\s)*=(\s)*([^>]+)/ /ig;#Borderœ‹
-					$FORM{$form} =~ s/<IMA?GE?\s*SRC\s?=\s*(\S*)(\s*)>/<IMG SRC=$1 ALT="‚±‚Ì‰æ‘œ‚ÍŠO•”‚v‚v‚vƒT[ƒo‚Ì‰æ‘œ‚Å‚·" Border=0>ŠO•”‰æ‘œ /ig;
+					$FORM{$form} =~ s/ALT(\s)*=(\s)*\"(.+)\"/ /ig;	#ALTé™¤å»
+					$FORM{$form} =~ s/ALT(\s)*=(\s)*([^>]+)/ /ig;	#ALTé™¤å»
+					$FORM{$form} =~ s/border(\s)*=(\s)*([^>]+)/ /ig;#Borderé™¤å»
+					$FORM{$form} =~ s/<IMA?GE?\s*SRC\s?=\s*(\S*)(\s*)>/<IMG SRC=$1 ALT="ã“ã®ç”»åƒã¯å¤–éƒ¨ï¼·ï¼·ï¼·ã‚µãƒ¼ãƒã®ç”»åƒã§ã™" Border=0>å¤–éƒ¨ç”»åƒ /ig;
 				}
 			}
 		}
-		$FORM{$form} =~ s/\r//g;		#CRœ‹
-		$FORM{$form} =~ s/\n/<BR>/g;		#LF‚ğ<BR>‚É
-		$FORM{$form} =~ s/\t//g;		#TAB‚Ìœ‹
+		$FORM{$form} =~ s/\r//g;		#CRé™¤å»
+		$FORM{$form} =~ s/\n/<BR>/g;		#LFã‚’<BR>ã«
+		$FORM{$form} =~ s/\t//g;		#TABã®é™¤å»
 	}
 
-	# ƒtƒH[ƒ€‚Ì’l‚ğ‘ã“ü
+	# ãƒ•ã‚©ãƒ¼ãƒ ã®å€¤ã‚’ä»£å…¥
 	$name      	= "$FORM{'name'}";
 	$email     	= "$FORM{'email'}";
 	$subject   	= "$FORM{'subject'}";
@@ -5735,64 +5739,64 @@ $FORM{$form} =~ s/(.|\n)*(onClick|onblur|onchange|onmouse|onError|onload|onfocus
 	$imgtitle 	= "$FORM{'imgtitle'}";
 	$img_location	= "$img_dir/$new_fname" if $new_fname ne '';
 
-	#<ƒtƒH[ƒ€‚Ì—L–³‚Ìƒ`ƒFƒbƒN>
-	# Šî–{“I‚Éƒ`ƒFƒbƒN‚·‚éB‚½‚¾‚µAƒvƒƒtƒ@ƒCƒ‹“o˜^‚¾‚¯‚ğs‚¤
-	# ƒ†[ƒU‚Ìê‡‚Í–¼‘O‚âemail‚ğƒ`ƒFƒbƒN‚µ‚È‚¢B
+	#<ãƒ•ã‚©ãƒ¼ãƒ ã®æœ‰ç„¡ã®ãƒã‚§ãƒƒã‚¯>
+	# åŸºæœ¬çš„ã«ãƒã‚§ãƒƒã‚¯ã™ã‚‹ã€‚ãŸã ã—ã€ãƒ—ãƒ­ãƒ•ã‚¡ã‚¤ãƒ«ç™»éŒ²ã ã‘ã‚’è¡Œã†
+	# ãƒ¦ãƒ¼ã‚¶ã®å ´åˆã¯åå‰ã‚„emailã‚’ãƒã‚§ãƒƒã‚¯ã—ãªã„ã€‚
 	if($FORM{'bbsaction'} ne 'pf_change'){
 		&check_form_data_exist;
 	}
 
-	#<‘‰üs‚Ìƒ`ƒFƒbƒN> 2004.05
-	# –³ˆÓ–¡‚È˜A‘±‰üs‘Îô‚ÅA‘s”‚ğƒ`ƒFƒbƒN‚·‚éB
+	#<ç·æ”¹è¡Œã®ãƒã‚§ãƒƒã‚¯> 2004.05
+	# ç„¡æ„å‘³ãªé€£ç¶šæ”¹è¡Œå¯¾ç­–ã§ã€ç·è¡Œæ•°ã‚’ãƒã‚§ãƒƒã‚¯ã™ã‚‹ã€‚
 	if($limit_body_cols_flag ==1){
 #		&check_max_cols($body,$body_text_max_cols);
 	}
 
-	# 2011.09 youbu.be–„‚ß‚İ“ñ‚Â‚È‚çƒAƒ{[ƒg
+	# 2011.09 youbu.beåŸ‹ã‚è¾¼ã¿äºŒã¤ãªã‚‰ã‚¢ãƒœãƒ¼ãƒˆ
 	if($body=~ /youtu\.be(.|\n)*youtu\.be/i){
-		&error(" ƒGƒ‰[Byoutu.be‚ÌURL‚Í•¡”–„‚ß‚İ‚Å‚«‚Ü‚¹‚ñB‚Ğ‚Æ‚Â‚É‚µ‚Ä‚­‚¾‚³‚¢B ");
+		&error(" ã‚¨ãƒ©ãƒ¼ã€‚youtu.beã®URLã¯è¤‡æ•°åŸ‹ã‚è¾¼ã¿ã§ãã¾ã›ã‚“ã€‚ã²ã¨ã¤ã«ã—ã¦ãã ã•ã„ã€‚ ");
 	}
 
-	# 2013.02 mailƒAƒhƒŒƒX‚ª‚ ‚éê‡‚ÍA‚¨‚»‚ç‚­ƒXƒpƒ€‚È‚Ì‚ÅƒAƒ{[ƒg
+	# 2013.02 mailã‚¢ãƒ‰ãƒ¬ã‚¹ãŒã‚ã‚‹å ´åˆã¯ã€ãŠãã‚‰ãã‚¹ãƒ‘ãƒ ãªã®ã§ã‚¢ãƒœãƒ¼ãƒˆ
 	if(($PM{'no_post_by_form_email_post'} == 1)&&($email ne '')){
-		&error(" ƒGƒ‰[BƒXƒpƒ€‚Ì‹^‚¢‚ª‚ ‚é‚Ì‚ÅA“Še‚ª¸”s‚µ‚Ü‚µ‚½B ");
+		&error(" ã‚¨ãƒ©ãƒ¼ã€‚ã‚¹ãƒ‘ãƒ ã®ç–‘ã„ãŒã‚ã‚‹ã®ã§ã€æŠ•ç¨¿ãŒå¤±æ•—ã—ã¾ã—ãŸã€‚ ");
 	}
 
-	$name	 =' –³–¼ '      if $name eq '';
+	$name	 =' ç„¡å '      if $name eq '';
 	$email   =' no_email'   if $email eq '';
-	$subject =' –³‘è '      if $subject eq '';
-	$body    =' –{•¶‚È‚µ '  if $body eq '';
+	$subject =' ç„¡é¡Œ '      if $subject eq '';
+	$body    =' æœ¬æ–‡ãªã— '  if $body eq '';
 	$rmkey  ='no_key'  	if $rmkey eq '';
 
-# ’Ç‰Á€–Ú‚É–¢‹L“ü‚Ìê‡‚ÌƒfƒtƒHƒ‹ƒg’l‚ÍˆÈ‰º‚Ì‘‚«•û‚ğQl‚É‚µ‚Ä‚­‚¾‚³‚¢
-#	$FORM{'optA'} =' –³‘è '      if $FORM{'optA'} eq '';
+# è¿½åŠ é …ç›®ã«æœªè¨˜å…¥ã®å ´åˆã®ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ã¯ä»¥ä¸‹ã®æ›¸ãæ–¹ã‚’å‚è€ƒã«ã—ã¦ãã ã•ã„
+#	$FORM{'optA'} =' ç„¡é¡Œ '      if $FORM{'optA'} eq '';
 
-	# –{•¶‚Éƒ†[ƒUî•ñ‚ğŠÜ‚ß‚é
+	# æœ¬æ–‡ã«ãƒ¦ãƒ¼ã‚¶æƒ…å ±ã‚’å«ã‚ã‚‹
 
-	# ˆÃ†‰»
+	# æš—å·åŒ–
  	if($crypt_RH ne ""){
 		$crypt_RH=&tiny_encode("$crypt_RH");
 	}
-	$body    = "$body<!-- userF $crypt_RH-->";
+	$body    = "$body<!-- userï¼š $crypt_RH-->";
 
-        # ‚¢‚½‚¸‚ç–h~ (99/12/01 ’Ç‰Á•ª)
+        # ã„ãŸãšã‚‰é˜²æ­¢ (99/12/01 è¿½åŠ åˆ†)
         $email   =~ s/"/&quot;/g;
         $email   =~ s/style(\s*)=(.|\n)*//ig;
 	
 	if($PM{'use_trip_flag'}==1){
 
-		# C³‹L–‘I‘ğ‰æ–Ê‚È‚ç‹U”»’è‚µ‚È‚¢
+		# ä¿®æ­£è¨˜äº‹é¸æŠç”»é¢ãªã‚‰å½åˆ¤å®šã—ãªã„
 		if(($FORM{'amode'} eq "select_edit")&&($FORM{'bbsaction'} ne "edit_form")){
-		# ’Êí‚È‚ç‹U”»’è‚·‚é
+		# é€šå¸¸ãªã‚‰å½åˆ¤å®šã™ã‚‹
 		}else{
-	  		$name =~ s/Ÿ/‹U/g; # ‹U•¨‚Í”’‚É‚·‚é
+	  		$name =~ s/â—†/â—‡å½/g; # å½ç‰©ã¯ç™½â—‡ã«ã™ã‚‹
 		}
 
-		#2010.02 trip‹@”\(‚È‚è‚·‚Ü‚µ–h~)‚ğ‚Â‚¯‚é
+		#2010.02 tripæ©Ÿèƒ½(ãªã‚Šã™ã¾ã—é˜²æ­¢)ã‚’ã¤ã‘ã‚‹
 		if($name=~ /^(.+)\#(.+)$/g){
 			$name		=$1;
 			$trip_plain =$2;
-			$trip_plain 	=~ s/@//g;# ‘SŠpƒtƒBƒ‹ƒ^
+			$trip_plain 	=~ s/ã€€//g;# å…¨è§’ãƒ•ã‚£ãƒ«ã‚¿
 			$trip_plain 	=~ s/\s//g;
  		
 			if($trip_plain ne ""){
@@ -5802,7 +5806,7 @@ $FORM{$form} =~ s/(.|\n)*(onClick|onblur|onchange|onmouse|onError|onload|onfocus
 		 	$salt =~ tr/:;<=>?@[\\]^_`/ABCDEFGabcdef/;
 		 	$trip = crypt($trip_plain,$salt);
 		 	$trip = substr($trip,-5);
-		 	$trip = 'Ÿ'."$trip";
+		 	$trip = 'â—†'."$trip";
 		 	$name="$name"."$trip";
 #&error("$name");
 			}
@@ -5819,12 +5823,12 @@ $FORM{$form} =~ s/(.|\n)*(onClick|onblur|onchange|onmouse|onError|onload|onfocus
 }
 #
 #========================#
-# ˆÃ†‰»ƒpƒXƒ[ƒh‚ğì¬
+# æš—å·åŒ–ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’ä½œæˆ
 #========================#
 #
 sub make_pass{
 
-	local($plain) = @_;# ˆø”
+	local($plain) = @_;# å¼•æ•°
 	local($salt);
 	local($tmp_pass);
 
@@ -5834,7 +5838,7 @@ sub make_pass{
 	}
 
 	$salt="$ENV{'PROCESSOR_REVISION'}"."$plain";
-	if($plain=~ /^ZzZ/){	# 2dˆÃ†‰»‚ğ–h‚®
+	if($plain=~ /^ZzZ/){	# 2é‡æš—å·åŒ–ã‚’é˜²ã
 		$tmp_pass = "$plain";
 	}elsif($plain=~ /^(\s*)$/){
 		$tmp_pass = "";
@@ -5846,11 +5850,11 @@ sub make_pass{
 }
 #
 sub tiny_encode{
-	local($plain) = @_;# ˆø”
+	local($plain) = @_;# å¼•æ•°
 	 return($plain) if($plain=~ /\,/);
   	 $plain =~ s/n/\,/ig;
     	 $plain =~ tr/a-m/b-n/;
-   	 $plain =~ tr/A-M/B-N/; # 2002.12 ©‘îƒT[ƒo‘Î‰‚Å’Ç‰Á
+   	 $plain =~ tr/A-M/B-N/; # 2002.12 è‡ªå®…ã‚µãƒ¼ãƒå¯¾å¿œã§è¿½åŠ 
   	 $plain =~ s/\,/a/ig;
    	 $plain =~ s/4/\,/g;
     	 $plain =~ tr/0-3/1-4/;
@@ -5860,12 +5864,12 @@ sub tiny_encode{
 }
 
 sub tiny_decode{
-	local($plain) = @_;# ˆø”
+	local($plain) = @_;# å¼•æ•°
 	 if($plain=~ /T-Enc(.*)$/){
 	  $plain = $1;
 	  $plain =~ s/a/\,/ig;
     	  $plain =~ tr/b-n/a-m/;
-   	  $plain =~ tr/B-N/A-M/; # 2002.12 ©‘îƒT[ƒo‘Î‰‚Å’Ç‰Á
+   	  $plain =~ tr/B-N/A-M/; # 2002.12 è‡ªå®…ã‚µãƒ¼ãƒå¯¾å¿œã§è¿½åŠ 
   	  $plain =~ s/\,/n/ig;
    	  $plain =~ s/0/\,/g;
     	  $plain =~ tr/1-4/0-3/;
@@ -5874,15 +5878,15 @@ sub tiny_decode{
 	 return($plain);
 }
 #===============================#
-# ƒtƒH[ƒ€‚Ì“ü—Í€–Ú‚Ìƒ`ƒFƒbƒN
+# ãƒ•ã‚©ãƒ¼ãƒ ã®å…¥åŠ›é …ç›®ã®ãƒã‚§ãƒƒã‚¯
 #===============================#
-# 2001.03.11 •ÔM‚É‘Î‰
-# 2001.09.20 ƒGƒ‰[ƒƒbƒZ[ƒW‚ğİ’èƒGƒŠƒA‚ÖˆÚ“®
-# 2002.06.07 ‰æ‘œ‚ğ•K{‚É‚µ‚½‚ÉA‹L–‚ÌC³‚ÅƒGƒ‰[‚ªo‚éƒoƒO‚É‘Îˆ
+# 2001.03.11 è¿”ä¿¡ã«å¯¾å¿œ
+# 2001.09.20 ã‚¨ãƒ©ãƒ¼ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’è¨­å®šã‚¨ãƒªã‚¢ã¸ç§»å‹•
+# 2002.06.07 ç”»åƒã‚’å¿…é ˆã«ã—ãŸæ™‚ã«ã€è¨˜äº‹ã®ä¿®æ­£ã§ã‚¨ãƒ©ãƒ¼ãŒå‡ºã‚‹ãƒã‚°ã«å¯¾å‡¦
 #
 sub check_form_data_exist{
 #
-	# —\”õƒpƒ‰ƒ[ƒ^‚ğ•K{‚É‚µ‚½ê‡‚Ì‚½‚ß‚ÌƒGƒ‰[
+	# äºˆå‚™ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’å¿…é ˆã«ã—ãŸå ´åˆã®ãŸã‚ã®ã‚¨ãƒ©ãƒ¼
 	local($tmp_p_key);
 	foreach $p_key(keys %CHECK){
 	  if($CHECK{$p_key} == 1 ){
@@ -5891,9 +5895,9 @@ sub check_form_data_exist{
 	    if($FORM{$tmp_p_key} eq  ''){
 		$error_message .= "$CHECK_E{$p_key}";
 	    }
-	   # “Y•t‰æ‘œ‚ÌƒGƒ‰[‚ÍA•K{İ’è‚È‚Ì‚É
-	   # ‰æ‘œ‚ª‚È‚­‚ÄAe‚Ì‚¾‚¯ƒGƒ‰[‚ğo‚·
-	   # C³‰æ–Ê‚Ì‚ÍAƒGƒ‰[‚ğo‚³‚È‚¢(2002.06.07)
+	   # æ·»ä»˜ç”»åƒã®ã‚¨ãƒ©ãƒ¼ã¯ã€å¿…é ˆè¨­å®šãªã®ã«
+	   # ç”»åƒãŒãªãã¦ã€è¦ªã®æ™‚ã ã‘ã‚¨ãƒ©ãƒ¼ã‚’å‡ºã™
+	   # ä¿®æ­£ç”»é¢ã®æ™‚ã¯ã€ã‚¨ãƒ©ãƒ¼ã‚’å‡ºã•ãªã„(2002.06.07)
 	   }elsif($p_key eq "img"){
 	    if(($img_data_exists != '1')&&($FORM{'parent'} eq "")&&($FORM{'prebbsaction'} ne 'edit_form')){
 		$error_message .= "$CHECK_E{'img'}";
@@ -5908,17 +5912,17 @@ sub check_form_data_exist{
 }
 #
 #==========================================#
-# ƒtƒH[ƒ€‚Ì“ü—Í€–Ú‚ÌÈ—ª‰ÂE•K{‚ğ©“®•\¦
+# ãƒ•ã‚©ãƒ¼ãƒ ã®å…¥åŠ›é …ç›®ã®çœç•¥å¯ãƒ»å¿…é ˆã‚’è‡ªå‹•è¡¨ç¤º
 #==========================================#
 #
 sub auto_omit_disp{
 
-	# ƒpƒ‰ƒ[ƒ^ƒfƒtƒHƒ‹ƒg‚ğw’è
+	# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã‚’æŒ‡å®š
 	if($auto_disp_omit_frag ne '1'){
 		$auto_disp_omit_frag=0;
 	}
-	local($html_h)="<font $f_param>*•K—v</font>"; 		# •K{‚Ìê‡
-	local($html_s)="<font $f_param>*È—ª‰Â</font>";  	# È—ª‰Â”\‚Èê‡
+	local($html_h)="<font $f_param>*å¿…è¦</font>"; 		# å¿…é ˆã®å ´åˆ
+	local($html_s)="<font $f_param>*çœç•¥å¯</font>";  	# çœç•¥å¯èƒ½ãªå ´åˆ
 	if($auto_disp_omit_frag eq "1"){
 		foreach (keys %CHECK){
 		    if($CHECK{$_}==1){
@@ -5931,33 +5935,33 @@ sub auto_omit_disp{
 }
 #
 #============================#
-# “o˜^‰ïˆõƒpƒXƒ[ƒhƒ`ƒFƒbƒN
+# ç™»éŒ²ä¼šå“¡ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãƒã‚§ãƒƒã‚¯
 #============================#
-# ‰ïˆõƒpƒX‚ªˆê’v‚µ‚È‚¢‚Æ‚«‚¾‚¯AƒGƒ‰[‚ğo‚µ‚ÄƒAƒ{[ƒg‚·‚é
+# ä¼šå“¡ãƒ‘ã‚¹ãŒä¸€è‡´ã—ãªã„ã¨ãã ã‘ã€ã‚¨ãƒ©ãƒ¼ã‚’å‡ºã—ã¦ã‚¢ãƒœãƒ¼ãƒˆã™ã‚‹
 # 2002.03.24 update
-# ‰ïˆõƒpƒXƒ[ƒh‚ğ•¡”İ’è‚Å‚«‚é‚æ‚¤‚É‚µ‚½
+# ä¼šå“¡ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’è¤‡æ•°è¨­å®šã§ãã‚‹ã‚ˆã†ã«ã—ãŸ
 sub check_entry_passwd{
 
 	local($w_pattern);
 
-	# ‰ïˆõƒpƒXƒ[ƒhƒ`ƒFƒbƒN
+	# ä¼šå“¡ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãƒã‚§ãƒƒã‚¯
 	if($use_passwd_flag==1){
 
-	  # ŠÇ—ÒƒpƒX‚Å‚à“Še‚Å‚«‚é‚æ‚¤‚É‚µ‚½
+	  # ç®¡ç†è€…ãƒ‘ã‚¹ã§ã‚‚æŠ•ç¨¿ã§ãã‚‹ã‚ˆã†ã«ã—ãŸ
 	  if(&check_passwd("$FORM{'entry_passwd'}","$admin_passwd","0")==1){
 		return;
 	  }
 	  
-	  # •ÔM‚ÍƒpƒXƒ[ƒh•s—v‚Ìê‡AƒXƒLƒbƒv
+	  # è¿”ä¿¡ã¯ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ä¸è¦ã®å ´åˆã€ã‚¹ã‚­ãƒƒãƒ—
 	  if(($PM{'res_no_passwd_flag'}== 1)&&($FORM{'prebbsaction'} eq 'disp_rep_form')){
 		return;
 	  }
 	  
 	  if("$FORM{'entry_passwd'}" eq ""){
-	    &error(" ‰ïˆõƒpƒXƒ[ƒh‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢D“Še‚ÍƒLƒƒƒ“ƒZƒ‹‚³‚ê‚Ü‚µ‚½D","","1");
+	    &error(" ä¼šå“¡ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ï¼æŠ•ç¨¿ã¯ã‚­ãƒ£ãƒ³ã‚»ãƒ«ã•ã‚Œã¾ã—ãŸï¼","","1");
 	  }
 
-	  if($member_passwd ne ""){ # ‰ß‹ƒ‹[ƒ`ƒ“ŒİŠ·‚É‚·‚é
+	  if($member_passwd ne ""){ # éå»ãƒ«ãƒ¼ãƒãƒ³äº’æ›ã«ã™ã‚‹
 		push(@MEMBER_PASSWD,$member_passwd);
 	  }
 	  foreach (@MEMBER_PASSWD){
@@ -5968,28 +5972,28 @@ sub check_entry_passwd{
 	     }
 	    }
 	 }
-	 &error(" ‰ïˆõƒpƒXƒ[ƒh‚ªˆá‚¢‚Ü‚·D“Še‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½D","","1");
+	 &error(" ä¼šå“¡ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãŒé•ã„ã¾ã™ï¼æŠ•ç¨¿ã§ãã¾ã›ã‚“ã§ã—ãŸï¼","","1");
 	}
 }
 #
 #============================#
-# ƒpƒXƒ[ƒhÆ‡
+# ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ç…§åˆ
 #============================#
 # 2002.04.01 UPDATE
-# ˆø”1,2‚ğÆ‡‚·‚éBˆê’v‚È‚ç1,•sˆê’v‚È‚ç2‚ª•Ô‚é
+# å¼•æ•°1,2ã‚’ç…§åˆã™ã‚‹ã€‚ä¸€è‡´ãªã‚‰1,ä¸ä¸€è‡´ãªã‚‰2ãŒè¿”ã‚‹
 sub check_passwd{
 
-	local($cp1_passwd)=$_[0];	# ˆø”1‚Æ‚µ‚Äæ“¾
-	local($cp2_passwd)=$_[1];	# ˆø”2‚Æ‚µ‚Äæ“¾
-	local($match_level)=$_[2];	# Œµ–§‚³i‚P‚È‚çŒµ–§j
-	local($cpt_cp1_passwd);		# ˆø”1‚ğˆÃ†‰»‚µ‚½‚à‚Ì
-	local($cpt_cp2_passwd);		# ˆø”2‚ğˆÃ†‰»‚µ‚½‚à‚Ì
+	local($cp1_passwd)=$_[0];	# å¼•æ•°1ã¨ã—ã¦å–å¾—
+	local($cp2_passwd)=$_[1];	# å¼•æ•°2ã¨ã—ã¦å–å¾—
+	local($match_level)=$_[2];	# å³å¯†ã•ï¼ˆï¼‘ãªã‚‰å³å¯†ï¼‰
+	local($cpt_cp1_passwd);		# å¼•æ•°1ã‚’æš—å·åŒ–ã—ãŸã‚‚ã®
+	local($cpt_cp2_passwd);		# å¼•æ•°2ã‚’æš—å·åŒ–ã—ãŸã‚‚ã®
 
 	$cpt_cp1_passwd=&make_pass($cp1_passwd);
 	$cpt_cp2_passwd=&make_pass($cp2_passwd);
 
-	# ƒpƒXƒ[ƒhÆ‡
-	# Œµ–§
+	# ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ç…§åˆ
+	# å³å¯†
 	if($match_level == 1){
 	 if($cp1_passwd eq "$cp2_passwd"){
 		return 1;
@@ -5999,7 +6003,7 @@ sub check_passwd{
 	}
 
 
-	# •’Ê
+	# æ™®é€š
 	if($cp1_passwd eq "$cp2_passwd"){
 		return 1;
 	}elsif($cp1_passwd eq "$cpt_cp2_passwd"){
@@ -6014,108 +6018,108 @@ sub check_passwd{
 }
 #
 #=======================================#
-# Œf¦”Âr‚µ‘Îô‚Q(1.22Rev6 ‹@”\‹­‰»”Å)
+# æ²ç¤ºæ¿è’ã—å¯¾ç­–ï¼’(1.22Rev6 æ©Ÿèƒ½å¼·åŒ–ç‰ˆ)
 #=======================================#
 
 sub protect_from_BBS_cracker{
 #
-# iˆ«¿Œf¦”Âr‚ç‚µ‘Îô‚Å‚·j
+# ï¼ˆæ‚ªè³ªæ²ç¤ºæ¿è’ã‚‰ã—å¯¾ç­–ã§ã™ï¼‰
 #
-# ‘Šè‚ÌƒvƒƒoƒCƒ_–¼‚É‚æ‚è“o˜^‚ğ‹Ö~D(ˆ«¿Œf¦”Âr‚ç‚µ‘Îô)
-# ‹Ö~‚µ‚½‚¢ƒ†[ƒU‚Ì‚¢‚éƒvƒƒoƒCƒ_–¼‚Ìˆê•”‚ğ,‚Å‹æØ‚Á‚Ä""‚ÅˆÍ‚İA
-# @BLACK_LIST‚É“ü—ÍD(ƒŠƒXƒg‚Í‰Šúİ’è‚Ì‚Æ‚±‚ë‚É‚ ‚è‚Ü‚·)Dƒ}ƒb
-# ƒ`‚·‚é‚Æ‚»‚Ìƒ†[ƒU‚Í“o˜^‚Å‚«‚È‚­‚È‚è‚Ü‚·D
+# ç›¸æ‰‹ã®ãƒ—ãƒ­ãƒã‚¤ãƒ€åã«ã‚ˆã‚Šç™»éŒ²ã‚’ç¦æ­¢ï¼(æ‚ªè³ªæ²ç¤ºæ¿è’ã‚‰ã—å¯¾ç­–)
+# ç¦æ­¢ã—ãŸã„ãƒ¦ãƒ¼ã‚¶ã®ã„ã‚‹ãƒ—ãƒ­ãƒã‚¤ãƒ€åã®ä¸€éƒ¨ã‚’,ã§åŒºåˆ‡ã£ã¦""ã§å›²ã¿ã€
+# @BLACK_LISTã«å…¥åŠ›ï¼(ãƒªã‚¹ãƒˆã¯åˆæœŸè¨­å®šã®ã¨ã“ã‚ã«ã‚ã‚Šã¾ã™)ï¼ãƒãƒƒ
+# ãƒã™ã‚‹ã¨ãã®ãƒ¦ãƒ¼ã‚¶ã¯ç™»éŒ²ã§ããªããªã‚Šã¾ã™ï¼
 #
-# ‹Ö~’PŒê‚É‚æ‚é§ŒÀ‹@”\‚ğ’Ç‰Á‚µ‚Ü‚µ‚½BƒzƒXƒg–¼‚ğ•p”É‚É•ÏX‚·‚é
-# ‘Šè“™A‚“x‚Èur‚µ‹Zv‚ğ‚Â‘Šè‚©‚ç‚ÌƒCƒ^ƒYƒ‰‚ª‘±‚­ê‡‚ÉA‚±‚ê‚ğ
-# g‚Á‚Ä‚­‚¾‚³‚¢B ƒŠƒXƒg‚Í‰Šúİ’è‚Ì‚Æ‚±‚ë‚É‚ ‚è‚Ü‚·B
+# ç¦æ­¢å˜èªã«ã‚ˆã‚‹åˆ¶é™æ©Ÿèƒ½ã‚’è¿½åŠ ã—ã¾ã—ãŸã€‚ãƒ›ã‚¹ãƒˆåã‚’é »ç¹ã«å¤‰æ›´ã™ã‚‹
+# ç›¸æ‰‹ç­‰ã€é«˜åº¦ãªã€Œè’ã—æŠ€ã€ã‚’æŒã¤ç›¸æ‰‹ã‹ã‚‰ã®ã‚¤ã‚¿ã‚ºãƒ©ãŒç¶šãå ´åˆã«ã€ã“ã‚Œã‚’
+# ä½¿ã£ã¦ãã ã•ã„ã€‚ ãƒªã‚¹ãƒˆã¯åˆæœŸè¨­å®šã®ã¨ã“ã‚ã«ã‚ã‚Šã¾ã™ã€‚
 
        undef $bad_user_flag;
 	local($error_mes_bl);
 	local($error_mes_type);
 	local($w_pattern);
 
-	# ƒfƒtƒHƒ‹ƒg‚Ìƒ_ƒ~[ƒGƒ‰[ƒƒbƒZ[ƒW
+	# ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ãƒ€ãƒŸãƒ¼ã‚¨ãƒ©ãƒ¼ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸
 	$error_mes_bl="CGI error 223458 BLT Default";
 
-	#ŠO•”‚Ìƒuƒ‰ƒbƒNƒŠƒXƒgƒtƒ@ƒCƒ‹iƒzƒXƒg–¼j‚ğ“Ç‚Ş
+	#å¤–éƒ¨ã®ãƒ–ãƒ©ãƒƒã‚¯ãƒªã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆãƒ›ã‚¹ãƒˆåï¼‰ã‚’èª­è¾¼ã‚€
 	if($use_ext_blacklist ==1){
 	  $add_black_count=&load_ext_list('blacklist.txt','BLACK_LIST');
 	}
 
-	#ŠO•”‚Ìƒuƒ‰ƒbƒNƒŠƒXƒgƒtƒ@ƒCƒ‹i‹Ö’PŒêj‚ğ“Ç‚Ş
+	#å¤–éƒ¨ã®ãƒ–ãƒ©ãƒƒã‚¯ãƒªã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆç¦å˜èªï¼‰ã‚’èª­è¾¼ã‚€
 	if(($use_ext_blacklist ==1)&&($PM{'no_upload_by_black_word'}==1)){
 	  $add_black_word_count=&load_ext_list('blkword.txt','BLACK_WORD');
 	}
 
-	#ŠO•”‚ÌƒXƒpƒ€ƒŠƒXƒgƒtƒ@ƒCƒ‹iƒzƒXƒg–¼j‚ğ“Ç‚Ş
+	#å¤–éƒ¨ã®ã‚¹ãƒ‘ãƒ ãƒªã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆãƒ›ã‚¹ãƒˆåï¼‰ã‚’èª­è¾¼ã‚€
 	if($use_ext_spamlist ==1){
 	  $add_spam_count=&load_ext_list('spamlist.cgi','SPAM_HOSTS_IP');
 	}
 
-	#ŠO•”‚ÌƒXƒpƒ€ƒŠƒXƒgƒtƒ@ƒCƒ‹i‹Ö’PŒêj‚ğ“Ç‚Ş
+	#å¤–éƒ¨ã®ã‚¹ãƒ‘ãƒ ãƒªã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ï¼ˆç¦å˜èªï¼‰ã‚’èª­è¾¼ã‚€
 	if($use_ext_spamlist ==1){
 	  $add_spam_word_count=&load_ext_list('spamword.cgi','SPAM_WORD');
 	}
 
 	foreach (@BLACK_LIST){
 	    next if($_ eq "");
-	    # ³‹K•\Œ»‚ğPerlƒpƒ^[ƒ“ƒ}ƒbƒ`‚Ö•ÏŠ·
+	    # æ­£è¦è¡¨ç¾ã‚’Perlãƒ‘ã‚¿ãƒ¼ãƒ³ãƒãƒƒãƒã¸å¤‰æ›
 	    $w_pattern=&change_pattern_match($_);
 		if($REMOTE_HOST=~ /$w_pattern/i){
-			if($no_disp_for_cracker==1){	# r‚µ‘Îô
-				&error(" CGIƒGƒ‰[D<!-- $add_black_count --> ");
+			if($no_disp_for_cracker==1){	# è’ã—å¯¾ç­–
+				&error(" CGIã‚¨ãƒ©ãƒ¼ï¼<!-- $add_black_count --> ");
 			}else{
-				&error(" CGIƒGƒ‰[D“Še‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½D ");
+				&error(" CGIã‚¨ãƒ©ãƒ¼ï¼æŠ•ç¨¿ã§ãã¾ã›ã‚“ã§ã—ãŸï¼ ");
 			}
 		}
 	}
 
- 	# “ŠeˆÈŠO(view‚È‚Ç)‚ÍAƒzƒXƒg–¼ˆÈŠO‚ÌƒtƒBƒ‹ƒ^‚ÍƒXƒLƒbƒv‚µ‚Ä•‰‰×ŒyŒ¸i‚±‚±‚©‚çj
+ 	# æŠ•ç¨¿æ™‚ä»¥å¤–(viewæ™‚ãªã©)ã¯ã€ãƒ›ã‚¹ãƒˆåä»¥å¤–ã®ãƒ•ã‚£ãƒ«ã‚¿ã¯ã‚¹ã‚­ãƒƒãƒ—ã—ã¦è² è·è»½æ¸›ï¼ˆã“ã“ã‹ã‚‰ï¼‰
 	if(($FORM{'bbsaction'} eq 'post')&&($FORM{'amode'} ne "select_edit")){
 
-	# 2006.03 add Œf¦”ÂSPAM‘Îô
-	# 2006.04 C³
+	# 2006.03 add æ²ç¤ºæ¿SPAMå¯¾ç­–
+	# 2006.04 ä¿®æ­£
 	if(($limit_bbs_spam_flag==1)&&($FORM{'amode'} eq "")){
 		if($FORM{'sf'} eq "$spam_keyword"){
 			# OK
 		}else{
-			&error(" CGIƒGƒ‰[500D“Še‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½D ");
+			&error(" CGIã‚¨ãƒ©ãƒ¼500ï¼æŠ•ç¨¿ã§ãã¾ã›ã‚“ã§ã—ãŸï¼ ");
 		}
 
-		# 2010.02 onetime_token‚É‚æ‚éSPAM‘Îô
+		# 2010.02 onetime_tokenã«ã‚ˆã‚‹SPAMå¯¾ç­–
 		if($FORM{'onetime_token'} eq "$uniq_token"){
-#&error("“¯‚¶token  ttmp_uniq_char $ttmp_uniq_char--$FORM{'onetime_token'} - $uniq_token");
+#&error("åŒã˜token  ttmp_uniq_char $ttmp_uniq_char--$FORM{'onetime_token'} - $uniq_token");
 		}elsif($FORM{'onetime_token'} eq "$uniq_token_old"){
-#&error("ˆê‚Â‘Otoken ttmp_uniq_char $ttmp_uniq_char--$FORM{'onetime_token'} - $uniq_token");
+#&error("ä¸€ã¤å‰token ttmp_uniq_char $ttmp_uniq_char--$FORM{'onetime_token'} - $uniq_token");
 		}else{
 			if($PM{'make_bbs_html_top'}!=1){
-#&error("CGIƒGƒ‰[ token‚ªŠÔØ‚ê‚É‚È‚è‚Ü‚µ‚½Bttmp_uniq_char $ttmp_uniq_char--$FORM{'onetime_token'} - $uniq_token");
-			&error(" CGIƒGƒ‰[Dtoken‚ªŠÔØ‚ê‚É‚È‚èA“Še‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½DSPAM‘Îô‚Ì‚½‚ß“Še‚ÍA24ŠÔˆÈ“à‚É‹L“ü‚µA“Še‚µ‚Ä‚­‚¾‚³‚¢ ");
+#&error("CGIã‚¨ãƒ©ãƒ¼ tokenãŒæ™‚é–“åˆ‡ã‚Œã«ãªã‚Šã¾ã—ãŸã€‚ttmp_uniq_char $ttmp_uniq_char--$FORM{'onetime_token'} - $uniq_token");
+			&error(" CGIã‚¨ãƒ©ãƒ¼ï¼tokenãŒæ™‚é–“åˆ‡ã‚Œã«ãªã‚Šã€æŠ•ç¨¿ã§ãã¾ã›ã‚“ã§ã—ãŸï¼SPAMå¯¾ç­–ã®ãŸã‚æŠ•ç¨¿ã¯ã€24æ™‚é–“ä»¥å†…ã«è¨˜å…¥ã—ã€æŠ•ç¨¿ã—ã¦ãã ã•ã„ ");
 			}
 		}
 
 	}
 
-	# 2006.03 add Œf¦”ÂSPAM‘Îô
-	# 2006.04 C³
+	# 2006.03 add æ²ç¤ºæ¿SPAMå¯¾ç­–
+	# 2006.04 ä¿®æ­£
 	if(($filter_bbs_spam==1)&&($FORM{'amode'} eq "")){
 		$PM{'no_upload_by_black_word'}=1;
 		push(@BLACK_WORD,"ttp:");
 		push(@BLACK_WORD,"\@");
-		push(@BLACK_WORD," ‚”‚”‚ ");
-		push(@BLACK_WORD,"\[url=");# 2007.05 ’Ç‰Á
-#		push(@BLACK_WORD," — ");
+		push(@BLACK_WORD," ï½”ï½”ï½ ");
+		push(@BLACK_WORD,"\[url=");# 2007.05 è¿½åŠ 
+#		push(@BLACK_WORD," ï¼  ");
 	}
 
-	# 2008.06 ƒjƒRƒjƒR‚Ìd—l•ÏX‚É‘Î‰ 2011.06C³
+	# 2008.06 ãƒ‹ã‚³ãƒ‹ã‚³ã®ä»•æ§˜å¤‰æ›´ã«å¯¾å¿œ 2011.06ä¿®æ­£
 	if($FORM{'body'}=~ /iframe.*src="https?:\/\/([\-a-zA-Z0-9]+)\.nicovideo\.jp\/thumb\/([\-a-zA-Z0-9_]+)"/i){
 	 if($PM{'auto_nicovideo_find'}==1){
-# 2014.02 ƒRƒƒ“ƒg‰ñ‚è‚±‚İ‚Ì‚½‚ß‚ÉÄ“xiframe‹–‰Â‚·‚é‚±‚Æ‚É‚µ‚½
-# 2014.02 orz..ƒRƒƒ“ƒg•t‚«‚ÅƒTƒ€ƒlƒCƒ‹ŠG‚ª’´¬‚³‚­‚È‚é‚Ì‚ÅAÄ“x‚â‚ß‚½
-		&error(" ‘€ìƒGƒ‰[BƒjƒRƒjƒR“®‰æ‚ÌƒŠƒ“ƒN‚ÍIFRAMEƒ^ƒO‚ğg‚í‚¸A http://www.nicovideo.jp/watch/$2 ‚Æ–{•¶‚ÉURL‚¾‚¯‚ğ‹LÚ‚·‚é‚ÆA©“®“I‚É‚«‚¿‚ñ‚Æ–„‚ß‚İ•\\¦\‚³‚ê‚Ü‚·B“¯‹LÚ•û–@‚É•ÏX‚µAÄ“Še‚µ‚Ä‚­‚¾‚³‚¢ ","","1");
+# 2014.02 ã‚³ãƒ¡ãƒ³ãƒˆå›ã‚Šã“ã¿ã®ãŸã‚ã«å†åº¦iframeè¨±å¯ã™ã‚‹ã“ã¨ã«ã—ãŸ
+# 2014.02 orz..ã‚³ãƒ¡ãƒ³ãƒˆä»˜ãã§ã‚µãƒ ãƒã‚¤ãƒ«çµµãŒè¶…å°ã•ããªã‚‹ã®ã§ã€å†åº¦ã‚„ã‚ãŸ
+		&error(" æ“ä½œã‚¨ãƒ©ãƒ¼ã€‚ãƒ‹ã‚³ãƒ‹ã‚³å‹•ç”»ã®ãƒªãƒ³ã‚¯ã¯IFRAMEã‚¿ã‚°ã‚’ä½¿ã‚ãšã€ http://www.nicovideo.jp/watch/$2 ã¨æœ¬æ–‡ã«URLã ã‘ã‚’è¨˜è¼‰ã™ã‚‹ã¨ã€è‡ªå‹•çš„ã«ãã¡ã‚“ã¨åŸ‹ã‚è¾¼ã¿è¡¨\ç¤º\ã•ã‚Œã¾ã™ã€‚åŒè¨˜è¼‰æ–¹æ³•ã«å¤‰æ›´ã—ã€å†æŠ•ç¨¿ã—ã¦ãã ã•ã„ ","","1");
 	 }else{
-		&error(" ‘€ìƒGƒ‰[BIFRAMEƒ^ƒO‚ÍƒZƒLƒ…ƒŠƒeƒBã–â‘è‚ ‚é‚½‚ßA–{•¶’†‚Ég‚¦‚Ü‚¹‚ñB","","1");
+		&error(" æ“ä½œã‚¨ãƒ©ãƒ¼ã€‚IFRAMEã‚¿ã‚°ã¯ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ä¸Šå•é¡Œã‚ã‚‹ãŸã‚ã€æœ¬æ–‡ä¸­ã«ä½¿ãˆã¾ã›ã‚“ã€‚","","1");
 	 }
 	}
 
@@ -6128,10 +6132,10 @@ sub protect_from_BBS_cracker{
 	}
 
 
-	# ƒGƒ‰[‚Åo‚éà–¾‚Å—U“±‚·‚é
+	# ã‚¨ãƒ©ãƒ¼ã§å‡ºã‚‹èª¬æ˜ã§èª˜å°ã™ã‚‹
 	if(($PM{'allow_res_upload'} != 1)&&($FORM{'prebbsaction'} eq "disp_rep_form")){
 	 if($FORM{'body'}=~ /ttp:\/\/([\-a-zA-Z0-9]+)\.nicovideo\.jp\/watch\//i){
-		&error(" ƒ†[ƒU[‘€ìƒGƒ‰[BŒ»İA•ÔM‹L–‚É‚ÍƒjƒRƒjƒR“®‰æURL‚Ì–„‚ß‚İ‚Í‚Å‚«‚È‚¢İ’è‚É‚È‚Á‚Ä‚¢‚Ü‚·B<BR>“®‰æ–„‚ß‚İ‚ÍAe‹L–‚Å‚¨‚±‚È‚Á‚Ä‚­‚¾‚³‚¢B ","","1");
+		&error(" ãƒ¦ãƒ¼ã‚¶ãƒ¼æ“ä½œã‚¨ãƒ©ãƒ¼ã€‚ç¾åœ¨ã€è¿”ä¿¡è¨˜äº‹ã«ã¯ãƒ‹ã‚³ãƒ‹ã‚³å‹•ç”»URLã®åŸ‹ã‚è¾¼ã¿ã¯ã§ããªã„è¨­å®šã«ãªã£ã¦ã„ã¾ã™ã€‚<BR>å‹•ç”»åŸ‹ã‚è¾¼ã¿ã¯ã€è¦ªè¨˜äº‹ã§ãŠã“ãªã£ã¦ãã ã•ã„ã€‚ ","","1");
 	 }
 	}
 
@@ -6141,59 +6145,59 @@ sub protect_from_BBS_cracker{
 
 	    $w_pattern="$_";
 	    $w_pattern=~ s/\s//g;
-	    $w_pattern=~ s/@//g;
+	    $w_pattern=~ s/ã€€//g;
 
 	    if($w_pattern ne ""){
 		$blkw_count++;
-		#‹L–‚·‚×‚Ä‚Ì€–Ú‚ğƒ`ƒFƒbƒN‚·‚é
+		#è¨˜äº‹ã™ã¹ã¦ã®é …ç›®ã‚’ãƒã‚§ãƒƒã‚¯ã™ã‚‹
 		local(@ALL_ITEM)=('body','name','subject','email','imgtitle','optA');
 		local($ttt_form)="";
 		foreach $form(@ALL_ITEM){
 		        $ttt_form = $FORM{"$form"};
 			$ttt_form =~ s/\s//g;
-			$ttt_form =~ s/@//g;
+			$ttt_form =~ s/ã€€//g;
 			if (index($ttt_form,$w_pattern) >= 0){
 				$error_mes_type="black_word";
 				$bad_user_flag=1;
-				last;# ŒŸo‚µ‚½‚ç”²‚¯‚é
+				last;# æ¤œå‡ºã—ãŸã‚‰æŠœã‘ã‚‹
 			}
 		}
 	    }
 	  }
 	}
 
-	# 2006.04 SPAM‘Îô
+	# 2006.04 SPAMå¯¾ç­–
 	if(($PM{'no_upload_by_spam_word'}==1)&&($bad_user_flag != 1)){
 
-	  # 2006.06 SPAM‘Îô URLƒŠƒ“ƒN—ñ‹“Œ^SPAM‘Îô
-	  # 2007.05 5,6‚Ü‚Åw’è‚Å‚«‚é‚æ‚¤‚É‚µ‚½
+	  # 2006.06 SPAMå¯¾ç­– URLãƒªãƒ³ã‚¯åˆ—æŒ™å‹SPAMå¯¾ç­–
+	  # 2007.05 5,6ã¾ã§æŒ‡å®šã§ãã‚‹ã‚ˆã†ã«ã—ãŸ
 	  if($FORM{'body'}=~ /ttp(.*)/is){
 
 		 if($1=~ /tp:(.*)/is){
 		    if($PM{'spam_url_link_limit_1'}==1){
-		     &error("URLƒŠƒ“ƒN‚Í‚Ğ‚Æ‚Â‚Ü‚Å‚É‚µ‚Ä‚­‚¾‚³‚¢B");
+		     &error("URLãƒªãƒ³ã‚¯ã¯ã²ã¨ã¤ã¾ã§ã«ã—ã¦ãã ã•ã„ã€‚");
 		    }
 		  if($1=~ /tp:(.*)/is){
 		    if($PM{'spam_url_link_limit_2'}==1){
-		     &error("URLƒŠƒ“ƒN‚Í‚Ó‚½‚Â‚Ü‚Å‚É‚µ‚Ä‚­‚¾‚³‚¢B");
+		     &error("URLãƒªãƒ³ã‚¯ã¯ãµãŸã¤ã¾ã§ã«ã—ã¦ãã ã•ã„ã€‚");
 		    }
 		   if($1=~ /tp:(.*)/is){
 		    if($PM{'spam_url_link_limit_3'}==1){
-		     &error("URLƒŠƒ“ƒN‚Í‚İ‚Á‚Â‚Ü‚Å‚É‚µ‚Ä‚­‚¾‚³‚¢B");
+		     &error("URLãƒªãƒ³ã‚¯ã¯ã¿ã£ã¤ã¾ã§ã«ã—ã¦ãã ã•ã„ã€‚");
 		    }
 		    if($1=~ /tp:(.*)/is){
 		     if($PM{'spam_url_link_limit_4'}==1){
-		      &error("URLƒŠƒ“ƒN‚Í‚æ‚Á‚Â‚Ü‚Å‚É‚µ‚Ä‚­‚¾‚³‚¢B");
+		      &error("URLãƒªãƒ³ã‚¯ã¯ã‚ˆã£ã¤ã¾ã§ã«ã—ã¦ãã ã•ã„ã€‚");
 		     }
 		    }
 		    if($1=~ /tp:(.*)/is){
 		     if($PM{'spam_url_link_limit_5'}==1){
-		      &error("URLƒŠƒ“ƒN‚Í‚¢‚Â‚Â‚Ü‚Å‚É‚µ‚Ä‚­‚¾‚³‚¢B");
+		      &error("URLãƒªãƒ³ã‚¯ã¯ã„ã¤ã¤ã¾ã§ã«ã—ã¦ãã ã•ã„ã€‚");
 		     }
 		    }
 		    if($1=~ /tp:(.*)/is){
 		     if($PM{'spam_url_link_limit_6'}==1){
-		      &error("URLƒŠƒ“ƒN‚Í‚Ş‚Á‚Â‚Ü‚Å‚É‚µ‚Ä‚­‚¾‚³‚¢B");
+		      &error("URLãƒªãƒ³ã‚¯ã¯ã‚€ã£ã¤ã¾ã§ã«ã—ã¦ãã ã•ã„ã€‚");
 		     }
 		    }
 		   }
@@ -6202,48 +6206,48 @@ sub protect_from_BBS_cracker{
 	  }
 
 
-	  # 2007.05 ‰pŒê‚Ì‚İ‚Ì“Še‚ğ”rœ
+	  # 2007.05 è‹±èªã®ã¿ã®æŠ•ç¨¿ã‚’æ’é™¤
 	  if($PM{'spam_limit_non_japanese'}==1){
 	   if($img_data_exists == 1){
 	   }else{
 	    if($FORM{'body'} eq ""){
-		&error(" ƒXƒpƒ€‘Îô‚É‚æ‚èA–{•¶‚ª‹ó‚Ì“Še‚Í‚Å‚«‚Ü‚¹‚ñB ");
+		&error(" ã‚¹ãƒ‘ãƒ å¯¾ç­–ã«ã‚ˆã‚Šã€æœ¬æ–‡ãŒç©ºã®æŠ•ç¨¿ã¯ã§ãã¾ã›ã‚“ã€‚ ");
 	    }elsif($FORM{'body'}=~ /^[\x00-\x7f]+$/){
-	    # 2011.03.30‰ü—Ç
+	    # 2011.03.30æ”¹è‰¯
 	    
-	     # 2014.02 ‰pŒê‚Ì‚İ‚Ì–„‚ß‚İ“®‰æ“Še‚ğ”rœ
+	     # 2014.02 è‹±èªã®ã¿ã®åŸ‹ã‚è¾¼ã¿å‹•ç”»æŠ•ç¨¿ã‚’æ’é™¤
 	  	 if($PM{'spam_limit_non_japanese_movie'}==1){
-			&error(" ƒXƒpƒ€‘Îô‚É‚æ‚èA‰pŒê‚Ì‚İ‚Ì•¶š“Še‚Í‚Å‚«‚Ü‚¹‚ñB“ú–{Œê‚Ì•¶š‚ğ’Ç‹L‚µ‚ÄA–{•¶‚É“ú–{Œê‚ğŠÜ‚ß‚é‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢B ");	  	 
+			&error(" ã‚¹ãƒ‘ãƒ å¯¾ç­–ã«ã‚ˆã‚Šã€è‹±èªã®ã¿ã®æ–‡å­—æŠ•ç¨¿ã¯ã§ãã¾ã›ã‚“ã€‚æ—¥æœ¬èªã®æ–‡å­—ã‚’è¿½è¨˜ã—ã¦ã€æœ¬æ–‡ã«æ—¥æœ¬èªã‚’å«ã‚ã‚‹ã‚ˆã†ã«ã—ã¦ãã ã•ã„ã€‚ ");	  	 
 		 }
 
-	     # 2014.02 —˜•Ö«Œüã‚Ì‚½‚ßA“®‰æ–„‚ß‚İ‚Í‰pŒê‚Ì‚İ‚Å‚àŠî–{”F‚ß‚é	 
+	     # 2014.02 åˆ©ä¾¿æ€§å‘ä¸Šã®ãŸã‚ã€å‹•ç”»åŸ‹ã‚è¾¼ã¿ã¯è‹±èªã®ã¿ã§ã‚‚åŸºæœ¬èªã‚ã‚‹	 
 		 if($FORM{'body'}=~ /<iframe(.|\n)*src=(\")?(https?\:\/\/|\/\/)www\.youtube\.com\//i){
-#Youtube‚Ì’ZkURL‚Í”F‚ß‚é
+#Youtubeã®çŸ­ç¸®URLã¯èªã‚ã‚‹
 		 }elsif($FORM{'body'}=~ /youtu\.be\//i){
-#‹ŒYoutube‚Í”F‚ß‚é
+#æ—§Youtubeã¯èªã‚ã‚‹
 		 }elsif($FORM{'body'}=~ /<object(.|\n)*<embed(.|\n)*src=(\")?http\:\/\/www\.youtube\.com\/(.|\n)*application\/x-shockwave-flash/i){
-#FC2‚Í”F‚ß‚é
+#FC2ã¯èªã‚ã‚‹
 		 }elsif($FORM{'body'}=~ /video\.fc2\.com\//i){
-#ƒjƒRƒjƒR“®‰æ‚Í”F‚ß‚é
+#ãƒ‹ã‚³ãƒ‹ã‚³å‹•ç”»ã¯èªã‚ã‚‹
 		 }elsif($FORM{'body'}=~ /\.nicovideo\.jp/i){
-#Ustream‚Í”F‚ß‚é
+#Ustreamã¯èªã‚ã‚‹
 		 }elsif($FORM{'body'}=~ /\.ustream\.tv\//i){
-#‚»‚Ì‘¼‚Íƒ`ƒFƒbƒN‚·‚é
+#ãã®ä»–ã¯ãƒã‚§ãƒƒã‚¯ã™ã‚‹
 		 }elsif($FORM{'body'}=~ /<iframe(.|\n)*src=(\")?(https?\:\/\/|\/\/)/i){
 			if($FORM{'name'}=~ /^[\x00-\x7f]+$/){
-# ‹~ÏŠJnF–¼‘O‚à‰pŒê‚Ìê‡ƒ_ƒ
-			 &error(" ƒXƒpƒ€‘Îô‚É‚æ‚èA‰pŒê‚Ì‚İ‚Ì•¶š“Še‚Í‚Å‚«‚Ü‚¹‚ñB“ú–{Œê‚Ì•¶š‚ğ‘OŒã‚É’Ç‹L‚µ‚ÄA–¼‘O‚âA–{•¶‚É“ú–{Œê‚ğŠÜ‚ß‚é‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢B ");
+# æ•‘æ¸ˆé–‹å§‹ï¼šåå‰ã‚‚è‹±èªã®å ´åˆãƒ€ãƒ¡
+			 &error(" ã‚¹ãƒ‘ãƒ å¯¾ç­–ã«ã‚ˆã‚Šã€è‹±èªã®ã¿ã®æ–‡å­—æŠ•ç¨¿ã¯ã§ãã¾ã›ã‚“ã€‚æ—¥æœ¬èªã®æ–‡å­—ã‚’å‰å¾Œã«è¿½è¨˜ã—ã¦ã€åå‰ã‚„ã€æœ¬æ–‡ã«æ—¥æœ¬èªã‚’å«ã‚ã‚‹ã‚ˆã†ã«ã—ã¦ãã ã•ã„ã€‚ ");
 			}else{
-#‹~ÏŠJnF–¼‘O‚ª“ú–{Œê‚È‚ç”F‚ß‚é
+#æ•‘æ¸ˆé–‹å§‹ï¼šåå‰ãŒæ—¥æœ¬èªãªã‚‰èªã‚ã‚‹
 			}
 		 }else{
-			&error(" ƒXƒpƒ€‘Îô‚É‚æ‚èA‰pŒê‚Ì‚İ‚Ì•¶š“Še‚Í‚Å‚«‚Ü‚¹‚ñB“ú–{Œê‚Ì•¶š‚ğ’Ç‹L‚µ‚ÄA–{•¶‚É“ú–{Œê‚ğŠÜ‚ß‚é‚æ‚¤‚É‚µ‚Ä‚­‚¾‚³‚¢B ");
+			&error(" ã‚¹ãƒ‘ãƒ å¯¾ç­–ã«ã‚ˆã‚Šã€è‹±èªã®ã¿ã®æ–‡å­—æŠ•ç¨¿ã¯ã§ãã¾ã›ã‚“ã€‚æ—¥æœ¬èªã®æ–‡å­—ã‚’è¿½è¨˜ã—ã¦ã€æœ¬æ–‡ã«æ—¥æœ¬èªã‚’å«ã‚ã‚‹ã‚ˆã†ã«ã—ã¦ãã ã•ã„ã€‚ ");
 		 }
 	    }
 	   }
 	  }
 
-	  #2007.05 ƒ^ƒCƒgƒ‹‚È‚Ç‚ÉURL‚ğ–„‚ß‚ŞSPAM‘Îô
+	  #2007.05 ã‚¿ã‚¤ãƒˆãƒ«ãªã©ã«URLã‚’åŸ‹ã‚è¾¼ã‚€SPAMå¯¾ç­–
 	  if($PM{'no_upload_by_spam_word'} == 1){
 
 	      local(@LINKCHK_ITEM)=('name','subject','email','imgtitle');
@@ -6251,26 +6255,26 @@ sub protect_from_BBS_cracker{
 	      foreach $form(@LINKCHK_ITEM){
 	        $ttt_form = $FORM{"$form"};
 		$ttt_form =~ s/\s//g;
-		$ttt_form =~ s/@//g;
+		$ttt_form =~ s/ã€€//g;
 		if($ttt_form=~ /tp:\/\/(.*)/is){
-		      &error("URLƒŠƒ“ƒN‚Í‚±‚Ì—“($form)‚É‚Í–„‚ß‚ß‚Ü‚¹‚ñ ");
+		      &error("URLãƒªãƒ³ã‚¯ã¯ã“ã®æ¬„($form)ã«ã¯åŸ‹ã‚è¾¼ã‚ã¾ã›ã‚“ ");
 		}
-		# 2007.06.05 ƒ^ƒO–„‚ß‚İSPAM‘Îô‚ğ’Ç‰Á
+		# 2007.06.05 ã‚¿ã‚°åŸ‹ã‚è¾¼ã¿SPAMå¯¾ç­–ã‚’è¿½åŠ 
 		if($ttt_form=~ /<\//g){
-		      &error("ƒ^ƒO‚Í‚±‚Ì—“($form)‚É‚Í–„‚ß‚ß‚Ü‚¹‚ñ ");
+		      &error("ã‚¿ã‚°ã¯ã“ã®æ¬„($form)ã«ã¯åŸ‹ã‚è¾¼ã‚ã¾ã›ã‚“ ");
 		}
-		# XHTML‘Îô
+		# XHTMLå¯¾ç­–
 		if($ttt_form=~ /\/>/g){
-		      &error("ƒ^ƒO‚Í‚±‚Ì—“($form)‚É‚Í–„‚ß‚ß‚Ü‚¹‚ñ ");
+		      &error("ã‚¿ã‚°ã¯ã“ã®æ¬„($form)ã«ã¯åŸ‹ã‚è¾¼ã‚ã¾ã›ã‚“ ");
 		}
-		# WebƒGƒXƒP[ƒv‘Îô
+		# Webã‚¨ã‚¹ã‚±ãƒ¼ãƒ—å¯¾ç­–
 		if($ttt_form=~ /&#\d+/g){
-		      &error("WebƒGƒXƒP[ƒv•¶š•”XXX‚Í‚±‚Ì—“($form)‚É‚Í–„‚ß‚ß‚Ü‚¹‚ñ ");
+		      &error("Webã‚¨ã‚¹ã‚±ãƒ¼ãƒ—æ–‡å­—ï¼†ï¼ƒXXXã¯ã“ã®æ¬„($form)ã«ã¯åŸ‹ã‚è¾¼ã‚ã¾ã›ã‚“ ");
 		}
 	      }
 	  }
 
-	  #2007.05 SPAM‚É‚æ‚éƒ[ƒ‹ƒAƒhƒŒƒX“Še‚ğƒuƒƒbƒN
+	  #2007.05 SPAMã«ã‚ˆã‚‹ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹æŠ•ç¨¿ã‚’ãƒ–ãƒ­ãƒƒã‚¯
 	  if(($PM{'no_upload_by_spam_word'} == 1)&&($PM{'no_upload_by_spam_country_mail'} == 1)){
 
 	      local(@LINKCHK_ITEM)=('name','subject','email');
@@ -6278,14 +6282,14 @@ sub protect_from_BBS_cracker{
 	      foreach $form(@LINKCHK_ITEM){
 	        $ttt_form = $FORM{"$form"};
 		$ttt_form =~ s/\s//g;
-		$ttt_form =~ s/@//g;
-	        if(($ttt_form=~ /\@/g)||($ttt_form=~ /—/g)){
+		$ttt_form =~ s/ã€€//g;
+	        if(($ttt_form=~ /\@/g)||($ttt_form=~ /ï¼ /g)){
 		 foreach (@SPAM_MAIL_COUNTRY){
 		    $w_pattern="$_";
 		    $w_pattern=~ s/\s//g;
-	    	    $w_pattern=~ s/@//g;
+	    	    $w_pattern=~ s/ã€€//g;
 		    if($ttt_form=~ /$w_pattern/ig){
-		      &error("ƒXƒpƒ€ƒtƒBƒ‹ƒ^[İ’è‚É‚æ‚èA‚±‚Ìƒ[ƒ‹ƒAƒhƒŒƒX‚Í($form)—“‚É‘‚«‚ß‚Ü‚¹‚ñB ");
+		      &error("ã‚¹ãƒ‘ãƒ ãƒ•ã‚£ãƒ«ã‚¿ãƒ¼è¨­å®šã«ã‚ˆã‚Šã€ã“ã®ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã¯($form)æ¬„ã«æ›¸ãè¾¼ã‚ã¾ã›ã‚“ã€‚ ");
 		    }
 
 		 }
@@ -6296,34 +6300,34 @@ sub protect_from_BBS_cracker{
 
 	  # 2010.02
 
-			#2010.02 kisaragi-SPAM‘Îô
+			#2010.02 kisaragi-SPAMå¯¾ç­–
 			if($FORM{'body'} ne ""){
 			 $ttmp2_form_data="$FORM{'body'}";
 	    	 $ttmp2_form_data=~ s/\s//g;
-	    	 $ttmp2_form_data=~ s/@//g;
+	    	 $ttmp2_form_data=~ s/ã€€//g;
 
-			 # Vkisaragi-SPAM‘Îô
-			 # WebƒGƒXƒP[ƒv‘Îô‚ğ‚·‚é
+			 # æ–°kisaragi-SPAMå¯¾ç­–
+			 # Webã‚¨ã‚¹ã‚±ãƒ¼ãƒ—å¯¾ç­–ã‚’ã™ã‚‹
 			 if($ttmp2_form_data=~ /&#\d+/g){
-		      &error("SPAM‘Îô‚É‚æ‚èAWebƒGƒXƒP[ƒv•¶š•”XXX‚Í–{•¶‚É‚Í–„‚ß‚ß‚Ü‚¹‚ñ ");
+		      &error("SPAMå¯¾ç­–ã«ã‚ˆã‚Šã€Webã‚¨ã‚¹ã‚±ãƒ¼ãƒ—æ–‡å­—ï¼†ï¼ƒXXXã¯æœ¬æ–‡ã«ã¯åŸ‹ã‚è¾¼ã‚ã¾ã›ã‚“ ");
 			 }
 			 # 2010.07
 			 if($ttmp2_form_data=~ /&#x/gi){
-		      &error("SPAM‘Îô‚É‚æ‚èAWebƒGƒXƒP[ƒv•¶š•”x‚Í–{•¶‚É‚Í–„‚ß‚ß‚Ü‚¹‚ñ ");
+		      &error("SPAMå¯¾ç­–ã«ã‚ˆã‚Šã€Webã‚¨ã‚¹ã‚±ãƒ¼ãƒ—æ–‡å­—ï¼†ï¼ƒxã¯æœ¬æ–‡ã«ã¯åŸ‹ã‚è¾¼ã‚ã¾ã›ã‚“ ");
 			 }
 
 			 $ttmp_host_addr="";
 			 $ttmp_host_ip="";
-			 # 2010.09 update SPAM‹ÆÒƒhƒƒCƒ“‚Ì‘½—l‰»‚É‘Îˆ
-			 # 2010.12 update Šç•¶š‚ÌŒëŒŸo‚É‘Îˆ
-			 # 2012.05 update ê—pƒhƒƒCƒ“‚ğ‚Âƒ^ƒCƒv‚É‘Îˆ
+			 # 2010.09 update SPAMæ¥­è€…ãƒ‰ãƒ¡ã‚¤ãƒ³ã®å¤šæ§˜åŒ–ã«å¯¾å‡¦
+			 # 2010.12 update é¡”æ–‡å­—ã®èª¤æ¤œå‡ºã«å¯¾å‡¦
+			 # 2012.05 update å°‚ç”¨ãƒ‰ãƒ¡ã‚¤ãƒ³ã‚’æŒã¤ã‚¿ã‚¤ãƒ—ã«å¯¾å‡¦
 			 if (@URL_HOST_LINKS =  $ttmp2_form_data =~ /\/+([^\)\/]+[\.com|\.net|\.org|\.info|\.biz|\.uk|\.name|\.in|\.tk|\.be|\.mobi|\.co|\.asia|\.jp])/) {
   				foreach (@URL_HOST_LINKS) {
 				 next if($_ eq "");
-				 # ƒhƒƒCƒ“‚©‚çIPƒAƒhƒŒƒX‚ğ“¾‚é(API”ñŒöŠJƒvƒƒoƒCƒ_‚ğ”z—¶)
+				 # ãƒ‰ãƒ¡ã‚¤ãƒ³ã‹ã‚‰IPã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’å¾—ã‚‹(APIéå…¬é–‹ãƒ—ãƒ­ãƒã‚¤ãƒ€ã‚’é…æ…®)
 				 $ttmp_host_addr = gethostbyname($_);
   				 $ttmp_host_ip = join('.', unpack("C*", $ttmp_host_addr));
-	  			 push(@URL_IP_LINKS, $ttmp_host_ip);  # IPƒAƒhƒŒƒX‚ğ”z—ñ‚É•Û‘¶‚·‚éB
+	  			 push(@URL_IP_LINKS, $ttmp_host_ip);  # IPã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’é…åˆ—ã«ä¿å­˜ã™ã‚‹ã€‚
 #&error("SPAM = URL_IP_LINKS - @URL_IP_LINKS - URL_HOST_LINKS - @URL_HOST_LINKS - SPAM_HOSTS_IP - @SPAM_HOSTS_IP");
   			 	}
   			 }
@@ -6333,14 +6337,14 @@ sub protect_from_BBS_cracker{
 				$ttmp_link_url_ip="$_";
 		 	 	foreach (@SPAM_HOSTS_IP){
 				 next if($_ eq "");
-			    # ³‹K•\Œ»‚ğPerlƒpƒ^[ƒ“ƒ}ƒbƒ`‚Ö•ÏŠ·
+			    # æ­£è¦è¡¨ç¾ã‚’Perlãƒ‘ã‚¿ãƒ¼ãƒ³ãƒãƒƒãƒã¸å¤‰æ›
 	    		$ip_pattern=&change_pattern_match($_);
 				   if ($ttmp_link_url_ip =~ /^$ip_pattern/i){
 					$error_mes_type="black_word";
 					$bad_user_flag=1;
-#2008.08.08 temp ‚ ‚Æ‚Å•K‚¸íœ
-#&error("SPAMŒŸo = URL_IP_LINKS - @URL_IP_LINKS - URL_HOST_LINKS - @URL_HOST_LINKS - ttmp_link_url_ip $ttmp_link_url_ip ip_pattern $ip_pattern -");				
-					last;# ŒŸo‚µ‚½‚ç”²‚¯‚é
+#2008.08.08 temp ã‚ã¨ã§å¿…ãšå‰Šé™¤
+#&error("SPAMæ¤œå‡º = URL_IP_LINKS - @URL_IP_LINKS - URL_HOST_LINKS - @URL_HOST_LINKS - ttmp_link_url_ip $ttmp_link_url_ip ip_pattern $ip_pattern -");				
+					last;# æ¤œå‡ºã—ãŸã‚‰æŠœã‘ã‚‹
 		 	 	   }
 		 	    }
 		 	    last if($bad_user_flag==1);
@@ -6351,96 +6355,96 @@ sub protect_from_BBS_cracker{
 
 	    $w_pattern="$_";
 	    $w_pattern=~ s/\s//g;
-	    $w_pattern=~ s/@//g;
+	    $w_pattern=~ s/ã€€//g;
 
-		# 2012.10 SPAMƒm[ƒ}ƒ‰ƒCƒYˆ—’Ç‰Á
+		# 2012.10 SPAMãƒãƒ¼ãƒãƒ©ã‚¤ã‚ºå‡¦ç†è¿½åŠ 
 	    $w_pattern=lc("$w_pattern");
 #		$w_pattern =~ tr/A-Z/a-z/;
 
 	    if($w_pattern ne ""){
 		$blkw_count++;
-		#‹L–‚·‚×‚Ä‚Ì€–Ú‚ğƒ`ƒFƒbƒN‚·‚é
+		#è¨˜äº‹ã™ã¹ã¦ã®é …ç›®ã‚’ãƒã‚§ãƒƒã‚¯ã™ã‚‹
 		local(@ALL_ITEM)=('body','name','subject','email','imgtitle','optA');
 		local($ttt_form)="";
-		$spam_link_find_flag=0;# URLƒŠƒ“ƒN‚ª‚ ‚é‚©‚Ç‚¤‚©iƒOƒ[ƒoƒ‹j
+		$spam_link_find_flag=0;# URLãƒªãƒ³ã‚¯ãŒã‚ã‚‹ã‹ã©ã†ã‹ï¼ˆã‚°ãƒ­ãƒ¼ãƒãƒ«ï¼‰
 		foreach $form(@ALL_ITEM){
-			$spam_link_find_flag=0;	# ‰Šú‰»
+			$spam_link_find_flag=0;	# åˆæœŸåŒ–
 		        $ttt_form = $FORM{"$form"};
 			$ttt_form =~ s/\s//g;
-			$ttt_form =~ s/@//g;
+			$ttt_form =~ s/ã€€//g;
 			if($ttt_form=~ /tp:/i){
 				$spam_link_find_flag=1;
-			}elsif($ttt_form=~ /‚”‚”‚/i){
+			}elsif($ttt_form=~ /ï½”ï½”ï½/i){
 				$spam_link_find_flag=1;
 			}elsif($ttt_form=~ /\@/i){
 				$spam_link_find_flag=1;
-#			}elsif($ttt_form=~ /—/i){
+#			}elsif($ttt_form=~ /ï¼ /i){
 #				$spam_link_find_flag=1;
-# 2007.05 C³
+# 2007.05 ä¿®æ­£
 			}elsif($ttt_form=~ /\[url=/i){
 				$spam_link_find_flag=1;
 			}else{
 				$spam_link_find_flag=0;
-				next;	# URLƒŠƒ“ƒN‚ª‚È‚¢ê‡‚Íƒ`ƒFƒbƒN‚µ‚È‚¢
+				next;	# URLãƒªãƒ³ã‚¯ãŒãªã„å ´åˆã¯ãƒã‚§ãƒƒã‚¯ã—ãªã„
 			}
 
-# 2014.02 scriptƒ^ƒO‚Ìurlw’è‚ğSPAM”»’è‚µ‚Ä‚µ‚Ü‚¤–â‘è‘Îô ƒpƒ^[ƒ“ƒ}ƒbƒ`‚Íƒm[ƒ}ƒ‰ƒCƒYŒã‚Å‹ó”’‚È‚µ‚È“_‚ÉA’ˆÓ
-			# fc2‚Å‚ ‚é‚±‚Æ‚ğŒµ–§‚Éƒ`ƒFƒbƒN
+# 2014.02 scriptã‚¿ã‚°ã®urlæŒ‡å®šã‚’SPAMåˆ¤å®šã—ã¦ã—ã¾ã†å•é¡Œå¯¾ç­– ãƒ‘ã‚¿ãƒ¼ãƒ³ãƒãƒƒãƒã¯ãƒãƒ¼ãƒãƒ©ã‚¤ã‚ºå¾Œã§ç©ºç™½ãªã—ãªç‚¹ã«ã€æ³¨æ„
+			# fc2ã§ã‚ã‚‹ã“ã¨ã‚’å³å¯†ã«ãƒã‚§ãƒƒã‚¯
 			if($ttt_form=~ /(<|%3C)script(.|\n)*src\=\"https?\:\/\/static\.fc2\.com\/(.|\n)*url\=\"(.|\n)*(<|%3C)\/script(>|%3E)/i){
-			# ‚»‚±‚»‚±ƒ`ƒFƒbƒN
+			# ãã“ãã“ãƒã‚§ãƒƒã‚¯
 #			if($ttt_form=~ /(<|%3C)script(.|\n)*url\=\"(.|\n)*(<|%3C)\/script(>|%3E)/i){
 				$spam_link_find_flag=0;
-				next;	# ƒ`ƒFƒbƒN‚µ‚È‚¢
+				next;	# ãƒã‚§ãƒƒã‚¯ã—ãªã„
 			}else{
 			
 			}
 			
-			# 2012.10 SPAMƒm[ƒ}ƒ‰ƒCƒYˆ—’Ç‰Á
+			# 2012.10 SPAMãƒãƒ¼ãƒãƒ©ã‚¤ã‚ºå‡¦ç†è¿½åŠ 
 	    	$ttt_form=lc("$ttt_form");
 
 			if (index($ttt_form,$w_pattern) >= 0){
 				$error_mes_type="black_word";
 				$bad_user_flag=1;
-#2008.08.08 temp ‚ ‚Æ‚Å•K‚¸íœ
+#2008.08.08 temp ã‚ã¨ã§å¿…ãšå‰Šé™¤
 #&error("SPAM = $w_pattern");
-				last;# ŒŸo‚µ‚½‚ç”²‚¯‚é
+				last;# æ¤œå‡ºã—ãŸã‚‰æŠœã‘ã‚‹
 			}
 		}
 	    }
 	  }
 	}
 
-	# –â‘è“_‚ğŒŸo‚µ‚½ê‡‚Ìˆ—
+	# å•é¡Œç‚¹ã‚’æ¤œå‡ºã—ãŸå ´åˆã®å‡¦ç†
 	if($bad_user_flag==1){
-		# ƒ_ƒ~[‚ÌƒGƒ‰[ƒƒbƒZ[ƒW‚ğo‚·
+		# ãƒ€ãƒŸãƒ¼ã®ã‚¨ãƒ©ãƒ¼ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’å‡ºã™
 		if($error_mes_type eq "black_word"){
-			# İ’è‚Åw’è‚µ‚Ä‚¢‚éê‡‚Í‚»‚ê‚ğg‚¤B‚È‚¢‚È‚çƒfƒtƒHƒ‹ƒg	
+			# è¨­å®šã§æŒ‡å®šã—ã¦ã„ã‚‹å ´åˆã¯ãã‚Œã‚’ä½¿ã†ã€‚ãªã„ãªã‚‰ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ	
 			if($PM{'error_message_to_black_word'} ne ""){
 				$error_mes_bl="$PM{'error_message_to_black_word'}";
 			}
 		}
-		# 2007.06.05 SPAMƒ[ƒh‚É‚æ‚è“à—e‚ªÁ‚¦‚Ä‚µ‚Ü‚¤–â‘è‚É‘Îˆ
+		# 2007.06.05 SPAMãƒ¯ãƒ¼ãƒ‰ã«ã‚ˆã‚Šå†…å®¹ãŒæ¶ˆãˆã¦ã—ã¾ã†å•é¡Œã«å¯¾å‡¦
        		&error("$error_mes_bl $blkw_count<!--abwc $add_black_word_count asc $add_spam_count aswc $add_spam_word_count abuc -->","","1");
 	}
 
-	}	# “ŠeˆÈŠO(view‚È‚Ç)‚ÍAƒzƒXƒg–¼ˆÈŠO‚ÌƒtƒBƒ‹ƒ^‚ÍƒXƒLƒbƒvi‚±‚±‚Ü‚Åj
+	}	# æŠ•ç¨¿æ™‚ä»¥å¤–(viewæ™‚ãªã©)ã¯ã€ãƒ›ã‚¹ãƒˆåä»¥å¤–ã®ãƒ•ã‚£ãƒ«ã‚¿ã¯ã‚¹ã‚­ãƒƒãƒ—ï¼ˆã“ã“ã¾ã§ï¼‰
 }
 
-# ŠO•”ƒŠƒXƒg‚ğƒ[ƒh‚·‚é•”•i
+# å¤–éƒ¨ãƒªã‚¹ãƒˆã‚’ãƒ­ãƒ¼ãƒ‰ã™ã‚‹éƒ¨å“
 
 sub load_ext_list{
 
-	local($list_fname)	= $_[0];	# ƒŠƒXƒg‚Ì–¼‘O
-	local($array_name)	= $_[1];	# ”z—ñ‚Ì–¼‘O
-	local($add_count)	= 0;		# ƒŠƒXƒg‚©‚ç’Ç‰Á‚³‚ê‚½€–Ú”
+	local($list_fname)	= $_[0];	# ãƒªã‚¹ãƒˆã®åå‰
+	local($array_name)	= $_[1];	# é…åˆ—ã®åå‰
+	local($add_count)	= 0;		# ãƒªã‚¹ãƒˆã‹ã‚‰è¿½åŠ ã•ã‚ŒãŸé …ç›®æ•°
 
 	if(-e "$list_fname"){
-	open(IN, "$list_fname")|| &error("İ’èƒGƒ‰[Dƒtƒ@ƒCƒ‹\"$list_fname\"‚ğ“Ç‚ß‚Ü‚¹‚ñDˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	open(IN, "$list_fname")|| &error("è¨­å®šã‚¨ãƒ©ãƒ¼ï¼ãƒ•ã‚¡ã‚¤ãƒ«\"$list_fname\"ã‚’èª­è¾¼ã‚ã¾ã›ã‚“ï¼å‡¦ç†ã¯ä¸­æ–­ã•ã‚Œã¾ã—ãŸï¼");
 	eval "flock(IN,1);" if($PM{'flock'} == 1 );
 		while(<IN>){
-			if($_ =~ /^([^#])(.*)$/){	#ƒRƒƒ“ƒgƒAƒEƒg‚Íœ‚­
+			if($_ =~ /^([^#])(.*)$/){	#ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆã¯é™¤ã
 				if($_ =~ /^(\s*)(\S+)(\s*)(\#?)(.*)$/){
-					# Perl4‚Å‚à“®‚­‘‚«•û‚É‚·‚éi’·‚­‚È‚é‚¯‚Çj
+					# Perl4ã§ã‚‚å‹•ãæ›¸ãæ–¹ã«ã™ã‚‹ï¼ˆé•·ããªã‚‹ã‘ã©ï¼‰
 					if($array_name eq 'BLACK_LIST'){
 						push(@BLACK_LIST, $2);
 					}elsif($array_name eq 'BLACK_WORD'){
@@ -6457,14 +6461,14 @@ sub load_ext_list{
 	eval "flock(IN,8);" if($PM{'flock'} == 1 );
 	close(IN);
 	}
-	return($add_count);	# ƒŠƒXƒg‚©‚ç’Ç‰Á‚³‚ê‚½€–Ú”
+	return($add_count);	# ãƒªã‚¹ãƒˆã‹ã‚‰è¿½åŠ ã•ã‚ŒãŸé …ç›®æ•°
 }
 
 sub change_pattern_match{
 
-	# ³‹K•\Œ»‚ğPerlƒpƒ^[ƒ“ƒ}ƒbƒ`‚Ö•ÏŠ·
+	# æ­£è¦è¡¨ç¾ã‚’Perlãƒ‘ã‚¿ãƒ¼ãƒ³ãƒãƒƒãƒã¸å¤‰æ›
 	local($d_pattern)	= $_[0];
-	$d_pattern=~ s/\s|\r|\n|\;|\)//g;	# ”O‚Ì‚½‚ß
+	$d_pattern=~ s/\s|\r|\n|\;|\)//g;	# å¿µã®ãŸã‚
 	$d_pattern=~ s/\./\\./g;
 	$d_pattern=~ s/\?/\./g;
 	$d_pattern=~ s/\*/\.\*/g;
@@ -6476,23 +6480,23 @@ sub change_pattern_match{
 }
 
 #========================#
-# IPî•ñ‚ğˆê•”•š‚¹š‚É‚·‚é
+# IPæƒ…å ±ã‚’ä¸€éƒ¨ä¼ã›å­—ã«ã™ã‚‹
 #========================#
 
-# $user_IPî•ñ‚ğƒvƒ‰ƒCƒoƒV[•ÛŒì‚Ì‚½‚ßAˆê•”•š‚¹š‚É‚·‚éƒtƒBƒ‹ƒ^
+# $user_IPæƒ…å ±ã‚’ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ä¿è­·ã®ãŸã‚ã€ä¸€éƒ¨ä¼ã›å­—ã«ã™ã‚‹ãƒ•ã‚£ãƒ«ã‚¿
 
 sub user_IP_privacy_filter{
 
     local($local_ip,$other_ip,$company_name,$org_local_ip,$org_other_ip);
 
-    # ƒŠƒ‚[ƒgƒzƒXƒg‚ªIPƒAƒhƒŒƒX‚Ìê‡
+    # ãƒªãƒ¢ãƒ¼ãƒˆãƒ›ã‚¹ãƒˆãŒIPã‚¢ãƒ‰ãƒ¬ã‚¹ã®å ´åˆ
     if($user_IP=~ /^(\d+)\.(\d+)\.(\d+)\.(\d+)$/){
 	$user_IP="$1.$2.$3.\*";
-    # ƒŠƒ‚[ƒgƒzƒXƒg‚ªŒg‘ÑƒAƒhƒŒƒX‚Ìê‡
+    # ãƒªãƒ¢ãƒ¼ãƒˆãƒ›ã‚¹ãƒˆãŒæºå¸¯ã‚¢ãƒ‰ãƒ¬ã‚¹ã®å ´åˆ
     }elsif($user_IP=~ /-KSN-/i){
-	# ”š‚ğ‰B‚·B
+	# æ•°å­—ã‚’éš ã™ã€‚
 	 $other_ip=~ tr/0-4/\?/;
-    # ƒŠƒ‚[ƒgƒzƒXƒg‚ª˜_—ƒzƒXƒg–¼‚Ìê‡
+    # ãƒªãƒ¢ãƒ¼ãƒˆãƒ›ã‚¹ãƒˆãŒè«–ç†ãƒ›ã‚¹ãƒˆåã®å ´åˆ
     }elsif($user_IP=~ /(\w+)\.(\w+)$/){
       if($user_IP=~ /^([^\.]+)\.(.*)$/){
 	$local_ip="$1";
@@ -6500,13 +6504,13 @@ sub user_IP_privacy_filter{
 	$org_local_ip="$1";
 	$org_other_ip="$1";
 
-	# Å‚àƒ[ƒJƒ‹‘¤‚Ìip‚Ì“ª‚ğ‚P•¶š‰B‚·B‚ ‚Æ”š‚ÍˆÓ–¡‚È‚¢‚Ì‚Å‰B‚·B
+	# æœ€ã‚‚ãƒ­ãƒ¼ã‚«ãƒ«å´ã®ipã®é ­ã‚’ï¼‘æ–‡å­—éš ã™ã€‚ã‚ã¨æ•°å­—ã¯æ„å‘³ãªã„ã®ã§éš ã™ã€‚
 	$local_ip=substr($local_ip,1);
 	$local_ip="\?"."$local_ip";
 	$local_ip=~ tr/0-9/\?/;
-	# ‰ïĞ‚©‚çŒf¦”Â‚ÉƒAƒNƒZƒX‚µ‚Ä‚¢‚é‚±‚Æ‚ªƒoƒŒ‚é‚Æ‚¢‚â‚Èl‚Í‘½‚¢‚Æ
-	# v‚í‚ê‚é‚Ì‚ÅA‰ïĞ‚Ìê‡‚ÍĞ–¼‚ğí‚éB‚µ‚©‚µA‚ ‚ñ‚Ü‚èí‚é‚Æ
-	# ƒCƒ^ƒYƒ‰—\–hŒø‰Ê‚ª‚È‚­‚È‚é‚Ì‚ÅA‚¨K‚ğ‚Q•¶š‚¾‚¯í‚é‚±‚Æ‚É‚·‚é
+	# ä¼šç¤¾ã‹ã‚‰æ²ç¤ºæ¿ã«ã‚¢ã‚¯ã‚»ã‚¹ã—ã¦ã„ã‚‹ã“ã¨ãŒãƒãƒ¬ã‚‹ã¨ã„ã‚„ãªäººã¯å¤šã„ã¨
+	# æ€ã‚ã‚Œã‚‹ã®ã§ã€ä¼šç¤¾ã®å ´åˆã¯ç¤¾åã‚’å‰Šã‚‹ã€‚ã—ã‹ã—ã€ã‚ã‚“ã¾ã‚Šå‰Šã‚‹ã¨
+	# ã‚¤ã‚¿ã‚ºãƒ©äºˆé˜²åŠ¹æœãŒãªããªã‚‹ã®ã§ã€ãŠå°»ã‚’ï¼’æ–‡å­—ã ã‘å‰Šã‚‹ã“ã¨ã«ã™ã‚‹
 	if($other_ip=~ /^(.*)(\.?)([^\.]+)\.(co)\.(jp)$/){
 	    $company_name="$3";
 #	    $company_name=substr($company_name,1);
@@ -6514,22 +6518,22 @@ sub user_IP_privacy_filter{
 	    chop($company_name);
 	    $other_ip="$1$2$company_name\?\?.$4.$5";
 	}
-	# ­•{‹@ŠÖ‚Í“ª‚ğ‚Q•¶šA‚¨K‚ğ‚P•¶ší‚é
+	# æ”¿åºœæ©Ÿé–¢ã¯é ­ã‚’ï¼’æ–‡å­—ã€ãŠå°»ã‚’ï¼‘æ–‡å­—å‰Šã‚‹
 	if($other_ip=~ /^(.*)(\.?)([^\.]+)\.(go)\.(jp)$/){
 	    $company_name="$3";
 	    $company_name=substr($company_name,2);
 	    chop($company_name);
 	    $other_ip="$1$2\?\?$company_name\?.$4.$5";
 	}
-	# ‘åŠw‚ÍAˆ«‚¢l?‚ª‚æ‚­JUMP‚Ég‚¢Aˆ«—p‚³‚ê‚é‚±‚Æ‚ª‘½‚¢‚Ì‚ÅA
-	# ‰º•”‚Í‚»‚Ì‚Ü‚Üí‚ç‚È‚¢EEE(^_^)
+	# å¤§å­¦ã¯ã€æ‚ªã„äºº?ãŒã‚ˆãJUMPã«ä½¿ã„ã€æ‚ªç”¨ã•ã‚Œã‚‹ã“ã¨ãŒå¤šã„ã®ã§ã€
+	# ä¸‹éƒ¨ã¯ãã®ã¾ã¾å‰Šã‚‰ãªã„ãƒ»ãƒ»ãƒ»(^_^)
 	if($other_ip=~ /ac\.jp$/){
 		$other_ip="$org_other_ip";
 	}
 	if(($other_ip=~ /ne\.jp$/)||($other_ip=~ /or\.jp$/)){
-	 # ƒvƒƒoƒCƒ_‚ÍA‚à‚Æ‚à‚Æ“½–¼«‚ª‚‚¢‚Ì‚ÅAÅ‰‚Ì‚P•¶ší‚è‚Æ
-	 # ”šÁ‚µ‚Å[•ª‚©‚ÈEEE‚Æ‚¢‚¤‚±‚Æ‚¾‚Á‚½‚ªA
-	 # ƒT[ƒhƒhƒƒCƒ“‚Ì”š‚¾‚¯Á‚µ‚Ä‚¨‚­
+	 # ãƒ—ãƒ­ãƒã‚¤ãƒ€ã¯ã€ã‚‚ã¨ã‚‚ã¨åŒ¿åæ€§ãŒé«˜ã„ã®ã§ã€æœ€åˆã®ï¼‘æ–‡å­—å‰Šã‚Šã¨
+	 # æ•°å­—æ¶ˆã—ã§å……åˆ†ã‹ãªãƒ»ãƒ»ãƒ»ã¨ã„ã†ã“ã¨ã ã£ãŸãŒã€
+	 # ã‚µãƒ¼ãƒ‰ãƒ‰ãƒ¡ã‚¤ãƒ³ã®æ•°å­—ã ã‘æ¶ˆã—ã¦ãŠã
 	 $other_ip=~ tr/0-9/\?/;
 	}
 	$user_IP="$local_ip"."\."."$other_ip";
@@ -6538,13 +6542,13 @@ sub user_IP_privacy_filter{
 }
 
 #============================#
-# ‚i‚t‚l‚o—p‚g‚s‚l‚k
+# ï¼ªï¼µï¼­ï¼°ç”¨ï¼¨ï¼´ï¼­ï¼¬
 #============================#
 
 sub jump_html{
 
-#	$gvar_cgi_add_url;			# URL‚É‘«‚·‚×‚«‚à‚Ì(ƒOƒ[ƒoƒ‹•Ï”)
-	local($tmp_cgi_add_url)	= $_[0];	# URL‚É‘«‚·‚×‚«‚à‚Ì(«—ˆŠg’£—p)
+#	$gvar_cgi_add_url;			# URLã«è¶³ã™ã¹ãã‚‚ã®(ã‚°ãƒ­ãƒ¼ãƒãƒ«å¤‰æ•°)
+	local($tmp_cgi_add_url)	= $_[0];	# URLã«è¶³ã™ã¹ãã‚‚ã®(å°†æ¥æ‹¡å¼µç”¨)
 
 	local($mes_01);
 
@@ -6558,7 +6562,7 @@ sub jump_html{
 
 	if(($form_disp_on_board==0)&&($FORM{'bbsaction'} eq 'post')&&($FORM{'prebbsaction'} ne "disp_rep_form")&&($FORM{'prebbsaction'} ne "edit_form")){
 
-# ƒtƒH[ƒ€•ÊƒEƒBƒ“ƒh‚Ì‚½‚ß‚Ìƒƒjƒ…[
+# ãƒ•ã‚©ãƒ¼ãƒ åˆ¥ã‚¦ã‚£ãƒ³ãƒ‰æ™‚ã®ãŸã‚ã®ãƒ¡ãƒ‹ãƒ¥ãƒ¼
 		print<<EOF;
 <HTML lang="ja">
 <HEAD>
@@ -6575,17 +6579,17 @@ var timer_b	=0;
 function reload_bbs_window(){
 	clearTimeout(timerID);
 	timerID =setTimeout("reload_bbs_window()",1000);
-	if(timer_a ==7){	//7•bŒã‚Éƒtƒ‰ƒbƒVƒ…
-		location.href="$cgi_name?bbsaction=disp_form_only&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=$FORM{'amode'}";//“ü—ÍƒEƒBƒ“ƒh‚ğƒ[ƒh
+	if(timer_a ==7){	//7ç§’å¾Œã«ãƒ•ãƒ©ãƒƒã‚·ãƒ¥
+		location.href="$cgi_name?bbsaction=disp_form_only&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=$FORM{'amode'}";//å…¥åŠ›ã‚¦ã‚£ãƒ³ãƒ‰ã‚’ãƒ­ãƒ¼ãƒ‰
 	}
-	if(timer_b ==5){	//5•bŒã‚Éƒtƒ‰ƒbƒVƒ…
-		window.opener.location.href="$cgi_name?&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=$FORM{'amode'}";	//eƒEƒBƒ“ƒh‚ğƒŠƒ[ƒh
+	if(timer_b ==5){	//5ç§’å¾Œã«ãƒ•ãƒ©ãƒƒã‚·ãƒ¥
+		window.opener.location.href="$cgi_name?&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=$FORM{'amode'}";	//è¦ªã‚¦ã‚£ãƒ³ãƒ‰ã‚’ãƒªãƒ­ãƒ¼ãƒ‰
 	}
-	if(timer_b ==120){	//120•bŒã‚Éƒ‹[ƒv©“®’â~
+	if(timer_b ==120){	//120ç§’å¾Œã«ãƒ«ãƒ¼ãƒ—è‡ªå‹•åœæ­¢
 		clearTimeout(timerID);
 	}
-	timer_a+=1;//‚P•b‚Éˆê‰ñƒCƒ“ƒNƒŠƒƒ“ƒg
-	timer_b+=1;//‚P•b‚Éˆê‰ñƒCƒ“ƒNƒŠƒƒ“ƒg
+	timer_a+=1;//ï¼‘ç§’ã«ä¸€å›ã‚¤ãƒ³ã‚¯ãƒªãƒ¡ãƒ³ãƒˆ
+	timer_b+=1;//ï¼‘ç§’ã«ä¸€å›ã‚¤ãƒ³ã‚¯ãƒªãƒ¡ãƒ³ãƒˆ
 }
 
 //-->
@@ -6601,8 +6605,8 @@ function reload_bbs_window(){
 </table>
 <UL><BR><BR>
 <font color=black>
-<blink>ˆ—’†......</blink><BR><BR>
-10•bŠÔ‚±‚Ì‚Ü‚Ü‚¨‘Ò‚¿‚­‚¾‚³‚¢D
+<blink>å‡¦ç†ä¸­......</blink><BR><BR>
+10ç§’é–“ã“ã®ã¾ã¾ãŠå¾…ã¡ãã ã•ã„ï¼
 </UL>
 </BODY>
 </HTML>
@@ -6611,38 +6615,38 @@ EOF
 
 	}else{
 
-	  # ˆø”‚Åw’è‚³‚ê‚½ê‡‚Í‚»‚ê‚ğg‚¤
+	  # å¼•æ•°ã§æŒ‡å®šã•ã‚ŒãŸå ´åˆã¯ãã‚Œã‚’ä½¿ã†
 	  if($tmp_cgi_add_url ne ""){
 		$cgi_add_url="$tmp_cgi_add_url";
 
-	  # ƒOƒ[ƒoƒ‹•Ï”‚Åw’è‚³‚ê‚½ê‡‚Í‚±‚±‚ÅE‚¤
+	  # ã‚°ãƒ­ãƒ¼ãƒãƒ«å¤‰æ•°ã§æŒ‡å®šã•ã‚ŒãŸå ´åˆã¯ã“ã“ã§æ‹¾ã†
 	  }elsif($gvar_cgi_add_url ne ""){
 		$cgi_add_url="$gvar_cgi_add_url";
 
-	  # ˆø”‚Åw’è‚³‚ê‚È‚¢ê‡‚ÍƒP[ƒX•Ê‚É‚±‚±‚Å‘Îˆ‚ğ•ªŠò
+	  # å¼•æ•°ã§æŒ‡å®šã•ã‚Œãªã„å ´åˆã¯ã‚±ãƒ¼ã‚¹åˆ¥ã«ã“ã“ã§å¯¾å‡¦ã‚’åˆ†å²
 	  }else{
 		$cgi_add_url="";
 
-		# •ÔM‚Éƒy[ƒW‚ğ‹L‰¯‚·‚é
+		# è¿”ä¿¡æ™‚ã«ãƒšãƒ¼ã‚¸ã‚’è¨˜æ†¶ã™ã‚‹
 		if(($FORM{'bbsaction'} eq "post")&&($FORM{'prebbsaction'} eq "disp_rep_form")){
 			if($FORM{'page'} ne ""){
 				$cgi_add_url="\?page=$FORM{'page'}&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=$FORM{'amode'}";
 			}
-			# ƒŒƒX‚ğã‚É‚Á‚Äs‚­İ’è‚Ìê‡ƒXƒŒƒbƒh‚ªæ“ª‚Ös‚­‚Ì‚ÅAæ“ª‚ÖƒWƒƒƒ“ƒv
+			# ãƒ¬ã‚¹ã‚’ä¸Šã«æŒã£ã¦è¡Œãè¨­å®šã®å ´åˆã‚¹ãƒ¬ãƒƒãƒ‰ãŒå…ˆé ­ã¸è¡Œãã®ã§ã€å…ˆé ­ã¸ã‚¸ãƒ£ãƒ³ãƒ—
 			if($PM{'res_go_up'} == 1){
 				$cgi_add_url="\?page=1&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=$FORM{'amode'}";
 			}
-		# íœ / ƒy[ƒW•ÏX
+		# å‰Šé™¤æ™‚ / ãƒšãƒ¼ã‚¸å¤‰æ›´æ™‚
 		}elsif(($FORM{'bbsaction'} eq "remove")||($FORM{'bbsaction'} eq "pf_change")){
-		   # 2003.06 •ÏX
-		   # íœA•\¦ƒ‚[ƒh•ÏX‚Ì”ò‚ÑæPAGE‚ğŒvZ
+		   # 2003.06 å¤‰æ›´
+		   # å‰Šé™¤ã€è¡¨ç¤ºãƒ¢ãƒ¼ãƒ‰å¤‰æ›´æ™‚ã®é£›ã³å…ˆPAGEã‚’è¨ˆç®—
 		   if($FORM{'page'}>1){
 				$tmp_jump_page=$FORM{'page'};
 		   }else{
 				$tmp_jump_page=1;
 		   }
 		   $cgi_add_url="\?page=$tmp_jump_page&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=$FORM{'amode'}";
-		# WebPartsî•ñC³
+		# WebPartsæƒ…å ±ä¿®æ­£æ™‚
 		}elsif(($FORM{'prebbsaction'} eq "edit_form")&&(($FORM{'amode'} ne "post_webparts"))){
 		  $cgi_add_url="\?page=$FORM{'page'}&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=$FORM{'amode'}"
 		}
@@ -6666,8 +6670,8 @@ EOF
 </table>
 <UL><BR>
 <font color=black>
-<blink>ˆ—’†......</blink><BR><BR>
-‚R•bŠÔ‚±‚Ì‚Ü‚Ü‚¨‘Ò‚¿‚­‚¾‚³‚¢D
+<blink>å‡¦ç†ä¸­......</blink><BR><BR>
+ï¼“ç§’é–“ã“ã®ã¾ã¾ãŠå¾…ã¡ãã ã•ã„ï¼
 </UL>
 
 </BODY>
@@ -6679,22 +6683,22 @@ EOF
 }
 #
 #================================================#
-# ƒIƒŠƒWƒiƒ‹ƒtƒ@ƒCƒ‹–¼g—pŠó–]Ò—p’Ç‰ÁƒTƒuƒ‹[ƒ`ƒ“
+# ã‚ªãƒªã‚¸ãƒŠãƒ«ãƒ•ã‚¡ã‚¤ãƒ«åä½¿ç”¨å¸Œæœ›è€…ç”¨è¿½åŠ ã‚µãƒ–ãƒ«ãƒ¼ãƒãƒ³
 #================================================#
 #
 sub use_orig_name{
-	&error("ƒIƒŠƒWƒiƒ‹ƒtƒ@ƒCƒ‹–¼‚Å•Û‘¶‚·‚é‹@”\‚Íimgboard‚©‚çíœ‚³‚ê‚Ü‚µ‚½B<BR>“¯‹@”\‚ÍA¡Œã‚Í imgboard2015‚ÅƒTƒ|[ƒg‚µ‚Ü‚· ");
+	&error("ã‚ªãƒªã‚¸ãƒŠãƒ«ãƒ•ã‚¡ã‚¤ãƒ«åã§ä¿å­˜ã™ã‚‹æ©Ÿèƒ½ã¯imgboardã‹ã‚‰å‰Šé™¤ã•ã‚Œã¾ã—ãŸã€‚<BR>åŒæ©Ÿèƒ½ã¯ã€ä»Šå¾Œã¯ imgboard2015ã§ã‚µãƒãƒ¼ãƒˆã—ã¾ã™ ");
 }
 #
 #============================#
-# ƒGƒ‰[‚Ìo—Í
+# ã‚¨ãƒ©ãƒ¼ã®å‡ºåŠ›
 #============================#
 
 sub error{
 
-	local($error_message)	= $_[0];# ƒƒbƒZ[ƒW‚ğˆø”‚Æ‚µ‚Äæ“¾
-	local($error_message2)	= $_[1];# ƒƒbƒZ[ƒW‚ğˆø”‚Æ‚µ‚Äæ“¾
-	local($js_back_flag)	= $_[2];# Javascript‚Å–ß‚éƒ{ƒ^ƒ“‚ğo‚µ‚½‚¢ê‡‚Í1‚É
+	local($error_message)	= $_[0];# ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’å¼•æ•°ã¨ã—ã¦å–å¾—
+	local($error_message2)	= $_[1];# ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’å¼•æ•°ã¨ã—ã¦å–å¾—
+	local($js_back_flag)	= $_[2];# Javascriptã§æˆ»ã‚‹ãƒœã‚¿ãƒ³ã‚’å‡ºã—ãŸã„å ´åˆã¯1ã«
 
 	#for Form window
 	if(($form_disp_on_board ==0)&&($FORM{'bbsaction'} ne 'remove' )){
@@ -6728,15 +6732,15 @@ $top_html_header
 <UL>
 EOF
 
-# •ÔM‚ÌAC³‚ÌAƒAƒCƒRƒ““o˜^‚É‹L“üƒ~ƒX‚ª‚ ‚é‚Æ–ß‚ê‚È‚¢ƒoƒO‚É‘Î‰
+# è¿”ä¿¡ã®æ™‚ã€ä¿®æ­£ã®æ™‚ã€ã‚¢ã‚¤ã‚³ãƒ³ç™»éŒ²æ™‚ã«è¨˜å…¥ãƒŸã‚¹ãŒã‚ã‚‹ã¨æˆ»ã‚Œãªã„ãƒã‚°ã«å¯¾å¿œ
     if((($FORM{'bbsaction'} eq 'post')&&(($FORM{'prebbsaction'} eq 'disp_rep_form')||($FORM{'prebbsaction'} eq 'edit_form')))||($FORM{'amode'} eq "icon_admin")||($js_back_flag == 1 )||($FORM{'amode'} eq "post_webparts")){
 
 print<<EOF;
 <FORM>
-<INPUT TYPE="button" VALUE=" ‚à‚Ç‚é " $output_button_px onClick="history.back()">
+<INPUT TYPE="button" VALUE=" ã‚‚ã©ã‚‹ " $output_button_px onClick="history.back()">
 </FORM>
 <NOSCRIPT>
-<a href="$ENV{'HTTP_REFERER'}">‚à‚Ç‚é</a>
+<a href="$ENV{'HTTP_REFERER'}">ã‚‚ã©ã‚‹</a>
 </NOSCRIPT>
 EOF
     }else{
@@ -6747,7 +6751,7 @@ print<<EOF;
 <INPUT TYPE="HIDDEN" NAME="p1" VALUE="$FORM{'p1'}">
 <INPUT TYPE="HIDDEN" NAME="p2" VALUE="$FORM{'p2'}">
 <INPUT TYPE=\"HIDDEN\" NAME="bbsaction" VALUE="$error_bbsaction">
-<INPUT TYPE="SUBMIT" VALUE=" ‚à‚Ç‚é " $output_button_px> 
+<INPUT TYPE="SUBMIT" VALUE=" ã‚‚ã©ã‚‹ " $output_button_px> 
 </FORM>
 EOF
     }
@@ -6757,12 +6761,12 @@ print<<EOF;
 </BODY>
 </HTML>
 EOF
-	&rm_tmp_uploaded_files;			# ˆê•Û‘¶‚³‚ê‚½‰æ‘œƒf[ƒ^‚ğíœ
+	&rm_tmp_uploaded_files;			# ä¸€æ™‚ä¿å­˜ã•ã‚ŒãŸç”»åƒãƒ‡ãƒ¼ã‚¿ã‚’å‰Šé™¤
 	exit;
 }
 #
 #===================================#
-# ˆê“o˜^‚³‚ê‚½‰æ‘œƒtƒ@ƒCƒ‹‚Ìíœ
+# ä¸€æ™‚ç™»éŒ²ã•ã‚ŒãŸç”»åƒãƒ•ã‚¡ã‚¤ãƒ«ã®å‰Šé™¤
 #===================================#
 
 sub rm_tmp_uploaded_files{
@@ -6770,10 +6774,10 @@ sub rm_tmp_uploaded_files{
 		foreach $fname_list(@NEWFNAMES){
 			if(-e "$img_dir/$fname_list"){
 				unlink("$img_dir/$fname_list");
-				# ƒƒ^ƒtƒ@ƒCƒ‹‚àíœ‚·‚é
+				# ãƒ¡ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã‚‚å‰Šé™¤ã™ã‚‹
 				&rm_meta_file("$img_dir/$fname_list");
 			}
-			# Œg‘Ñ—pƒtƒ@ƒCƒ‹‚àíœ‚·‚é
+			# æºå¸¯ç”¨ãƒ•ã‚¡ã‚¤ãƒ«ã‚‚å‰Šé™¤ã™ã‚‹
 			if($fname_list=~ /\.(jpe?g|gif|png|bmp|mng)$/i){
 				  &rm_snl_file("$unq_id","$img_dir","$existing_snl_type_list");
 			}
@@ -6782,20 +6786,20 @@ sub rm_tmp_uploaded_files{
 }
 #
 #=============================#
-# Œg‘Ñ—pƒtƒ@ƒCƒ‹‚Ìíœ(R7)
+# æºå¸¯ç”¨ãƒ•ã‚¡ã‚¤ãƒ«ã®å‰Šé™¤(R7)
 #=============================#
 #
-# «—ˆ‚Ì‘SŒg‘Ñ‘Î‰‚ğl‚¦‚ÄŠg’£q‚Í
-# ‚¢‚ë‚¢‚ë‚Å‚«‚é‚æ‚¤‚É‚µ‚Ä‚¨‚­
+# å°†æ¥ã®å…¨æºå¸¯å¯¾å¿œã‚’è€ƒãˆã¦æ‹¡å¼µå­ã¯
+# ã„ã‚ã„ã‚ã§ãã‚‹ã‚ˆã†ã«ã—ã¦ãŠã
 #
 sub rm_snl_file{
 
-	local($tmp_rm_snl_unq_id)	=$_[0]; # ˆø”1‚ÍUID
-	local($tmp_rm_snl_dir)		=$_[1]; # ˆø”2‚ÍƒpƒX
-	local($tmp_rm_snl_exist_type)	=$_[2]; # ˆø”3‚ÍSNL‘¶İƒŠƒXƒg
+	local($tmp_rm_snl_unq_id)	=$_[0]; # å¼•æ•°1ã¯UID
+	local($tmp_rm_snl_dir)		=$_[1]; # å¼•æ•°2ã¯ãƒ‘ã‚¹
+	local($tmp_rm_snl_exist_type)	=$_[2]; # å¼•æ•°3ã¯SNLå­˜åœ¨ãƒªã‚¹ãƒˆ
 
-	local($snl_future_bit);		# Œg‘Ñ—pƒtƒ@ƒCƒ‹–¼‚Ì«—ˆŠg’£ƒrƒbƒg
-	local($snl_ext);		# Œg‘Ñ—pƒtƒ@ƒCƒ‹‚ÌÀÛ‚ÌŠg’£q
+	local($snl_future_bit);		# æºå¸¯ç”¨ãƒ•ã‚¡ã‚¤ãƒ«åã®å°†æ¥æ‹¡å¼µãƒ“ãƒƒãƒˆ
+	local($snl_ext);		# æºå¸¯ç”¨ãƒ•ã‚¡ã‚¤ãƒ«ã®å®Ÿéš›ã®æ‹¡å¼µå­
 
 	$tmp_rm_snl_unq_id="snl"."$tmp_rm_snl_unq_id";
 
@@ -6812,23 +6816,23 @@ sub rm_snl_file{
 }
 #
 #====================================================#
-# imgtitle‚©‚çA$IMG_PARAMETERS{name}î•ñ‚ğ”²‚«o‚·
+# imgtitleã‹ã‚‰ã€$IMG_PARAMETERS{name}æƒ…å ±ã‚’æŠœãå‡ºã™
 #====================================================#
-# ˆø”‚ÍƒRƒƒ“ƒgƒAƒEƒg•t‚«‚Ì$tmp_imgtitle
-# •Ô’l‚ÍƒRƒƒ“ƒgƒAƒEƒg‚È‚µ‚Ì$tmp_imgtitle‚Æ˜A‘z”z—ñ $IMG_PARAMETERS{$name}
+# å¼•æ•°ã¯ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆä»˜ãã®$tmp_imgtitle
+# è¿”å€¤ã¯ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆãªã—ã®$tmp_imgtitleã¨é€£æƒ³é…åˆ— $IMG_PARAMETERS{$name}
 sub parse_img_param{
 
-	local($ttmp_imgtitle)= $_[0];	# ˆø”‚Æ‚µ‚Äæ“¾
+	local($ttmp_imgtitle)= $_[0];	# å¼•æ•°ã¨ã—ã¦å–å¾—
 
-	# imgtitle‚Ì’†‚Ésize,height,width“™‚Ìƒpƒ‰ƒ[ƒ^‚ğŠi”[
-	# ‘®<!--ƒpƒ‰ƒ[ƒ^–¼=’l;ƒpƒ‰ƒ[ƒ^–¼2=’l2EEE-->
-	# <!--‚Æ-->‚ğœ‚«ƒpƒ‰ƒ[ƒ^•”‚ğ’Šo
+	# imgtitleã®ä¸­ã«size,height,widthç­‰ã®ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’æ ¼ç´
+	# æ›¸å¼<!--ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å=å€¤;ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å2=å€¤2ãƒ»ãƒ»ãƒ»-->
+	# <!--ã¨-->ã‚’é™¤ããƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿éƒ¨ã‚’æŠ½å‡º
 	if($ttmp_imgtitle ne ''){
 		($ttmp_imgtitle,$img_parameters)=split(/<\!--/,$ttmp_imgtitle);
 		$img_parameters=~ s/-->//g;
 	}
 
-	# ƒpƒ‰ƒ[ƒ^$img_parameters‚ª’Ç‰Á‚³‚ê‚Ä‚¢‚éê‡D
+	# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿$img_parametersãŒè¿½åŠ ã•ã‚Œã¦ã„ã‚‹å ´åˆï¼
 	if($img_parameters ne ''){
 		foreach ( split(/;/,$img_parameters)){
 			local($name,$value) = split(/\=/);
@@ -6839,46 +6843,46 @@ sub parse_img_param{
 }
 #
 #===================================#
-# ASX ƒƒ^ƒtƒ@ƒCƒ‹‚Ìíœ
+# ASX ãƒ¡ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã®å‰Šé™¤
 #===================================#
-# Winodows Media‚ÌƒXƒgƒŠ[ƒ€Ä¶‚âeggy/FOMA‚ÌƒXƒgƒŠ[ƒ€Ä¶‘Î‰‚Ì‚½‚ß‚É
-# ‹@”\Šg’£‚µ‚½B íœ‚·‚éƒtƒ@ƒCƒ‹‚ªƒƒ^ƒtƒ@ƒCƒ‹‚ğ‚Á‚Ä‚¢‚»‚¤‚È
-# –¼‘O‚¾‚Á‚½‚çƒƒ^ƒtƒ@ƒCƒ‹‚ç‚µ‚«ƒtƒ@ƒCƒ‹‚ğ’T‚µA‚à‚µ‚ ‚ê‚ÎÁ‚µ‚Ä‚¨‚­
+# Winodows Mediaã®ã‚¹ãƒˆãƒªãƒ¼ãƒ å†ç”Ÿã‚„eggy/FOMAã®ã‚¹ãƒˆãƒªãƒ¼ãƒ å†ç”Ÿå¯¾å¿œã®ãŸã‚ã«
+# æ©Ÿèƒ½æ‹¡å¼µã—ãŸã€‚ å‰Šé™¤ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«ãŒãƒ¡ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã‚’æŒã£ã¦ã„ãã†ãª
+# åå‰ã ã£ãŸã‚‰ãƒ¡ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã‚‰ã—ããƒ•ã‚¡ã‚¤ãƒ«ã‚’æ¢ã—ã€ã‚‚ã—ã‚ã‚Œã°æ¶ˆã—ã¦ãŠã
 sub rm_meta_file{
 
-	local($tmp_rm_meta_file)=$_[0]; # ˆø”‚Ííœ‚·‚éƒtƒ@ƒCƒ‹–¼–{‘ÌiƒpƒX•t‚«j
+	local($tmp_rm_meta_file)=$_[0]; # å¼•æ•°ã¯å‰Šé™¤ã™ã‚‹ãƒ•ã‚¡ã‚¤ãƒ«åæœ¬ä½“ï¼ˆãƒ‘ã‚¹ä»˜ãï¼‰
 
-	# asx“™‚É‘Î‰
+	# asxç­‰ã«å¯¾å¿œ
 	if($tmp_rm_meta_file=~ /^(.*)\.(asf|wma|wmv?)$/){
 	   if(-e "$1\.asx"){
-		unlink("$1\.asx");# ASF(ŒÃ‚¢•\‹L‚Ìd•û)
+		unlink("$1\.asx");# ASF(å¤ã„è¡¨è¨˜ã®ä»•æ–¹)
 	   }
 	   if(-e "$1\.wax"){
-		unlink("$1\.wax");# ASF&WinMediaAudio(ˆê“I‚Ég‚í‚ê‚½)
+		unlink("$1\.wax");# ASF&WinMediaAudio(ä¸€æ™‚çš„ã«ä½¿ã‚ã‚ŒãŸ)
 	   }
 	   if(-e "$1\.wvx"){
-		unlink("$1\.wvx");# ASF&WinMediaAudio/Video(Œ»İ‚Í‚±‚ê‚ª„§‚ç‚µ‚¢)
+		unlink("$1\.wvx");# ASF&WinMediaAudio/Video(ç¾åœ¨ã¯ã“ã‚ŒãŒæ¨å¥¨ã‚‰ã—ã„)
 	   }
 	}
 }
 #
 #=======================#
-# “Šeƒuƒ‰ƒEƒUƒ`ƒFƒbƒN
+# æŠ•ç¨¿ãƒ–ãƒ©ã‚¦ã‚¶ãƒã‚§ãƒƒã‚¯
 #=======================#
 #
 sub check_post_browser_type{
 	if($HTTP_USER_AGENT=~ /icab/i){
-	    &error(" ƒGƒ‰[ ‚±‚Ìƒuƒ‰ƒEƒU‚Å‚Í‹L–‚Ì“Še‚Í‚Å‚«‚Ü‚¹‚ñ ");
+	    &error(" ã‚¨ãƒ©ãƒ¼ ã“ã®ãƒ–ãƒ©ã‚¦ã‚¶ã§ã¯è¨˜äº‹ã®æŠ•ç¨¿ã¯ã§ãã¾ã›ã‚“ ");
 	}
 }
 #
 #====================#
-# ƒuƒ‰ƒEƒUƒ`ƒFƒbƒN
+# ãƒ–ãƒ©ã‚¦ã‚¶ãƒã‚§ãƒƒã‚¯
 #====================#
 #
 sub check_browser_type{
 
-	# Apache 1.3.12 ˆÈ~‚Å”­¶‚·‚éANetscape 4.x•¶š‰»‚¯–â‘è‘Îô
+	# Apache 1.3.12 ä»¥é™ã§ç™ºç”Ÿã™ã‚‹ã€Netscape 4.xæ–‡å­—åŒ–ã‘å•é¡Œå¯¾ç­–
 	if($HTTP_USER_AGENT!~ /compatible/i){
 	 if($HTTP_USER_AGENT=~ /Mozilla\/4\.(\d)/i){
 	  if( $use_sjis_header_for_Netscape4X == 1){
@@ -6890,7 +6894,7 @@ sub check_browser_type{
 	 }
 	}
 
-    #ipod/iPhone•¶š‰»‚¯‘Îô 2008.06.20 update 2012.05.07
+    #ipod/iPhoneæ–‡å­—åŒ–ã‘å¯¾ç­– 2008.06.20 update 2012.05.07
 	if($HTTP_USER_AGENT=~ /ipod|iPad|iPhone|safari|Firefox/i){
 		$Netscape4x_ch_set="; charset=Shift_JIS";
 	}
@@ -6898,27 +6902,27 @@ sub check_browser_type{
 }
 #
 #=====================#
-# iƒ‚[ƒhƒ`ƒFƒbƒN(R6)
+# iãƒ¢ãƒ¼ãƒ‰ãƒã‚§ãƒƒã‚¯(R6)
 #=====================#
-# 2010.01.23 ƒAƒ“ƒhƒƒCƒh‘Î‰‚Å¬C³
-# 2001.05.25 (iƒ‚[ƒhˆÈŠO‚àƒŠƒ_ƒCƒŒƒNƒg‚·‚é‚æ‚¤‚É‚µ‚½)
+# 2010.01.23 ã‚¢ãƒ³ãƒ‰ãƒ­ã‚¤ãƒ‰å¯¾å¿œã§å°ä¿®æ­£
+# 2001.05.25 (iãƒ¢ãƒ¼ãƒ‰ä»¥å¤–ã‚‚ãƒªãƒ€ã‚¤ãƒ¬ã‚¯ãƒˆã™ã‚‹ã‚ˆã†ã«ã—ãŸ)
 sub check_imode{
 
 	if($imode_redirect==1){
 	   if(-e "$imode_cgi_name"){
-	   # 2010.01 androidVƒtƒ@[ƒ€1.6‚ÌUSER_AGENT‚Édocomo‚Ì•¶š‚ªII(]—ˆ‚ÍFullƒuƒ‰ƒEƒUŒn‚É‚ÍDoCoMo‚Ì•¶š‚Í‚È‚¢‚Ì‚ª’Ê—á‚¾‚Á‚½)B
+	   # 2010.01 androidæ–°ãƒ•ã‚¡ãƒ¼ãƒ 1.6ã®USER_AGENTã«docomoã®æ–‡å­—ãŒï¼ï¼(å¾“æ¥ã¯Fullãƒ–ãƒ©ã‚¦ã‚¶ç³»ã«ã¯DoCoMoã®æ–‡å­—ã¯ãªã„ã®ãŒé€šä¾‹ã ã£ãŸ)ã€‚
 		if($HTTP_USER_AGENT=~ /^docomo/i){ 
 		  print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
-		  &simple_HTML(""," “]‘— "," <a href=\"$imode_cgi_name\"\> iƒ‚[ƒhƒ†[ƒUê—pƒAƒNƒZƒXƒy[ƒW </a> ‚ğ‚Ç‚¤‚¼‚²—˜—p‚­‚¾‚³‚¢ ");
+		  &simple_HTML(""," è»¢é€ "," <a href=\"$imode_cgi_name\"\> iãƒ¢ãƒ¼ãƒ‰ãƒ¦ãƒ¼ã‚¶å°‚ç”¨ã‚¢ã‚¯ã‚»ã‚¹ãƒšãƒ¼ã‚¸ </a> ã‚’ã©ã†ãã”åˆ©ç”¨ãã ã•ã„ ");
 		  $keitai_flag="imode";
 		}elsif($HTTP_USER_AGENT=~ /^kddi/i){
 		   print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
-		   &simple_HTML(""," “]‘— "," <a href=\"$imode_cgi_name\"\> au ƒ†[ƒUê—pƒAƒNƒZƒXƒy[ƒW </a> ‚ğ‚Ç‚¤‚¼‚²—˜—p‚­‚¾‚³‚¢ ");
+		   &simple_HTML(""," è»¢é€ "," <a href=\"$imode_cgi_name\"\> au ãƒ¦ãƒ¼ã‚¶å°‚ç”¨ã‚¢ã‚¯ã‚»ã‚¹ãƒšãƒ¼ã‚¸ </a> ã‚’ã©ã†ãã”åˆ©ç”¨ãã ã•ã„ ");
 		   $keitai_flag="imode";
 		# 2006.10.20 Update
 		}elsif(($ENV{'HTTP_X_JPHONE_MSNAME'} ne "")||($HTTP_USER_AGENT=~ /Vodafone/i)||($HTTP_USER_AGENT=~ /^SoftBank/i)){
 		  print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
-		  &simple_HTML(""," “]‘— "," <a href=\"$imode_cgi_name\"> SoftBankƒ†[ƒUê—pƒAƒNƒZƒXƒy[ƒW </a> ‚ğ‚Ç‚¤‚¼‚²—˜—p‚­‚¾‚³‚¢ ");
+		  &simple_HTML(""," è»¢é€ "," <a href=\"$imode_cgi_name\"> SoftBankãƒ¦ãƒ¼ã‚¶å°‚ç”¨ã‚¢ã‚¯ã‚»ã‚¹ãƒšãƒ¼ã‚¸ </a> ã‚’ã©ã†ãã”åˆ©ç”¨ãã ã•ã„ ");
 		  $keitai_flag="J-PHONE";
 		}else{
 		  $keitai_flag="pc";
@@ -6950,7 +6954,7 @@ print "$output_simple_block01_HTML\n";
 if($tmp_exit_f == 1){
 print<<HTML_END;
 <CENTER>
-[<a href="$cgi_name?page=$FORM{'page'}">$tmp_tm I—¹</a>]<BR>
+[<a href="$cgi_name?page=$FORM{'page'}">$tmp_tm çµ‚äº†</a>]<BR>
 </CENTER>
 HTML_END
 }
@@ -6959,183 +6963,183 @@ print<<HTML_END;
 </HTML>
 HTML_END
 
-undef $output_simple_block01_HTML; # ‰Šú‰»
+undef $output_simple_block01_HTML; # åˆæœŸåŒ–
 exit;
 
 }
 #
 #====================#
-# ƒvƒƒoƒCƒ_ƒ`ƒFƒbƒN
+# ãƒ—ãƒ­ãƒã‚¤ãƒ€ãƒã‚§ãƒƒã‚¯
 #====================#
 
 sub check_ISP{
 
 	if($SERVER_NAME=~ /bekkoame\./){
-		&error(" CGIİ’èƒGƒ‰[Bimgboard‚ªƒTƒ|[ƒgŠOƒTƒCƒg‚ğŒŸo‚µ‚Ü‚µ‚½B<BR>u$SERVER_NAMEv‚ÍACGI‚ÉŠÖ‚µ‚Ä“Áê‚È§–ñ‚ª‚ ‚é‚½‚ßAc”O‚È‚ª‚çimgboard‚ğ—˜—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñB‘¼‚ÌƒvƒƒoƒCƒ_‚ğ‚²—˜—p‚­‚¾‚³‚¢ ");
+		&error(" CGIè¨­å®šã‚¨ãƒ©ãƒ¼ã€‚imgboardãŒã‚µãƒãƒ¼ãƒˆå¤–ã‚µã‚¤ãƒˆã‚’æ¤œå‡ºã—ã¾ã—ãŸã€‚<BR>ã€Œ$SERVER_NAMEã€ã¯ã€CGIã«é–¢ã—ã¦ç‰¹æ®Šãªåˆ¶ç´„ãŒã‚ã‚‹ãŸã‚ã€æ®‹å¿µãªãŒã‚‰imgboardã‚’åˆ©ç”¨ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚ä»–ã®ãƒ—ãƒ­ãƒã‚¤ãƒ€ã‚’ã”åˆ©ç”¨ãã ã•ã„ ");
 	}
 
 	if($SERVER_NAME=~ /prohosting\.com/){
-		&error(" CGIİ’èƒGƒ‰[Bimgboard‚ª”ñ„§ƒTƒCƒg‚ğŒŸo‚µ‚Ü‚µ‚½B<BR>u$SERVER_NAMEv‚ÍAL‘}“ü—p‚ÌJavascript‚É“Áê‚È§–ñ‚ª‚ ‚èAc”O‚È‚ª‚çR6ˆÈ~‚Ìimgboard‚ğ—˜—p‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñBfreeweb,ƒgƒNƒgƒN“™A‘¼‚Ì–³—¿ƒvƒƒoƒCƒ_‚ğ‚²—˜—p‚­‚¾‚³‚¢ ");
+		&error(" CGIè¨­å®šã‚¨ãƒ©ãƒ¼ã€‚imgboardãŒéæ¨å¥¨ã‚µã‚¤ãƒˆã‚’æ¤œå‡ºã—ã¾ã—ãŸã€‚<BR>ã€Œ$SERVER_NAMEã€ã¯ã€åºƒå‘ŠæŒ¿å…¥ç”¨ã®Javascriptã«ç‰¹æ®Šãªåˆ¶ç´„ãŒã‚ã‚Šã€æ®‹å¿µãªãŒã‚‰R6ä»¥é™ã®imgboardã‚’åˆ©ç”¨ã™ã‚‹ã“ã¨ãŒã§ãã¾ã›ã‚“ã€‚freeweb,ãƒˆã‚¯ãƒˆã‚¯ç­‰ã€ä»–ã®ç„¡æ–™ãƒ—ãƒ­ãƒã‚¤ãƒ€ã‚’ã”åˆ©ç”¨ãã ã•ã„ ");
 	}
 
 	if(($SERVER_NAME=~ /hi\-ho\.ne\.jp/)||($SERVER_NAME=~ /\.nifty\.com/)||($SERVER_NAME=~ /\.wakwak\.com/)){
-	# img_urlİ’è‚ª•K—v‚ÈƒTƒCƒg‚Åİ’è‚ª–¢İ’è‚Ìê‡‚ÍŒx‚ğo‚·
-		if($img_url eq 'http://‚ ‚È‚½‚ÌƒvƒƒoƒCƒ_/‚ ‚È‚½‚ÌƒfƒBƒŒƒNƒgƒŠ/img-box'){
-			&error(" CGIİ’è‚ÉƒGƒ‰[‚ª‚ ‚è‚Ü‚·B<BR>‚ ‚È‚½‚ªİ’u‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚éƒvƒƒoƒCƒ_
-			u $SERVER_NAME v‚Å‚Í“Áê‚Èİ’è‚ª•K—v‚É‚È‚è‚Ü‚·BVFAQŒf¦”Â‚ğQÆ‚µ‚ÄA‚±‚ê‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢ ");
+	# img_urlè¨­å®šãŒå¿…è¦ãªã‚µã‚¤ãƒˆã§è¨­å®šãŒæœªè¨­å®šã®å ´åˆã¯è­¦å‘Šã‚’å‡ºã™
+		if($img_url eq 'http://ã‚ãªãŸã®ãƒ—ãƒ­ãƒã‚¤ãƒ€/ã‚ãªãŸã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª/img-box'){
+			&error(" CGIè¨­å®šã«ã‚¨ãƒ©ãƒ¼ãŒã‚ã‚Šã¾ã™ã€‚<BR>ã‚ãªãŸãŒè¨­ç½®ã—ã‚ˆã†ã¨ã—ã¦ã„ã‚‹ãƒ—ãƒ­ãƒã‚¤ãƒ€
+			ã€Œ $SERVER_NAME ã€ã§ã¯ç‰¹æ®Šãªè¨­å®šãŒå¿…è¦ã«ãªã‚Šã¾ã™ã€‚æ–°FAQæ²ç¤ºæ¿ã‚’å‚ç…§ã—ã¦ã€ã“ã‚Œã‚’è¨­å®šã—ã¦ãã ã•ã„ ");
 		}
 	}
 
 	if($SERVER_NAME=~ /www5.\.biglobe/){
-	# img_urlİ’è‚ª•K—v‚ÈƒTƒCƒg‚Åİ’è‚ª–¢İ’è‚Ìê‡‚ÍŒx‚ğo‚·
-		if($img_url eq 'http://‚ ‚È‚½‚ÌƒvƒƒoƒCƒ_/‚ ‚È‚½‚ÌƒfƒBƒŒƒNƒgƒŠ/img-box'){
-			&error(" CGIİ’è‚ÉƒGƒ‰[‚ª‚ ‚è‚Ü‚·B<BR>‚ ‚È‚½‚ªİ’u‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚éƒvƒƒoƒCƒ_
-			u $SERVER_NAME v‚Å‚Íimg_url‚Ìİ’è‚ª•K—v‚É‚È‚è‚Ü‚·B‚±‚ê‚ğİ’è‚µ‚Ä‚­‚¾‚³‚¢B
-			‚È‚¨Aİ’è•û–@‚ª‚í‚©‚ç‚È‚¢ê‡‚ÍƒTƒ|[ƒgŒf¦”Â‚Ì‰ß‹ƒƒO‚ğQÆ‚µ‚Ä‚­‚¾‚³‚¢ ");
+	# img_urlè¨­å®šãŒå¿…è¦ãªã‚µã‚¤ãƒˆã§è¨­å®šãŒæœªè¨­å®šã®å ´åˆã¯è­¦å‘Šã‚’å‡ºã™
+		if($img_url eq 'http://ã‚ãªãŸã®ãƒ—ãƒ­ãƒã‚¤ãƒ€/ã‚ãªãŸã®ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒª/img-box'){
+			&error(" CGIè¨­å®šã«ã‚¨ãƒ©ãƒ¼ãŒã‚ã‚Šã¾ã™ã€‚<BR>ã‚ãªãŸãŒè¨­ç½®ã—ã‚ˆã†ã¨ã—ã¦ã„ã‚‹ãƒ—ãƒ­ãƒã‚¤ãƒ€
+			ã€Œ $SERVER_NAME ã€ã§ã¯ï¼„img_urlã®è¨­å®šãŒå¿…è¦ã«ãªã‚Šã¾ã™ã€‚ã“ã‚Œã‚’è¨­å®šã—ã¦ãã ã•ã„ã€‚
+			ãªãŠã€è¨­å®šæ–¹æ³•ãŒã‚ã‹ã‚‰ãªã„å ´åˆã¯ã‚µãƒãƒ¼ãƒˆæ²ç¤ºæ¿ã®éå»ãƒ­ã‚°ã‚’å‚ç…§ã—ã¦ãã ã•ã„ ");
 		}
 	}
 }
 #
 #====================#
-# Apache1.3.x‘Îô
+# Apache1.3.xå¯¾ç­–
 #====================#
 
 sub check_RH{
 	if(($REMOTE_HOST eq "")||($REMOTE_HOST =~ /^null$/i)){
 	    $REMOTE_HOST = "$ENV{'REMOTE_ADDR'}";
 	}
-	# 1.22 Rev4 ƒCƒ^ƒYƒ‰“Še–h~ô
-	# ƒŠƒ‚[ƒgƒzƒXƒg‚ª‚È‚¢ê‡‚Í“o˜^‚³‚¹‚È‚¢BƒƒbƒZ[ƒW‚Íƒ_ƒ~[
+	# 1.22 Rev4 ã‚¤ã‚¿ã‚ºãƒ©æŠ•ç¨¿é˜²æ­¢ç­–
+	# ãƒªãƒ¢ãƒ¼ãƒˆãƒ›ã‚¹ãƒˆãŒãªã„å ´åˆã¯ç™»éŒ²ã•ã›ãªã„ã€‚ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã¯ãƒ€ãƒŸãƒ¼
 	if(($REMOTE_HOST eq "")&&($no_upload_by_no_RH_user=='1')){
-	    &error("CGIƒGƒ‰[ No REMOTE_HOST <BR>Œ»İAƒŠƒ‚[ƒgƒzƒXƒgî•ñ‚ª‚È‚¢ê‡‚ÍA“Še‚Å‚«‚È‚¢İ’è‚É‚È‚Á‚Ä‚¢‚Ü‚·B ");
+	    &error("CGIã‚¨ãƒ©ãƒ¼ No REMOTE_HOST <BR>ç¾åœ¨ã€ãƒªãƒ¢ãƒ¼ãƒˆãƒ›ã‚¹ãƒˆæƒ…å ±ãŒãªã„å ´åˆã¯ã€æŠ•ç¨¿ã§ããªã„è¨­å®šã«ãªã£ã¦ã„ã¾ã™ã€‚ ");
 	}
 }
 
 #================================#
-# ˜A‘±“Še§ŒÀ ƒƒCƒ“(1.22 Rev4)
+# é€£ç¶šæŠ•ç¨¿åˆ¶é™ ãƒ¡ã‚¤ãƒ³(1.22 Rev4)
 #================================#
 #
 sub limit_upload_times{
 	if($limit_upload_times_flag==1){
-	 # ˜A‘±“ŠeƒJƒEƒ“ƒ^‚ğÀs
-	 # $new_utc_set‚ÍƒNƒbƒL[‚Éİ’è‚³‚ê‚éB
-	 # ˆø”‚Íİ’è•”‚Åİ’èBƒfƒtƒHƒ‹ƒg’l‚ğ‚Â‚Ì‚Å‹ó‚Å‚à‚¢‚¢B
+	 # é€£ç¶šæŠ•ç¨¿ã‚«ã‚¦ãƒ³ã‚¿ã‚’å®Ÿè¡Œ
+	 # $new_utc_setã¯ã‚¯ãƒƒã‚­ãƒ¼ã«è¨­å®šã•ã‚Œã‚‹ã€‚
+	 # å¼•æ•°ã¯è¨­å®šéƒ¨ã§è¨­å®šã€‚ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ã‚’æŒã¤ã®ã§ç©ºã§ã‚‚ã„ã„ã€‚
 	 $new_utc_set=&count_upload_times("$upload_limit_type","$upload_limit_times");
 	}
 }
 #
 #================================#
-# ˜A‘±“Še§ŒÀ ƒTƒu(1.22 Rev4)
+# é€£ç¶šæŠ•ç¨¿åˆ¶é™ ã‚µãƒ–(1.22 Rev4)
 #================================#
 #
 sub count_upload_times{
 
-	# ˜A‘±“ŠeƒJƒEƒ“ƒ^
-	# ˆø”‚ÍƒŒƒ“ƒWA§ŒÀ‰ñ”
-	# •Ô’l‚ÍVƒJƒEƒ“ƒ^ƒZƒbƒg’l,ƒOƒ[ƒoƒ‹•Ï”‚Ì$now_up_counter‚ÉŒ»İ‚Ì˜A‘±‰ñ”
+	# é€£ç¶šæŠ•ç¨¿ã‚«ã‚¦ãƒ³ã‚¿
+	# å¼•æ•°ã¯æ™‚åˆ»ãƒ¬ãƒ³ã‚¸ã€åˆ¶é™å›æ•°
+	# è¿”å€¤ã¯æ–°ã‚«ã‚¦ãƒ³ã‚¿ã‚»ãƒƒãƒˆå€¤,ã‚°ãƒ­ãƒ¼ãƒãƒ«å¤‰æ•°ã®$now_up_counterã«ç¾åœ¨ã®é€£ç¶šå›æ•°
 
-	#‰Šú‰»
-	local($upload_limit_type)	= $_[0];# ƒŒƒ“ƒW‚ğˆø”‚Æ‚µ‚Äæ“¾
-	local($upload_limit_times)	= $_[1];# §ŒÀ‰ñ”‚ğˆø”‚Æ‚µ‚Äæ“¾
+	#åˆæœŸåŒ–
+	local($upload_limit_type)	= $_[0];# æ™‚åˆ»ãƒ¬ãƒ³ã‚¸ã‚’å¼•æ•°ã¨ã—ã¦å–å¾—
+	local($upload_limit_times)	= $_[1];# åˆ¶é™å›æ•°ã‚’å¼•æ•°ã¨ã—ã¦å–å¾—
 	local($tmp_up_counter);
 
-	# ƒfƒtƒHƒ‹ƒg’l‚ğƒZƒbƒg
+	# ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆå€¤ã‚’ã‚»ãƒƒãƒˆ
 	$upload_limit_type="2min" if($upload_limit_type eq "");
 	$upload_limit_times="5" if($upload_limit_times eq "");
 
 	local(@NOWTIME)	= localtime(time);
 	local($yday)		= $NOWTIME[7];
 
-	# ƒf[ƒ^‚©‚çƒ^ƒCƒ€ƒx[ƒXƒiƒ“ƒo[‚ğì‚é
-	if($upload_limit_type eq "day"){		# 1“ú“–‚½‚èH‰ñ‚Å§ŒÀ
+	# æ™‚åˆ»ãƒ‡ãƒ¼ã‚¿ã‹ã‚‰ã‚¿ã‚¤ãƒ ãƒ™ãƒ¼ã‚¹ãƒŠãƒ³ãƒãƒ¼ã‚’ä½œã‚‹
+	if($upload_limit_type eq "day"){		# 1æ—¥å½“ãŸã‚Šï¼Ÿå›ã§åˆ¶é™
 		$up_base_num=35+$yday;
-	}elsif($upload_limit_type eq "1hour"){	# 1ŠÔ“–‚½‚èH‰ñ‚Å§ŒÀ
+	}elsif($upload_limit_type eq "1hour"){	# 1æ™‚é–“å½“ãŸã‚Šï¼Ÿå›ã§åˆ¶é™
 		$up_base_num=35+$yday+$hour;
-	}elsif($upload_limit_type eq "10min"){	# 10•ª“–‚½‚èH‰ñ‚Å§ŒÀ
+	}elsif($upload_limit_type eq "10min"){	# 10åˆ†å½“ãŸã‚Šï¼Ÿå›ã§åˆ¶é™
 		$up_base_num=35+$yday+(int(($min+1)/10));
-	}elsif($upload_limit_type eq "2min"){	# 2•ª“–‚½‚èH‰ñ‚Å§ŒÀ
+	}elsif($upload_limit_type eq "2min"){	# 2åˆ†å½“ãŸã‚Šï¼Ÿå›ã§åˆ¶é™
 		$up_base_num=35+$yday+(int(($min+1)/2));
-	}elsif($upload_limit_type eq "1min"){	# 1•ª“–‚½‚èH‰ñ‚Å§ŒÀ
+	}elsif($upload_limit_type eq "1min"){	# 1åˆ†å½“ãŸã‚Šï¼Ÿå›ã§åˆ¶é™
 		$up_base_num=35+$yday+(int(($min+1)/1));
-	}else{						# ƒfƒtƒHƒ‹ƒg‚Í2•ª	
+	}else{						# ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯2åˆ†	
 		$up_base_num=35+$yday+(int(($min+1)/2));
 	}
 
 	if($COOKIE{'utc'} eq ""){
-		# ƒNƒbƒL[‚Ì’l‚ª‚È‚¢ê‡‚ÍƒZƒbƒg
+		# ã‚¯ãƒƒã‚­ãƒ¼ã®å€¤ãŒãªã„å ´åˆã¯ã‚»ãƒƒãƒˆ
 		$tmp_up_counter=$up_base_num;
 		$now_up_counter=1;
 
 		return($tmp_up_counter);
 	}else{
-		$tmp_up_counter=$COOKIE{'utc'};	# ƒNƒbƒL[‚©‚çƒJƒEƒ“ƒ^’l‚ğ“Ç‚Ş
+		$tmp_up_counter=$COOKIE{'utc'};	# ã‚¯ãƒƒã‚­ãƒ¼ã‹ã‚‰ã‚«ã‚¦ãƒ³ã‚¿å€¤ã‚’èª­ã‚€
 	}		
 
-	# ƒGƒ‰[ƒ`ƒFƒbƒN
+	# ã‚¨ãƒ©ãƒ¼ãƒã‚§ãƒƒã‚¯
 	if($tmp_up_counter=~ /^(\d+)$/){
-		# ‚È‚É‚à‚µ‚È‚¢
+		# ãªã«ã‚‚ã—ãªã„
 	}else{
-		# ‚O‚ ‚é‚¢‚ÍA”šˆÈŠO‚ÌˆÙí’l‚É‚È‚Á‚Ä‚¢‚éê‡ƒŠƒZƒbƒg‚·‚é
+		# ï¼ã‚ã‚‹ã„ã¯ã€æ•°å­—ä»¥å¤–ã®ç•°å¸¸å€¤ã«ãªã£ã¦ã„ã‚‹å ´åˆãƒªã‚»ãƒƒãƒˆã™ã‚‹
 		$tmp_up_counter=$up_base_num;
-		# ‚±‚ê‚ğƒNƒbƒL[‚ÉƒZƒbƒg‚·‚é
+		# ã“ã‚Œã‚’ã‚¯ãƒƒã‚­ãƒ¼ã«ã‚»ãƒƒãƒˆã™ã‚‹
 		return($tmp_up_counter);
 	}
-	return(1) if($up_base_num==0);		# ‚OœZ—\–h(’Êí‚Í‚È‚¢)
+	return(1) if($up_base_num==0);		# ï¼é™¤ç®—äºˆé˜²(é€šå¸¸ã¯ãªã„)
 
 #&error("up base $up_base_num yday $yday utc $COOKIE{'utc'} tmp_up $tmp_up_counter");
 
-	# ƒƒCƒ“ˆ—
+	# ãƒ¡ã‚¤ãƒ³å‡¦ç†
 	if(($tmp_up_counter % $up_base_num)==0){
-		# ƒ^ƒCƒ€ƒx[ƒX‚ªˆê’v‚·‚éê‡‚ÍƒJƒEƒ“ƒgƒAƒbƒv‚·‚é
+		# ã‚¿ã‚¤ãƒ ãƒ™ãƒ¼ã‚¹ãŒä¸€è‡´ã™ã‚‹å ´åˆã¯ã‚«ã‚¦ãƒ³ãƒˆã‚¢ãƒƒãƒ—ã™ã‚‹
 		$tmp_up_counter+=$up_base_num;
 		$now_up_counter=int($tmp_up_counter/$up_base_num);
 		if($now_up_counter > $upload_limit_times){
-			&error(" CGIƒGƒ‰[ overtimes Œf¦”ÂŠÇ—Ò‚ªİ’è‚µ‚½˜A‘±“Še
-‰ñ”‚ğƒI[ƒo[‚µ‚Ü‚µ‚½B<BR>‚µ‚Î‚ç‚­“Še‚Å‚«‚Ü‚¹‚ñ ");
+			&error(" CGIã‚¨ãƒ©ãƒ¼ overtimes æ²ç¤ºæ¿ç®¡ç†è€…ãŒè¨­å®šã—ãŸé€£ç¶šæŠ•ç¨¿
+å›æ•°ã‚’ã‚ªãƒ¼ãƒãƒ¼ã—ã¾ã—ãŸã€‚<BR>ã—ã°ã‚‰ãæŠ•ç¨¿ã§ãã¾ã›ã‚“ ");
 			exit;
 		}
 	}else{
-		# ƒ^ƒCƒ€ƒx[ƒX‚ªˆê’v‚µ‚È‚¢ê‡‚ÍƒJƒEƒ“ƒ^‚ğƒŠƒZƒbƒg‚µAVƒ^ƒCƒ€ƒy[ƒX‚ğİ’è
+		# ã‚¿ã‚¤ãƒ ãƒ™ãƒ¼ã‚¹ãŒä¸€è‡´ã—ãªã„å ´åˆã¯ã‚«ã‚¦ãƒ³ã‚¿ã‚’ãƒªã‚»ãƒƒãƒˆã—ã€æ–°ã‚¿ã‚¤ãƒ ãƒšãƒ¼ã‚¹ã‚’è¨­å®š
 		$tmp_up_counter=$up_base_num;
 		$now_up_counter=1;
 	}
-	# ‚±‚ê‚ğƒNƒbƒL[‚ÉƒZƒbƒg‚·‚é
+	# ã“ã‚Œã‚’ã‚¯ãƒƒã‚­ãƒ¼ã«ã‚»ãƒƒãƒˆã™ã‚‹
 	return($tmp_up_counter);
 }
 #
 #=====================================#
-# ©“®URLƒŠƒ“ƒN‹@”\ Ver0.99 (R6 NEW)
+# è‡ªå‹•URLãƒªãƒ³ã‚¯æ©Ÿèƒ½ Ver0.99 (R6 NEW)
 #=====================================#
 # 2011.09.24 update
-# ƒZƒLƒ…ƒŠƒeƒBã‚Ì——R‚Æƒ_ƒCƒAƒ‹ƒAƒbƒvƒ†[ƒUŒ¸­‚Ì
-# ğ¡‚Ìƒlƒbƒg–î‚æ‚èAPC‚©‚ç‚Ìtel©“®ƒŠƒ“ƒN‚Í”p~B
-# telƒŠƒ“ƒN‚ÍiƒAƒNƒZƒX‚Ì•û‚¾‚¯À‘•‚·‚ê‚Î\•ª‚¾‚ë‚¤B
-# 2007.08 Secondlife‘Î‰
-# 2008.06 iPod/iPhone‘Î‰
+# ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ä¸Šã®ç†ç”±ã¨ãƒ€ã‚¤ã‚¢ãƒ«ã‚¢ãƒƒãƒ—ãƒ¦ãƒ¼ã‚¶æ¸›å°‘ã®
+# æ˜¨ä»Šã®ãƒãƒƒãƒˆäº‹æƒ…ã‚ˆã‚Šã€PCã‹ã‚‰ã®telè‡ªå‹•ãƒªãƒ³ã‚¯ã¯å»ƒæ­¢ã€‚
+# telãƒªãƒ³ã‚¯ã¯iã‚¢ã‚¯ã‚»ã‚¹ã®æ–¹ã ã‘å®Ÿè£…ã™ã‚Œã°ååˆ†ã ã‚ã†ã€‚
+# 2007.08 Secondlifeå¯¾å¿œ
+# 2008.06 iPod/iPhoneå¯¾å¿œ
 #
 sub set_auto_url_link{
 
-	# ˆø”‚P‚Íˆ—‚µ‚½‚¢ƒf[ƒ^;
-	# •Ô’l‚Íˆ—Œã‚Ìƒf[ƒ^;
+	# å¼•æ•°ï¼‘ã¯å‡¦ç†ã—ãŸã„ãƒ‡ãƒ¼ã‚¿;
+	# è¿”å€¤ã¯å‡¦ç†å¾Œã®ãƒ‡ãƒ¼ã‚¿;
 	local($tmp_data)=@_;
 	local($tmp_yb_url)="";
-	local($no_object_to_text_link)=0;# OBJECT‚ğƒeƒLƒXƒgƒŠƒ“ƒN‚É‚·‚é‚©‚Ç‚¤‚©
-	local($no_iframe_to_text_link)=0;# iframe‚ğƒeƒLƒXƒgƒŠƒ“ƒN‚É‚·‚é‚©‚Ç‚¤‚© 2011.06
+	local($no_object_to_text_link)=0;# OBJECTã‚’ãƒ†ã‚­ã‚¹ãƒˆãƒªãƒ³ã‚¯ã«ã™ã‚‹ã‹ã©ã†ã‹
+	local($no_iframe_to_text_link)=0;# iframeã‚’ãƒ†ã‚­ã‚¹ãƒˆãƒªãƒ³ã‚¯ã«ã™ã‚‹ã‹ã©ã†ã‹ 2011.06
 	local($tmp_youtube_snl_url)="";
 
-	# ƒAƒ“ƒJ[ƒ^ƒO‚ğ‘‚­ƒ†[ƒU‚È‚ç©“®ƒŠƒ“ƒN‚ğƒIƒt‚É‚·‚é
-	# ‚È‚¢ê‡‚Ì‚İˆ—
+	# ã‚¢ãƒ³ã‚«ãƒ¼ã‚¿ã‚°ã‚’æ›¸ããƒ¦ãƒ¼ã‚¶ãªã‚‰è‡ªå‹•ãƒªãƒ³ã‚¯ã‚’ã‚ªãƒ•ã«ã™ã‚‹
+	# ãªã„å ´åˆã®ã¿å‡¦ç†
 	$PM{'auto_mail_find'}=1;
 
 
-#  ã‚Å1‚ğ‘I‘ğ‚µ‚½ê‡C‚»‚Ì–„‚ß‚İƒTƒCƒY‚ğ‘I‘ğB  
-#  (0=iconƒTƒCƒY,1=auto,2=‰¡ŒÅ’è,3=Œ´¡ƒTƒCƒY,5=‹É’[‚É‘å‚«‚È‰æ‘œ‚Ì‚İk¬)
-#$on_board_img_size=5;	# ƒfƒtƒHƒ‹ƒg‚Í5
+#  ä¸Šã§1ã‚’é¸æŠã—ãŸå ´åˆï¼Œãã®åŸ‹ã‚è¾¼ã¿ã‚µã‚¤ã‚ºã‚’é¸æŠã€‚  
+#  (0=iconã‚µã‚¤ã‚º,1=auto,2=æ¨ªå›ºå®š,3=åŸå¯¸ã‚µã‚¤ã‚º,5=æ¥µç«¯ã«å¤§ããªç”»åƒã®ã¿ç¸®å°)
+#$on_board_img_size=5;	# ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã¯5
 
-	# ŠO•”ƒTƒ€ƒlƒCƒ‹‚Ì–„ƒTƒCƒY
+	# å¤–éƒ¨ã‚µãƒ ãƒã‚¤ãƒ«ã®åŸ‹è¾¼ã‚µã‚¤ã‚º
 	$tmp_snl_url_imgsize="";
 
-	# objectƒ^ƒO‚ğg‚¤‚©‚Ç‚¤‚©‚ÆAŠO•”ƒTƒ€ƒlƒCƒ‹‚ÌƒTƒCƒY‚ğŒˆ‚ß‚Ä‚¨‚­
+	# objectã‚¿ã‚°ã‚’ä½¿ã†ã‹ã©ã†ã‹ã¨ã€å¤–éƒ¨ã‚µãƒ ãƒã‚¤ãƒ«ã®ã‚µã‚¤ã‚ºã‚’æ±ºã‚ã¦ãŠã
 	if($user_selected_view_mode == 1){
  	  if($COOKIE{'view_mode'} eq '1-text_only'){
 		$no_object_to_text_link=1;
@@ -7146,7 +7150,7 @@ sub set_auto_url_link{
 		$no_iframe_to_text_link=1;
 		$tmp_snl_url_imgsize=" height=\"98\" width=\"120\" border=5";
 	  }else{
-		# 2008.08 PSP‚Ì‰æ–ÊƒTƒCƒY‚ğl—¶
+		# 2008.08 PSPã®ç”»é¢ã‚µã‚¤ã‚ºã‚’è€ƒæ…®
 		if($HTTP_USER_AGENT=~ /PSP/i){
 			$tmp_snl_url_imgsize=" height=\"120\" width=\"160\" border=5";
 		}else{
@@ -7155,7 +7159,7 @@ sub set_auto_url_link{
 		
 	  }
 	}else{
-	  # ŠÇ—Òviewmodeİ’è
+	  # ç®¡ç†è€…viewmodeè¨­å®š
  	  if($show_img_on_board==0){
 		$no_object_to_text_link=1;
 		$no_iframe_to_text_link=1;
@@ -7163,14 +7167,14 @@ sub set_auto_url_link{
 #		$COOKIE{'view_mode'}='text_img_type20'; # 2013.02 add for 2013
 	  }else{
 #		if(($on_board_img_size==0)||($on_board_img_size==11)||($on_board_img_size==12)||($on_board_img_size==13)){
-		if($on_board_img_size==0){		# iconƒTƒCƒY
+		if($on_board_img_size==0){		# iconã‚µã‚¤ã‚º
 		 $no_object_to_text_link=1;
  		 $no_iframe_to_text_link=1;
 		 $tmp_snl_url_imgsize=" height=\"98\" width=\"120\" border=5";
 		 $COOKIE{'view_mode'}='text_img_type1'; 	# 2013.02 add for R6		 
 #		 $COOKIE{'view_mode'}='text_img_type11'; 	# 2013.02 add for 2013 
 		}else{
-			# 2008.08 PSP‚Ì‰æ–ÊƒTƒCƒY‚ğl—¶
+			# 2008.08 PSPã®ç”»é¢ã‚µã‚¤ã‚ºã‚’è€ƒæ…®
 			if($HTTP_USER_AGENT=~ /PSP/i){
 				$tmp_snl_url_imgsize=" height=\"120\" width=\"160\" border=5";
 			}else{
@@ -7186,23 +7190,23 @@ sub set_auto_url_link{
 
 
 
-	# —]Œv‚È‚à‚Ì‚ğƒtƒBƒ‹ƒ^ TODO •Û‘¶‘O‚Éíœ‚µ‚Ä‚¨‚¢‚½‚Ù‚¤‚ª‚¢‚¢‚©‚à
-	# dailymotion‚Ì•t˜^‚ğíœ
+	# ä½™è¨ˆãªã‚‚ã®ã‚’ãƒ•ã‚£ãƒ«ã‚¿ TODO ä¿å­˜å‰ã«å‰Šé™¤ã—ã¦ãŠã„ãŸã»ã†ãŒã„ã„ã‹ã‚‚
+	# dailymotionã®ä»˜éŒ²ã‚’å‰Šé™¤
 	# 2011.06 update
 	if($tmp_data=~ /iframe.*src="http:\/\/www\.dailymotion\.com\/embed/i){
 		$tmp_data =~ s/\<i\>(.|\n)*(\<a href\=\"https?\:\/\/www\.dailymotion\.com\/)(.|\n)*<\/i\>//ig;
 		$tmp_data =~ s/\<a href\=\"https?\:\/\/www\.dailymotion\.com\/(.|\n)*<\/a\>//ig;
 	}
 
-	# ustream‚Ì•t˜^‚ğíœ
+	# ustreamã®ä»˜éŒ²ã‚’å‰Šé™¤
 	$tmp_data =~ s/<a href\=\"http\:\/\/www\.ustream\.tv\/\" (.|\n)*\/a>//ig;
 
-	# 2008.08 PSP‚ªIFRAME‚ÅŒÅ‚Ü‚éŒ»Û‚É‘Îˆ
+	# 2008.08 PSPãŒIFRAMEã§å›ºã¾ã‚‹ç¾è±¡ã«å¯¾å‡¦
 	if($HTTP_USER_AGENT=~ /PSP/i){
 		$tmp_data =~ s/<(\/?)iframe(.|\n)*iframe>(\s*)(\n?)/
-	    \[PSP‚Å‚Í•\\¦‚Å‚«‚È‚¢HTML‹Lq‚Å‚·\]./ig;       # IFRAMEƒ^ƒO    œ‹
+	    \[PSPã§ã¯è¡¨\ç¤ºã§ããªã„HTMLè¨˜è¿°ã§ã™\]./ig;       # IFRAMEã‚¿ã‚°    é™¤å»
 	}
-	# ƒtƒBƒ‹ƒ^‚±‚±‚Ü‚Å
+	# ãƒ•ã‚£ãƒ«ã‚¿ã“ã“ã¾ã§
 
 	
 	$DAILYMOTION_VIDEO{'id'}	="";
@@ -7211,34 +7215,34 @@ sub set_auto_url_link{
 	$USTREAM_VIDEO{'id'}	="";
 	local($tmp_ustream_snl_url)="";
 
-	# ƒNƒ‰ƒEƒhƒT[ƒrƒX‚ÌURL‚ğ’Z‚­‚·‚é 2009.12
+	# ã‚¯ãƒ©ã‚¦ãƒ‰ã‚µãƒ¼ãƒ“ã‚¹ã®URLã‚’çŸ­ãã™ã‚‹ 2009.12
 	local($tmp_google_ap)="";
 	if($tmp_data=~ /\"http\:\/\/www\.google\.co\.jp\/(\S*)\?/i){
 	
-	 # iframe–„‚Æ‚©‚È‚Ì‚ÅA‰½‚à‚µ‚È‚¢
+	 # iframeåŸ‹è¾¼ã¨ã‹ãªã®ã§ã€ä½•ã‚‚ã—ãªã„
 	 
 	}elsif($tmp_data=~ /http\:\/\/www\.google\.co\.jp\/(\S*)\?/i){
 	 $tmp_google_ap="$1";
 	 if($tmp_google_ap=~ /maps/i){
-		$tmp_data =~ s/(https?\:\/\/www\.google\.co\.jp\/maps)([\-_\.\!\~\*\'\(\)a-zA-Z0-9\;\/\?\:\@\&\=\+\$\,\%\#]*)/<A HREF="$1$2" TARGET="_blank">[google’n}\]<\/A>/ig;
+		$tmp_data =~ s/(https?\:\/\/www\.google\.co\.jp\/maps)([\-_\.\!\~\*\'\(\)a-zA-Z0-9\;\/\?\:\@\&\=\+\$\,\%\#]*)/<A HREF="$1$2" TARGET="_blank">[googleåœ°å›³\]<\/A>/ig;
 	 }
 	}elsif($tmp_data=~ /([^\"])http\:\/\/maps\.google\.co\.jp\/(\S*)\?/i){
-		$tmp_data =~ s/(https?\:\/\/maps\.google\.co\.jp\/maps)([\-_\.\!\~\*\'\(\)a-zA-Z0-9\;\/\?\:\@\&\=\+\$\,\%\#]*)/<A HREF="$1$2" TARGET="_blank">[google’n}\]<\/A>/ig;
+		$tmp_data =~ s/(https?\:\/\/maps\.google\.co\.jp\/maps)([\-_\.\!\~\*\'\(\)a-zA-Z0-9\;\/\?\:\@\&\=\+\$\,\%\#]*)/<A HREF="$1$2" TARGET="_blank">[googleåœ°å›³\]<\/A>/ig;
 	}
 
-	# 2011.06 YouTubeAPI•ÏX‘Î‰
-	# 2014.02 “r’†Ä¶‘Î‰ ƒNƒƒXƒhƒƒCƒ“ƒXƒNƒŠƒvƒgƒZƒLƒ…ƒŠƒeƒB‘Îô‚Åƒpƒ^[ƒ“‚ÍŒµ‚µ‚­‚·‚é
+	# 2011.06 YouTubeAPIå¤‰æ›´å¯¾å¿œ
+	# 2014.02 é€”ä¸­å†ç”Ÿå¯¾å¿œ ã‚¯ãƒ­ã‚¹ãƒ‰ãƒ¡ã‚¤ãƒ³ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£å¯¾ç­–ã§ãƒ‘ã‚¿ãƒ¼ãƒ³ã¯å³ã—ãã™ã‚‹
 	if($tmp_data=~ /http\:\/\/www\.(youtube|youtube\-nocookie)\.com\/watch\?v\=([\-_\.a-zA-Z0-9]+)(\&*)([\&\=\-_\.a-zA-Z0-9]*)(.|\n)*/ig){
 		if($2 ne ""){
 			 $YOUTUBE_VIDEO{'id'}	="$2";
 			 $YOUTUBE_VIDEO{'idtype'}='url01';
 
-			# 2014.02 “r’†Ä¶‘Î‰
+			# 2014.02 é€”ä¸­å†ç”Ÿå¯¾å¿œ
 			if($4 ne ""){
-				# 2014.02 ‚»‚Ì‘¼‚ÌGETƒpƒ‰ƒ[ƒ^
+				# 2014.02 ãã®ä»–ã®GETãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿
 				$YOUTUBE_VIDEO{'otherRESTDATA'}="$3"."$4";
 
-				# 2014.02 ƒNƒƒXƒhƒƒCƒ“ƒXƒNƒŠƒvƒgƒZƒLƒ…ƒŠƒeƒB‘Îô‚Åƒpƒ^[ƒ“”»’è‚ÍŒµ‚µ‚­‚·‚é
+				# 2014.02 ã‚¯ãƒ­ã‚¹ãƒ‰ãƒ¡ã‚¤ãƒ³ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£å¯¾ç­–ã§ãƒ‘ã‚¿ãƒ¼ãƒ³åˆ¤å®šã¯å³ã—ãã™ã‚‹
 
 				if($YOUTUBE_VIDEO{'otherRESTDATA'}=~ /(\&t\=)(\d+h)*(\d+m)*(\d+s)*/ig){
 					$YOUTUBE_VIDEO{'startRESTDATA'}	="$1"."$2"."$3"."$4";
@@ -7251,7 +7255,7 @@ sub set_auto_url_link{
 					$YOUTUBE_VIDEO{'startS'}		=~ s/s//i;
 					$YOUTUBE_VIDEO{'startNUM'}		=$YOUTUBE_VIDEO{'startH'}*3600 + $YOUTUBE_VIDEO{'startM'}*60 + $YOUTUBE_VIDEO{'startS'};
 
-				# 2014.02 ‹Lqƒ~ƒX‚àE‚¤
+				# 2014.02 è¨˜è¿°ãƒŸã‚¹ã‚‚æ‹¾ã†
 				}elsif($YOUTUBE_VIDEO{'otherRESTDATA'}=~ /(\&t\=)(\d+)/ig){
 					$YOUTUBE_VIDEO{'startS'}		=$2;
 					$YOUTUBE_VIDEO{'startNUM'}		=$2;
@@ -7262,15 +7266,15 @@ sub set_auto_url_link{
 		}else{
 			 $YOUTUBE_VIDEO{'id'}	="";
 		}
-	# 2011.06 YouTube’ZkURL•\‹L‘Î‰
+	# 2011.06 YouTubeçŸ­ç¸®URLè¡¨è¨˜å¯¾å¿œ
 	}elsif($tmp_data=~ /https?\:\/\/youtu\.be\/([\-_\.a-zA-Z0-9]+)(\?*)([\&\=\-_\.a-zA-Z0-9]*)(.|\n)*/ig){
 		if($1 ne ""){
 			 $YOUTUBE_VIDEO{'id'}	="$1";
 			 $YOUTUBE_VIDEO{'idtype'}='youtu_be01';
 
-			# 2014.02 “r’†Ä¶‘Î‰
+			# 2014.02 é€”ä¸­å†ç”Ÿå¯¾å¿œ
 			if($3 ne ""){
-				# 2014.02 ‚»‚Ì‘¼‚ÌGETƒpƒ‰ƒ[ƒ^
+				# 2014.02 ãã®ä»–ã®GETãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿
 				$YOUTUBE_VIDEO{'otherRESTDATA'}="$3";
 
 				if($YOUTUBE_VIDEO{'otherRESTDATA'}=~ /(t\=)(\d+h)*(\d+m)*(\d+s)*/ig){
@@ -7284,7 +7288,7 @@ sub set_auto_url_link{
 					$YOUTUBE_VIDEO{'startS'}		=~ s/s//i;
 					$YOUTUBE_VIDEO{'startNUM'}		=$YOUTUBE_VIDEO{'startH'}*3600 + $YOUTUBE_VIDEO{'startM'}*60 + $YOUTUBE_VIDEO{'startS'};
 
-				# 2014.02 ‹Lqƒ~ƒX‚àE‚¤
+				# 2014.02 è¨˜è¿°ãƒŸã‚¹ã‚‚æ‹¾ã†
 				}elsif($YOUTUBE_VIDEO{'otherRESTDATA'}=~ /(t\=)(\d+)/ig){
 					$YOUTUBE_VIDEO{'startS'}		=$2;
 					$YOUTUBE_VIDEO{'startNUM'}		=$2;
@@ -7301,12 +7305,12 @@ sub set_auto_url_link{
 			 $YOUTUBE_VIDEO{'id'}	="$4";
 			 $YOUTUBE_VIDEO{'idtype'}='iframe';
 
-			# 2014.02 “r’†Ä¶‘Î‰
+			# 2014.02 é€”ä¸­å†ç”Ÿå¯¾å¿œ
 			if($6 ne ""){
-				# 2014.02 ‚»‚Ì‘¼‚ÌGETƒpƒ‰ƒ[ƒ^
+				# 2014.02 ãã®ä»–ã®GETãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿
 				$YOUTUBE_VIDEO{'otherRESTDATA'}="$6";
 
-				# 2014.02 ƒNƒƒXƒhƒƒCƒ“ƒXƒNƒŠƒvƒgƒZƒLƒ…ƒŠƒeƒB‘Îô‚Åƒpƒ^[ƒ“”»’è‚ÍŒµ‚µ‚­‚·‚é
+				# 2014.02 ã‚¯ãƒ­ã‚¹ãƒ‰ãƒ¡ã‚¤ãƒ³ã‚¹ã‚¯ãƒªãƒ—ãƒˆã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£å¯¾ç­–ã§ãƒ‘ã‚¿ãƒ¼ãƒ³åˆ¤å®šã¯å³ã—ãã™ã‚‹
 
 				if($YOUTUBE_VIDEO{'otherRESTDATA'}=~ /(start\=)(\d+)/ig){
 					$YOUTUBE_VIDEO{'startNUM'}="$2";
@@ -7322,7 +7326,7 @@ sub set_auto_url_link{
 					$YOUTUBE_VIDEO{'startM'}		=~ s/m//i;
 					$YOUTUBE_VIDEO{'startS'}		=~ s/s//i;
 					$YOUTUBE_VIDEO{'startNUM'}		=$YOUTUBE_VIDEO{'startH'}*3600 + $YOUTUBE_VIDEO{'startM'}*60 + $YOUTUBE_VIDEO{'startS'};
-				# 2014.02 ‹Lqƒ~ƒX‚àE‚¤
+				# 2014.02 è¨˜è¿°ãƒŸã‚¹ã‚‚æ‹¾ã†
 				}elsif($YOUTUBE_VIDEO{'otherRESTDATA'}=~ /(t\=)(\d+)/ig){
 					$YOUTUBE_VIDEO{'startS'}		=$2;
 					$YOUTUBE_VIDEO{'startNUM'}		=$2;
@@ -7335,21 +7339,21 @@ sub set_auto_url_link{
 			 $YOUTUBE_VIDEO{'id'}	="";
 		      }
 			}
-	# ƒTƒ€ƒlƒCƒ‹‚ÌURLì¬iyouTube‚ÌƒTƒ€ƒlƒCƒ‹‰æ‘œ‚ÌURL‚Í“K‹XƒAƒbƒvƒf[ƒg‚µ‚Ä‚­‚¾‚³‚¢j
+	# ã‚µãƒ ãƒã‚¤ãƒ«ã®URLä½œæˆï¼ˆyouTubeã®ã‚µãƒ ãƒã‚¤ãƒ«ç”»åƒã®URLã¯é©å®œã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆã—ã¦ãã ã•ã„ï¼‰
 
 	if($YOUTUBE_VIDEO{'id'} ne ""){
      $tmp_youtube_snl_url="\<img src\=http:\/\/i\.ytimg\.com\/vi\/$YOUTUBE_VIDEO{'id'}\/default\.jpg\ $tmp_snl_url_imgsize>";		    
  		}
 		
-	 # objectƒ^ƒO‚ÌƒAƒhƒŒƒX‚ğæ“¾ ‹ŒYouTube/FC2
-# 2014.02C³
+	 # objectã‚¿ã‚°ã®ã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’å–å¾— æ—§YouTube/FC2
+# 2014.02ä¿®æ­£
 	 if(($tmp_data=~ /<object(.|\n)*<embed(.|\n)*application\/x-shockwave-flash/i)||($tmp_data=~ /<object(.|\n)*classid/i)){
 	  if($tmp_data=~ /<object(.|\n)*<embed(.|\n)*src=(\")?(http\:\/\/)([^\"]*)?(.|\n)*/i){
 
-		# youTube‚Ìê‡
+		# youTubeã®å ´åˆ
 		$tmp_yb_url="$4"."$5";
 
-		# ‚·‚°‘Ö‚¦‚é2011.09C³
+		# ã™ã’æ›¿ãˆã‚‹2011.09ä¿®æ­£
 		if($tmp_data=~ /http\:\/\/www\.youtube\.com\//i){
 
 		  if($tmp_data=~ /http\:\/\/www\.youtube\.com\/v\/([\-_\.a-zA-Z0-9]+)(\&*)(.|\n)*/ig){
@@ -7359,10 +7363,10 @@ sub set_auto_url_link{
 			 $YOUTUBE_VIDEO{'id'}	="";
 			}
 		  }
-		# 2009.12 new 2010.11.29C³
-		# DAILYMOTION–„‚ß‚İ(id‚ğæ“¾)
+		# 2009.12 new 2010.11.29ä¿®æ­£
+		# DAILYMOTIONåŸ‹ã‚è¾¼ã¿(idã‚’å–å¾—)
 	    }elsif($tmp_data=~ /(http\:\/\/www\.dailymotion\.com\/video\/)([_\-a-zA-Z0-9]+)/ig){
-			# ’u‚«Š·‚¦‚é
+			# ç½®ãæ›ãˆã‚‹
 			$tmp_yb_url="$1"."$2";
 			if($2 ne ""){
 			 $DAILYMOTION_VIDEO{'id'}	="$2";
@@ -7371,15 +7375,15 @@ sub set_auto_url_link{
 
 		}
 		
-		# ƒeƒLƒXƒgƒ‚[ƒh‚ÍAOBJECT‚ğƒeƒLƒXƒgƒŠƒ“ƒN‚É‚·‚é
+		# ãƒ†ã‚­ã‚¹ãƒˆãƒ¢ãƒ¼ãƒ‰æ™‚ã¯ã€OBJECTã‚’ãƒ†ã‚­ã‚¹ãƒˆãƒªãƒ³ã‚¯ã«ã™ã‚‹
 		if($no_object_to_text_link==1){
 		
             # 2008.07 fix bug
-            # ƒIƒuƒWƒFƒNƒgƒ^ƒO‚ğíœ‚µ‚Ä’u‚«Š·‚¦‚é(‹ŒyouTube/dailymotion/ustream“™)
+            # ã‚ªãƒ–ã‚¸ã‚§ã‚¯ãƒˆã‚¿ã‚°ã‚’å‰Šé™¤ã—ã¦ç½®ãæ›ãˆã‚‹(æ—§youTube/dailymotion/ustreamç­‰)
 			$tmp_data =~ s/\<(\s*)OBJECT(.|\n)*(\/OBJECT\>)(\s*)(\n?)/$tmp_yb_url /ig;
 
 			if(($DAILYMOTION_VIDEO{'id'} ne "")&&($COOKIE{'view_mode'} ne '1-text_only')){
-			# ƒTƒ€ƒlƒCƒ‹•\¦iDAILYMOTION‚ÌƒTƒ€ƒlƒCƒ‹‰æ‘œ‚ÌURL‚Í“K‹XƒAƒbƒvƒf[ƒg‚µ‚Ä‚­‚¾‚³‚¢j
+			# ã‚µãƒ ãƒã‚¤ãƒ«è¡¨ç¤ºï¼ˆDAILYMOTIONã®ã‚µãƒ ãƒã‚¤ãƒ«ç”»åƒã®URLã¯é©å®œã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆã—ã¦ãã ã•ã„ï¼‰
 			 $tmp_dailymotion_snl_url="\<img src\=\"http:\/\/www\.dailymotion\.com\/thumbnail\/160x120\/video\/$DAILYMOTION_VIDEO{'id'}\" $tmp_snl_url_imgsize>";
 		     $tmp_data =~ s/(\<a href\=\"https?\:\/\/www\.dailymotion\.com\/video\/[_\-a-z0-9]+\"\>)/$1 $tmp_dailymotion_snl_url/ig;
 			}
@@ -7394,24 +7398,24 @@ sub set_auto_url_link{
 	 if($tmp_data!~ /<A(\s)(\n?)|<IMA?GE?(.*)|=(\"?)http/i){
 
 	  if($tmp_data=~ /ttp:\/\/([\-a-zA-Z0-9]+)\.nicovideo\.jp\/watch\/([\-a-zA-Z0-9_]+)/i){
-          $tmp_data =~ s/[\x80-\x9f\xe0-\xff]./$&\x01/g; # 2ƒoƒCƒg•¶š
+          $tmp_data =~ s/[\x80-\x9f\xe0-\xff]./$&\x01/g; # 2ãƒã‚¤ãƒˆæ–‡å­—
 	  # 2007.06
-	  # ©“®ƒjƒRƒjƒR“®‰æƒŠƒ“ƒN
-	  # IFRAME‚¾‚ÆƒRƒƒ“ƒg•t‚«‚Ì’´¬‚³‚¢ƒŠƒ“ƒN‚É‚È‚é‚Ì‚ÅA‚±‚±‚Å‘Î‰
-	  # ‚È‚¨AƒCƒ^ƒYƒ‰–h~‚Ì‚½‚ßA–„‚ß‚İ‰»‚Í‚Ğ‚Æ‚Â‚¾‚¯‚É‚·‚éB
+	  # è‡ªå‹•ãƒ‹ã‚³ãƒ‹ã‚³å‹•ç”»ãƒªãƒ³ã‚¯
+	  # IFRAMEã ã¨ã‚³ãƒ¡ãƒ³ãƒˆä»˜ãã®è¶…å°ã•ã„ãƒªãƒ³ã‚¯ã«ãªã‚‹ã®ã§ã€ã“ã“ã§å¯¾å¿œ
+	  # ãªãŠã€ã‚¤ã‚¿ã‚ºãƒ©é˜²æ­¢ã®ãŸã‚ã€åŸ‹ã‚è¾¼ã¿åŒ–ã¯ã²ã¨ã¤ã ã‘ã«ã™ã‚‹ã€‚
 
 		$tmp_bq_opt		.= " style=\"margin: 12px;float: left\"";
 
-		#2011.02.04 ƒjƒRƒjƒRŠO•”ƒvƒŒƒCƒ„[‚ÌƒeƒXƒg
+		#2011.02.04 ãƒ‹ã‚³ãƒ‹ã‚³å¤–éƒ¨ãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ã®ãƒ†ã‚¹ãƒˆ
 		if($COOKIE{'view_mode'} eq '1-text_only'){
-		  $tmp_data =~ s/(http:\/\/[\-a-zA-Z0-9]+\.nicovideo\.jp\/watch\/)([\-a-zA-Z0-9_]*)/\<A HREF="$1$2">\ƒjƒR“® $1$2 \<\/A>/;
+		  $tmp_data =~ s/(http:\/\/[\-a-zA-Z0-9]+\.nicovideo\.jp\/watch\/)([\-a-zA-Z0-9_]*)/\<A HREF="$1$2">\ãƒ‹ã‚³å‹• $1$2 \<\/A>/;
 		}elsif($MYCGI_ENV{'flash_object_tag_support'} eq 'false'){
-		# ‹ŒIFRAME”Å‚Ìd—l
-	  		$tmp_data =~ s/http:\/\/([\-a-zA-Z0-9]+)\.nicovideo\.jp\/watch\/([\-a-zA-Z0-9_]+)/\<iframe src="http:\/\/$1\.nicovideo\.jp\/thumb?v=$2" width="440" height="295" scrolling="no" border="1" frameborder="1" align="left" style="margin: 12px;float: left">iframe‘Î‰ƒuƒ‰ƒEƒU‚Å‚²——‰º‚³‚¢B<\/iframe><P>/;
+		# æ—§IFRAMEç‰ˆã®ä»•æ§˜
+	  		$tmp_data =~ s/http:\/\/([\-a-zA-Z0-9]+)\.nicovideo\.jp\/watch\/([\-a-zA-Z0-9_]+)/\<iframe src="http:\/\/$1\.nicovideo\.jp\/thumb?v=$2" width="440" height="295" scrolling="no" border="1" frameborder="1" align="left" style="margin: 12px;float: left">iframeå¯¾å¿œãƒ–ãƒ©ã‚¦ã‚¶ã§ã”è¦§ä¸‹ã•ã„ã€‚<\/iframe><P>/;
 		}elsif(($COOKIE{'view_mode'} eq 'text_img_type1')||($COOKIE{'view_mode'} eq 'text_img_type11')||($COOKIE{'view_mode'} eq 'text_img_type20')){
-		  $tmp_data =~ s/(http:\/\/[\-a-zA-Z0-9]+\.nicovideo\.jp\/watch\/)([\-a-zA-Z_]*)([0-9]*)/\<A HREF="$1$2$3">\<IMG src="http:\/\/tn-skr4\.smilevideo\.jp\/smile\?i=$3" width="128" height="96">ƒjƒR“® \<\/A>/;
+		  $tmp_data =~ s/(http:\/\/[\-a-zA-Z0-9]+\.nicovideo\.jp\/watch\/)([\-a-zA-Z_]*)([0-9]*)/\<A HREF="$1$2$3">\<IMG src="http:\/\/tn-skr4\.smilevideo\.jp\/smile\?i=$3" width="128" height="96">ãƒ‹ã‚³å‹• \<\/A>/;
 		}else{
-		  $tmp_data =~ s/http:\/\/([\-a-zA-Z0-9]+)\.nicovideo\.jp\/watch\/([\-a-zA-Z0-9_]+)/\<script type="text\/javascript" src="http:\/\/ext.nicovideo.jp\/thumb_watch\/$2\?w=$tmp_cfds_width&h=$tmp_cfds_height"><\/script><noscript><a href="http:\/\/www.nicovideo.jp\/watch\/$2">yƒjƒRƒjƒR“®‰æz<\/a><\/noscript><BR>/;
+		  $tmp_data =~ s/http:\/\/([\-a-zA-Z0-9]+)\.nicovideo\.jp\/watch\/([\-a-zA-Z0-9_]+)/\<script type="text\/javascript" src="http:\/\/ext.nicovideo.jp\/thumb_watch\/$2\?w=$tmp_cfds_width&h=$tmp_cfds_height"><\/script><noscript><a href="http:\/\/www.nicovideo.jp\/watch\/$2">ã€ãƒ‹ã‚³ãƒ‹ã‚³å‹•ç”»ã€‘<\/a><\/noscript><BR>/;
 		}
 		
 		$tmp_data =~ tr/\x01//d;
@@ -7420,45 +7424,45 @@ sub set_auto_url_link{
 	}
 
 	
-	# ©“®URLƒŠƒ“ƒN
+	# è‡ªå‹•URLãƒªãƒ³ã‚¯
 
-	# –‘O€”õ
+	# äº‹å‰æº–å‚™
 	# 2011.09 update
 	local($ttmp_youtube_target_sitei)=qq|TARGET="_blank"|;
   		if($HTTP_USER_AGENT=~ /ipod|iphone|android|PSP/i){
-  			# ƒuƒ‰ƒEƒU‚ª•¡”‹N“®‚·‚é‚Æ•Â‚¶‚é‚Ì‚ª‚µ‚ñ‚Ç‚¢
+  			# ãƒ–ãƒ©ã‚¦ã‚¶ãŒè¤‡æ•°èµ·å‹•ã™ã‚‹ã¨é–‰ã˜ã‚‹ã®ãŒã—ã‚“ã©ã„
 			$ttmp_youtube_target_sitei="";
   	}
 
-	# ƒeƒLƒXƒg•\¦‚Ìê‡
+	# ãƒ†ã‚­ã‚¹ãƒˆè¡¨ç¤ºã®å ´åˆ
 	if(($COOKIE{'view_mode'} eq '1-text_only')||($COOKIE{'view_mode'} eq 'text_img_type20')){
 
-		 # iframe–„‚ß‚İ‚ğTEXTƒŠƒ“ƒN‚É–ß‚·
-		 # 2014.02 “r’†Ä¶‘Î‰
+		 # iframeåŸ‹ã‚è¾¼ã¿ã‚’TEXTãƒªãƒ³ã‚¯ã«æˆ»ã™
+		 # 2014.02 é€”ä¸­å†ç”Ÿå¯¾å¿œ
 	     if($YOUTUBE_VIDEO{'idtype'} eq 'iframe'){
 	     	# 2014.02.11 update 
 			$tmp_data =~ s/<iframe(.|\n)*src\=\"(https?\:\/\/|\/\/)www\.(youtube|youtube\-nocookie)\.com\/embed\/([\-_\.a-zA-Z0-9]+)(\?*)([\&\=\-_\.a-zA-Z0-9]*)(.|\n)*<\/iframe>/https\:\/\/youtu\.be\/$4$5$6/ig;
-		 	# 2014.02 “r’†Ä¶‘Î‰
+		 	# 2014.02 é€”ä¸­å†ç”Ÿå¯¾å¿œ
 		 	$tmp_data =~ s/start\=(\d+)/t\=$1s/ig;
 	     }
 
-			# xvideo“™‚àƒeƒLƒXƒg‚É‚·‚é
+			# xvideoç­‰ã‚‚ãƒ†ã‚­ã‚¹ãƒˆã«ã™ã‚‹
 			$tmp_data =~ s/<iframe(.|\n)*src\=\"https?\:\/\/(.*)\.(xvideos)(\.com|\.jp)\/embedframe\/(\d+)(\?*)([\&\=\-_\.a-zA-Z0-9]*)(.|\n)*<\/iframe>/http\:\/\/www\.xvideos\.com\/video$5/ig;
 
-			# Dailymotion“™‚àƒeƒLƒXƒg‚É‚·‚é
+			# Dailymotionç­‰ã‚‚ãƒ†ã‚­ã‚¹ãƒˆã«ã™ã‚‹
 			$tmp_data =~ s/<iframe(.|\n)*src\=\"(https?\:\/\/www\.dailymotion\.com\/embed\/video\/)([\&\=\-_\.a-zA-Z0-9]*)\"(.|\n)*<\/iframe>/$2$3/ig;
 
-			# FC2“™‚àƒeƒLƒXƒg‚É‚·‚é
-			# ƒZƒLƒ…ƒŠƒeƒB‚ğ”z—¶‚µ‚Â‚ÂA‘½­‚ÌƒTƒCƒgd—l•ÏX‚É‚Í‰e‹¿‚³‚ê‚È‚¢‚æ‚¤‚É‚·‚é
+			# FC2ç­‰ã‚‚ãƒ†ã‚­ã‚¹ãƒˆã«ã™ã‚‹
+			# ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ã‚’é…æ…®ã—ã¤ã¤ã€å¤šå°‘ã®ã‚µã‚¤ãƒˆä»•æ§˜å¤‰æ›´ã«ã¯å½±éŸ¿ã•ã‚Œãªã„ã‚ˆã†ã«ã™ã‚‹
 			$tmp_data =~ s/<script src\=\"https?\:\/\/static\.fc2\.com\/video\/js\/[\/\-_\.a-zA-Z0-9]{2,40}\.js\"(.|\n|\s)*url\=\"(https?\:\/\/video\.fc2\.com\/ja\/[\/a-zA-Z0-9]{0,10}\/content\/[\/a-zA-Z0-9]{3,30})\"(.|\n|\s)* tl\=\"([^\"]*)\"(.|\n|\s)*charset\=\"UTF-8\"><\/script>/$4 <BR> $2/ig;
 
-			# –¢’m‚ÌƒTƒCƒg‚à‚ ‚é’ö“x‚ÌŒ^‚É‚Í‚Ü‚Á‚Ä‚¢‚ê‚ÎƒeƒLƒXƒg‚É‚·‚é iframe
-			$tmp_data =~ s/<iframe(.|\n)*src\=\"(https?\:\/\/)(.*)(\.com|\.net|\.org|\.tv|\.me|\.jp)\/([\/\?\&\=\-_\.a-zA-Z0-9]{5,40})\"(.|\n)*<\/iframe>/(ŠO•”URL‚Å‚·BƒNƒŠƒbƒN’ˆÓ) <BR> $2$3$4\/$5/ig;
-			# –¢’m‚ÌƒTƒCƒg‚à‚ ‚é’ö“x‚ÌŒ^‚É‚Í‚Ü‚Á‚Ä‚¢‚ê‚ÎƒeƒLƒXƒg‚É‚·‚é script
-			$tmp_data =~ s/<script(.|\n|\s)*url\=\"(https?\:\/\/)(.*)(\.com|\.net|\.org|\.tv|\.me|\.jp)\/([\/\?\&\=\-_\.a-zA-Z0-9]{5,40})\"(.|\n|\s)*><\/script>/(ŠO•”URL‚Å‚·BƒNƒŠƒbƒN’ˆÓ) <BR> $2$3$4\/$5 </ig;
+			# æœªçŸ¥ã®ã‚µã‚¤ãƒˆã‚‚ã‚ã‚‹ç¨‹åº¦ã®å‹ã«ã¯ã¾ã£ã¦ã„ã‚Œã°ãƒ†ã‚­ã‚¹ãƒˆã«ã™ã‚‹ iframe
+			$tmp_data =~ s/<iframe(.|\n)*src\=\"(https?\:\/\/)(.*)(\.com|\.net|\.org|\.tv|\.me|\.jp)\/([\/\?\&\=\-_\.a-zA-Z0-9]{5,40})\"(.|\n)*<\/iframe>/(å¤–éƒ¨URLã§ã™ã€‚ã‚¯ãƒªãƒƒã‚¯æ³¨æ„) <BR> $2$3$4\/$5/ig;
+			# æœªçŸ¥ã®ã‚µã‚¤ãƒˆã‚‚ã‚ã‚‹ç¨‹åº¦ã®å‹ã«ã¯ã¾ã£ã¦ã„ã‚Œã°ãƒ†ã‚­ã‚¹ãƒˆã«ã™ã‚‹ script
+			$tmp_data =~ s/<script(.|\n|\s)*url\=\"(https?\:\/\/)(.*)(\.com|\.net|\.org|\.tv|\.me|\.jp)\/([\/\?\&\=\-_\.a-zA-Z0-9]{5,40})\"(.|\n|\s)*><\/script>/(å¤–éƒ¨URLã§ã™ã€‚ã‚¯ãƒªãƒƒã‚¯æ³¨æ„) <BR> $2$3$4\/$5 </ig;
 
 
-	# ƒAƒCƒRƒ“ or ƒTƒ€ƒlƒCƒ‹¬‚Ì
+	# ã‚¢ã‚¤ã‚³ãƒ³ or ã‚µãƒ ãƒã‚¤ãƒ«å°ã®æ™‚
 	}elsif(($COOKIE{'view_mode'} eq 'text_img_type1')||($COOKIE{'view_mode'} eq 'text_img_type11')){
 
 			if($YOUTUBE_VIDEO{'idtype'} eq 'youtu_be01'){
@@ -7471,34 +7475,34 @@ if($tmp_data =~ /aban503/){
 		    }
 		    
 		    if($tmp_data=~ /\<iframe/){
-			 	# 2014.02 xvideo,xhamster“™ƒTƒ€ƒlƒCƒ‹‚ª“¾‚ç‚ê‚È‚¢ƒTƒCƒg‘Îô
+			 	# 2014.02 xvideo,xhamsterç­‰ã‚µãƒ ãƒã‚¤ãƒ«ãŒå¾—ã‚‰ã‚Œãªã„ã‚µã‚¤ãƒˆå¯¾ç­–
 		 		$tmp_data =~ s/ width\=(\"?)(\d+)(\"?) / width\=\"140\" /ig;
 		 		$tmp_data =~ s/ height\=(\"?)(\d+)(\"?) / height\=\"125\" /ig;
 		    }		    
 		    
 		    if($tmp_data=~ /\<script/){
-			 	# 2014.02 FC2‘Îô
+			 	# 2014.02 FC2å¯¾ç­–
 		 		$tmp_data =~ s/ w\=(\"?)(\d+)(\"?) / w\=\"140\" /ig;
 		 		$tmp_data =~ s/ h\=(\"?)(\d+)(\"?) / h\=\"125\" /ig;
 		    }
 		    
-	# ’Êí‚Ì–„‚ß‚İ•\¦ƒŒƒCƒAƒEƒgƒ‚[ƒh
+	# é€šå¸¸ã®åŸ‹ã‚è¾¼ã¿è¡¨ç¤ºãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆãƒ¢ãƒ¼ãƒ‰
 	}else{
 	
-			# Youtube‚ÌƒTƒ€ƒlƒCƒ‹•\¦
-			# youtu.be‚ğiframe‚É‚µ‚Ä‚ ‚°‚é
+			# Youtubeã®ã‚µãƒ ãƒã‚¤ãƒ«è¡¨ç¤º
+			# youtu.beã‚’iframeã«ã—ã¦ã‚ã’ã‚‹
 			if($YOUTUBE_VIDEO{'idtype'} eq 'youtu_be01'){
-			 # ƒAƒCƒRƒ“ or ƒTƒ€ƒlƒCƒ‹¬‚Ì
+			 # ã‚¢ã‚¤ã‚³ãƒ³ or ã‚µãƒ ãƒã‚¤ãƒ«å°ã®æ™‚
 			 if(($COOKIE{'view_mode'} eq 'text_img_type1')||($COOKIE{'view_mode'} eq 'text_img_type11')){
 		      $tmp_data =~ s/(https?\:\/\/youtu\.be)([^\s|\:|\<]+)/<A HREF="$1$2" $ttmp_youtube_target_sitei>$tmp_youtube_snl_url .<\/A> \(YouTube\)aaa/ig;
 		     }else{
 		      if($tmp_data !~ /\<iframe/){
-		      # youtu.be‚ğiframe‰»‚·‚é
-	       		# –„‚ß‚İƒTƒCƒY•â³ƒ‹[ƒ`ƒ“‚ğ—¬—p‚·‚é
+		      # youtu.beã‚’iframeåŒ–ã™ã‚‹
+	       		# åŸ‹ã‚è¾¼ã¿ã‚µã‚¤ã‚ºè£œæ­£ãƒ«ãƒ¼ãƒãƒ³ã‚’æµç”¨ã™ã‚‹
 	       		&check_flash_and_iframe_img('iframe');
-			# 2012.10.19•ÏX(‰ñ‚è‚İƒfƒUƒCƒ“)
+			# 2012.10.19å¤‰æ›´(å›ã‚Šè¾¼ã¿ãƒ‡ã‚¶ã‚¤ãƒ³)
 		        $tmp_data =~ s/(https?\:\/\/youtu\.be)([^\s|\:|\<]+)/\<iframe $w_set $h_set src\=\"http\:\/\/www.youtube.com\/embed\/$YOUTUBE_VIDEO{id}\?start\=$YOUTUBE_VIDEO{'startNUM'}\" frameborder\=\"0\" allowfullscreen align\=\"left\" HSPACE=\"12\" VSPACE=\"6\" style=\"margin: 12px;float: left\"\>\<\/iframe\> /ig;
-		        # ‰e‹¿‚ğ–h‚®‚½‚ß•Ï”‚ğ‰Šú‰»
+		        # å½±éŸ¿ã‚’é˜²ããŸã‚å¤‰æ•°ã‚’åˆæœŸåŒ–
 		        undef $w_set;
 		        undef $h_set;
 		      }
@@ -7507,23 +7511,23 @@ if($tmp_data =~ /aban503/){
 
 		# 2014.02 Theta360
 		if($tmp_data=~ /\-scrt_here_Theta360\-/i){
-		# scriptƒ^ƒO‚ÍŠëŒ¯‚¾‚©‚çƒGƒXƒP[ƒv‚µ‚½‚â‚Â‚ğ–ß‚·
+		# scriptã‚¿ã‚°ã¯å±é™ºã ã‹ã‚‰ã‚¨ã‚¹ã‚±ãƒ¼ãƒ—ã—ãŸã‚„ã¤ã‚’æˆ»ã™
 		$tmp_data=~ s/\-scrt_here_Theta360\-/<script async src=\"https\:\/\/theta360.com\/widgets.js\" charset=\"utf-8\"><\/script>/ig;
-			# ƒŒƒCƒAƒEƒg‰ñ‚è‚±‚İ‚ğw’è
+			# ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆå›ã‚Šã“ã¿ã‚’æŒ‡å®š
 			$tmp_bq_opt		.= " style=\"margin: 12px;float: left\"";
 		}
 
-		# 2014.02 FC2“™
-		# scriptƒ^ƒO‚ª‚ ‚Á‚ÄA‚©‚Â‚»‚ê‚ªƒrƒfƒIŠÖŒW‚Á‚Û‚¢ƒXƒNƒŠƒvƒg‚Ì‚¾‚¯ˆÈ‰º‚Ìˆ—‚ğ‚·‚é
+		# 2014.02 FC2ç­‰
+		# scriptã‚¿ã‚°ãŒã‚ã£ã¦ã€ã‹ã¤ãã‚ŒãŒãƒ“ãƒ‡ã‚ªé–¢ä¿‚ã£ã½ã„ã‚¹ã‚¯ãƒªãƒ—ãƒˆã®æ™‚ã ã‘ä»¥ä¸‹ã®å‡¦ç†ã‚’ã™ã‚‹
 		if($tmp_data=~ /<script(.|\n|\s)*(video|player)(.|\n|\s)*<\/script>/i){
 
 			# 2014.07 update / 2014.11.10 Bug Fix
-			# FC2‚ÅCSS‚Åfloatw’è‚ğ‚·‚é‚ÆAæ•û‚ÌƒXƒNƒŠƒvƒg‚Æ‚Ì‘Š«‚Å
-			# “®‰æ‚ª’´¬‚³‚­‚È‚Á‚Ä‚µ‚Ü‚¤–â‘è‚Éb’è‘Îˆ TODOƒŒƒCƒAƒEƒg•ö‚ê
+			# FC2ã§CSSã§floatæŒ‡å®šã‚’ã™ã‚‹ã¨ã€å…ˆæ–¹ã®ã‚¹ã‚¯ãƒªãƒ—ãƒˆã¨ã®ç›¸æ€§ã§
+			# å‹•ç”»ãŒè¶…å°ã•ããªã£ã¦ã—ã¾ã†å•é¡Œã«æš«å®šå¯¾å‡¦ TODOãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆå´©ã‚Œ
 			if($tmp_body=~ /<script(.|\n)*fc2.com\//i){
 				$tmp_bq_opt	.= " style=\"margin: 12px\"";
 			}else{
-				# ƒŒƒCƒAƒEƒg‰ñ‚è‚±‚İ‚ğw’è
+				# ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆå›ã‚Šã“ã¿ã‚’æŒ‡å®š
 				$tmp_bq_opt	.= " style=\"margin: 12px;float: left\"";
 			}
 		}
@@ -7531,19 +7535,19 @@ if($tmp_data =~ /aban503/){
 	}
 
 
-	# iframeƒ^ƒO‚ª‚ ‚éê‡‚ÍAelsif‚Ö”ò‚Ô‚±‚Æ‚É’ˆÓ
+	# iframeã‚¿ã‚°ãŒã‚ã‚‹å ´åˆã¯ã€elsifã¸é£›ã¶ã“ã¨ã«æ³¨æ„
 	if($tmp_data!~ /<A(\s)(\n?)|<IMA?GE?(.*)|=(\"?)http/i){
 
-	    $tmp_data =~ s/[\x80-\x9f\xe0-\xff]./$&\x01/g; # 2ƒoƒCƒg•¶š
+	    $tmp_data =~ s/[\x80-\x9f\xe0-\xff]./$&\x01/g; # 2ãƒã‚¤ãƒˆæ–‡å­—
 
-		# ©“®URLƒŠƒ“ƒN
-		# “ú–{ŒêƒhƒƒCƒ“‚É‘Î‰‚·‚é‚Æ‚±‚ñ‚È‚©‚ñ‚¶HH
-                # 2001.04.10 ¬C³i‰üsŒã‚ğ–³Œø‚É‚µ‚½j
-                # 2001.08.20 ¬C³itripod“™‚Å”F¯ƒ~ƒX‚ª‚ ‚é‚Ì‚Å’ù³j
-                # 2006.10.11 youTube‘Îô‚Å¬C³
+		# è‡ªå‹•URLãƒªãƒ³ã‚¯
+		# æ—¥æœ¬èªãƒ‰ãƒ¡ã‚¤ãƒ³ã«å¯¾å¿œã™ã‚‹ã¨ã“ã‚“ãªã‹ã‚“ã˜ï¼Ÿï¼Ÿ
+                # 2001.04.10 å°ä¿®æ­£ï¼ˆæ”¹è¡Œå¾Œã‚’ç„¡åŠ¹ã«ã—ãŸï¼‰
+                # 2001.08.20 å°ä¿®æ­£ï¼ˆtripodç­‰ã§èªè­˜ãƒŸã‚¹ãŒã‚ã‚‹ã®ã§è¨‚æ­£ï¼‰
+                # 2006.10.11 youTubeå¯¾ç­–ã§å°ä¿®æ­£
 
-		# ]—ˆ’Ê‚è©“®URLƒŠƒ“ƒN
-		# ‚½‚¾‚µAƒNƒ‰ƒEƒh‚É‘½‚¢A’·‚¢URLƒGƒ“ƒR[ƒh•”•ª‚Í’Z‚­‚·‚éi•\¦‚µ‚Ä‚àlŠÔ‚ª”»“Ç‚Å‚«‚È‚¢‚µAsafari‚ÅƒŒƒCƒAƒEƒg‚à—‚ê‚é‚½‚ßj
+		# å¾“æ¥é€šã‚Šè‡ªå‹•URLãƒªãƒ³ã‚¯
+		# ãŸã ã—ã€ã‚¯ãƒ©ã‚¦ãƒ‰ã«å¤šã„ã€é•·ã„URLã‚¨ãƒ³ã‚³ãƒ¼ãƒ‰éƒ¨åˆ†ã¯çŸ­ãã™ã‚‹ï¼ˆè¡¨ç¤ºã—ã¦ã‚‚äººé–“ãŒåˆ¤èª­ã§ããªã„ã—ã€safariã§ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆã‚‚ä¹±ã‚Œã‚‹ãŸã‚ï¼‰
 		if($tmp_data =~ /(\=|\/)([\%a-zA-Z0-9]{42})/g){
 	     $tmp_data =~ s/(https?\:\/\/[^\s|\:|\<]+)\.(\/?)([\-_\.\!\~\*\'\(\)a-zA-Z0-9\;\/\?\:\@\&\=\+\$\,\%\#]*)(\=|\/)([\%a-zA-Z0-9]{36,330})([\-_\.\!\~\*\'\(\)a-zA-Z0-9\;\/\?\:\@\&\=\+\$\,\%\#]*)/<A HREF="$1.$2$3$4$5$6" $ttmp_youtube_target_sitei>$1.$2$3$4%E6%F3.. $6<\/A>/ig;
 		}else{
@@ -7556,50 +7560,50 @@ if($tmp_data =~ /aban503/){
 
 #$PM{'auto_japanese_address_find'}=1;
 
-		# ©“®ZŠƒŠƒ“ƒNiGoogle Map & ƒXƒgƒŠ[ƒgƒrƒ…[j 2013.01 Google APId—l•ÏX‚ğ”½‰f
+		# è‡ªå‹•ä½æ‰€ãƒªãƒ³ã‚¯ï¼ˆGoogle Map & ã‚¹ãƒˆãƒªãƒ¼ãƒˆãƒ“ãƒ¥ãƒ¼ï¼‰ 2013.01 Google APIä»•æ§˜å¤‰æ›´ã‚’åæ˜ 
 		if($PM{'auto_japanese_address_find'}==1){
 # 20120425 update
-		    if(($tmp_data=~ /“Œ‹|‹æ|s|ŒS|•{|Œ§|–kŠC“¹|š|’¬|”Ô’n/i)&&($tmp_data!~ /https?\:\/\//i)){
+		    if(($tmp_data=~ /æ±äº¬|åŒº|å¸‚|éƒ¡|åºœ|çœŒ|åŒ—æµ·é“|å­—|ç”º|ç•ªåœ°/i)&&($tmp_data!~ /https?\:\/\//i)){
 
-		     # “Œ‹“sç‘ã“c‹æ“àK’¬1-1-1
-		     if($tmp_data=~ /(“Œ‹“s|‘åã•{|‹“s•{|[^\s\>\d]+Œ§|–kŠC“¹)([^\s\>\d]+)(s|‹æ)([^\s\>\d]+)([0-9‚O-‚X]+)(\-|||’š–Ú|‚Ì|ƒm)([0-9‚O-‚X]+)([\-|||‚Ì|ƒm]?)([0-9‚O-‚X]?)/ig){
+		     # æ±äº¬éƒ½åƒä»£ç”°åŒºå†…å¹¸ç”º1-1-1
+		     if($tmp_data=~ /(æ±äº¬éƒ½|å¤§é˜ªåºœ|äº¬éƒ½åºœ|[^\s\>\d]+çœŒ|åŒ—æµ·é“)([^\s\>\d]+)(å¸‚|åŒº)([^\s\>\d]+)([0-9ï¼-ï¼™]+)(\-|ï¼|ä¸ç›®|ã®|ãƒ)([0-9ï¼-ï¼™]+)([\-|ï¼|ã®|ãƒ]?)([0-9ï¼-ï¼™]?)/ig){
 		       $ttmp_jp_geoname="$1$2$3$4$5$6$7$8$9";
-		       # iPhone‚Å‚¨‚©‚µ‚­‚È‚é‚Ì‚ÅURLƒGƒ“ƒR[ƒh
+		       # iPhoneã§ãŠã‹ã—ããªã‚‹ã®ã§URLã‚¨ãƒ³ã‚³ãƒ¼ãƒ‰
 		       $ttmp_jp_geoname=~ s/(\W)/'%'.unpack("H2", $1)/ego;
-		       $tmp_data =~ s/(“Œ‹“s|‘åã•{|‹“s•{|[^\s\>\d]+Œ§|–kŠC“¹)([^\s\>\d]+)(s|‹æ)([^\s\>\d]+)([0-9‚O-‚X]+)(\-|||’š–Ú|‚Ì|ƒm)([0-9‚O-‚X]+)([\-|||‚Ì|ƒm]?)([0-9‚O-‚X]?)/<A HREF\=\"http\:\/\/maps.google.co.jp\/maps\?q=$ttmp_jp_geoname&hl=ja\" TARGET=\"_blank\">$1$2$3$4$5$6$7$8$9 <\/A>/ig;
-		     }elsif($tmp_data=~ /([^\s\>\d]{1,10})(‹æ|s)([^\s\>\d]{1,10})([0-9‚O-‚X]+)(\-|||’š–Ú|‚Ì|ƒm)([0-9‚O-‚X]+)([\-|||‚Ì|ƒm])([0-9‚O-‚X]+)/ig){
+		       $tmp_data =~ s/(æ±äº¬éƒ½|å¤§é˜ªåºœ|äº¬éƒ½åºœ|[^\s\>\d]+çœŒ|åŒ—æµ·é“)([^\s\>\d]+)(å¸‚|åŒº)([^\s\>\d]+)([0-9ï¼-ï¼™]+)(\-|ï¼|ä¸ç›®|ã®|ãƒ)([0-9ï¼-ï¼™]+)([\-|ï¼|ã®|ãƒ]?)([0-9ï¼-ï¼™]?)/<A HREF\=\"http\:\/\/maps.google.co.jp\/maps\?q=$ttmp_jp_geoname&hl=ja\" TARGET=\"_blank\">$1$2$3$4$5$6$7$8$9 <\/A>/ig;
+		     }elsif($tmp_data=~ /([^\s\>\d]{1,10})(åŒº|å¸‚)([^\s\>\d]{1,10})([0-9ï¼-ï¼™]+)(\-|ï¼|ä¸ç›®|ã®|ãƒ)([0-9ï¼-ï¼™]+)([\-|ï¼|ã®|ãƒ])([0-9ï¼-ï¼™]+)/ig){
 		       $ttmp_jp_geoname="$1$2$3$4$5$6$7$8$9";
-		       # iPhone‚Å‚¨‚©‚µ‚­‚È‚é‚Ì‚ÅURLƒGƒ“ƒR[ƒh
+		       # iPhoneã§ãŠã‹ã—ããªã‚‹ã®ã§URLã‚¨ãƒ³ã‚³ãƒ¼ãƒ‰
 		       $ttmp_jp_geoname=~ s/(\W)/'%'.unpack("H2", $1)/ego;
-		       $tmp_data =~ s/([^\s\>\d]{1,10})(‹æ|s)([^\s\>\d]{1,10})([0-9‚O-‚X]+)(\-|||’š–Ú|‚Ì|ƒm)([0-9‚O-‚X]+)([\-|||‚Ì|ƒm])([0-9‚O-‚X]+)/<A HREF\=\"https\:\/\/maps.google.co.jp\/maps\?q=$ttmp_jp_geoname&hl=ja\" TARGET=\"_blank\">$1$2$3$4$5$6$7$8$9 <\/A>/ig;
+		       $tmp_data =~ s/([^\s\>\d]{1,10})(åŒº|å¸‚)([^\s\>\d]{1,10})([0-9ï¼-ï¼™]+)(\-|ï¼|ä¸ç›®|ã®|ãƒ)([0-9ï¼-ï¼™]+)([\-|ï¼|ã®|ãƒ])([0-9ï¼-ï¼™]+)/<A HREF\=\"https\:\/\/maps.google.co.jp\/maps\?q=$ttmp_jp_geoname&hl=ja\" TARGET=\"_blank\">$1$2$3$4$5$6$7$8$9 <\/A>/ig;
 		     }
 		    }
 		}
-    # iframeƒ^ƒO‚ª‚ ‚éê‡‚ÍA‚±‚±‚Å‰‚ß‚Äˆ—‚³‚ê‚é
-	# youTube‚Ì–„‚ß‚İƒ^ƒO(iframe)‘Îô 2011.06 
+    # iframeã‚¿ã‚°ãŒã‚ã‚‹å ´åˆã¯ã€ã“ã“ã§åˆã‚ã¦å‡¦ç†ã•ã‚Œã‚‹
+	# youTubeã®åŸ‹ã‚è¾¼ã¿ã‚¿ã‚°(iframe)å¯¾ç­– 2011.06 
 	}elsif(($tmp_data!~ /<A(\s)(\n?)|<IMA?GE?(.*)/i)&&($tmp_data=~ /<iframe(.|\n)*src\=\"http:\/\//i)){
-			# ƒTƒ€ƒlƒCƒ‹•\¦iyouTube‚ÌƒTƒ€ƒlƒCƒ‹‰æ‘œ‚ÌURL‚Í“K‹XƒAƒbƒvƒf[ƒg‚µ‚Ä‚­‚¾‚³‚¢j
+			# ã‚µãƒ ãƒã‚¤ãƒ«è¡¨ç¤ºï¼ˆyouTubeã®ã‚µãƒ ãƒã‚¤ãƒ«ç”»åƒã®URLã¯é©å®œã‚¢ãƒƒãƒ—ãƒ‡ãƒ¼ãƒˆã—ã¦ãã ã•ã„ï¼‰
 #		    $tmp_data =~ s/<iframe(.|\n)*src\=\"(https?\:\/\/|\/\/)www\.(youtube|youtube\-nocookie)\.com\/embed\/([\-_\.a-zA-Z0-9]+)(\?*)(.|\n)*<\/iframe>/<A HREF\=\"https\:\/\/youtu\.be\/$2" $ttmp_youtube_target_sitei>$tmp_youtube_snl_url<\/A> \(YouTube\)cd/ig;
 	}
 	return($tmp_data);
 }
 #
 #=========================#
-# ‹L–ƒf[ƒ^‚Ì’uŠ·
+# è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã®ç½®æ›
 #=========================#
-# Œã‚©‚ç‹L–‚ğ•ÒW‚·‚éê‡‚É—p‚¢‚é
+# å¾Œã‹ã‚‰è¨˜äº‹ã‚’ç·¨é›†ã™ã‚‹å ´åˆã«ç”¨ã„ã‚‹
 # R6NEW 2001.08.25
-# 2002.10 ‰ü—Ç
+# 2002.10 æ”¹è‰¯
 
 sub replace_data{
 
-	local($target_tid)	= $_[0];# ˆø” ƒ^[ƒQƒbƒg‹L–‚ÌID
-	local($tmp_file)	= $_[1];# ˆ—‚·‚éƒƒOƒtƒ@ƒCƒ‹–¼
+	local($target_tid)	= $_[0];# å¼•æ•° ã‚¿ãƒ¼ã‚²ãƒƒãƒˆè¨˜äº‹ã®ID
+	local($tmp_file)	= $_[1];# å‡¦ç†ã™ã‚‹ãƒ­ã‚°ãƒ•ã‚¡ã‚¤ãƒ«å
 
-	local($tmp_rm_key);	# ‹L–‚Éİ’è‚³‚ê‚Ä‚¢‚½íœƒL[
+	local($tmp_rm_key);	# è¨˜äº‹ã«è¨­å®šã•ã‚Œã¦ã„ãŸå‰Šé™¤ã‚­ãƒ¼
 
   	if($ENV{'REQUEST_METHOD'} ne 'POST'){
-		&error(" ƒZƒLƒ…ƒŠƒeƒBŒx <BR> GET‚É‚æ‚é‹L–“Še‚Í‚m‚f‚Å‚· ");
+		&error(" ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£è­¦å‘Š <BR> GETã«ã‚ˆã‚‹è¨˜äº‹æŠ•ç¨¿ã¯ï¼®ï¼§ã§ã™ ");
 	}
 
 	&form_check;
@@ -7609,10 +7613,10 @@ sub replace_data{
 		exit;
 	}
 
-#	# ‹L–‚Ì“ú•t•\¦i•ÏX‰Â”\)
+#	# è¨˜äº‹ã®æ—¥ä»˜è¡¨ç¤ºï¼ˆå¤‰æ›´å¯èƒ½)
 #	$date_data = "\[$year/$month/$mday,$hour:$min:$sec\]";
 
-	# ƒZƒpƒŒ[ƒ^‚Æ‚µ‚Ä–â‘è‚ ‚é‚à‚Ì‚ğA–‘O‚É’uŠ·
+	# ã‚»ãƒ‘ãƒ¬ãƒ¼ã‚¿ã¨ã—ã¦å•é¡Œã‚ã‚‹ã‚‚ã®ã‚’ã€äº‹å‰ã«ç½®æ›
 	$subject=&Enc_EQ("$subject");
 
 	undef $tmp_data;
@@ -7620,8 +7624,8 @@ sub replace_data{
 	$all_message=0;
 
 
-	# ƒf[ƒ^“Ç‚İ
-	open(IN, "$tmp_file")|| &error(" İ’èƒGƒ‰[Dƒf[ƒ^•Û‘¶—pƒtƒ@ƒCƒ‹\"$tmp_file\"‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñDˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	# ãƒ‡ãƒ¼ã‚¿èª­è¾¼ã¿
+	open(IN, "$tmp_file")|| &error(" è¨­å®šã‚¨ãƒ©ãƒ¼ï¼ãƒ‡ãƒ¼ã‚¿ä¿å­˜ç”¨ãƒ•ã‚¡ã‚¤ãƒ«\"$tmp_file\"ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ï¼å‡¦ç†ã¯ä¸­æ–­ã•ã‚Œã¾ã—ãŸï¼");
 	eval "flock(IN,1);" if($PM{'flock'} == 1 );
 
             	@main = <IN>;
@@ -7629,7 +7633,7 @@ sub replace_data{
 	eval "flock(IN,8);" if($PM{'flock'} == 1 );
 	close(IN);
 
-        # ˆÃ†‰»
+        # æš—å·åŒ–
 	if(($rmkey ne "no_key")&&($rmkey ne "")){
 		$rmkey		= &make_pass("$rmkey");
 	}
@@ -7640,7 +7644,7 @@ sub replace_data{
 
 	foreach $file_line(@main){
 
-		# HEADER•Û‘¶ («—ˆ‚Ö‚ÌŠg’£‚à‚±‚±‚Å‘Î‰)
+		# HEADERä¿å­˜ (å°†æ¥ã¸ã®æ‹¡å¼µã‚‚ã“ã“ã§å¯¾å¿œ)
 		if($file_line=~ /^\#?\,param_/i){
 
 			push(@TMPMESSAGE, $file_line);
@@ -7648,25 +7652,25 @@ sub replace_data{
 		}elsif(($file_line=~ /$target_tid/)&&($match_count < 1)){
 
 			$match_count++;
-			@SEP_DATA=split(/\t/,$file_line);# TAB‚Åˆê“x•ª‰ğ‚·‚é
+			@SEP_DATA=split(/\t/,$file_line);# TABã§ä¸€åº¦åˆ†è§£ã™ã‚‹
 
 			$tmp_rm_key="$SEP_DATA[9]";
 
 #&error("$subject $target_tid mc $match_count 9 $tmp_rm_key");
 
-			# ã‘‚«‚·‚é‚à‚Ì‚Í‚±‚±‚Åã‘‚«‘ã“ü
-			# ‘O‚Ìƒf[ƒ^•Û‘¶‚ğ‚»‚Ì‚Ü‚Ü•Û‘¶‚·‚é‚à‚Ì‚ÍƒRƒƒ“ƒgƒAƒEƒg
+			# ä¸Šæ›¸ãã™ã‚‹ã‚‚ã®ã¯ã“ã“ã§ä¸Šæ›¸ãä»£å…¥
+			# å‰ã®ãƒ‡ãƒ¼ã‚¿ä¿å­˜ã‚’ãã®ã¾ã¾ä¿å­˜ã™ã‚‹ã‚‚ã®ã¯ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆ
 			$SEP_DATA[0]="$subject";
 			$SEP_DATA[1]="$name";
 			$SEP_DATA[2]="$email";
 #			$SEP_DATA[3]="$date_data";
 
-			 # opt‚Í•Û‘¶‚·‚é•K—v‚ª‚ ‚é
+			 # optã¯ä¿å­˜ã™ã‚‹å¿…è¦ãŒã‚ã‚‹
 			 if($SEP_DATA[4]=~ /(.*)<!--opt\:(.*)-->/i){
 
 				$tmp_opt_form_data="$2";
 
-				# ‹Œƒf[ƒ^‚ğæ“¾‚µ‚Ä•Û
+				# æ—§ãƒ‡ãƒ¼ã‚¿ã‚’å–å¾—ã—ã¦ä¿æŒ
 			        undef %OPTDATA;
 				foreach ( split(/;/,$tmp_opt_form_data)){
 					local($name,$value) = split(/\=/);
@@ -7675,13 +7679,13 @@ sub replace_data{
 					  $OPTDATA{"$name"}	= $value;
 					}
 				}
-				# ã‘‚«‚·‚×‚«ƒpƒ‰ƒ[ƒ^‚ÍA“K‹Xã‘‚«
+				# ä¸Šæ›¸ãã™ã¹ããƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã¯ã€é©å®œä¸Šæ›¸ã
 				foreach $p_key(keys %FORM){
 				  if($p_key=~ /^opt(.+)/){
 					$OPTDATA{$p_key}="$FORM{$p_key}";
 				  }
 				}
-				# Œ‹‡‚µ‚Ä$opt_data‚ğì‚é
+				# çµåˆã—ã¦$opt_dataã‚’ä½œã‚‹
 				foreach $p_key(sort keys %OPTDATA){
 				  $tmp_data=&Enc_EQ($OPTDATA{$p_key});
 				  $opt_data.="$p_key"."\="."$tmp_data"."\;";
@@ -7690,12 +7694,12 @@ sub replace_data{
 			        undef %OPTDATA;
 				$SEP_DATA[4]="$body<\!--opt\:$opt_data-->";
 			}else{
-				# ‚±‚±‚Í’Ê‚ç‚È‚¢‚Í‚¸
+				# ã“ã“ã¯é€šã‚‰ãªã„ã¯ãš
 				$SEP_DATA[4]="$body<\!--opt\:-->";
 			}
 #			$SEP_DATA[5]="$img_location";
 			if($FORM{'amode'} eq "post_webparts"){
-			# WebParts‚Ìê‡Aƒ^ƒCƒgƒ‹‚¾‚¯ŒğŠ·‚·‚éƒP[ƒX‚ª•K—v
+			# WebPartsã®å ´åˆã€ã‚¿ã‚¤ãƒˆãƒ«ã ã‘äº¤æ›ã™ã‚‹ã‚±ãƒ¼ã‚¹ãŒå¿…è¦
 			  if($SEP_DATA[6]=~ /(.*)<!--(.*)-->/i){
 				$SEP_DATA[6]="$imgtitle"."<!--"."$2"."-->";
 			  }
@@ -7708,7 +7712,7 @@ sub replace_data{
 #			$SEP_DATA[10]="$unq_id";
 			$SEP_DATA[11]="";
 
-			# Œ‹‡‚µ‚Ä•œŒ³‚·‚é
+			# çµåˆã—ã¦å¾©å…ƒã™ã‚‹
 			for($numb=0;$numb < scalar(@SEP_DATA) ;$numb++){
 				$new_message.="$SEP_DATA[$numb]"."\t";
 			}
@@ -7718,15 +7722,15 @@ sub replace_data{
 		}
 	}
 
-	# ƒpƒXƒ[ƒh‚ğƒ`ƒFƒbƒN(C³‚ÍŒµ–§‚Éƒ`ƒFƒbƒNB¶ƒpƒX•K—v)
+	# ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’ãƒã‚§ãƒƒã‚¯(ä¿®æ­£ã¯å³å¯†ã«ãƒã‚§ãƒƒã‚¯ã€‚ç”Ÿãƒ‘ã‚¹å¿…è¦)
 	if((&check_passwd("$FORM{'entry_passwd'}","$tmp_rm_key","0")==1)||(&check_passwd("$FORM{'entry_passwd'}","$admin_passwd","1")==1)||($FORM{'amode'} eq "post_webparts")){
-#		&error("ˆê’v‚µ‚Ü‚µ‚½BŠùíœƒL[ $tmp_rm_key “ü—Í‚³‚ê‚½ƒpƒXƒ[ƒh$FORM{'rm_key'} ");
+#		&error("ä¸€è‡´ã—ã¾ã—ãŸã€‚æ—¢å‰Šé™¤ã‚­ãƒ¼ $tmp_rm_key å…¥åŠ›ã•ã‚ŒãŸãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰$FORM{'rm_key'} ");
 	}else{
-		&error("ƒpƒXƒ[ƒh‚ªˆá‚¢‚Ü‚·B","‹L–‚ÌC³‚É‚ÍŠÇ—ÒƒpƒXƒ[ƒhA‚ ‚é‚¢‚Í“Še‚É“ŠeÒ‚ª“ü—Í‚µ‚½ƒpƒXƒ[ƒh‚ª•K—v‚Å‚·B<BR>Ä“xƒpƒXƒ[ƒh‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢ ");
+		&error("ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãŒé•ã„ã¾ã™ã€‚","è¨˜äº‹ã®ä¿®æ­£ã«ã¯ç®¡ç†è€…ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã€ã‚ã‚‹ã„ã¯æŠ•ç¨¿æ™‚ã«æŠ•ç¨¿è€…ãŒå…¥åŠ›ã—ãŸãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãŒå¿…è¦ã§ã™ã€‚<BR>å†åº¦ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã—ã¦ãã ã•ã„ ");
 	}
 
-	# ƒf[ƒ^‘‚«o‚µŠJn
-	open(OUT, "> $tmp_file")|| &error(" İ’èƒGƒ‰[Dƒf[ƒ^—p•Û‘¶ƒtƒ@ƒCƒ‹\"$tmp_file\"‚Éƒf[ƒ^‚ğ‘‚Ş‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½D<BR>\"$tmp_file\"‚Æ‚¢‚¤–¼‘O‚Ìƒtƒ@ƒCƒ‹‚ª³‚µ‚¢ˆÊ’u‚É‘¶İ‚µ‚È‚¢‚©A‚ ‚é‚¢‚ÍA‘‚İ‹–‰Â‚ª‚È‚¢‚½‚ß‚¾‚Æv‚í‚ê‚Ü‚·D<BR>ˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	# ãƒ‡ãƒ¼ã‚¿æ›¸ãå‡ºã—é–‹å§‹
+	open(OUT, "> $tmp_file")|| &error(" è¨­å®šã‚¨ãƒ©ãƒ¼ï¼ãƒ‡ãƒ¼ã‚¿ç”¨ä¿å­˜ãƒ•ã‚¡ã‚¤ãƒ«\"$tmp_file\"ã«ãƒ‡ãƒ¼ã‚¿ã‚’æ›¸è¾¼ã‚€ã“ã¨ãŒã§ãã¾ã›ã‚“ã§ã—ãŸï¼<BR>\"$tmp_file\"ã¨ã„ã†åå‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ãŒæ­£ã—ã„ä½ç½®ã«å­˜åœ¨ã—ãªã„ã‹ã€ã‚ã‚‹ã„ã¯ã€æ›¸è¾¼ã¿è¨±å¯ãŒãªã„ãŸã‚ã ã¨æ€ã‚ã‚Œã¾ã™ï¼<BR>å‡¦ç†ã¯ä¸­æ–­ã•ã‚Œã¾ã—ãŸï¼");
 
 	eval "flock(OUT,2);" if($PM{'flock'} == 1 );
 	foreach $file_line(@TMPMESSAGE){
@@ -7740,29 +7744,29 @@ sub replace_data{
 }
 #
 #=========================#
-# ‹L–ƒf[ƒ^‚Ì•À‚Ñ‘Ö‚¦
+# è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã®ä¸¦ã³æ›¿ãˆ
 #=========================#
-# Œã‚©‚ç‹L–‚Ì‡”Ô‚ğ•ÏX‚·‚éê‡‚É—p‚¢‚é
+# å¾Œã‹ã‚‰è¨˜äº‹ã®é †ç•ªã‚’å¤‰æ›´ã™ã‚‹å ´åˆã«ç”¨ã„ã‚‹
 # R6NEW 2002.07.20
 sub sort_kiji{
 
-	local($target_tid)	= $_[0];# ˆø”1 ‡”Ô•ÏX‚·‚éƒ^[ƒQƒbƒg‹L–‚ÌID
-	local($target_ins_tid)	= $_[1];# ˆø”2 ‘}“üPOINT‚ÌID
-	local($tmp_ins_p)	= $_[2];# ˆø”3 ‘}“üPOINT‚ÌŒã‚ë‚©‘O‚©
-	local($tmp_file)	= $_[3];# ˆø”4 ˆ—‚·‚éƒƒOƒtƒ@ƒCƒ‹–¼
+	local($target_tid)	= $_[0];# å¼•æ•°1 é †ç•ªå¤‰æ›´ã™ã‚‹ã‚¿ãƒ¼ã‚²ãƒƒãƒˆè¨˜äº‹ã®ID
+	local($target_ins_tid)	= $_[1];# å¼•æ•°2 æŒ¿å…¥POINTã®ID
+	local($tmp_ins_p)	= $_[2];# å¼•æ•°3 æŒ¿å…¥POINTã®å¾Œã‚ã‹å‰ã‹
+	local($tmp_file)	= $_[3];# å¼•æ•°4 å‡¦ç†ã™ã‚‹ãƒ­ã‚°ãƒ•ã‚¡ã‚¤ãƒ«å
 
-	local($store_file_line)	= "";	# ˆê•Û‘¶
-	local($ins_p_find_flag)	= "";	# ‘}“üŒÂŠŠm”Fƒtƒ‰ƒOiˆÀ‘S‚Ì‚½‚ßj
+	local($store_file_line)	= "";	# ä¸€æ™‚ä¿å­˜
+	local($ins_p_find_flag)	= "";	# æŒ¿å…¥å€‹æ‰€ç¢ºèªãƒ•ãƒ©ã‚°ï¼ˆå®‰å…¨ã®ãŸã‚ï¼‰
 
-	# –‘Oƒ`ƒFƒbƒN
+	# äº‹å‰ãƒã‚§ãƒƒã‚¯
   	if(($target_tid eq "")||($target_ins_tid eq "")){
-		&error(" ƒGƒ‰[ <BR> ŠY“–‹L–id‚ª‚ ‚è‚Ü‚¹‚ñ ");
+		&error(" ã‚¨ãƒ©ãƒ¼ <BR> è©²å½“è¨˜äº‹idãŒã‚ã‚Šã¾ã›ã‚“ ");
 	}
 
 	$all_message=0;
 
-	# ƒf[ƒ^“Ç‚İ
-	open(IN, "$tmp_file")|| &error(" İ’èƒGƒ‰[Dƒf[ƒ^•Û‘¶—pƒtƒ@ƒCƒ‹\"$tmp_file\"‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñDˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	# ãƒ‡ãƒ¼ã‚¿èª­è¾¼ã¿
+	open(IN, "$tmp_file")|| &error(" è¨­å®šã‚¨ãƒ©ãƒ¼ï¼ãƒ‡ãƒ¼ã‚¿ä¿å­˜ç”¨ãƒ•ã‚¡ã‚¤ãƒ«\"$tmp_file\"ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ï¼å‡¦ç†ã¯ä¸­æ–­ã•ã‚Œã¾ã—ãŸï¼");
 	eval "flock(IN,1);" if($PM{'flock'} == 1 );
        	@main = <IN>;
 	eval "flock(IN,8);" if($PM{'flock'} == 1 );
@@ -7773,20 +7777,20 @@ sub sort_kiji{
 
 	foreach $file_line(@main){
 
-		# HEADER•Û‘¶ («—ˆ‚Ö‚ÌŠg’£‚à‚±‚±‚Å‘Î‰)
+		# HEADERä¿å­˜ (å°†æ¥ã¸ã®æ‹¡å¼µã‚‚ã“ã“ã§å¯¾å¿œ)
 		if($file_line=~ /^\#?\,param_/i){
 			push(@TMPMESSAGE, $file_line);
 		}elsif(($file_line=~ /$target_tid/)&&($match_count < 1)){
 			$match_count++;
-			@SEP_DATA=split(/\t/,$file_line);# TAB‚Åˆê“x•ª‰ğ‚·‚é
+			@SEP_DATA=split(/\t/,$file_line);# TABã§ä¸€åº¦åˆ†è§£ã™ã‚‹
 			if($target_tid eq "$SEP_DATA[10]"){
 				$store_file_line="$file_line";
 			}else{
 			 push(@TMPMESSAGE, $file_line);
 			}
-		# ‘}“üƒ|ƒCƒ“ƒg‚Ì‘¶İ‚àŠm”F‚µ‚Ä‚¨‚­
+		# æŒ¿å…¥ãƒã‚¤ãƒ³ãƒˆã®å­˜åœ¨ã‚‚ç¢ºèªã—ã¦ãŠã
 		}elsif($file_line=~ /$target_ins_tid/){
-			@SEP_DATA=split(/\t/,$file_line);# TAB‚Åˆê“x•ª‰ğ‚·‚é
+			@SEP_DATA=split(/\t/,$file_line);# TABã§ä¸€åº¦åˆ†è§£ã™ã‚‹
 			if($target_ins_tid eq "$SEP_DATA[10]"){
 				$ins_p_find_flag=1;
 			}
@@ -7796,26 +7800,26 @@ sub sort_kiji{
 		}
 	}
 
-	# ˆ—‘Oƒ`ƒFƒbƒNB‘}“üƒ|ƒCƒ“ƒg‚ª‚È‚¢‚Æ‚«‚Íƒ\[ƒg‚ğ’†~iˆÀ‘S‚Ì‚½‚ßj
+	# å‡¦ç†å‰ãƒã‚§ãƒƒã‚¯ã€‚æŒ¿å…¥ãƒã‚¤ãƒ³ãƒˆãŒãªã„ã¨ãã¯ã‚½ãƒ¼ãƒˆã‚’ä¸­æ­¢ï¼ˆå®‰å…¨ã®ãŸã‚ï¼‰
 	if($ins_p_find_flag != 1 ){
-		&error(" ƒGƒ‰[ B‡”Ô•ÏX’†‚Éƒf[ƒ^–µ‚”­¶Bƒf[ƒ^•Û‘S‚Ì‚½‚ßˆ—‚ğ’†~‚µ‚Ü‚· ");
+		&error(" ã‚¨ãƒ©ãƒ¼ ã€‚é †ç•ªå¤‰æ›´ä¸­ã«ãƒ‡ãƒ¼ã‚¿çŸ›ç›¾ç™ºç”Ÿã€‚ãƒ‡ãƒ¼ã‚¿ä¿å…¨ã®ãŸã‚å‡¦ç†ã‚’ä¸­æ­¢ã—ã¾ã™ ");
 	}
 
 #&error(" $target_tid-$target_ins_tid-$tmp_ins_p-$tmp_file-$store_file_line");
 
 
-	# ƒf[ƒ^‘‚«o‚µŠJn
+	# ãƒ‡ãƒ¼ã‚¿æ›¸ãå‡ºã—é–‹å§‹
 	$store_file_line=~ s/\n//g;
 	$store_file_line=~ s/\r//g;
 
-	open(OUT, "> $tmp_file")|| &error(" İ’èƒGƒ‰[Dƒf[ƒ^—p•Û‘¶ƒtƒ@ƒCƒ‹\"$tmp_file\"‚Éƒf[ƒ^‚ğ‘‚Ş‚±‚Æ‚ª‚Å‚«‚Ü‚¹‚ñ‚Å‚µ‚½D<BR>\"$tmp_file\"‚Æ‚¢‚¤–¼‘O‚Ìƒtƒ@ƒCƒ‹‚ª³‚µ‚¢ˆÊ’u‚É‘¶İ‚µ‚È‚¢‚©A‚ ‚é‚¢‚ÍA‘‚İ‹–‰Â‚ª‚È‚¢‚½‚ß‚¾‚Æv‚í‚ê‚Ü‚·D<BR>ˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	open(OUT, "> $tmp_file")|| &error(" è¨­å®šã‚¨ãƒ©ãƒ¼ï¼ãƒ‡ãƒ¼ã‚¿ç”¨ä¿å­˜ãƒ•ã‚¡ã‚¤ãƒ«\"$tmp_file\"ã«ãƒ‡ãƒ¼ã‚¿ã‚’æ›¸è¾¼ã‚€ã“ã¨ãŒã§ãã¾ã›ã‚“ã§ã—ãŸï¼<BR>\"$tmp_file\"ã¨ã„ã†åå‰ã®ãƒ•ã‚¡ã‚¤ãƒ«ãŒæ­£ã—ã„ä½ç½®ã«å­˜åœ¨ã—ãªã„ã‹ã€ã‚ã‚‹ã„ã¯ã€æ›¸è¾¼ã¿è¨±å¯ãŒãªã„ãŸã‚ã ã¨æ€ã‚ã‚Œã¾ã™ï¼<BR>å‡¦ç†ã¯ä¸­æ–­ã•ã‚Œã¾ã—ãŸï¼");
 
 	eval "flock(OUT,2);" if($PM{'flock'} == 1 );
 	foreach $file_line(@TMPMESSAGE){
 		if($file_line=~ /$target_ins_tid/){
-		  @SEP_DATA=split(/\t/,$file_line);# TAB‚Åˆê“x•ª‰ğ‚·‚é
+		  @SEP_DATA=split(/\t/,$file_line);# TABã§ä¸€åº¦åˆ†è§£ã™ã‚‹
 		  if($target_ins_tid eq "$SEP_DATA[10]"){
-		  # ƒ^[ƒQƒbƒg‚Ì‘O‚É‘}“ü
+		  # ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã®å‰ã«æŒ¿å…¥
 		  	if($tmp_ins_p eq "pre"){
 		   	  print OUT "$store_file_line"."\n";
 		 	}
@@ -7824,7 +7828,7 @@ sub sort_kiji{
 		 	$file_line=~ s/\r//g;
 		 	print OUT "$file_line"."\n";
 
-		 	# ƒ^[ƒQƒbƒg‚ÌŒã‚ë‚É‘}“ü
+		 	# ã‚¿ãƒ¼ã‚²ãƒƒãƒˆã®å¾Œã‚ã«æŒ¿å…¥
 		 	if($tmp_ins_p ne "pre"){
 		 	  print OUT "$store_file_line"."\n";
 		 	}
@@ -7844,48 +7848,48 @@ sub sort_kiji{
 }
 #
 #==================================#
-# “¯ˆêl•¨‚©‚ç‚Ì‚Qd“Še‚Ì–h~
+# åŒä¸€äººç‰©ã‹ã‚‰ã®ï¼’é‡æŠ•ç¨¿ã®é˜²æ­¢
 #==================================#
-# ˆêl‚PƒGƒ“ƒgƒŠ‚µ‚©ì‚ê‚È‚¢‚æ‚¤‚É‚·‚éB
-# o‰ï‚¢Œf¦”Â—pB”z•z”Å‚Å‚Í–¢ƒTƒ|[ƒg
+# ä¸€äººï¼‘ã‚¨ãƒ³ãƒˆãƒªã—ã‹ä½œã‚Œãªã„ã‚ˆã†ã«ã™ã‚‹ã€‚
+# å‡ºä¼šã„æ²ç¤ºæ¿ç”¨ã€‚é…å¸ƒç‰ˆã§ã¯æœªã‚µãƒãƒ¼ãƒˆ
 #
 sub check_double_post{
-#	&error(" ”z•z”Å‚Å‚Í–¢ƒTƒ|[ƒg‚Ì‹@\”\\‚Å‚· ");
-	# ƒ[ƒ‹ƒAƒhƒŒƒX‚ğƒ`ƒFƒbƒN‚µAŠù‚ÉŒf¦”Âã‚É‚ ‚éƒGƒ“ƒgƒŠ‚Ì
-	# ƒ[ƒ‹ƒAƒhƒŒƒX‚Æd‚È‚éê‡‚ÍV‹K“Še‚ğ¸”s‚³‚¹‚éB
+#	&error(" é…å¸ƒç‰ˆã§ã¯æœªã‚µãƒãƒ¼ãƒˆã®æ©Ÿ\èƒ½\ã§ã™ ");
+	# ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã‚’ãƒã‚§ãƒƒã‚¯ã—ã€æ—¢ã«æ²ç¤ºæ¿ä¸Šã«ã‚ã‚‹ã‚¨ãƒ³ãƒˆãƒªã®
+	# ãƒ¡ãƒ¼ãƒ«ã‚¢ãƒ‰ãƒ¬ã‚¹ã¨é‡ãªã‚‹å ´åˆã¯æ–°è¦æŠ•ç¨¿ã‚’å¤±æ•—ã•ã›ã‚‹ã€‚
 }
 #
 #==================================#
-# ‹L–‚ğíœ‚µ‚Ä—Ç‚¢‚©‚ğŠm”F‚³‚¹‚é
+# è¨˜äº‹ã‚’å‰Šé™¤ã—ã¦è‰¯ã„ã‹ã‚’ç¢ºèªã•ã›ã‚‹
 #==================================#
-# ‘I‘ğ‚³‚ê‚½‹L–ˆê‚Â‚ğ•\¦‚µ‚ÄA‚»‚Ì‹L–‚ğÁ‚·‚½‚ß‚Ì
-# íœƒpƒXƒ[ƒh‚Ì“ü—Í‚ğ‘£‚·B
-# o‰ï‚¢Œf¦”ÂSP—pB”z•z”Å‚Å‚Í–¢ƒTƒ|[ƒg
+# é¸æŠã•ã‚ŒãŸè¨˜äº‹ä¸€ã¤ã‚’è¡¨ç¤ºã—ã¦ã€ãã®è¨˜äº‹ã‚’æ¶ˆã™ãŸã‚ã®
+# å‰Šé™¤ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã®å…¥åŠ›ã‚’ä¿ƒã™ã€‚
+# å‡ºä¼šã„æ²ç¤ºæ¿SPç”¨ã€‚é…å¸ƒç‰ˆã§ã¯æœªã‚µãƒãƒ¼ãƒˆ
 #
 sub output_remove_select_html{
-	&error(" o‰ï‚¢Œf¦”ÂSP—pB”z•z”Å‚Å‚Í–¢ƒTƒ|[ƒg‚Ì‹@\”\\‚Å‚· ");
+	&error(" å‡ºä¼šã„æ²ç¤ºæ¿SPç”¨ã€‚é…å¸ƒç‰ˆã§ã¯æœªã‚µãƒãƒ¼ãƒˆã®æ©Ÿ\èƒ½\ã§ã™ ");
 }
 #
 #=======================================#
-# <ƒEƒFƒuƒp[ƒcƒf[ƒ^ƒtƒ@ƒCƒ‹‚ğ“Ç>    #
+# <ã‚¦ã‚§ãƒ–ãƒ‘ãƒ¼ãƒ„ãƒ‡ãƒ¼ã‚¿ãƒ•ã‚¡ã‚¤ãƒ«ã‚’èª­è¾¼>    #
 #=======================================#
 #
 sub read_web_parts_data{
 
 	local($tmp_mes_line);
-	local($tmp_file)	= $_[0];# ˆ—‚·‚éƒƒOƒtƒ@ƒCƒ‹–¼
+	local($tmp_file)	= $_[0];# å‡¦ç†ã™ã‚‹ãƒ­ã‚°ãƒ•ã‚¡ã‚¤ãƒ«å
 
-	# ƒƒbƒZ[ƒW‚ğ“Ç‚İ‚Ş
-	open(IN, "$tmp_file")|| &error(" İ’èƒGƒ‰[Dƒf[ƒ^•Û‘¶—pƒtƒ@ƒCƒ‹\"$tmp_file\"‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñDˆ—‚Í’†’f‚³‚ê‚Ü‚µ‚½D");
+	# ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’èª­ã¿è¾¼ã‚€
+	open(IN, "$tmp_file")|| &error(" è¨­å®šã‚¨ãƒ©ãƒ¼ï¼ãƒ‡ãƒ¼ã‚¿ä¿å­˜ç”¨ãƒ•ã‚¡ã‚¤ãƒ«\"$tmp_file\"ãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ï¼å‡¦ç†ã¯ä¸­æ–­ã•ã‚Œã¾ã—ãŸï¼");
 
 	   eval "flock(IN,1);" if($PM{'flock'} == 1 );
 	   while(<IN>){
 
-		# HEADER•Û‘¶ («—ˆ‚Ö‚ÌŠg’£‚à‚±‚±‚Å‘Î‰)
+		# HEADERä¿å­˜ (å°†æ¥ã¸ã®æ‹¡å¼µã‚‚ã“ã“ã§å¯¾å¿œ)
 		if($_ =~ /^\#?\,param_/i){
 			push(@WP_HEAD_MESSAGE, $_);
 		}
-		# ‹L–‚ğƒoƒbƒtƒ@‚É“ü‚ê‚é
+		# è¨˜äº‹ã‚’ãƒãƒƒãƒ•ã‚¡ã«å…¥ã‚Œã‚‹
 		if($_ =~ /^([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]*)\t([^\t]*)/){
 			$tmp_mes_line="$_";
 			chop($tmp_mes_line);
@@ -7897,28 +7901,28 @@ sub read_web_parts_data{
 }
 #
 #===============================================#
-#     <•ÒW‚·‚é‚½‚ß‚ÉA‹L–ƒf[ƒ^‚ğŒÄ‚Ño‚·>    #
+#     <ç·¨é›†ã™ã‚‹ãŸã‚ã«ã€è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã‚’å‘¼ã³å‡ºã™>    #
 #===============================================#
-# R6NEW (³®”Å‚Å‚Í‹@”\‚ğíœ‚·‚é)
-# ‹L–ƒf[ƒ^‚ğ•ÒWEC³‚·‚é‚½‚ß‚ÉAUID‚ğƒL[‚É‚µ‚ÄŒÄ‚Ño‚·
-# o—Í‚Í•ÒW“ü—ÍƒtƒH[ƒ€‚Ì‰Šú’l‚Æ‚µ‚Äƒ[ƒh‚·‚é
+# R6NEW (æ­£å¼ç‰ˆã§ã¯æ©Ÿèƒ½ã‚’å‰Šé™¤ã™ã‚‹)
+# è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã‚’ç·¨é›†ãƒ»ä¿®æ­£ã™ã‚‹ãŸã‚ã«ã€UIDã‚’ã‚­ãƒ¼ã«ã—ã¦å‘¼ã³å‡ºã™
+# å‡ºåŠ›ã¯ç·¨é›†å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ ã®åˆæœŸå€¤ã¨ã—ã¦ãƒ­ãƒ¼ãƒ‰ã™ã‚‹
 #
 sub load_target_kiji{
 
-	local($t_pattern)=$_[0];	# ‹L–UID‚ğˆø”‚Æ‚µ‚Äæ“¾
-	local($tmp_file)= $_[1];	# ˆ—‚·‚éƒƒOƒtƒ@ƒCƒ‹–¼
+	local($t_pattern)=$_[0];	# è¨˜äº‹UIDã‚’å¼•æ•°ã¨ã—ã¦å–å¾—
+	local($tmp_file)= $_[1];	# å‡¦ç†ã™ã‚‹ãƒ­ã‚°ãƒ•ã‚¡ã‚¤ãƒ«å
 
 	undef @T_MESSAGE;
 	local($tc_message);
 	local($tmp_unq_id);
 
-	# ID‚ğ‚Â‹L–‚ğˆê‚Â‘I‘ğ‚·‚é
+	# IDã‚’æŒã¤è¨˜äº‹ã‚’ä¸€ã¤é¸æŠã™ã‚‹
 	open(READ, "$tmp_file");
 		eval "flock(READ,1);" if($PM{'flock'} == 1 );
 		while(<READ>){
 			if($file_line=~ /^\#?\,param_/i){
 			}elsif($_ =~ /^([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]*)\t([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)/){
-			  $tmp_unq_id		= $11;	# ŒÅ—LID(ƒx[ƒX)
+			  $tmp_unq_id		= $11;	# å›ºæœ‰ID(æ™‚åˆ»ãƒ™ãƒ¼ã‚¹)
 			  if($tmp_unq_id eq "$t_pattern"){
 				push(@T_MESSAGE, $_);
 				$tc_message++;
@@ -7928,14 +7932,14 @@ sub load_target_kiji{
 		eval "flock(READ,8);" if($PM{'flock'} == 1 );
 	close(READ);
 
-	# ˆê‚Â‚¾‚¯‘I‘ğ‚Å‚«‚½‚©AƒGƒ‰[ƒ`ƒFƒbƒN‚·‚é
+	# ä¸€ã¤ã ã‘é¸æŠã§ããŸã‹ã€ã‚¨ãƒ©ãƒ¼ãƒã‚§ãƒƒã‚¯ã™ã‚‹
 	if($tc_message > 1){
-	  &error(" •¡”‚Ì‹L–‚Æƒ}ƒbƒ`BˆÙí‚Ì‚½‚ßAI—¹‚µ‚Ü‚· <BR>ŒŸõƒpƒ^[ƒ“ $t_patterm ");
+	  &error(" è¤‡æ•°ã®è¨˜äº‹ã¨ãƒãƒƒãƒã€‚ç•°å¸¸ã®ãŸã‚ã€çµ‚äº†ã—ã¾ã™ <BR>æ¤œç´¢ãƒ‘ã‚¿ãƒ¼ãƒ³ $t_patterm ");
 	}elsif($tc_message==0){
-	  &error(" ƒ}ƒbƒ`‚·‚é‹L–‚ª‚ ‚è‚Ü‚¹‚ñ‚Å‚µ‚½B<BR>ŒŸõID $t_patterm ");
+	  &error(" ãƒãƒƒãƒã™ã‚‹è¨˜äº‹ãŒã‚ã‚Šã¾ã›ã‚“ã§ã—ãŸã€‚<BR>æ¤œç´¢ID $t_patterm ");
 	}
 
-	# ³í‚È‚çA‹L–ƒf[ƒ^‚ğ•ª‰ğ‚·‚é
+	# æ­£å¸¸ãªã‚‰ã€è¨˜äº‹ãƒ‡ãƒ¼ã‚¿ã‚’åˆ†è§£ã™ã‚‹
 	if($T_MESSAGE[0] =~ /^([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]+)\t([^\t]*)\t([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)\t?([^\t]*)/){
 		$tmp_subject		= $1;
 		$tmp_name		= $2;
@@ -7944,29 +7948,29 @@ sub load_target_kiji{
 		$tmp_body		= $5;
 		$tmp_img_location	= $6;
 		$tmp_img_title		= $7;
-		$tmp_seq_no		= $8;	# ˜A”Ô
-		$tmp_blood_name		= $9;	# e‚ÌŒŒ“ID(q‹Ÿ‚Ì‚İ‚Â)
-		$tmp_rm_key		= $10;	# íœƒL[
-		$tmp_unq_id		= $11;	# ŒÅ—LID(ƒx[ƒX)
+		$tmp_seq_no		= $8;	# é€£ç•ª
+		$tmp_blood_name		= $9;	# è¦ªã®è¡€çµ±ID(å­ä¾›ã®ã¿æŒã¤)
+		$tmp_rm_key		= $10;	# å‰Šé™¤ã‚­ãƒ¼
+		$tmp_unq_id		= $11;	# å›ºæœ‰ID(æ™‚åˆ»ãƒ™ãƒ¼ã‚¹)
 		$new_p1			= $12;
 		$new_p2			= $13;
 
 		$tmp_subject=&Dec_EQ("$tmp_subject");
 
-		# —\”õ“ü—Í€–Úƒpƒ‰ƒ[ƒ^‚ğ•œŒ³
-		# body‚Ì’†‚ÉAƒRƒƒ“ƒgƒAƒEƒgŒ`®‚Åƒf[ƒ^‚Í‰B‚µ•Û‘¶‚³‚ê‚Ä‚¢‚é
-		# ‘®<!--opt:ƒpƒ‰ƒ[ƒ^–¼=’l;ƒpƒ‰ƒ[ƒ^–¼2=’l2EEE-->
-		#<!--opt:‚Æ-->‚ğœ‚«ƒpƒ‰ƒ[ƒ^•”‚ğ’Šo‚·‚éˆ—
+		# äºˆå‚™å…¥åŠ›é …ç›®ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚’å¾©å…ƒ
+		# bodyã®ä¸­ã«ã€ã‚³ãƒ¡ãƒ³ãƒˆã‚¢ã‚¦ãƒˆå½¢å¼ã§ãƒ‡ãƒ¼ã‚¿ã¯éš ã—ä¿å­˜ã•ã‚Œã¦ã„ã‚‹
+		# æ›¸å¼<!--opt:ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å=å€¤;ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿å2=å€¤2ãƒ»ãƒ»ãƒ»-->
+		#<!--opt:ã¨-->ã‚’é™¤ããƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿éƒ¨ã‚’æŠ½å‡ºã™ã‚‹å‡¦ç†
 		if($tmp_body ne ''){
 		  ($tmp_body,$opt_form_data)	=split(/<\!--opt:/,$tmp_body);
 		  $opt_form_data		=~ s/-->//g;
 		}
 
-		$tmp_body=~ s/\<!-- userF\s([^>]*)(\s*)--\>//g;
+		$tmp_body=~ s/\<!-- userï¼š\s([^>]*)(\s*)--\>//g;
 
-	# “ü—ÍƒtƒH[ƒ€‚ÌCOOKIE‚Ì‰Šú’l‚Æ‚µ‚Äo—Í‚·‚é
+	# å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ ã®COOKIEã®åˆæœŸå€¤ã¨ã—ã¦å‡ºåŠ›ã™ã‚‹
 
-		#ƒpƒ‰ƒ[ƒ^$opt_form_data‚ª’Ç‰Á‚³‚ê‚Ä‚¢‚éê‡D
+		#ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿$opt_form_dataãŒè¿½åŠ ã•ã‚Œã¦ã„ã‚‹å ´åˆï¼
 		if($opt_form_data ne ''){
 			foreach ( split(/;/,$opt_form_data)){
 				local($name,$value) = split(/\=/);
@@ -7974,18 +7978,18 @@ sub load_target_kiji{
 
 				if($name=~ /^opt_data_(.+)$/){
 				  $OPTDATA{"opt$1"}	= $value;
-				  $OPT_FORM_DATA{"opt$1"}= $value;# ‹ŒR5ŒİŠ·—p
+				  $OPT_FORM_DATA{"opt$1"}= $value;# æ—§R5äº’æ›ç”¨
 				  $COOKIE{"opt$1"}	="$value";
-				# ™X‚É‚±‚¿‚ç‚ÖƒVƒtƒg
+				# å¾ã€…ã«ã“ã¡ã‚‰ã¸ã‚·ãƒ•ãƒˆ
 				}elsif($name=~ /^opt(.+)$/){
 				  $OPTDATA{"$name"}	= $value;
-				  $OPT_FORM_DATA{"$name"}= $value;# ‹ŒR5ŒİŠ·—p
+				  $OPT_FORM_DATA{"$name"}= $value;# æ—§R5äº’æ›ç”¨
 				  $COOKIE{$name}	="$value";
 				}
 			}
 		}else{
 			undef %OPTDATA;
-	        	undef %OPT_FORM_DATA;# ‹ŒR5ŒİŠ·—p
+	        	undef %OPT_FORM_DATA;# æ—§R5äº’æ›ç”¨
 		}
 
 		$COOKIE{'subject'}	="$tmp_subject";
@@ -7997,129 +8001,129 @@ sub load_target_kiji{
 		$COOKIE{'body'}		="$tmp_body";
 		$COOKIE{'body'}		=~ s/<BR>/\n/gi;
 
-		# WebParts‚Ìê‡‚ÍA‰æ‘œ‚Ìƒ^ƒCƒgƒ‹–¼‚ğ•ÏX‚Å‚«‚é
+		# WebPartsã®å ´åˆã¯ã€ç”»åƒã®ã‚¿ã‚¤ãƒˆãƒ«åã‚’å¤‰æ›´ã§ãã‚‹
 		if($FORM{'amode'} eq "icon_edit"){
 		  $tmp_img_title=~ s/\<!--(.*)--\>//g;
 		  $COOKIE{'imgtitle'}	="$tmp_img_title";
 		}
 
-		$no_cookie_for_subject=0;	# ‘è–¼ƒNƒbƒL[‚Ì–³Œø‰»‚ğ‰ğœ
+		$no_cookie_for_subject=0;	# é¡Œåã‚¯ãƒƒã‚­ãƒ¼ã®ç„¡åŠ¹åŒ–ã‚’è§£é™¤
 		$use_passwd_flag=1;
-		 # 2006.04 SPAM‘Îô‚ÅC³
+		 # 2006.04 SPAMå¯¾ç­–ã§ä¿®æ­£
 		 $POSTADDP{'UPLOADFORM'}="$POSTADDP{'UPLOADFORM'}\n"."<INPUT TYPE=\"HIDDEN\" NAME=\"apasswd\" VALUE=\"$COOKIEAD{'apasswd'}\">";
 	}
 }
 #
 #===================================#
-# ŠÇ—Ò‰æ–Ê‚ÌƒƒCƒ“ˆ—•”
+# ç®¡ç†è€…ç”»é¢ã®ãƒ¡ã‚¤ãƒ³å‡¦ç†éƒ¨
 #===================================#
 sub amode_done{
 
-    # ŠÇ—ƒ‚[ƒhF‚É‚·‚é
-    $PM{'orig_body_bgcolor'}="$PM{'body_bgcolor'}"; # ‹Œ‘S‘Ì‚Ì”wŒiF‚ğ‹L‰¯
+    # ç®¡ç†ãƒ¢ãƒ¼ãƒ‰è‰²ã«ã™ã‚‹
+    $PM{'orig_body_bgcolor'}="$PM{'body_bgcolor'}"; # æ—§å…¨ä½“ã®èƒŒæ™¯è‰²ã‚’è¨˜æ†¶
 
     if($FORM{'amode'} ne ''){
-	$PM{'body_bgcolor'}	="#B0B0D0";		# ‘S‘Ì‚Ì”wŒiF
-	$PM{'body_text'}	="#000000";		# Šî–{ƒtƒHƒ“ƒgF
-	$PM{'body_link'}	="#4040FF";		# ƒŠƒ“ƒNF
-	$PM{'body_vlink'}	="#0000FF";		# ŠùƒAƒNƒZƒXƒŠƒ“ƒNF
-	$PM{'body_background'}	="";			# ”wŒi‰æ‘œ–¼
+	$PM{'body_bgcolor'}	="#B0B0D0";		# å…¨ä½“ã®èƒŒæ™¯è‰²
+	$PM{'body_text'}	="#000000";		# åŸºæœ¬ãƒ•ã‚©ãƒ³ãƒˆè‰²
+	$PM{'body_link'}	="#4040FF";		# ãƒªãƒ³ã‚¯è‰²
+	$PM{'body_vlink'}	="#0000FF";		# æ—¢ã‚¢ã‚¯ã‚»ã‚¹ãƒªãƒ³ã‚¯è‰²
+	$PM{'body_background'}	="";			# èƒŒæ™¯ç”»åƒå
 
-	$res_table_sitei="bgcolor=#F0E0D6";		# •ÔM”wŒiF
+	$res_table_sitei="bgcolor=#F0E0D6";		# è¿”ä¿¡èƒŒæ™¯è‰²
 
-	# 2014.11.14 C³(íœÏ‚İ“®‰æ‚ÌŠÇ—Œø—¦ƒAƒbƒv‚Ì‚½‚ß‚ÉAŠÇ—ƒƒjƒ…[‚Í‚Pƒy[ƒW‚ ‚½‚è‚Ìe‹L–•\¦”‚ğ15‚É‘‚â‚·)
-	# ‚½‚¾‚µA20ˆÈã‚É‚·‚é‚ÆA–„‚ß‚İ“®‰æ‚ª‘½‚¢ê‡AFlashƒvƒŒƒCƒ„[‚ªƒƒ‚ƒŠ‚ğg‚¢s‚­‚µ
-	# ƒuƒ‰ƒEƒU‚ªƒNƒ‰ƒbƒVƒ…‚·‚é‰Â”\«‚ª‚ ‚é‚Ì‚ÅA15ŒÅ’è‚É‚·‚éB
+	# 2014.11.14 ä¿®æ­£(å‰Šé™¤æ¸ˆã¿å‹•ç”»ã®ç®¡ç†åŠ¹ç‡ã‚¢ãƒƒãƒ—ã®ãŸã‚ã«ã€ç®¡ç†ãƒ¡ãƒ‹ãƒ¥ãƒ¼æ™‚ã¯ï¼‘ãƒšãƒ¼ã‚¸ã‚ãŸã‚Šã®è¦ªè¨˜äº‹è¡¨ç¤ºæ•°ã‚’15ã«å¢—ã‚„ã™)
+	# ãŸã ã—ã€20ä»¥ä¸Šã«ã™ã‚‹ã¨ã€åŸ‹ã‚è¾¼ã¿å‹•ç”»ãŒå¤šã„å ´åˆã€Flashãƒ—ãƒ¬ã‚¤ãƒ¤ãƒ¼ãŒãƒ¡ãƒ¢ãƒªã‚’ä½¿ã„å°½ãã—
+	# ãƒ–ãƒ©ã‚¦ã‚¶ãŒã‚¯ãƒ©ãƒƒã‚·ãƒ¥ã™ã‚‹å¯èƒ½æ€§ãŒã‚ã‚‹ã®ã§ã€15å›ºå®šã«ã™ã‚‹ã€‚
 
 	$disp_message 		=15;
 
 
-	&read_cookie;# ƒNƒbƒL[‚ğ“Ç‚Ş(ƒpƒX‚ÌŠÖŒW‚ÅPOST“n‚µ‚·‚é‚ªA‚»‚Ìê‡‚Í“Ç‚Ü‚ê‚È‚¢‚½‚ß)
+	&read_cookie;# ã‚¯ãƒƒã‚­ãƒ¼ã‚’èª­è¾¼ã‚€(ãƒ‘ã‚¹ã®é–¢ä¿‚ã§POSTæ¸¡ã—ã™ã‚‹ãŒã€ãã®å ´åˆã¯èª­ã¾ã‚Œãªã„ãŸã‚)
 	if(&check_passwd("$COOKIEAD{'apasswd'}","$admin_passwd","0")!=1){
-	    &error(" ŠÇ—Òƒƒjƒ…[ ƒpƒXƒ[ƒhƒGƒ‰[ ","","1");
+	    &error(" ç®¡ç†è€…ãƒ¡ãƒ‹ãƒ¥ãƒ¼ ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚¨ãƒ©ãƒ¼ ","","1");
 	}
     }
 
     if($FORM{'amode'} eq 'icon_admin'){
       if($EXTCFG{'type'}!~ /icon/i){
-	    &error(" ‚±‚ÌŒf¦”Â‚É‚ÍA<a href=http://www.big.or.jp/~talk/t-club/soft/mini_r6/imgboard_newicon.cgi target=_blank>ƒAƒCƒRƒ“•t‚«Œf¦”Â</a>‰»—pŠO•”İ’èƒtƒ@ƒCƒ‹‚ª‚Ü‚¾’Ç‰Á‚³‚ê‚Ä‚¢‚Ü‚¹‚ñ‚Ì‚ÅA‚±‚Ì‹@\”\\‚Íg‚¦‚Ü‚¹‚ñB ","","1");
+	    &error(" ã“ã®æ²ç¤ºæ¿ã«ã¯ã€<a href=http://www.big.or.jp/~talk/t-club/soft/mini_r6/imgboard_newicon.cgi target=_blank>ã‚¢ã‚¤ã‚³ãƒ³ä»˜ãæ²ç¤ºæ¿</a>åŒ–ç”¨å¤–éƒ¨è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ãŒã¾ã è¿½åŠ ã•ã‚Œã¦ã„ã¾ã›ã‚“ã®ã§ã€ã“ã®æ©Ÿ\èƒ½\ã¯ä½¿ãˆã¾ã›ã‚“ã€‚ ","","1");
       }
-	$use_passwd_flag=1; # ƒpƒXƒ[ƒh—“‚ğo‚·
-	$POSTADDP{'MEMBERPASS'}=qq|©‚±‚±‚Í©“®‚ÅŠÇ—ƒpƒXƒ[ƒh‚ª“ü‚è‚Ü‚·B‚à‚µ‹ó—“‚É‚È‚Á‚Ä‚¢‚½ê‡‚ÍAu<B>ŠÇ—ÒƒpƒXƒ[ƒh</B>v‚ğ“ü‚ê‚Ä‚­‚¾‚³‚¢i ŠÇ—Òê—pƒAƒCƒRƒ“‚ğˆê”Êƒ†[ƒU‚ª–³’fg—p‚µ‚È‚¢‚æ‚¤‚ÉAŠÇ—Ò–{l‚Å‚ ‚é‚±‚Æ‚ğŒµ³‚Éƒ`ƒFƒbƒN‚µ‚Ü‚·j |;
+	$use_passwd_flag=1; # ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰æ¬„ã‚’å‡ºã™
+	$POSTADDP{'MEMBERPASS'}=qq|â†ã“ã“ã¯è‡ªå‹•ã§ç®¡ç†ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ãŒå…¥ã‚Šã¾ã™ã€‚ã‚‚ã—ç©ºæ¬„ã«ãªã£ã¦ã„ãŸå ´åˆã¯ã€ã€Œ<B>ç®¡ç†è€…ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰</B>ã€ã‚’å…¥ã‚Œã¦ãã ã•ã„ï¼ˆ ç®¡ç†è€…å°‚ç”¨ã‚¢ã‚¤ã‚³ãƒ³ã‚’ä¸€èˆ¬ãƒ¦ãƒ¼ã‚¶ãŒç„¡æ–­ä½¿ç”¨ã—ãªã„ã‚ˆã†ã«ã€ç®¡ç†è€…æœ¬äººã§ã‚ã‚‹ã“ã¨ã‚’å³æ­£ã«ãƒã‚§ãƒƒã‚¯ã—ã¾ã™ï¼‰ |;
 	$COOKIE{'entry_passwd'}="$COOKIEAD{'apasswd'}";
-	$amode_done_mes01=" (ŠÇ—Òê—pƒAƒCƒRƒ“‚ğ‘I‚×‚éƒ‚[ƒh) ";
+	$amode_done_mes01=" (ç®¡ç†è€…å°‚ç”¨ã‚¢ã‚¤ã‚³ãƒ³ã‚’é¸ã¹ã‚‹ãƒ¢ãƒ¼ãƒ‰) ";
 
-	# jump_html‚Ì”ò‚Ñæ‚ğw’è
+	# jump_htmlã®é£›ã³å…ˆã‚’æŒ‡å®š
 	$gvar_cgi_add_url="\?page=1&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=icon_admin"; 
 
     }elsif($FORM{'amode'} eq 'select_edit'){
 
-	$amode_done_mes01=" (“à—eC³E•ÒWƒ‚[ƒh)(1ƒy[ƒW$disp_messageŒ) ";
-	$POSTADDP{'MEMBERPASS'}=qq| ©“à—eC³E•ÒW‚ÍAƒCƒ^ƒYƒ‰–h~‚Ì‚½‚ßAŠÇ—Ò–{l‚Å<BR>‚ ‚é‚±‚Æ‚ğŒµ³‚Éƒ`ƒFƒbƒN‚µ‚Ü‚·F‚¨è”‚Å‚·‚ªA‰ïˆõƒpƒX—“‚Éu<B>ŠÇ—ÒƒpƒXƒ[ƒh</B>v‚ğ“ü‚ê‚Ä‚­‚¾‚³‚¢ |;
+	$amode_done_mes01=" (å†…å®¹ä¿®æ­£ãƒ»ç·¨é›†ãƒ¢ãƒ¼ãƒ‰)(1ãƒšãƒ¼ã‚¸$disp_messageä»¶) ";
+	$POSTADDP{'MEMBERPASS'}=qq| â†å†…å®¹ä¿®æ­£ãƒ»ç·¨é›†æ™‚ã¯ã€ã‚¤ã‚¿ã‚ºãƒ©é˜²æ­¢ã®ãŸã‚ã€ç®¡ç†è€…æœ¬äººã§<BR>ã‚ã‚‹ã“ã¨ã‚’å³æ­£ã«ãƒã‚§ãƒƒã‚¯ã—ã¾ã™ï¼šãŠæ‰‹æ•°ã§ã™ãŒã€ä¼šå“¡ãƒ‘ã‚¹æ¬„ã«ã€Œ<B>ç®¡ç†è€…ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰</B>ã€ã‚’å…¥ã‚Œã¦ãã ã•ã„ |;
 
-	# C³‚ÍƒNƒbƒL[‚ÌŒğŠ·‚ğ–h‚®‚½‚ßA‹L‰¯‚µ‚È‚¢B]‚Á‚ÄA•â•‚µ‚È‚¢B
+	# ä¿®æ­£æ™‚ã¯ã‚¯ãƒƒã‚­ãƒ¼ã®äº¤æ›ã‚’é˜²ããŸã‚ã€è¨˜æ†¶ã—ãªã„ã€‚å¾“ã£ã¦ã€è£œåŠ©ã—ãªã„ã€‚
 	$COOKIE{'entry_passwd'}="";
 
-	# C³‚ÍŒµ–§‚Éƒ`ƒFƒbƒNB¶ƒpƒX•K—vBƒ`ƒFƒbƒN‚Íreplace_data“à
+	# ä¿®æ­£ã¯å³å¯†ã«ãƒã‚§ãƒƒã‚¯ã€‚ç”Ÿãƒ‘ã‚¹å¿…è¦ã€‚ãƒã‚§ãƒƒã‚¯ã¯replace_dataå†…
 
     }elsif($FORM{'amode'} eq 'show_ip'){
 
 	if(($FORM{'mode'} eq "keitai_menu")||($FORM{'mode'} eq "disp_admin_check_menu")){
-	    &error(" IP•\\¦\ƒ‚[ƒh‚Ìê‡‚Í‚±‚Ìƒƒjƒ…[‚Í–³Œø‚Å‚·Bˆê“xŠÇ—Òƒ‚[ƒh‚ğI—¹‚µ‚Ä‚­‚¾‚³‚¢  ","","1");
+	    &error(" IPè¡¨\ç¤º\ãƒ¢ãƒ¼ãƒ‰ã®å ´åˆã¯ã“ã®ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã¯ç„¡åŠ¹ã§ã™ã€‚ä¸€åº¦ç®¡ç†è€…ãƒ¢ãƒ¼ãƒ‰ã‚’çµ‚äº†ã—ã¦ãã ã•ã„  ","","1");
 	}
-	$no_disp_RH_in_HTML_sorce=-1;	# HTMLƒ\[ƒX‚ÉƒŠƒ‚ƒz‚ğ•\¦‚µ‚È‚¢
-	$use_ip_privacy_filter=0;	# ƒvƒ‰ƒCƒoƒV[•ÛŒì‚Ì‚½‚ßIPƒAƒhƒŒƒX‚Ìˆê•”‚ğ•š‚¹š‚É
-	$amode_done_mes01=" (“Še‹L–<a href=http://www.mse.co.jp/ip_domain/ target=_blank>IPŠm”F</a>ƒ‚[ƒh) ";
+	$no_disp_RH_in_HTML_sorce=-1;	# HTMLã‚½ãƒ¼ã‚¹ã«ãƒªãƒ¢ãƒ›ã‚’è¡¨ç¤ºã—ãªã„
+	$use_ip_privacy_filter=0;	# ãƒ—ãƒ©ã‚¤ãƒã‚·ãƒ¼ä¿è­·ã®ãŸã‚IPã‚¢ãƒ‰ãƒ¬ã‚¹ã®ä¸€éƒ¨ã‚’ä¼ã›å­—ã«
+	$amode_done_mes01=" (æŠ•ç¨¿è¨˜äº‹<a href=http://www.mse.co.jp/ip_domain/ target=_blank>IPç¢ºèª</a>ãƒ¢ãƒ¼ãƒ‰) ";
     }elsif($FORM{'amode'} eq 'post_webparts'){
 
-	# ‰Šú’l‚Ìã‘‚«
-	$CHECK{'name'}		=1;	# –¼‘O iƒfƒtƒHƒ‹ƒg1j
-	$CHECK{'email'}		=0;	# emailiƒfƒtƒHƒ‹ƒg1j
-	$CHECK{'subject'}	=0;	# ‘è–¼ iƒfƒtƒHƒ‹ƒg0j
-	$CHECK{'body'}		=0;	# –{•¶ iƒfƒtƒHƒ‹ƒg0j
-	$CHECK{'img'}		=1;	# “Y•t‰æ‘œiƒfƒtƒHƒ‹ƒg0j
-	$CHECK{'rmkey'}		=0;	# íœƒL[iƒfƒtƒHƒ‹ƒg0j# ©Œ»İ–¢g—p
-	$CHECK_E{'img'}		=qq|ƒGƒ‰[B“Y•t‰æ‘œ‚Í•K{‚Å‚·B<BR>|;
+	# åˆæœŸå€¤ã®ä¸Šæ›¸ã
+	$CHECK{'name'}		=1;	# åå‰ ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ1ï¼‰
+	$CHECK{'email'}		=0;	# emailï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ1ï¼‰
+	$CHECK{'subject'}	=0;	# é¡Œå ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+	$CHECK{'body'}		=0;	# æœ¬æ–‡ ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+	$CHECK{'img'}		=1;	# æ·»ä»˜ç”»åƒï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+	$CHECK{'rmkey'}		=0;	# å‰Šé™¤ã‚­ãƒ¼ï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰# â†ç¾åœ¨æœªä½¿ç”¨
+	$CHECK_E{'img'}		=qq|ã‚¨ãƒ©ãƒ¼ã€‚æ·»ä»˜ç”»åƒã¯å¿…é ˆã§ã™ã€‚<BR>|;
 	$CHECK{'optA'}		=0;
 	$CHECK{'optB'}		=0;
 	$CHECK{'optC'}		=0;
 	$CHECK{'optD'}		=0;
 
-	$list_max_message=309;			# 3x70 ƒŒƒCƒAƒEƒg’ö“x
-	$list_max_message=$list_max_message-8;	# bitŒë·C³
+	$list_max_message=309;			# 3x70 ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆç¨‹åº¦
+	$list_max_message=$list_max_message-8;	# bitèª¤å·®ä¿®æ­£
 	$max_message=int($list_max_message/2);#
 	$limit_wp_max_message=$max_message;#
-	$allow_other_multimedia_data=0;	# ƒZƒLƒ…ƒŠƒeƒB‘Îô
+	$allow_other_multimedia_data=0;	# ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£å¯¾ç­–
 
-	if($FORM{'prebbsaction'} eq 'edit_form'){# ’uŠ·ƒ‚[ƒh‚Ìê‡
-		$CHECK{'img'}		=0;	# “Y•t‰æ‘œiƒfƒtƒHƒ‹ƒg0j
-		&replace_data("$FORM{'target'}","$PM{'icon_data_file'}");# C³ˆ—
+	if($FORM{'prebbsaction'} eq 'edit_form'){# ç½®æ›ãƒ¢ãƒ¼ãƒ‰ã®å ´åˆ
+		$CHECK{'img'}		=0;	# æ·»ä»˜ç”»åƒï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+		&replace_data("$FORM{'target'}","$PM{'icon_data_file'}");# ä¿®æ­£å‡¦ç†
 	}else{
-		&check_double_post("$FORM{'email'}","2","1");# 2d“Šeƒ`ƒFƒbƒN
-		&post_data("$PM{'icon_data_file'}");	# “Šeˆ—
+		&check_double_post("$FORM{'email'}","2","1");# 2é‡æŠ•ç¨¿ãƒã‚§ãƒƒã‚¯
+		&post_data("$PM{'icon_data_file'}");	# æŠ•ç¨¿å‡¦ç†
 	}
-	# jump_html‚Ì”ò‚Ñæ‚ğw’è
+	# jump_htmlã®é£›ã³å…ˆã‚’æŒ‡å®š
 	$gvar_cgi_add_url="\?page=1&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=disp_webparts"; 
-	&jump_html;				# ƒpƒ‰ƒ[ƒ^ƒNƒŠƒA—p‚g‚s‚l‚k
-	exit;					# I—¹
+	&jump_html;				# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚¯ãƒªã‚¢ç”¨ï¼¨ï¼´ï¼­ï¼¬
+	exit;					# çµ‚äº†
 
     }elsif($FORM{'amode'} eq 'remove_webparts'){
 
 	$file		= "$PM{'icon_data_file'}";
 
-	# jump_html‚Ì”ò‚Ñæ‚ğw’è
+	# jump_htmlã®é£›ã³å…ˆã‚’æŒ‡å®š
 	$gvar_cgi_add_url="\?page=1&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=disp_webparts"; 
 
     }elsif($FORM{'amode'} eq 'icon_sort_up'){
 
-	# jump_html‚Ì”ò‚Ñæ‚ğw’è
+	# jump_htmlã®é£›ã³å…ˆã‚’æŒ‡å®š
 	$gvar_cgi_add_url="\?page=1&p1=$FORM{'p1'}&p2=$FORM{'p2'}&amode=disp_webparts#$FORM{'target'}"; 
 
 	# target_uid,inspoint_uid,pre_or_after,target_logname
 	&sort_kiji("$FORM{'target'}","$FORM{'insuid'}","pre","$PM{'icon_data_file'}");
 
-	&jump_html;				# ƒpƒ‰ƒ[ƒ^ƒNƒŠƒA—p‚g‚s‚l‚k
-	exit;					# I—¹
+	&jump_html;				# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ã‚¯ãƒªã‚¢ç”¨ï¼¨ï¼´ï¼­ï¼¬
+	exit;					# çµ‚äº†
 
     }elsif($FORM{'amode'} eq 'icon_edit'){
 
@@ -8128,25 +8132,25 @@ sub amode_done{
 
     }elsif($FORM{'amode'} eq 'disp_webparts'){
 
-	$amode_done_mes01=" ƒp[ƒciƒAƒCƒRƒ“E”wŒi‰æ‘œ“™jŠÇ—ƒ‚[ƒh  ";
-	$FORM{'amode'} 	= "remove_webparts";	# ƒtƒH[ƒ€ÀsŒã‚ÌƒAƒNƒVƒ‡ƒ“‚ğw’è
+	$amode_done_mes01=" ãƒ‘ãƒ¼ãƒ„ï¼ˆã‚¢ã‚¤ã‚³ãƒ³ãƒ»èƒŒæ™¯ç”»åƒç­‰ï¼‰ç®¡ç†ãƒ¢ãƒ¼ãƒ‰  ";
+	$FORM{'amode'} 	= "remove_webparts";	# ãƒ•ã‚©ãƒ¼ãƒ å®Ÿè¡Œå¾Œã®ã‚¢ã‚¯ã‚·ãƒ§ãƒ³ã‚’æŒ‡å®š
 	$show_img_on_board=1;
 	$on_board_img_size=3;
 	$CIMGSIZE{'smooze_mode'}=0;
 	$user_selected_view_mode=0;
 	$PM{'use_rep'} 		=0;
 	$PM{'res_go_up'} 	=0;
-	# 2013.01.10 C³
+	# 2013.01.10 ä¿®æ­£
 	$disp_message 		=301;
-	$CHECK{'img'}		=1;	# “Y•t‰æ‘œiƒfƒtƒHƒ‹ƒg0j
-	$PM{'INS_POINT_TOP02'}  =qq|[[[[ŠÇ—Ò‚¾‚¯‚ª“ŠeEíœ‚Ì‚Å‚«‚é‰æ‘œƒp[ƒc’u‚«ê‚Å‚·[[[</center><BR><TABLE border=1 bgcolor=white><TR><TD>•\\‚Ìimgboard‚Åg‚¤ƒAƒCƒRƒ“E”wŒi‰æ‘œ“™‚Ìi”¼‰i‘±“I‚Èj’u‚«ê‚Æ‚µ‚Ä‚²—˜—p‚¢‚½‚¾‚¯‚Ü‚·B
-<LI>ƒp[ƒc‚Í•\\‚Ìimgboard‚Ì‰æ‘œƒAƒbƒvƒ[ƒhæ($img_dir)‚Æ“¯‚¶ƒtƒHƒ‹ƒ_‚É•Û‘¶‚³‚ê‚Ü‚·‚ªA<BR>
-•\\‚Ìimgboard‚Ì‹L–‚Æ‚Í•ÊŠÇ—‚É‚È‚è‚Ü‚·i•\\‚Ì‹L–‚Æ–³ŠÖŒW‚É”¼‰i‘±“I‚É•Û‘¶‚³‚ê‚Ü‚·jB
-<LI>ƒp[ƒc‚ÍÅ‘å150ŒÂ‚Ü‚ÅA‚±‚±‚É•Û‘¶‚Å‚«‚Ü‚·
-<LI>ƒp[ƒc‚Ìíœ‚Í•K‚¸‚±‚Ì‰æ–Ê‚©‚çs‚Á‚Ä‚­‚¾‚³‚¢B
-<LI>ƒ†[ƒU‚ªŠù‚ÉƒAƒCƒRƒ“‚Æ‚µ‚Äg‚Á‚Ä‚¢‚é‰æ‘œ‚ğ•s—pˆÓ‚Éíœ‚·‚é‚ÆA‰ß‹‚Ì‹L–‚É•t‚¢‚Ä‚¢‚éƒAƒCƒRƒ“‚ªuXó‘Ôv‚É‚È‚é‚Ì‚ÅƒAƒCƒRƒ“‚ğíœ‚·‚éê‡‚Í‚»‚Ì“_‚É’ˆÓ‚µ‚Ä‚­‚¾‚³‚¢B
-<LI>‚±‚±‚ÅƒAƒCƒRƒ“‰æ‘œ‚Æ‚µ‚Ä•ª—Ş‚µ‚Ä“o˜^‚µ‚½‰æ‘œ‚ÍAƒAƒCƒRƒ“•t‚«Œf¦”Â‰»—pŠO•”İ’èƒtƒ@ƒCƒ‹‚ğg‚¤‚ÆA•\\‚Ìimgboard‚É‚¨‚¢‚ÄƒAƒCƒRƒ“‘I‘ğƒƒjƒ…[‚É©“®ƒ[ƒh‚³‚ê‚Ü‚·B
-<LI>•\\‚Ìimgboard‚Ì”wŒi‰æ‘œ“™‚Æ‚µ‚Äg‚¤ê‡‚ÍAƒp[ƒc‚ÌURL‚ğˆÈ‰º‚ÅŠm”F‚µ‚Ä‚Ç‚±‚©‚Éƒƒ‚‚µA“K‹XHTML‚ÉURL‚ğ–„‚ß‚ñ‚Åg‚Á‚Ä‚­‚¾‚³‚¢i‚·‚¢‚Ü‚¹‚ñB”wŒi‰æ‘œ‚Íè“®‚Å‚·jB
+	$CHECK{'img'}		=1;	# æ·»ä»˜ç”»åƒï¼ˆãƒ‡ãƒ•ã‚©ãƒ«ãƒˆ0ï¼‰
+	$PM{'INS_POINT_TOP02'}  =qq|ãƒ¼ãƒ¼ãƒ¼ãƒ¼ç®¡ç†è€…ã ã‘ãŒæŠ•ç¨¿ãƒ»å‰Šé™¤ã®ã§ãã‚‹ç”»åƒãƒ‘ãƒ¼ãƒ„ç½®ãå ´ã§ã™ãƒ¼ãƒ¼ãƒ¼</center><BR><TABLE border=1 bgcolor=white><TR><TD>è¡¨\ã®imgboardã§ä½¿ã†ã‚¢ã‚¤ã‚³ãƒ³ãƒ»èƒŒæ™¯ç”»åƒç­‰ã®ï¼ˆåŠæ°¸ç¶šçš„ãªï¼‰ç½®ãå ´ã¨ã—ã¦ã”åˆ©ç”¨ã„ãŸã ã‘ã¾ã™ã€‚
+<LI>ãƒ‘ãƒ¼ãƒ„ã¯è¡¨\ã®imgboardã®ç”»åƒã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰å…ˆ($img_dir)ã¨åŒã˜ãƒ•ã‚©ãƒ«ãƒ€ã«ä¿å­˜ã•ã‚Œã¾ã™ãŒã€<BR>
+è¡¨\ã®imgboardã®è¨˜äº‹ã¨ã¯åˆ¥ç®¡ç†ã«ãªã‚Šã¾ã™ï¼ˆè¡¨\ã®è¨˜äº‹ã¨ç„¡é–¢ä¿‚ã«åŠæ°¸ç¶šçš„ã«ä¿å­˜ã•ã‚Œã¾ã™ï¼‰ã€‚
+<LI>ãƒ‘ãƒ¼ãƒ„ã¯æœ€å¤§150å€‹ã¾ã§ã€ã“ã“ã«ä¿å­˜ã§ãã¾ã™
+<LI>ãƒ‘ãƒ¼ãƒ„ã®å‰Šé™¤ã¯å¿…ãšã“ã®ç”»é¢ã‹ã‚‰è¡Œã£ã¦ãã ã•ã„ã€‚
+<LI>ãƒ¦ãƒ¼ã‚¶ãŒæ—¢ã«ã‚¢ã‚¤ã‚³ãƒ³ã¨ã—ã¦ä½¿ã£ã¦ã„ã‚‹ç”»åƒã‚’ä¸ç”¨æ„ã«å‰Šé™¤ã™ã‚‹ã¨ã€éå»ã®è¨˜äº‹ã«ä»˜ã„ã¦ã„ã‚‹ã‚¢ã‚¤ã‚³ãƒ³ãŒã€ŒXçŠ¶æ…‹ã€ã«ãªã‚‹ã®ã§ã‚¢ã‚¤ã‚³ãƒ³ã‚’å‰Šé™¤ã™ã‚‹å ´åˆã¯ãã®ç‚¹ã«æ³¨æ„ã—ã¦ãã ã•ã„ã€‚
+<LI>ã“ã“ã§ã‚¢ã‚¤ã‚³ãƒ³ç”»åƒã¨ã—ã¦åˆ†é¡ã—ã¦ç™»éŒ²ã—ãŸç”»åƒã¯ã€ã‚¢ã‚¤ã‚³ãƒ³ä»˜ãæ²ç¤ºæ¿åŒ–ç”¨å¤–éƒ¨è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ã‚’ä½¿ã†ã¨ã€è¡¨\ã®imgboardã«ãŠã„ã¦ã‚¢ã‚¤ã‚³ãƒ³é¸æŠãƒ¡ãƒ‹ãƒ¥ãƒ¼ã«è‡ªå‹•ãƒ­ãƒ¼ãƒ‰ã•ã‚Œã¾ã™ã€‚
+<LI>è¡¨\ã®imgboardã®èƒŒæ™¯ç”»åƒç­‰ã¨ã—ã¦ä½¿ã†å ´åˆã¯ã€ãƒ‘ãƒ¼ãƒ„ã®URLã‚’ä»¥ä¸‹ã§ç¢ºèªã—ã¦ã©ã“ã‹ã«ãƒ¡ãƒ¢ã—ã€é©å®œHTMLã«URLã‚’åŸ‹ã‚è¾¼ã‚“ã§ä½¿ã£ã¦ãã ã•ã„ï¼ˆã™ã„ã¾ã›ã‚“ã€‚èƒŒæ™¯ç”»åƒã¯æ‰‹å‹•ã§ã™ï¼‰ã€‚
 </TD></TR></TABLE><CENTER>|;
 
 #
@@ -8156,32 +8160,32 @@ sub amode_done{
 
 	print "Content-type: text/html"."$Netscape4x_ch_set"."\n\n";
 	&top_html;
-	&output_wp_upload_form;			# “ü—ÍƒtƒH[ƒ€‚ğ•\¦
-	&output_html("$PM{'icon_data_file'}");		# Œf¦”Â‚ğ•\¦
+	&output_wp_upload_form;			# å…¥åŠ›ãƒ•ã‚©ãƒ¼ãƒ ã‚’è¡¨ç¤º
+	&output_html("$PM{'icon_data_file'}");		# æ²ç¤ºæ¿ã‚’è¡¨ç¤º
 	exit;
 
     }elsif($FORM{'amode'} eq 'change_set'){
 	if(&check_passwd("$FORM{'apasswd'}","$admin_passwd","0")!=1){
-	    &error(" ƒpƒXƒ[ƒhƒGƒ‰[ ","","1");
+	    &error(" ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚¨ãƒ©ãƒ¼ ","","1");
 	}
     }else{
 	$amode_done_mes01="";
     }
 }
 #===================================================#
-#     <‚g‚s‚l‚k--ŠÇ—ƒƒjƒ…[(‹¤’Êƒx[ƒX)>          #
+#     <ï¼¨ï¼´ï¼­ï¼¬--ç®¡ç†ãƒ¡ãƒ‹ãƒ¥ãƒ¼(å…±é€šãƒ™ãƒ¼ã‚¹)>          #
 #===================================================#
 #
 #
 sub output_admin_base_HTML{
 
- local($tmp_tm)		=$_[0]; # ƒ^ƒCƒgƒ‹
- local($tmp_mes01)	=$_[1]; # ƒƒbƒZ[ƒW‚P
- local($tmp_mes02)	=$_[2]; # ƒƒbƒZ[ƒW‚Q
- local($tmp_exit_f)	=$_[3]; # I—¹ƒ{ƒ^ƒ“‚ğo‚·
- local($tmp_exit_mes)	=$_[4]; # I—¹ƒ{ƒ^ƒ“‚Ìƒ^ƒCƒgƒ‹
- local($tmp_no_bodyf_f)	=$_[5]; # ‰º•”‚Ì</BODY>‚ğ“ü‚ê‚È‚¢‚Æ‚«‚Í1
- local($tmp_send_pass)	=$_[6]; # ƒpƒXƒ[ƒh‚ğƒJƒXƒP[ƒh‚·‚é‚Í1
+ local($tmp_tm)		=$_[0]; # ã‚¿ã‚¤ãƒˆãƒ«
+ local($tmp_mes01)	=$_[1]; # ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ï¼‘
+ local($tmp_mes02)	=$_[2]; # ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ï¼’
+ local($tmp_exit_f)	=$_[3]; # çµ‚äº†ãƒœã‚¿ãƒ³ã‚’å‡ºã™
+ local($tmp_exit_mes)	=$_[4]; # çµ‚äº†ãƒœã‚¿ãƒ³ã®ã‚¿ã‚¤ãƒˆãƒ«
+ local($tmp_no_bodyf_f)	=$_[5]; # ä¸‹éƒ¨ã®</BODY>ã‚’å…¥ã‚Œãªã„ã¨ãã¯1
+ local($tmp_send_pass)	=$_[6]; # ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’ã‚«ã‚¹ã‚±ãƒ¼ãƒ‰ã™ã‚‹æ™‚ã¯1
 
  local($mes_p2);
 
@@ -8194,7 +8198,7 @@ print<<HTML_END;
 <HEAD>
 <meta name="viewport" content="width=480">
 
-<!-- ƒXƒ^ƒCƒ‹‚ÆJavascript‚Ítop_css_and_jscript_html‚Å’è‹`‚µ‚Ä‚­‚¾‚³‚¢ -->
+<!-- ã‚¹ã‚¿ã‚¤ãƒ«ã¨Javascriptã¯top_css_and_jscript_htmlã§å®šç¾©ã—ã¦ãã ã•ã„ -->
 HTML_END
 
 #&top_css_and_jscript_html;
@@ -8205,7 +8209,7 @@ print<<HTML_END;
 <TABLE bgcolor=blue width="99%">
 <TR>
  <TD>
-  <B><font color=white> ‰æ‘œUploadŒf¦”Â</font></B>
+  <B><font color=white> ç”»åƒUploadæ²ç¤ºæ¿</font></B>
  </TD>
 </TR>
 </TABLE>
@@ -8231,7 +8235,7 @@ print<<HTML_END;
 <INPUT TYPE="HIDDEN" NAME="p1" VALUE="$FORM{'p1'}">
 <INPUT TYPE="HIDDEN" NAME="p2" VALUE="$FORM{'p2'}">
 $mes_p2
-<INPUT ID=btnAE1 TYPE=SUBMIT VALUE="$tmp_exit_mes I—¹" $output_button_px>
+<INPUT ID=btnAE1 TYPE=SUBMIT VALUE="$tmp_exit_mes çµ‚äº†" $output_button_px>
 </FORM>
 </CENTER>
 HTML_END
@@ -8244,15 +8248,15 @@ print<<HTML_END;
 HTML_END
 }
 
-undef $output_admin_block01_HTML; # ‰Šú‰»
+undef $output_admin_block01_HTML; # åˆæœŸåŒ–
 
 }
 #
 #===============================================#
-#     <‚g‚s‚l‚k--ŠÇ—ƒƒjƒ…[(ƒ[ƒhŒŸõ)>      #
+#     <ï¼¨ï¼´ï¼­ï¼¬--ç®¡ç†ãƒ¡ãƒ‹ãƒ¥ãƒ¼(ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢)>      #
 #===============================================#
 #
-#  ŠÇ—ƒƒjƒ…[(ƒ[ƒhŒŸõƒƒjƒ…[)—p‚Ì‚g‚s‚l‚k‚Å‚·D
+#  ç®¡ç†ãƒ¡ãƒ‹ãƒ¥ãƒ¼(ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢ãƒ¡ãƒ‹ãƒ¥ãƒ¼)ç”¨ã®ï¼¨ï¼´ï¼­ï¼¬ã§ã™ï¼
 #
 sub output_search_menu_HTML{
 
@@ -8279,14 +8283,14 @@ $mes_p2<INPUT TYPE="HIDDEN" NAME="p1" VALUE="$FORM{'p1'}">
 <TR>
 <TD><INPUT TYPE=TEXT SIZE=25 NAME="SearchWords" $output_button_px MAXLENGTH=40 VALUE="$FORM{'SearchWords'}">
 <SELECT NAME="MatchMode" $output_button_px>
-<OPTION VALUE="AND">AND ŒŸõ
-<OPTION VALUE="OR" $mes_p1>OR ŒŸõ
+<OPTION VALUE="AND">AND æ¤œç´¢
+<OPTION VALUE="OR" $mes_p1>OR æ¤œç´¢
 </SELECT>
 </TD>
 </TR>
 <TR>
 <TD>
-<INPUT ID=btnSS1 TYPE=SUBMIT VALUE="ŒŸõÀs" $output_button_px>
+<INPUT ID=btnSS1 TYPE=SUBMIT VALUE="æ¤œç´¢å®Ÿè¡Œ" $output_button_px>
 </TD>
 </TR>
 </TABLE>
@@ -8295,7 +8299,7 @@ $mes_p2<INPUT TYPE="HIDDEN" NAME="p1" VALUE="$FORM{'p1'}">
 </UL>
 </FORM>|;
 
-&output_admin_base_HTML(" ƒ[ƒhŒŸõ "," ‹L–‚Ì‘S•¶ŒŸõ‚ğs‚¢‚Ü‚·B•¡‡‚Ìƒ[ƒh‚ğ“ü—Í‚·‚éê‡‚Í”¼ŠpƒXƒy[ƒX‚ÅŠe’PŒê‚ğ‹æØ‚Á‚Ä“ü—Í‚µ‚Ä‚­‚¾‚³‚¢ ","","1"," ƒ[ƒhŒŸõ ","1","0");
+&output_admin_base_HTML(" ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢ "," è¨˜äº‹ã®å…¨æ–‡æ¤œç´¢ã‚’è¡Œã„ã¾ã™ã€‚è¤‡åˆã®ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥åŠ›ã™ã‚‹å ´åˆã¯åŠè§’ã‚¹ãƒšãƒ¼ã‚¹ã§å„å˜èªã‚’åŒºåˆ‡ã£ã¦å…¥åŠ›ã—ã¦ãã ã•ã„ ","","1"," ãƒ¯ãƒ¼ãƒ‰æ¤œç´¢ ","1","0");
 
 }
 #
@@ -8307,16 +8311,16 @@ HTML_END
 
 }
 #=====================================#
-#     <‚g‚s‚l‚k--ŠÇ—ÒŠm”F>          #
+#     <ï¼¨ï¼´ï¼­ï¼¬--ç®¡ç†è€…ç¢ºèª>          #
 #=====================================#
 #
-#  ŠÇ—ÒŠm”F—p‚Ì‚g‚s‚l‚k‚Å‚·D
+#  ç®¡ç†è€…ç¢ºèªç”¨ã®ï¼¨ï¼´ï¼­ï¼¬ã§ã™ï¼
 #
 sub output_admin_check_HTML{
 
 $output_admin_block01_HTML=qq|<CENTER>
 <FORM ACTION="$cgi_name" METHOD="POST" NAME="admincheck">
-ŠÇ—ÒƒpƒXƒ[ƒh\*<BR>
+ç®¡ç†è€…ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰\*<BR>
 <INPUT TYPE="password" NAME="apasswd" $output_button_px SIZE="10" VALUE="$COOKIE{'apasswd'}">
 <INPUT TYPE="hidden" NAME="mode" VALUE="disp_admin_menu">
 <INPUT TYPE="hidden" NAME="amode" VALUE="$FORM{'amode'}">
@@ -8327,27 +8331,27 @@ $output_admin_block01_HTML=qq|<CENTER>
 </FORM>
 </CENTER><P>
 <UL><font size=-1 color=gray>
-–ŠÇ—‚ª‚Å‚«‚é‚Ì‚ÍAŠÇ—Ò‚Ì‚İ‚Å‚·<BR>
-–‚±‚êˆÈ~‚Ìƒƒjƒ…[‚ÍƒNƒbƒL[•K{‚Å‚·BƒNƒbƒL[‚ğ—LŒø‚É‚µ‚Ä‚­‚¾‚³‚¢<BR>
-–<font color=red>‹L–‚Ìíœ‹@\”\\‚ÍAŠÇ—ƒƒjƒ…[‚É‚Í‚ ‚è‚Ü‚¹‚ñB<BR>Œf¦”Â‚©‚ç’¼Úíœ‚Å‚«‚Ü‚·‚Ì‚ÅAŒf¦”Â‰º•”‚Ìà–¾‚ğ‚¨“Ç‚İ‚­‚¾‚³‚¢</font><BR>
+ï¼Šç®¡ç†ãŒã§ãã‚‹ã®ã¯ã€ç®¡ç†è€…ã®ã¿ã§ã™<BR>
+ï¼Šã“ã‚Œä»¥é™ã®ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã¯ã‚¯ãƒƒã‚­ãƒ¼å¿…é ˆã§ã™ã€‚ã‚¯ãƒƒã‚­ãƒ¼ã‚’æœ‰åŠ¹ã«ã—ã¦ãã ã•ã„<BR>
+ï¼Š<font color=red>è¨˜äº‹ã®å‰Šé™¤æ©Ÿ\èƒ½\ã¯ã€ç®¡ç†ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã«ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚<BR>æ²ç¤ºæ¿ã‹ã‚‰ç›´æ¥å‰Šé™¤ã§ãã¾ã™ã®ã§ã€æ²ç¤ºæ¿ä¸‹éƒ¨ã®èª¬æ˜ã‚’ãŠèª­ã¿ãã ã•ã„</font><BR>
 </font>
 </UL><P><P>|;
 
-&output_admin_base_HTML(" -ŠÇ—ÒŠm”F- "," ŠÇ—ÒƒpƒXƒ[ƒh‚ğ“ü‚ê‚Ä‰º‚³‚¢ ","","1"," ŠÇ—ÒŠm”F ","");
+&output_admin_base_HTML(" -ç®¡ç†è€…ç¢ºèª- "," ç®¡ç†è€…ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰ã‚’å…¥ã‚Œã¦ä¸‹ã•ã„ ","","1"," ç®¡ç†è€…ç¢ºèª ","");
 
 }
 #
 #=====================================#
-#     <‚g‚s‚l‚k--ŠÇ—ƒƒjƒ…[>        #
+#     <ï¼¨ï¼´ï¼­ï¼¬--ç®¡ç†ãƒ¡ãƒ‹ãƒ¥ãƒ¼>        #
 #=====================================#
 #
-#  ŠÇ—ƒƒjƒ…[—p‚Ì‚g‚s‚l‚k‚Å‚·DƒJƒXƒ^ƒ}ƒCƒY‚Ì•K—v‚Í‚ ‚è‚Ü‚¹‚ñB
+#  ç®¡ç†ãƒ¡ãƒ‹ãƒ¥ãƒ¼ç”¨ã®ï¼¨ï¼´ï¼­ï¼¬ã§ã™ï¼ã‚«ã‚¹ã‚¿ãƒã‚¤ã‚ºã®å¿…è¦ã¯ã‚ã‚Šã¾ã›ã‚“ã€‚
 #
 sub output_admin_menu_HTML{
 
 	$FORM{'apasswd'}=&make_pass($FORM{'apasswd'});
 
-# 2002.05.18 add for ƒgƒNƒgƒNƒ†[ƒU
+# 2002.05.18 add for ãƒˆã‚¯ãƒˆã‚¯ãƒ¦ãƒ¼ã‚¶
 	local($mes_01);
 	if($SERVER_NAME=~ /tok2\.com/){
 	  $mes_01=qq|<META http-equiv="Set-Cookie" content="$tok2_cookie">|;
@@ -8364,28 +8368,28 @@ $mes_01
 <TABLE bgcolor=blue width="99%">
 <TR>
 <TD>
-<B><font color=white> ‰æ‘œUploadŒf¦”Â</font></B>
+<B><font color=white> ç”»åƒUploadæ²ç¤ºæ¿</font></B>
 </TD>
 </TR>
 </TABLE>
 
 <P>
 <UL>
-ŠÇ—Òƒƒjƒ…[‚Å‚·<BR>
+ç®¡ç†è€…ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã§ã™<BR>
 </UL>
 <P>
 
 <CENTER>
 <FORM ACTION="$cgi_name" METHOD="POST" NAME="admincheck">
-ƒƒjƒ…[‚ğ‘I‘ğ‚µ‚ÄAOK‚ğ‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢\*<BR>
+ãƒ¡ãƒ‹ãƒ¥ãƒ¼ã‚’é¸æŠã—ã¦ã€OKã‚’æŠ¼ã—ã¦ãã ã•ã„\*<BR>
 <P>
 <INPUT TYPE="HIDDEN" NAME="p1" VALUE="$FORM{'p1'}">
 <INPUT TYPE="HIDDEN" NAME="p2" VALUE="$FORM{'p2'}">
 <SELECT name=amode>
-<OPTION value="icon_admin">ŠÇ—Òê—p‚ÌƒAƒCƒRƒ“‚ğg‚Á‚ÄAV‹L–‚ğ“Še‚·‚é
-<OPTION value="select_edit">Šù‘¶‚Ì‹L–‚ğ•ÒWEC³‚·‚éi•¶Í‚Ì‚İ‰Âj
-<OPTION value="show_ip">‹L–“ŠeÒ‚Ì‚h‚oî•ñ‚ğ’²‚×‚é
-<OPTION value="disp_webparts">Webƒp[ƒciƒAƒCƒRƒ“E”wŒi‰æ‘œjŠÇ—‰æ–Ê‚ğo‚·
+<OPTION value="icon_admin">ç®¡ç†è€…å°‚ç”¨ã®ã‚¢ã‚¤ã‚³ãƒ³ã‚’ä½¿ã£ã¦ã€æ–°è¨˜äº‹ã‚’æŠ•ç¨¿ã™ã‚‹
+<OPTION value="select_edit">æ—¢å­˜ã®è¨˜äº‹ã‚’ç·¨é›†ãƒ»ä¿®æ­£ã™ã‚‹ï¼ˆæ–‡ç« ã®ã¿å¯ï¼‰
+<OPTION value="show_ip">è¨˜äº‹æŠ•ç¨¿è€…ã®ï¼©ï¼°æƒ…å ±ã‚’èª¿ã¹ã‚‹
+<OPTION value="disp_webparts">Webãƒ‘ãƒ¼ãƒ„ï¼ˆã‚¢ã‚¤ã‚³ãƒ³ãƒ»èƒŒæ™¯ç”»åƒï¼‰ç®¡ç†ç”»é¢ã‚’å‡ºã™
 </SELECT>
 <BR>
 <INPUT TYPE="submit" $output_button_px VALUE=" OK ">
@@ -8396,21 +8400,21 @@ $mes_01
 <BR>
 <BR>
 <BR>
-[<a href="$cgi_name?page=$FORM{'page'}">–ß‚é</a>]<BR>
+[<a href="$cgi_name?page=$FORM{'page'}">æˆ»ã‚‹</a>]<BR>
 </CENTER>
 
-twitteriƒƒOƒCƒ“ŒãƒNƒŠƒbƒN‚µ‚Ä‚­‚¾‚³‚¢j<BR>
-<a href="http://twitter.com/search?q=%23imgboard" target="_blank">‰æ‘œŒf¦”Â(ˆê”ÊŒü‚¯)î•ñ‚ğtwitter‚ÅŒŸõ(#imgboard)</a><BR>
+twitterï¼ˆãƒ­ã‚°ã‚¤ãƒ³å¾Œã‚¯ãƒªãƒƒã‚¯ã—ã¦ãã ã•ã„ï¼‰<BR>
+<a href="http://twitter.com/search?q=%23imgboard" target="_blank">ç”»åƒæ²ç¤ºæ¿(ä¸€èˆ¬å‘ã‘)æƒ…å ±ã‚’twitterã§æ¤œç´¢(#imgboard)</a><BR>
 <BR>
 
-‚»‚Ì‘¼<BR>
-¨<a href="http://www.big.or.jp/~talk/t-club/soft/faq01/bbs.cgi">“Á•ñCGI‚ÌFAQ‚ğŒŸõ(‘S•¶ŒŸõ‰Â\”\\)</a><BR>
-¨<a href="http://www.big.or.jp/~talk/t-club/soft/mini_r6/index.cgi#hist">R6‚ÌXVî•ñ‚ğƒ`ƒFƒbƒN</a><BR>
-¨<a href="http://www.big.or.jp/~talk/t-club/soft/mini_r6/index.cgi#hist">“Á•ñ‚©‚ç‚Ì‚¨’m‚ç‚¹</a><BR>
-¨<a href="http://www.big.or.jp/~talk/t-club/soft/room01/imgboard_ftp.cgi">ÅV‚ÌŠO•”İ’èƒtƒ@ƒCƒ‹‚ğ’T‚·</a><BR>
+ãã®ä»–<BR>
+â†’<a href="http://www.big.or.jp/~talk/t-club/soft/faq01/bbs.cgi">ç‰¹å ±CGIã®FAQã‚’æ¤œç´¢(å…¨æ–‡æ¤œç´¢å¯\èƒ½\)</a><BR>
+â†’<a href="http://www.big.or.jp/~talk/t-club/soft/mini_r6/index.cgi#hist">R6ã®æ›´æ–°æƒ…å ±ã‚’ãƒã‚§ãƒƒã‚¯</a><BR>
+â†’<a href="http://www.big.or.jp/~talk/t-club/soft/mini_r6/index.cgi#hist">ç‰¹å ±ã‹ã‚‰ã®ãŠçŸ¥ã‚‰ã›</a><BR>
+â†’<a href="http://www.big.or.jp/~talk/t-club/soft/room01/imgboard_ftp.cgi">æœ€æ–°ã®å¤–éƒ¨è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«ã‚’æ¢ã™</a><BR>
 <BR>
-‘¼‚Ì“Á•ñ»CGI‚ÌĞ‰î<BR>
-[<a href="http://www.big.or.jp/~talk/t-club/soft/mini_2013/imgboard.cgi">‰æ‘œ©“®ƒŠƒTƒCƒYAƒKƒ‰ƒpƒSƒXŒg‘Ñƒf[ƒ^‘Î‰AƒIƒŠƒWƒiƒ‹–¼‚Å•Û‘¶EHTMLƒLƒƒƒbƒVƒ…ì¬Aimgboard 2015‚ÌĞ‰î</a>]<BR>
+ä»–ã®ç‰¹å ±è£½CGIã®ç´¹ä»‹<BR>
+[<a href="http://www.big.or.jp/~talk/t-club/soft/mini_2013/imgboard.cgi">ç”»åƒè‡ªå‹•ãƒªã‚µã‚¤ã‚ºã€ã‚¬ãƒ©ãƒ‘ã‚´ã‚¹æºå¸¯ãƒ‡ãƒ¼ã‚¿å¯¾å¿œã€ã‚ªãƒªã‚¸ãƒŠãƒ«åã§ä¿å­˜ãƒ»HTMLã‚­ãƒ£ãƒƒã‚·ãƒ¥ä½œæˆã€imgboard 2015ã®ç´¹ä»‹</a>]<BR>
 
 </BODY>
 </HTML>
@@ -8418,14 +8422,14 @@ HTML_END
 }
 #
 #=======================================================#
-#     <‚g‚s‚l‚k--Webƒp[ƒc“Še—pƒtƒH[ƒ€>               #
+#     <ï¼¨ï¼´ï¼­ï¼¬--Webãƒ‘ãƒ¼ãƒ„æŠ•ç¨¿ç”¨ãƒ•ã‚©ãƒ¼ãƒ >               #
 #=======================================================#
 #
 sub output_wp_upload_form{
 &ext_config_icon_form_pre if($EXTSUB{'icon_form_pre'} == 1 );
 &auto_omit_disp;
 
-# C³‚Í‰æ‘œ‚ğƒAƒbƒvƒ[ƒh‚³‚¹‚È‚¢
+# ä¿®æ­£æ™‚ã¯ç”»åƒã‚’ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã•ã›ãªã„
  if($FORM{'bbsaction'} eq 'edit_form'){
 	$cm_out_img_h='<!--';
 	$cm_out_img_f='-->';
@@ -8435,7 +8439,7 @@ sub output_wp_upload_form{
  $SEL{'sozai_background'}="";
  $SEL{'other'}="";
 
- # icon–¼
+ # iconå
  local($ie_tmp_img_title)="$COOKIE{'imgtitle'}";
  if($ie_tmp_img_title=~ /img200/i){
 	$ie_tmp_img_title="";
@@ -8452,7 +8456,7 @@ sub output_wp_upload_form{
  }
 
 print<<HTML_END;
-<!-- ƒtƒH[ƒ€“ü—Í•”EEE‚±‚±‚Í‚ ‚Ü‚è•ÏX‚µ‚È‚¢•û‚ª‚¢‚¢‚Å‚µ‚å‚¤ -->
+<!-- ãƒ•ã‚©ãƒ¼ãƒ å…¥åŠ›éƒ¨ãƒ»ãƒ»ãƒ»ã“ã“ã¯ã‚ã¾ã‚Šå¤‰æ›´ã—ãªã„æ–¹ãŒã„ã„ã§ã—ã‚‡ã† -->
 <FORM ACTION="$cgi_name" METHOD="POST" ENCTYPE="multipart/form-data">
 <INPUT TYPE="HIDDEN" NAME="bbsaction" VALUE="post">
 <INPUT TYPE="HIDDEN" NAME="amode" VALUE="post_webparts">
@@ -8465,29 +8469,29 @@ print<<HTML_END;
 <INPUT TYPE="HIDDEN" NAME="prebbsaction" VALUE="$FORM{'bbsaction'}">
 <INPUT TYPE="HIDDEN" NAME="target" VALUE="$FORM{'target'}">
 <INPUT TYPE="HIDDEN" NAME="target_no" VALUE="$FORM{'target_no'}">
-$POSTADDP{'ICONUPLOADFORM'}<!-- «—ˆŠg’£—p -->
+$POSTADDP{'ICONUPLOADFORM'}<!-- å°†æ¥æ‹¡å¼µç”¨ -->
 <UL>
 <TABLE BORDER="$table_border" CELLSPACING="$table_cellspacing" CELLPADDING="$table_cellpadding" bgcolor="$table_bgcolor" background="$table_background_image">
 
 <TR $ie_bg >
- <TD ALIGN=RIGHT><font $font_option>•ª—ŞF </font></TD>
+ <TD ALIGN=RIGHT><font $font_option>åˆ†é¡ï¼š </font></TD>
  <TD colspan=2>
  <SELECT name=subject>
- <OPTION value="icon_norm01" $SEL{'icon_norm01'}> icon_norm01 (ˆê”Êƒ†[ƒU—pƒAƒCƒRƒ“‚Æ‚µ‚Äg‚¤)
- <OPTION value="icon_admin" $SEL{'icon_admin'}>icon_admin (ŠÇ—Òê—pƒAƒCƒRƒ“‚Æ‚µ‚Äg‚¤)
- <OPTION value="other" $SEL{'other'}>other (‚½‚¾‚Ì‰æ‘œ’u‚«ê‚Æ‚µ‚Äg‚¤)
+ <OPTION value="icon_norm01" $SEL{'icon_norm01'}> icon_norm01 (ä¸€èˆ¬ãƒ¦ãƒ¼ã‚¶ç”¨ã‚¢ã‚¤ã‚³ãƒ³ã¨ã—ã¦ä½¿ã†)
+ <OPTION value="icon_admin" $SEL{'icon_admin'}>icon_admin (ç®¡ç†è€…å°‚ç”¨ã‚¢ã‚¤ã‚³ãƒ³ã¨ã—ã¦ä½¿ã†)
+ <OPTION value="other" $SEL{'other'}>other (ãŸã ã®ç”»åƒç½®ãå ´ã¨ã—ã¦ä½¿ã†)
  </SELECT>
 </TD>
 </TR>
 
 <TR $ie_bg >
- <TD ALIGN=RIGHT><font $font_option>ƒƒ‚F</font></TD>
+ <TD ALIGN=RIGHT><font $font_option>ãƒ¡ãƒ¢ï¼š</font></TD>
  <TD colspan=2>
 <TEXTAREA NAME="body" COLS=60 ROWS=1 WRAP=SOFT>$COOKIE{'body'}</TEXTAREA>$DISP_OMIT{'body'}</TD>
 </TR>
 $cm_out_img_h
 <TR bgcolor="#FDFDFD">
- <TD ALIGN=RIGHT><font $font_option2 >‰æ‘œ‘I‘ğ </font></TD>
+ <TD ALIGN=RIGHT><font $font_option2 >ç”»åƒé¸æŠ </font></TD>
  <TD colspan=2><INPUT TYPE="FILE" NAME="img" VALUE="" SIZE=30> $DISP_OMIT{'img'}</TD>
 </TR>
 $cm_out_img_f
@@ -8496,8 +8500,8 @@ HTML_END
 if(($FORM{'amode'} eq "icon_edit")&&($COOKIE{'subject'}=~ /icon/i)){
 print<<HTML_END;
 <TR  bgcolor="#FDFDFD">
- <TD ALIGN=RIGHT NOWRAP><font $font_option2 > &nbsp&nbsp‰æ‘œ‚Ìƒ^ƒCƒgƒ‹ </font></TD>
- <TD colspan=2><INPUT TYPE="TEXT" NAME="imgtitle" SIZE=30 MAXLENGTH=60 VALUE="$ie_tmp_img_title"><font $f_param>–•K—viƒAƒCƒRƒ“j<BR>i‹L–“ŠeƒtƒH[ƒ€‚ÅƒAƒCƒRƒ“‚ğ‘I‘ğ‚·‚é‚Æ‚«‚ÌŒÄo‚µ–¼‚É‘Î‰‚µ‚Ü‚·j</font>
+ <TD ALIGN=RIGHT NOWRAP><font $font_option2 > &nbsp&nbspç”»åƒã®ã‚¿ã‚¤ãƒˆãƒ« </font></TD>
+ <TD colspan=2><INPUT TYPE="TEXT" NAME="imgtitle" SIZE=30 MAXLENGTH=60 VALUE="$ie_tmp_img_title"><font $f_param>ï¼Šå¿…è¦ï¼ˆã‚¢ã‚¤ã‚³ãƒ³æ™‚ï¼‰<BR>ï¼ˆè¨˜äº‹æŠ•ç¨¿ãƒ•ã‚©ãƒ¼ãƒ ã§ã‚¢ã‚¤ã‚³ãƒ³ã‚’é¸æŠã™ã‚‹ã¨ãã®å‘¼å‡ºã—åã«å¯¾å¿œã—ã¾ã™ï¼‰</font>
 </TD>
 </TR>
 HTML_END
@@ -8507,7 +8511,7 @@ print<<HTML_END;
 <TR >
  <TD>
  </TD>
- <TD><INPUT TYPE="SUBMIT" $output_button_px VALUE=" “o˜^‚·‚é "><INPUT TYPE="RESET" $output_button_px VALUE="’†~">
+ <TD><INPUT TYPE="SUBMIT" $output_button_px VALUE=" ç™»éŒ²ã™ã‚‹ "><INPUT TYPE="RESET" $output_button_px VALUE="ä¸­æ­¢">
  </TD>
  </FORM>
  <TD align=center></TD>
@@ -8519,7 +8523,7 @@ HTML_END
 #
 #   
 #======================================================================#
-#     <‚g‚s‚l‚k--2.ƒŒƒCƒAƒEƒgƒpƒ^[ƒ“4/ ƒAƒCƒRƒ“Šm”F—pƒŒƒCƒAƒEƒg>      #
+#     <ï¼¨ï¼´ï¼­ï¼¬--2.ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆãƒ‘ã‚¿ãƒ¼ãƒ³4/ ã‚¢ã‚¤ã‚³ãƒ³ç¢ºèªç”¨ãƒ¬ã‚¤ã‚¢ã‚¦ãƒˆ>      #
 #======================================================================#
 #
 sub kiji_base_icon_html{
@@ -8528,20 +8532,20 @@ local($wp_tmp_subject)="$tmp_subject";
 
 
  if($tmp_subject eq "icon_admin"){
-  $tmp_subject=" ŠÇ—ÒƒAƒCƒRƒ“ ";
+  $tmp_subject=" ç®¡ç†è€…ã‚¢ã‚¤ã‚³ãƒ³ ";
  }elsif($tmp_subject eq "icon_norm01"){
-  $tmp_subject=" ˆê”Êƒ†[ƒU—pƒAƒCƒRƒ“ ";
+  $tmp_subject=" ä¸€èˆ¬ãƒ¦ãƒ¼ã‚¶ç”¨ã‚¢ã‚¤ã‚³ãƒ³ ";
  }elsif($tmp_subject eq "sozai_background"){
-  $tmp_subject=" ”wŒi‰æ‘œ—p‘fŞ ";
+  $tmp_subject=" èƒŒæ™¯ç”»åƒç”¨ç´ æ ";
  }elsif($tmp_subject eq "other"){
-  $tmp_subject=" ‚»‚Ì‘¼ ";
+  $tmp_subject=" ãã®ä»– ";
  }
 
 
 if(($wp_tmp_subject=~ /icon/i)&&($old_tmp_unq_id ne "")){
 print<<HTML_END;
 <P><a name=$tmp_unq_id></a>
-[<a href="$cgi_name?page=$disp_page&amode=icon_sort_up&target=$tmp_unq_id&insuid=$old_tmp_unq_id&bbsaction=icon_up&p=$FORM{'p1'}&p2=$FORM{'p2'}">ª‚±‚ÌƒAƒCƒRƒ“‚Ì•\\¦\‡‚ğ‚Ğ‚Æ‚Âã‚Ö•ÏX‚·‚é</a>]<BR><BR>
+[<a href="$cgi_name?page=$disp_page&amode=icon_sort_up&target=$tmp_unq_id&insuid=$old_tmp_unq_id&bbsaction=icon_up&p=$FORM{'p1'}&p2=$FORM{'p2'}">â†‘ã“ã®ã‚¢ã‚¤ã‚³ãƒ³ã®è¡¨\ç¤º\é †ã‚’ã²ã¨ã¤ä¸Šã¸å¤‰æ›´ã™ã‚‹</a>]<BR><BR>
 HTML_END
 }
 
@@ -8551,31 +8555,31 @@ print<<HTML_END;
 <TD rowspan=7>
 <IMG SRC="$tmp_img_location" BORDER="0" $size_sitei ALIGN="LEFT" HSPACE="12" style="margin: 12px;float: left">
 </TD>
-<TD bgcolor="#CDCDEF" colspan=2>Webƒp[ƒc $disp_seq_no ‚ÌƒvƒƒpƒeƒB
-[<a href="$cgi_name?bbsaction=edit_form&target=$tmp_unq_id&target_no=$tmp_seq_no&p1=$FORM{'p1'}&p2=$FORM{'p2'}&page=$FORM{'page'}&amode=icon_edit">\C\³\</a>]
+<TD bgcolor="#CDCDEF" colspan=2>Webãƒ‘ãƒ¼ãƒ„ $disp_seq_no ã®ãƒ—ãƒ­ãƒ‘ãƒ†ã‚£
+[<a href="$cgi_name?bbsaction=edit_form&target=$tmp_unq_id&target_no=$tmp_seq_no&p1=$FORM{'p1'}&p2=$FORM{'p2'}&page=$FORM{'page'}&amode=icon_edit">\ä¿®\æ­£\</a>]
 </TD>
 </TR>
 <TR>
-<TD bgcolor="#CDCDEF">[•ª—Ş]</TD>
+<TD bgcolor="#CDCDEF">[åˆ†é¡]</TD>
 <TD bgcolor="#CDCDEF"> $tmp_subject </TD>
 </TR>
 
 <TR>
-<TD bgcolor="#CDCDEF">‰æ‘œ‚Ìƒ^ƒCƒgƒ‹F</TD>
+<TD bgcolor="#CDCDEF">ç”»åƒã®ã‚¿ã‚¤ãƒˆãƒ«ï¼š</TD>
 <TD bgcolor="#CDCDEF">$tmp_imgtitle
 </TD>
 </TR>
 
 <TR>
-<TD $ie_bg01>[ƒtƒ@ƒCƒ‹ƒ^ƒCƒv/ƒTƒCƒY]</TD>
+<TD $ie_bg01>[ãƒ•ã‚¡ã‚¤ãƒ«ã‚¿ã‚¤ãƒ—/ã‚µã‚¤ã‚º]</TD>
 <TD $ie_bg01> $IMG_PARAMETERS{'type'}-$img_dsize</TD>
 </TR>
 <TR>
-<TD $ie_bg01>[c‰¡ƒhƒbƒg”]</TD>
+<TD $ie_bg01>[ç¸¦æ¨ªãƒ‰ãƒƒãƒˆæ•°]</TD>
 <TD $ie_bg01> $w_set x $h_set</TD>
 </TR>
 <TR>
-<TD $ie_bg01>[ŠÇ—Ò‚Ìƒƒ‚]</TD>
+<TD $ie_bg01>[ç®¡ç†è€…ã®ãƒ¡ãƒ¢]</TD>
 <TD $ie_bg01> $tmp_body </TD>
 </TR>
 HTML_END
@@ -8583,22 +8587,22 @@ HTML_END
 if($wp_tmp_subject=~ /other/i){
 print<<HTML_END;
 <TR>
-<TD $ie_bg01>‚±‚Ìƒtƒ@ƒCƒ‹‚ğŒÄo‚·‚ÌURL</TD>
+<TD $ie_bg01>ã“ã®ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å‘¼å‡ºã™æ™‚ã®URL</TD>
 <TD $ie_bg01><A HREF="$tmp_img_location" TARGET="top">
-ƒNƒŠƒbƒN</A>‚µ‚Äƒuƒ‰ƒEƒU‚ÌURL—“‚ğŒ©‚é‚Æ‚í‚©‚é‚æI</TD>
+ã‚¯ãƒªãƒƒã‚¯</A>ã—ã¦ãƒ–ãƒ©ã‚¦ã‚¶ã®URLæ¬„ã‚’è¦‹ã‚‹ã¨ã‚ã‹ã‚‹ã‚ˆï¼</TD>
 </TR>
 HTML_END
 }
 print<<HTML_END;
 <TR>
-<TD $ie_bg01>[‚»‚Ì‘¼]</TD>
-<TD $ie_bg01 colspan=2> “ŠeÒF$tmp_name $auto_user_IP  $disp_re</TD>
+<TD $ie_bg01>[ãã®ä»–]</TD>
+<TD $ie_bg01 colspan=2> æŠ•ç¨¿è€…ï¼š$tmp_name $auto_user_IP  $disp_re</TD>
 </TR>                              
 </TABLE>
 HTML_END
 
 
- # ˆê‚Â‘O‚ÌƒAƒCƒRƒ“‚Ìunq_id‚ğ‹L‰¯‚·‚é
+ # ä¸€ã¤å‰ã®ã‚¢ã‚¤ã‚³ãƒ³ã®unq_idã‚’è¨˜æ†¶ã™ã‚‹
  if($wp_tmp_subject=~ /icon/i){
   $old_tmp_unq_id="$tmp_unq_id";
  }
@@ -8606,10 +8610,10 @@ HTML_END
 }
 #
 #===============================================#
-#     <‚g‚s‚l‚k--Œg‘Ñ‘Î‰ƒƒjƒ…[>              #
+#     <ï¼¨ï¼´ï¼­ï¼¬--æºå¸¯å¯¾å¿œãƒ¡ãƒ‹ãƒ¥ãƒ¼>              #
 #===============================================#
 #
-#  Œg‘Ñ‘Î‰ƒƒjƒ…[—p‚Ì‚g‚s‚l‚k‚Å‚·D
+#  æºå¸¯å¯¾å¿œãƒ¡ãƒ‹ãƒ¥ãƒ¼ç”¨ã®ï¼¨ï¼´ï¼­ï¼¬ã§ã™ï¼
 #
 sub output_keitai_menu_HTML{
 
@@ -8623,32 +8627,32 @@ sub output_keitai_menu_HTML{
 	$tmp_imode_cgi_name	=~ s/.*\///i;
 
 	 if($PM{'im_cgi_url'}=~ /www\.aaa\.bbb\.com/i){
-	   # ƒfƒtƒHƒ‹ƒg‚Ì‚Ü‚Ü‚È‚çA©“®ì¬‚µ‚Ä•âŠ®‚·‚é
+	   # ãƒ‡ãƒ•ã‚©ãƒ«ãƒˆã®ã¾ã¾ãªã‚‰ã€è‡ªå‹•ä½œæˆã—ã¦è£œå®Œã™ã‚‹
 	   if($ENV{'SERVER_SOFTWARE'} =~ /Apache/i){
 	     $PM{'im_cgi_url'}="http://$ENV{'SERVER_NAME'}"."$tmp_script_path"."$tmp_imode_cgi_name";
 	   }else{
-	   # ‚»‚Ì‚Ü‚Ü•\¦‚µ‚Ä–¢İ’è‚ğ‹C•t‚©‚¹‚é
+	   # ãã®ã¾ã¾è¡¨ç¤ºã—ã¦æœªè¨­å®šã‚’æ°—ä»˜ã‹ã›ã‚‹
 	   }
 	 }
 
 	if($ENV{'HTTP_X_JPHONE_MSNAME'} ne ""){
-		$mail_link_pc="‚±‚ÌURL‚ğ<a href=\"mailto:-\@-\" mailbody=\"$PM{'im_cgi_url'}\">ƒ[ƒ‹‚Å—F’B‚Ö‹³‚¦‚é</A><BR><BR>";
+		$mail_link_pc="ã“ã®URLã‚’<a href=\"mailto:-\@-\" mailbody=\"$PM{'im_cgi_url'}\">ãƒ¡ãƒ¼ãƒ«ã§å‹é”ã¸æ•™ãˆã‚‹</A><BR><BR>";
 	# PC
 	}else{
-		$mail_link_pc="‚±‚ÌURL‚ğ<A HREF=\"mailto:-\@-?subject=V‚µ‚¢Œg‘ÑŒf¦”Â‚Ì±ÄŞÚ½!&body=$PM{'im_cgi_url'}\">ƒ[ƒ‹‚Å—F’B‚Ö‹³‚¦‚é</A><BR><BR>";
+		$mail_link_pc="ã“ã®URLã‚’<A HREF=\"mailto:-\@-?subject=æ–°ã—ã„æºå¸¯æ²ç¤ºæ¿ã®ï½±ï¾„ï¾ï¾šï½½!&body=$PM{'im_cgi_url'}\">ãƒ¡ãƒ¼ãƒ«ã§å‹é”ã¸æ•™ãˆã‚‹</A><BR><BR>";
 	}
 
-	# ”»’è
+	# åˆ¤å®š
 	if(-e "$imode_cgi_name"){
 		$tmp_imode_flag=1;
 print<<HTML_END;
 <HTML>
 <HEAD>
-<TITLE>imgboard ƒKƒ‰ƒpƒSƒXŒnŒg‘Ñƒ†[ƒUŒü‚¯ˆÄ“àƒy[ƒW</TITLE>
+<TITLE>imgboard ã‚¬ãƒ©ãƒ‘ã‚´ã‚¹ç³»æºå¸¯ãƒ¦ãƒ¼ã‚¶å‘ã‘æ¡ˆå†…ãƒšãƒ¼ã‚¸</TITLE>
 <meta name="viewport" content="width=480">
 </HEAD>
 <BODY>
-<a href=\"$imode_cgi_name\"> ƒKƒ‰ƒpƒSƒXŒnŒg‘Ñƒ†[ƒU—pƒAƒNƒZƒXƒy[ƒW</a>‚ğ‚Ç‚¤‚¼‚²—˜—p‚­‚¾‚³‚¢<BR>
+<a href=\"$imode_cgi_name\"> ã‚¬ãƒ©ãƒ‘ã‚´ã‚¹ç³»æºå¸¯ãƒ¦ãƒ¼ã‚¶ç”¨ã‚¢ã‚¯ã‚»ã‚¹ãƒšãƒ¼ã‚¸</a>ã‚’ã©ã†ãã”åˆ©ç”¨ãã ã•ã„<BR>
 <BR>
 <BR>
 $mail_link_pc
@@ -8658,44 +8662,44 @@ HTML_END
 		return;
 	}
 
-$output_admin_block01_HTML=qq|<HTML><HEAD><TITLE>imgboard Œg‘Ñƒ†[ƒUŒü‚¯ˆÄ“àƒy[ƒW</TITLE>
+$output_admin_block01_HTML=qq|<HTML><HEAD><TITLE>imgboard æºå¸¯ãƒ¦ãƒ¼ã‚¶å‘ã‘æ¡ˆå†…ãƒšãƒ¼ã‚¸</TITLE>
 <meta name="viewport" content="width=480">
 </HEAD>
 <BODY>
-<B>(imgboard»ìŒ³‚©‚ç‚Ì‚¨’m‚ç‚¹)</B>uƒKƒ‰ƒpƒSƒXŒg‘Ñ\‚©‚ç‚àAŒf¦”Â‚Ì‹L–‚ğƒ`ƒFƒbƒN‚µ‚½‚¢v‚Æ‚¢‚¤ŠF—l‚Ì‚²—v–]‚É‰‚¦AƒKƒ‰ƒpƒSƒXŒnŒg‘Ñ\‚©‚ç‚ÌƒAƒNƒZƒX‚ğ‰Â\”\\‚É‚·‚é‹@\”\\’Ç‰Áƒ‚ƒWƒ…[ƒ‹‚ğ—pˆÓ‚µ‚Ä‚¢‚Ü‚·BŒ»İA“Á•ñCGI‚É‚ÄƒÀ”Å‚ğ–³”z•z‚µ‚Ä‚¢‚Ü‚·‚Ì‚ÅA—Ç‚©‚Á‚½‚ç‚²—˜—p‚­‚¾‚³‚¢B<BR>
-<PRE>----Œg‘ÑƒAƒNƒZƒXd—l(ƒKƒ‰ƒpƒSƒXŒn)-------
+<B>(imgboardè£½ä½œå…ƒã‹ã‚‰ã®ãŠçŸ¥ã‚‰ã›)</B>ã€Œã‚¬ãƒ©ãƒ‘ã‚´ã‚¹æºå¸¯\ã‹ã‚‰ã‚‚ã€æ²ç¤ºæ¿ã®è¨˜äº‹ã‚’ãƒã‚§ãƒƒã‚¯ã—ãŸã„ã€ã¨ã„ã†çš†æ§˜ã®ã”è¦æœ›ã«å¿œãˆã€ã‚¬ãƒ©ãƒ‘ã‚´ã‚¹ç³»æºå¸¯\ã‹ã‚‰ã®ã‚¢ã‚¯ã‚»ã‚¹ã‚’å¯\èƒ½\ã«ã™ã‚‹æ©Ÿ\èƒ½\è¿½åŠ ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã‚’ç”¨æ„ã—ã¦ã„ã¾ã™ã€‚ç¾åœ¨ã€ç‰¹å ±CGIã«ã¦Î²ç‰ˆã‚’ç„¡å„Ÿé…å¸ƒã—ã¦ã„ã¾ã™ã®ã§ã€è‰¯ã‹ã£ãŸã‚‰ã”åˆ©ç”¨ãã ã•ã„ã€‚<BR>
+<PRE>----æºå¸¯ã‚¢ã‚¯ã‚»ã‚¹ä»•æ§˜(ã‚¬ãƒ©ãƒ‘ã‚´ã‚¹ç³»)-------
 
-1.<B>(‚¾‚ê‚Å‚àƒAƒNƒZƒX)</B>ˆÈ‰º‚ÌƒKƒ‰ƒpƒSƒXŒnŒg‘Ñ‹@í‚©‚çA“ŠeA•ÔMA‰{——Aíœ“™‚ª‚Å‚«‚Ü‚·B
-   ƒhƒRƒ‚ (iƒ‚[ƒh\,FOMA)
+1.<B>(ã ã‚Œã§ã‚‚ã‚¢ã‚¯ã‚»ã‚¹)</B>ä»¥ä¸‹ã®ã‚¬ãƒ©ãƒ‘ã‚´ã‚¹ç³»æºå¸¯æ©Ÿç¨®ã‹ã‚‰ã€æŠ•ç¨¿ã€è¿”ä¿¡ã€é–²è¦§ã€å‰Šé™¤ç­‰ãŒã§ãã¾ã™ã€‚
+   ãƒ‰ã‚³ãƒ¢ (iãƒ¢ãƒ¼ãƒ‰\,FOMA)
    SoftBank
    au by KDDI
-2.<B>(ƒKƒ‰ƒpƒSƒXŒnŒg‘Ñ‚©‚ç‚ÌÊ^UP‘Î‰)</B> ˆÈ‰º‚Ì‹@\í\‚©‚ç‚ÍAƒtƒ@ƒCƒ‹ƒAƒbƒvƒ[ƒh‚à\‰Â\”\\‚Å‚·B
-  “®‰æE‰æ‘œ2MBƒAƒbƒvƒ[ƒh‘Î‰‚Ì906i/706iˆÈ~ƒVƒŠ[ƒY
-* SoftBank‚ÌƒJƒƒ‰•tŒg‘Ñ\ (3G,VƒVƒŠ[ƒYˆÈ~j
-* au‚ÌƒJƒƒ‰•tŒg‘Ñ\ 
-  ’F‚»‚Ì‘¼‚ÌƒKƒ‰ƒpƒSƒXŒnŒg‘Ñ(‹Œishot‹@/‹Œau‹@)‘Î‰‚Í<a href="http://www.big.or.jp/~talk/t-club/soft/mini_2013/" target=_blank>Ÿ‚Ìimgboard 2015</a>ˆÈ~‚Å‘Î‰‚µ‚Ä‚¢‚Ü‚·B‚±‚ÌR6ƒVƒŠ[ƒY‚Å‚Í‘Î‰‚Å‚«‚Ü‚¹‚ñB
-3.<B>(ŠÈ’PƒAƒNƒZƒX)</B>Œg‘Ñê—p‚ÌURL‚ğü’m‚µ–Y‚ê‚Ä‚àAimgboard—p‚ÌURL‚ÉŒg‘Ñ‚ÅƒAƒNƒZƒX‚·‚é‚Æ
-  ©“®“I‚ÉŒg‘Ñ—pƒy[ƒW‚ÉƒiƒrƒQ[ƒg‚·‚é‹@\”\\‚ª‚ ‚è‚Ü‚·B
-4.<B>(ŠÈ’PƒAƒNƒZƒX2)</B> Œg‘Ñ‚Ìí—Ş‚â‹@í‚ğ©“®”»•Ê‚µA‚»‚ê‚É“K‚µ‚½ƒy[ƒW‚ğo‚·‚æ‚¤‚É‚È‚Á‚Ä‚¢‚Ü‚·B
-5.<B>(‘g‚İ‚İŠÈ’P)</B> Šî–{“I‚É‚Íim.cgiƒ‚ƒWƒ…[ƒ‹‚ğimgboard.cgi–{‘Ì‚Æ“¯ˆêƒfƒBƒŒƒNƒgƒŠ‚É“ü‚ê‚é‚¾‚¯‚Å‚·B
-6.ˆÈ‰º‚Í“®ìƒfƒ‚‚ÌƒTƒ“ƒvƒ‹Œf¦”Â‚Å‚·B
-<FORM> <INPUT TYPE="button" VALUE="ƒTƒ“ƒvƒ‹" onclick="imode_window=window.open('http://www.big.or.jp/~talk/t-club/soft/mini_r6/im.cgi','imode_window','directories=no,location=no,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes,close=yes,width=220,height=530');"> <NOSCRIPT><A HREF="http://www.big.or.jp/~talk/t-club/soft/mini_r6/im.cgi"><B>ƒTƒ“ƒvƒ‹</B></a></NOSCRIPT></FORM></BODY></HTML>|;
+2.<B>(ã‚¬ãƒ©ãƒ‘ã‚´ã‚¹ç³»æºå¸¯ã‹ã‚‰ã®å†™çœŸUPå¯¾å¿œ)</B> ä»¥ä¸‹ã®æ©Ÿ\ç¨®\ã‹ã‚‰ã¯ã€ãƒ•ã‚¡ã‚¤ãƒ«ã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰ã‚‚\å¯\èƒ½\ã§ã™ã€‚
+  å‹•ç”»ãƒ»ç”»åƒ2MBã‚¢ãƒƒãƒ—ãƒ­ãƒ¼ãƒ‰å¯¾å¿œã®906i/706iä»¥é™ã‚·ãƒªãƒ¼ã‚º
+* SoftBankã®ã‚«ãƒ¡ãƒ©ä»˜æºå¸¯\ (3G,Vã‚·ãƒªãƒ¼ã‚ºä»¥é™ï¼‰
+* auã®ã‚«ãƒ¡ãƒ©ä»˜æºå¸¯\ 
+  æ³¨ï¼šãã®ä»–ã®ã‚¬ãƒ©ãƒ‘ã‚´ã‚¹ç³»æºå¸¯(æ—§ishotæ©Ÿ/æ—§auæ©Ÿ)å¯¾å¿œã¯<a href="http://www.big.or.jp/~talk/t-club/soft/mini_2013/" target=_blank>æ¬¡ã®imgboard 2015</a>ä»¥é™ã§å¯¾å¿œã—ã¦ã„ã¾ã™ã€‚ã“ã®R6ã‚·ãƒªãƒ¼ã‚ºã§ã¯å¯¾å¿œã§ãã¾ã›ã‚“ã€‚
+3.<B>(ç°¡å˜ã‚¢ã‚¯ã‚»ã‚¹)</B>æºå¸¯å°‚ç”¨ã®URLã‚’å‘¨çŸ¥ã—å¿˜ã‚Œã¦ã‚‚ã€imgboardç”¨ã®URLã«æºå¸¯ã§ã‚¢ã‚¯ã‚»ã‚¹ã™ã‚‹ã¨
+  è‡ªå‹•çš„ã«æºå¸¯ç”¨ãƒšãƒ¼ã‚¸ã«ãƒŠãƒ“ã‚²ãƒ¼ãƒˆã™ã‚‹æ©Ÿ\èƒ½\ãŒã‚ã‚Šã¾ã™ã€‚
+4.<B>(ç°¡å˜ã‚¢ã‚¯ã‚»ã‚¹2)</B> æºå¸¯ã®ç¨®é¡ã‚„æ©Ÿç¨®ã‚’è‡ªå‹•åˆ¤åˆ¥ã—ã€ãã‚Œã«é©ã—ãŸãƒšãƒ¼ã‚¸ã‚’å‡ºã™ã‚ˆã†ã«ãªã£ã¦ã„ã¾ã™ã€‚
+5.<B>(çµ„ã¿è¾¼ã¿ç°¡å˜)</B> åŸºæœ¬çš„ã«ã¯im.cgiãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã‚’imgboard.cgiæœ¬ä½“ã¨åŒä¸€ãƒ‡ã‚£ãƒ¬ã‚¯ãƒˆãƒªã«å…¥ã‚Œã‚‹ã ã‘ã§ã™ã€‚
+6.ä»¥ä¸‹ã¯å‹•ä½œãƒ‡ãƒ¢ã®ã‚µãƒ³ãƒ—ãƒ«æ²ç¤ºæ¿ã§ã™ã€‚
+<FORM> <INPUT TYPE="button" VALUE="ã‚µãƒ³ãƒ—ãƒ«" onclick="imode_window=window.open('http://www.big.or.jp/~talk/t-club/soft/mini_r6/im.cgi','imode_window','directories=no,location=no,toolbar=no,status=no,menubar=no,scrollbars=yes,resizable=yes,close=yes,width=220,height=530');"> <NOSCRIPT><A HREF="http://www.big.or.jp/~talk/t-club/soft/mini_r6/im.cgi"><B>ã‚µãƒ³ãƒ—ãƒ«</B></a></NOSCRIPT></FORM></BODY></HTML>|;
 
-&output_admin_base_HTML(" ƒGƒ‰[B‚±‚ÌŒf¦”Â‚É‚Í‚Ü‚¾Œg‘Ñ‘Î‰—p’Ç‰Áƒ‚ƒWƒ…[ƒ‹AuŒg‘ÑƒAƒNƒZƒXv‚ª‘g‚İ‚Ü‚ê‚Ä‚¢‚Ü‚¹‚ñ "," ","  ","1"," Œg‘Ñ‘Î‰ ");
+&output_admin_base_HTML(" ã‚¨ãƒ©ãƒ¼ã€‚ã“ã®æ²ç¤ºæ¿ã«ã¯ã¾ã æºå¸¯å¯¾å¿œç”¨è¿½åŠ ãƒ¢ã‚¸ãƒ¥ãƒ¼ãƒ«ã€ã€Œæºå¸¯ã‚¢ã‚¯ã‚»ã‚¹ã€ãŒçµ„ã¿è¾¼ã¾ã‚Œã¦ã„ã¾ã›ã‚“ "," ","  ","1"," æºå¸¯å¯¾å¿œ ");
 }
 #
 #============================================#
-#     <‚g‚s‚l‚k--ƒAƒCƒRƒ“ˆê—— >              #
+#     <ï¼¨ï¼´ï¼­ï¼¬--ã‚¢ã‚¤ã‚³ãƒ³ä¸€è¦§ >              #
 #============================================#
 #
-#  ƒAƒCƒRƒ“ˆê——ƒEƒBƒ“ƒh—p‚Ì‚g‚s‚l‚k‚Å‚·D
+#  ã‚¢ã‚¤ã‚³ãƒ³ä¸€è¦§ã‚¦ã‚£ãƒ³ãƒ‰ç”¨ã®ï¼¨ï¼´ï¼­ï¼¬ã§ã™ï¼
 #
 sub output_icon_list_HTML{
-	&error(" İ’èƒGƒ‰[BƒAƒCƒRƒ“•t‚«Œf¦”Â‰»‚·‚é‚É‚ÍAŠO•”İ’èƒtƒ@ƒCƒ‹set_iconXXX.cgi‚ª•K—v‚Å‚·B“Á•ñCGI‚É‚Ä“üè‚µ‚Ä‚­‚¾‚³‚¢ ");
+	&error(" è¨­å®šã‚¨ãƒ©ãƒ¼ã€‚ã‚¢ã‚¤ã‚³ãƒ³ä»˜ãæ²ç¤ºæ¿åŒ–ã™ã‚‹ã«ã¯ã€å¤–éƒ¨è¨­å®šãƒ•ã‚¡ã‚¤ãƒ«set_iconXXX.cgiãŒå¿…è¦ã§ã™ã€‚ç‰¹å ±CGIã«ã¦å…¥æ‰‹ã—ã¦ãã ã•ã„ ");
 }
 #
 #===============================#
-# C³ƒEƒBƒ“ƒh‚Ì‚g‚s‚l‚kƒgƒbƒv
+# ä¿®æ­£ã‚¦ã‚£ãƒ³ãƒ‰ã®ï¼¨ï¼´ï¼­ï¼¬ãƒˆãƒƒãƒ—
 #===============================#
 #
 sub edit_top_html{
@@ -8707,19 +8711,19 @@ print<<HTML_END;
 </HEAD>
 <BODY BGCOLOR="$PM{'body_bgcolor'}" BACKGROUND="$PM{'body_background'}" TEXT="$PM{'body_text'}" LINK="$PM{'body_link'}" VLINK="$PM{'body_vlink'}">
 <FORM>
-<INPUT TYPE="button" VALUE="C³‚¹‚¸‚É‘O‚Ìƒy[ƒW‚Ö–ß‚é" $output_button_px onClick="history.back()">
+<INPUT TYPE="button" VALUE="ä¿®æ­£ã›ãšã«å‰ã®ãƒšãƒ¼ã‚¸ã¸æˆ»ã‚‹" $output_button_px onClick="history.back()">
 </FORM>
 <HR>
 <UL>
- <H3>‹L–$FORM{'target_no'}‚ğC³‚µ‚Ü‚· </H3>
- <LI>‹L–‚ğC³‚µ‚Ä“Šeƒ{ƒ^ƒ“‚ğ‰Ÿ‚µ‚Ä‚­‚¾‚³‚¢
- <LI>‰ïˆõƒpƒX‚É‚ÍŠÇ—ÒƒpƒX‚©A“Še‚Éİ’è‚µ‚½íœ‚h‚c‚ğ“ü‚ê‚Ä‚­‚¾‚³‚¢
+ <H3>è¨˜äº‹$FORM{'target_no'}ã‚’ä¿®æ­£ã—ã¾ã™ </H3>
+ <LI>è¨˜äº‹ã‚’ä¿®æ­£ã—ã¦æŠ•ç¨¿ãƒœã‚¿ãƒ³ã‚’æŠ¼ã—ã¦ãã ã•ã„
+ <LI>ä¼šå“¡ãƒ‘ã‚¹ã«ã¯ç®¡ç†è€…ãƒ‘ã‚¹ã‹ã€æŠ•ç¨¿æ™‚ã«è¨­å®šã—ãŸå‰Šé™¤ï¼©ï¼¤ã‚’å…¥ã‚Œã¦ãã ã•ã„
 </UL>
 HTML_END
 }
 #
 #========================#
-# CGI–¼‚ğ‚Æ‚è‚¾‚·
+# CGIåã‚’ã¨ã‚Šã ã™
 #========================#
 #
 sub get_script_name {
@@ -8728,7 +8732,7 @@ sub get_script_name {
 	local($path_name);
 	local($script_name);
 
-	# ƒpƒX‚ª‚ ‚éê‡‚Íí‚é
+	# ãƒ‘ã‚¹ãŒã‚ã‚‹å ´åˆã¯å‰Šã‚‹
 	if ($file_name =~ /\\|\//) {
 	  if ($file_name =~ /^(.*)\\([^\\]*)$/) {
 		$path_name	=$1;
@@ -8748,31 +8752,31 @@ sub get_script_name {
 #
 #
 #===================================#
-# ƒvƒƒoƒCƒ_‚ÌOS‚ğ”»’è‚·‚é
+# ãƒ—ãƒ­ãƒã‚¤ãƒ€ã®OSã‚’åˆ¤å®šã™ã‚‹
 #===================================#
-# ˆø”‚È‚µA•Ô’l‚Í‚n‚r‚Ìí—Ş(win,mac)
-# Perl for Win‚ÍV‚µ‚¢OS(NT SP4,Windows2000“™)‚ğŒŸo
-# ‚Å‚«‚È‚¢ƒoƒO‚ª‚ ‚é ‚»‚Ì‚½‚ßA‚¢‚ë‚ñ‚Èƒqƒ“ƒg‚©‚çA
-# Windows‚Å‚ ‚é‚±‚Æ‚ğŒŸo‚·‚é‚à‚Ì‚Æ‚·‚éB‚È‚¨A‹­§
-# “I‚Éİ’è‚·‚é‚±‚Æ‚à‚Å‚«‚é‚æ‚¤‚É‚·‚éB‚±‚ê‚ç‚Ìƒtƒ‰ƒO
-# ‚ÍbinmodeØ‘Ö‚¦‚âƒ[ƒ‹ˆ—‚Å—p‚¢‚éB
+# å¼•æ•°ãªã—ã€è¿”å€¤ã¯ï¼¯ï¼³ã®ç¨®é¡(win,mac)
+# Perl for Winã¯æ–°ã—ã„OS(NT SP4,Windows2000ç­‰)ã‚’æ¤œå‡º
+# ã§ããªã„ãƒã‚°ãŒã‚ã‚‹ ãã®ãŸã‚ã€ã„ã‚ã‚“ãªãƒ’ãƒ³ãƒˆã‹ã‚‰ã€
+# Windowsã§ã‚ã‚‹ã“ã¨ã‚’æ¤œå‡ºã™ã‚‹ã‚‚ã®ã¨ã™ã‚‹ã€‚ãªãŠã€å¼·åˆ¶
+# çš„ã«è¨­å®šã™ã‚‹ã“ã¨ã‚‚ã§ãã‚‹ã‚ˆã†ã«ã™ã‚‹ã€‚ã“ã‚Œã‚‰ã®ãƒ•ãƒ©ã‚°
+# ã¯binmodeåˆ‡æ›¿ãˆã‚„ãƒ¡ãƒ¼ãƒ«å‡¦ç†ã§ç”¨ã„ã‚‹ã€‚
 sub check_www_server_os{
 
 	local($tmp_www_server_os)="";
 
-	# –‘O€”õiƒGƒ‰[ƒ`ƒFƒbƒNj
+	# äº‹å‰æº–å‚™ï¼ˆã‚¨ãƒ©ãƒ¼ãƒã‚§ãƒƒã‚¯ï¼‰
 	$tmp_www_server_os= $^O;
 
-	# Win98 & NT4(SP4)‘Îô
+	# Win98 & NT4(SP4)å¯¾ç­–
 	$tmp_www_server_os= $ENV{'OS'} if($tmp_www_server_os eq "");
 
-	# AnHTTPd /OmniHTTPd/IIS‘Îô
+	# AnHTTPd /OmniHTTPd/IISå¯¾ç­–
 	$tmp_www_server_os= 'win' if($ENV{'SERVER_SOFTWARE'} =~ /AnWeb|Omni|IIS\//i);
 
-	# Win Apache ‘Îô
+	# Win Apache å¯¾ç­–
 	$tmp_www_server_os= 'win' if($ENV{'WINDIR'} ne "");
 
-	# Perl‚ªVOS‚ğŒŸ’m‚Å‚«‚È‚¢ê‡,‹­§“I‚Éw’è‚·‚é
+	# PerlãŒæ–°OSã‚’æ¤œçŸ¥ã§ããªã„å ´åˆ,å¼·åˆ¶çš„ã«æŒ‡å®šã™ã‚‹
 	if($force_www_server_os_to =~ /win/i){
 		$tmp_www_server_os = 'win';
 	}elsif($force_www_server_os_to =~ /mac/i){
@@ -8782,37 +8786,37 @@ sub check_www_server_os{
 }
 #
 #===================================#
-# ‹L–“o˜^‚ÉŠÇ—Ò‚Éƒ[ƒ‹
+# è¨˜äº‹ç™»éŒ²æ™‚ã«ç®¡ç†è€…ã«ãƒ¡ãƒ¼ãƒ«
 #===================================#
 
 sub send_mail{
 
-	local($tmp_mail_prog)="";		# sendmailˆÈŠO‚ÌƒvƒƒOƒ‰ƒ€–¼
-	local($tmp_mail_data)= "./$$\.dat";	# ˆêƒtƒ@ƒCƒ‹–¼
+	local($tmp_mail_prog)="";		# sendmailä»¥å¤–ã®ãƒ—ãƒ­ã‚°ãƒ©ãƒ å
+	local($tmp_mail_data)= "./$$\.dat";	# ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«å
 
 	if ($use_email==1){
 
-		# OS‚Ìí•Ê‚ğ”»•Ê
+		# OSã®ç¨®åˆ¥ã‚’åˆ¤åˆ¥
 		$www_server_os =&check_www_server_os;
 
-		# ƒ[ƒ‹ƒvƒƒOƒ‰ƒ€‚Ìí•Ê‚ğ”»•Ê
+		# ãƒ¡ãƒ¼ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ç¨®åˆ¥ã‚’åˆ¤åˆ¥
 		if($mail_prog =~ /blat/i){
 			$tmp_mail_prog="blatj";
 		}elsif($mail_prog =~ /sendmane/i){# 2004.08
 			$tmp_mail_prog="sendmane";
 		}
 
-		# OS‚ğƒ`ƒFƒbƒNAWindows,Mac‚Ì‰SÒƒ†[ƒU‚É‚ÍŒx‚ğo‚·
-		# ‚½‚¾‚µABlackJumboDog“™‚Ì—˜—pÒ‚É‚ÍŒx‚ğo‚³‚È‚¢B
+		# OSã‚’ãƒã‚§ãƒƒã‚¯ã€Windows,Macã®åˆå¿ƒè€…ãƒ¦ãƒ¼ã‚¶ã«ã¯è­¦å‘Šã‚’å‡ºã™
+		# ãŸã ã—ã€BlackJumboDogç­‰ã®åˆ©ç”¨è€…ã«ã¯è­¦å‘Šã‚’å‡ºã•ãªã„ã€‚
 		if(($www_server_os=~ /win/i)&&($tmp_mail_prog eq "")){
-			&error("ŠÇ—Òİ’è‚ÉƒGƒ‰[‚ª‚ ‚è‚Ü‚·<BR>ƒ[ƒ‹’Ê’m\‹@\”\\‚ÍWindowsƒT[ƒo‚Å‚Íublatjv‚©usend‚Ü‚Ë[‚év‚µ‚©g—p‚Å‚«‚Ü‚¹‚ñB‚±‚ê‚ç‚Ìƒ\ƒtƒg‚ª‚È‚¢ê‡‚Íƒ[ƒ‹’Ê’m‚ğƒIƒt‚É‚µ‚Ä‚­‚¾‚³‚¢B");
+			&error("ç®¡ç†è€…è¨­å®šã«ã‚¨ãƒ©ãƒ¼ãŒã‚ã‚Šã¾ã™<BR>ãƒ¡ãƒ¼ãƒ«é€šçŸ¥\æ©Ÿ\èƒ½\ã¯Windowsã‚µãƒ¼ãƒã§ã¯ã€Œblatjã€ã‹ã€Œsendã¾ã­ãƒ¼ã‚‹ã€ã—ã‹ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚ã“ã‚Œã‚‰ã®ã‚½ãƒ•ãƒˆãŒãªã„å ´åˆã¯ãƒ¡ãƒ¼ãƒ«é€šçŸ¥ã‚’ã‚ªãƒ•ã«ã—ã¦ãã ã•ã„ã€‚");
 			return;
 		}elsif($www_server_os=~ /mac/i){
-			&error("ŠÇ—Òİ’è‚ÉƒGƒ‰[‚ª‚ ‚è‚Ü‚·<BR>ƒ[ƒ‹’Ê’m\‹@\”\\‚ÍMacƒT[ƒo‚Å‚Íg—p‚Å‚«‚Ü‚¹‚ñBƒIƒt‚É‚µ‚Ä‚­‚¾‚³‚¢B");
+			&error("ç®¡ç†è€…è¨­å®šã«ã‚¨ãƒ©ãƒ¼ãŒã‚ã‚Šã¾ã™<BR>ãƒ¡ãƒ¼ãƒ«é€šçŸ¥\æ©Ÿ\èƒ½\ã¯Macã‚µãƒ¼ãƒã§ã¯ä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚ã‚ªãƒ•ã«ã—ã¦ãã ã•ã„ã€‚");
 			return;
 		}
 
-		# ƒpƒ‰ƒ[ƒ^ƒ`ƒFƒbƒNiƒZƒLƒ…ƒŠƒeƒBƒ`ƒFƒbƒNj
+		# ãƒ‘ãƒ©ãƒ¡ãƒ¼ã‚¿ãƒã‚§ãƒƒã‚¯ï¼ˆã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ãƒã‚§ãƒƒã‚¯ï¼‰
 		if($email=~ /.*\@.*\..*/){
 			$eemail_address=$email;
 		}else{
@@ -8823,10 +8827,10 @@ sub send_mail{
 		$eemail_subject	="$subject";
 		$eemail_imgtitle="$imgtitle";
 
-		# –{•¶‚ª’·‚·‚¬‚éê‡‚ÍƒJƒbƒg‚·‚éBƒ[ƒ‹”š’eŒn‚ÌƒCƒ^ƒYƒ‰‘ÎôB
+		# æœ¬æ–‡ãŒé•·ã™ãã‚‹å ´åˆã¯ã‚«ãƒƒãƒˆã™ã‚‹ã€‚ãƒ¡ãƒ¼ãƒ«çˆ†å¼¾ç³»ã®ã‚¤ã‚¿ã‚ºãƒ©å¯¾ç­–ã€‚
 		$eemail_body=$body;
 		$eemail_body=~ s/\<BR\>/\n/gi;
-		$eemail_body=~ s/<!-- userF\s([^>]*)(\s*)-->//ig;
+		$eemail_body=~ s/<!-- userï¼š\s([^>]*)(\s*)-->//ig;
 		$eemail_body="$eemail_body"."\n"."$REMOTE_HOST";
 
 		if($PM{'mail_body_limit'}){
@@ -8835,26 +8839,26 @@ sub send_mail{
 			$tmp_mail_body_limit='360';
 		}
 
-		# ‰Šúİ’è‚Åİ’è‚µ‚½§ŒÀ‚æ‚è’·‚¢ê‡ 
+		# åˆæœŸè¨­å®šã§è¨­å®šã—ãŸåˆ¶é™ã‚ˆã‚Šé•·ã„å ´åˆ 
 		if(length($body) >$tmp_mail_body_limit){
- 			# æ“ª‚©‚çw’èƒoƒCƒg‚Ü‚Å‚Ì‚İc‚·
+ 			# å…ˆé ­ã‹ã‚‰æŒ‡å®šãƒã‚¤ãƒˆã¾ã§ã®ã¿æ®‹ã™
 			$eemail_body =substr("$body",0,"$tmp_mail_body_limit");
-			$eemail_body .=" \/\/’·‰ß‚¬‚Ü‚·‚Ì‚ÅAˆÈŒã‚ÍƒJƒbƒg‚µ‚Ü‚µ‚½.<!-- userF $REMOTE_HOST --> - $HTTP_REFERER ";
+			$eemail_body .=" \/\/é•·éãã¾ã™ã®ã§ã€ä»¥å¾Œã¯ã‚«ãƒƒãƒˆã—ã¾ã—ãŸ.<!-- userï¼š $REMOTE_HOST --> - $HTTP_REFERER ";
 		}
 
-  		# URL‚ªw’è‚³‚ê‚Ä‚¢‚éê‡‚Íƒtƒ‹URL•\‹L‚É‚·‚éB
+  		# URLãŒæŒ‡å®šã•ã‚Œã¦ã„ã‚‹å ´åˆã¯ãƒ•ãƒ«URLè¡¨è¨˜ã«ã™ã‚‹ã€‚
 		$eemail_img_location="$img_location";
 		if($img_dir_url!~ /http:\/\/yourprovider\/yourname\/imgboard\/img-box\//){
 			$eemail_img_location="$img_dir_url"."$new_fname";
 		}
 
-		# ƒZƒLƒ…ƒŠƒeƒB‘Îô‚Ì‚½‚ßA–â‘è‚Ì‚ ‚é•¶š‚ğƒtƒBƒ‹ƒ^
+		# ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£å¯¾ç­–ã®ãŸã‚ã€å•é¡Œã®ã‚ã‚‹æ–‡å­—ã‚’ãƒ•ã‚£ãƒ«ã‚¿
 		$eemail_address		=~ s/\,|\;|\://g;
 		$eemail_name		=~ s/\,|\;|\://g;
 		$eemail_subject		=~ s/\,|\;|\://g;
 		$eemail_imgtitle	=~ s/\,|\;|\://g;
 
-		# ƒ[ƒ‹•¶–Ê‚±‚±‚©‚ç
+		# ãƒ¡ãƒ¼ãƒ«æ–‡é¢ã“ã“ã‹ã‚‰
 $mail_hmes .= "MIME-Version: 1.0\n";
 $mail_hmes  = "Reply-to: $eemail_address\n";
 $mail_hmes .= "From: $eemail_address\n";
@@ -8862,53 +8866,53 @@ $mail_hmes .= "Subject: \[imgboard\]New article is added \n";
 $mail_hmes .= "Content-Type: text/plain; charset=iso-2022-jp\n";
 $mail_hmes .= "Content-Transfer-Encoding: 7bit\n\n";
 
-$mail_mes .= "imgboard‚ÉV‚µ‚¢‹L–‚ª“Še‚³‚ê‚Ü‚µ‚½B\n\n";
+$mail_mes .= "imgboardã«æ–°ã—ã„è¨˜äº‹ãŒæŠ•ç¨¿ã•ã‚Œã¾ã—ãŸã€‚\n\n";
 $mail_mes .= "[ Date ] $date_data\n";
-$mail_mes .= "[ –¼‘O ] $eemail_name\n" 		if($eemail_name ne "");
+$mail_mes .= "[ åå‰ ] $eemail_name\n" 		if($eemail_name ne "");
 $mail_mes .= "[e-mail] $eemail_address\n"	if($eemail_address ne "");
 $mail_mes .= "---------------------------------------\n";
-$mail_mes .= "[ƒ^ƒCƒgƒ‹] $eemail_subject\n" 		if($eemail_subject ne "");
-$mail_mes .= "[  –{•¶  ] \n $eemail_body\n"		if($eemail_body ne "");
+$mail_mes .= "[ã‚¿ã‚¤ãƒˆãƒ«] $eemail_subject\n" 		if($eemail_subject ne "");
+$mail_mes .= "[  æœ¬æ–‡  ] \n $eemail_body\n"		if($eemail_body ne "");
 $mail_mes .= "[Image Title]  $eemail_imgtitle\n" 	if($eemail_imgtitle ne "");
 $mail_mes .= "[Image URL  ]  $img_data_size\n" 		if($img_location ne "");
 $mail_mes .= "        $eemail_img_location \n"		if($img_location ne "");
-$mail_mes .= "[g—pƒvƒ‰ƒEƒU] $HTTP_USER_AGENT\n"		if($HTTP_USER_AGENT);
-$mail_mes .= "[˜A‘±] $now_up_counter ‰ñ [ƒŠƒ~ƒbƒ^‚ÌŒ»İİ’è] $upload_limit_times / $upload_limit_type \n"	if($limit_upload_times_flag==1);
-$mail_mes .= " ˆÈã \n";
+$mail_mes .= "[ä½¿ç”¨ãƒ—ãƒ©ã‚¦ã‚¶] $HTTP_USER_AGENT\n"		if($HTTP_USER_AGENT);
+$mail_mes .= "[é€£ç¶š] $now_up_counter å› [ãƒªãƒŸãƒƒã‚¿ã®ç¾åœ¨è¨­å®š] $upload_limit_times / $upload_limit_type \n"	if($limit_upload_times_flag==1);
+$mail_mes .= " ä»¥ä¸Š \n";
 
-	# ƒ[ƒ‹•¶–Ê‚±‚±‚Ü‚Å
+	# ãƒ¡ãƒ¼ãƒ«æ–‡é¢ã“ã“ã¾ã§
 
-	# ‘—oŠJn
+	# é€å‡ºé–‹å§‹
 
-	# blatj‚Ì
+	# blatjã®æ™‚
 	 if($tmp_mail_prog eq "blatj"){
 
-	  # ˆêƒtƒ@ƒCƒ‹‚É‘‚«o‚·
+	  # ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«ã«æ›¸ãå‡ºã™
 	   open  (OUT,">$tmp_mail_data") || &error("Write Error : $tmp_mail_data");
 	   print  OUT $mail_mes;
 	   close (OUT);
 
 
-	  # ƒ[ƒ‹‚ğ‘—o
-	  open  (MAIL,"| $mail_prog $tmp_mail_data -t $recipient $attach_option_mes -q -s imgboard_New_article") || &error(" ŠÇ—Òİ’è‚ÉƒGƒ‰[‚ª‚ ‚è‚Ü‚·<BR>ƒ[ƒ‹ƒvƒƒOƒ‰ƒ€$mail_prog‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñBƒ[ƒ‹ƒvƒƒOƒ‰ƒ€‚ÌƒpƒX‚ğÄŠm”F‚µ‚Ä‚­‚¾‚³‚¢B<BR>‚Ü‚½WebƒT[ƒo‚Æƒ[ƒ‹ƒT[ƒo‚ª•Ê‚ÌƒT[ƒo‚Ìê‡g—p‚Å‚«‚Ü‚¹‚ñB\n");
+	  # ãƒ¡ãƒ¼ãƒ«ã‚’é€å‡º
+	  open  (MAIL,"| $mail_prog $tmp_mail_data -t $recipient $attach_option_mes -q -s imgboard_New_article") || &error(" ç®¡ç†è€…è¨­å®šã«ã‚¨ãƒ©ãƒ¼ãŒã‚ã‚Šã¾ã™<BR>ãƒ¡ãƒ¼ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ $mail_progãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚ãƒ¡ãƒ¼ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ãƒ‘ã‚¹ã‚’å†ç¢ºèªã—ã¦ãã ã•ã„ã€‚<BR>ã¾ãŸWebã‚µãƒ¼ãƒã¨ãƒ¡ãƒ¼ãƒ«ã‚µãƒ¼ãƒãŒåˆ¥ã®ã‚µãƒ¼ãƒã®å ´åˆä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚\n");
    	  close (MAIL);
 
-	  # ˆêƒtƒ@ƒCƒ‹íœ
+	  # ä¸€æ™‚ãƒ•ã‚¡ã‚¤ãƒ«å‰Šé™¤
 	  unlink($tmp_mail_data);
 
-	# •’Ê‚Ìsendmail‚Ì
+	# æ™®é€šã®sendmailã®æ™‚
 	 }else{
 
-	  # ƒ[ƒ‹ƒwƒbƒ_‚Æ–{•¶‚ğŒ‹‡‚·‚é
+	  # ãƒ¡ãƒ¼ãƒ«ãƒ˜ãƒƒãƒ€ã¨æœ¬æ–‡ã‚’çµåˆã™ã‚‹
 	  $mail_mes="$mail_hmes"."$mail_mes";
 
-	  # ƒ[ƒ‹‚Å•W€‚ÌŒ`‘ÔAŠ¿šƒR[ƒhJISA‰üsƒR[ƒhLF‚É•ÏŠ·‚·‚éB
-	  $mail_mes=~ s/\r\n/\n/g;		# ‰üsƒR[ƒh‚ğ•ÏŠ·
-	  $mail_mes=~ s/\r/\n/g;			# ‰üsƒR[ƒh‚ğ•ÏŠ·
-	  &jcode'convert(*mail_mes, 'jis');	# Š¿šƒR[ƒh‚ğJIS‚É(C³99.11)
+	  # ãƒ¡ãƒ¼ãƒ«ã§æ¨™æº–ã®å½¢æ…‹ã€æ¼¢å­—ã‚³ãƒ¼ãƒ‰JISã€æ”¹è¡Œã‚³ãƒ¼ãƒ‰LFã«å¤‰æ›ã™ã‚‹ã€‚
+	  $mail_mes=~ s/\r\n/\n/g;		# æ”¹è¡Œã‚³ãƒ¼ãƒ‰ã‚’å¤‰æ›
+	  $mail_mes=~ s/\r/\n/g;			# æ”¹è¡Œã‚³ãƒ¼ãƒ‰ã‚’å¤‰æ›
+	  &jcode'convert(*mail_mes, 'jis');	# æ¼¢å­—ã‚³ãƒ¼ãƒ‰ã‚’JISã«(ä¿®æ­£99.11)
 
-	  # ƒ[ƒ‹‚ğ‘—o
-	  open (MAIL, "|$mail_prog $recipient") || &error(" ŠÇ—Òİ’è‚ÉƒGƒ‰[‚ª‚ ‚è‚Ü‚·<BR>ƒ[ƒ‹ƒvƒƒOƒ‰ƒ€$mail_prog‚ªŒ©‚Â‚©‚è‚Ü‚¹‚ñBƒ[ƒ‹ƒvƒƒOƒ‰ƒ€‚ÌƒpƒX‚ğÄŠm”F‚µ‚Ä‚­‚¾‚³‚¢B<BR>‚Ü‚½WebƒT[ƒo‚Æƒ[ƒ‹ƒT[ƒo‚ª•Ê‚ÌƒT[ƒo‚Ìê‡g—p‚Å‚«‚Ü‚¹‚ñB\n");
+	  # ãƒ¡ãƒ¼ãƒ«ã‚’é€å‡º
+	  open (MAIL, "|$mail_prog $recipient") || &error(" ç®¡ç†è€…è¨­å®šã«ã‚¨ãƒ©ãƒ¼ãŒã‚ã‚Šã¾ã™<BR>ãƒ¡ãƒ¼ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ $mail_progãŒè¦‹ã¤ã‹ã‚Šã¾ã›ã‚“ã€‚ãƒ¡ãƒ¼ãƒ«ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã®ãƒ‘ã‚¹ã‚’å†ç¢ºèªã—ã¦ãã ã•ã„ã€‚<BR>ã¾ãŸWebã‚µãƒ¼ãƒã¨ãƒ¡ãƒ¼ãƒ«ã‚µãƒ¼ãƒãŒåˆ¥ã®ã‚µãƒ¼ãƒã®å ´åˆä½¿ç”¨ã§ãã¾ã›ã‚“ã€‚\n");
 		print MAIL "$mail_mes";	
    	  close (MAIL);
 
@@ -8918,7 +8922,7 @@ $mail_mes .= " ˆÈã \n";
 }
 #
 #========================#
-# perl -wc Œx‘Îô 
+# perl -wc è­¦å‘Šå¯¾ç­– 
 #========================#
 #
 sub disp_unused_parameters{
@@ -8945,193 +8949,193 @@ HTML_END
 }
 #
 #==================================#
-# youTubeƒ^ƒO‚Ì”»’è(‹Œobjectƒ^ƒOŒn) 
+# youTubeã‚¿ã‚°ã®åˆ¤å®š(æ—§objectã‚¿ã‚°ç³») 
 #==================================#
-# 2014.02 youtube,dailymotion,ustream‚ÍŒÃ‚¢objectƒ^ƒO‚ğg‚í‚È‚¢‚æ‚¤‚É—U“±‚·‚é‚æ‚¤‚É‚µ‚½
-# 2010.05 ustream‘Î‰‚ÅC³
-# 2009.06 dailymotion“™‚Ì‘¼“®‰æ‹¤—LƒTƒCƒg‚É‘Î‰‚Å‚«‚é‚æ‚¤‚É
-# ƒƒWƒbƒN‚ğ•ÏX‚µ‚½
+# 2014.02 youtube,dailymotion,ustreamã¯å¤ã„objectã‚¿ã‚°ã‚’ä½¿ã‚ãªã„ã‚ˆã†ã«èª˜å°ã™ã‚‹ã‚ˆã†ã«ã—ãŸ
+# 2010.05 ustreamå¯¾å¿œã§ä¿®æ­£
+# 2009.06 dailymotionç­‰ã®ä»–å‹•ç”»å…±æœ‰ã‚µã‚¤ãƒˆã«å¯¾å¿œã§ãã‚‹ã‚ˆã†ã«
+# ãƒ­ã‚¸ãƒƒã‚¯ã‚’å¤‰æ›´ã—ãŸ
 #
 sub check_youTube_tag{
 
-	local($TCY_form)	= $_[0];# ˆø” FORM‚Ì“à—e
-	local($tmp_yt_check_level)	= $_[1];# ˆø” 2 ƒ`ƒFƒbƒNƒŒƒxƒ‹
+	local($TCY_form)	= $_[0];# å¼•æ•° FORMã®å†…å®¹
+	local($tmp_yt_check_level)	= $_[1];# å¼•æ•° 2 ãƒã‚§ãƒƒã‚¯ãƒ¬ãƒ™ãƒ«
 
 	undef @TMP_DOUGA_KU_DOMAIN;
-	@TMP_DOUGA_KU_DOMAIN=@DOUGA_KU_DOMAIN; # “®‰æ‹¤—LƒhƒƒCƒ“
+	@TMP_DOUGA_KU_DOMAIN=@DOUGA_KU_DOMAIN; # å‹•ç”»å…±æœ‰ãƒ‰ãƒ¡ã‚¤ãƒ³
 
 	if($use_youtube_tag_in_comment != 1){
-		# –³‘Ê‚Èˆ—‚ğ‚µ‚È‚¢‚æ‚¤‚É‚·‚é
+		# ç„¡é§„ãªå‡¦ç†ã‚’ã—ãªã„ã‚ˆã†ã«ã™ã‚‹
 		return(0);
 	}
 
-	# –{•¶ˆÈŠO‚Í–„‚ß‚İ‹Ö~
+	# æœ¬æ–‡ä»¥å¤–ã¯åŸ‹ã‚è¾¼ã¿ç¦æ­¢
 	if($form!~ /body/i){
 		return(0);
 	}
 
-	# objectƒ^ƒO“ñ‚Â‚È‚çƒAƒ{[ƒg
+	# objectã‚¿ã‚°äºŒã¤ãªã‚‰ã‚¢ãƒœãƒ¼ãƒˆ
 	if($TCY_form=~ /<object(.|\n)*<object/i){
-		&error(" ƒGƒ‰[BOBJECTƒ^ƒO‚Í•¡”–„‚ß‚İ‚Å‚«‚Ü‚¹‚ñB‚Ğ‚Æ‚Â‚É‚µ‚Ä‚­‚¾‚³‚¢B ");
+		&error(" ã‚¨ãƒ©ãƒ¼ã€‚OBJECTã‚¿ã‚°ã¯è¤‡æ•°åŸ‹ã‚è¾¼ã¿ã§ãã¾ã›ã‚“ã€‚ã²ã¨ã¤ã«ã—ã¦ãã ã•ã„ã€‚ ");
 		return(0);
 	}
 
-	# EMBEDƒ^ƒO“ñ‚Â‚È‚çƒAƒ{[ƒg
+	# EMBEDã‚¿ã‚°äºŒã¤ãªã‚‰ã‚¢ãƒœãƒ¼ãƒˆ
 	if($TCY_form=~ /<embed(.|\n)*<embed/i){
-		&error(" ƒGƒ‰[BEMBEDƒ^ƒO‚Í•¡”–„‚ß‚İ‚Å‚«‚Ü‚¹‚ñB‚Ğ‚Æ‚Â‚É‚µ‚Ä‚­‚¾‚³‚¢B ");
+		&error(" ã‚¨ãƒ©ãƒ¼ã€‚EMBEDã‚¿ã‚°ã¯è¤‡æ•°åŸ‹ã‚è¾¼ã¿ã§ãã¾ã›ã‚“ã€‚ã²ã¨ã¤ã«ã—ã¦ãã ã•ã„ã€‚ ");
 		return(0);
 	}
 
-	# objectƒ^ƒO‚ÉƒNƒ‰ƒXID“Á’è‚ª‚ ‚é‚È‚çŠëŒ¯‚È‚Ì‚ÅƒAƒ{[ƒg
-	# ustream‘Î‰‚ÅC³ (2010.05.27)
+	# objectã‚¿ã‚°ã«ã‚¯ãƒ©ã‚¹IDç‰¹å®šãŒã‚ã‚‹ãªã‚‰å±é™ºãªã®ã§ã‚¢ãƒœãƒ¼ãƒˆ
+	# ustreamå¯¾å¿œã§ä¿®æ­£ (2010.05.27)
 	if($TCY_form=~ /<object(.|\n)*classid/i){
 
-	 # FlashPlayer‚ÌƒNƒ‰ƒXID‚Í‹–‚·B‚»‚êˆÈŠO‚ÍŠëŒ¯‚È‚Ì‚Åƒ_ƒ
+	 # FlashPlayerã®ã‚¯ãƒ©ã‚¹IDã¯è¨±ã™ã€‚ãã‚Œä»¥å¤–ã¯å±é™ºãªã®ã§ãƒ€ãƒ¡
 	 if($TCY_form=~ /clsid:([a-zA-Z0-9\-]+)\"/i){
-	  # FlashPlayer‚Ìê‡‚Í‹–‰Â‚·‚é
+	  # FlashPlayerã®å ´åˆã¯è¨±å¯ã™ã‚‹
 	  if($1 =~ /^d27cdb6e\-ae6d\-11cf\-96b8\-444553540000$/i){
-	    # ‹–‰Â‚·‚é
+	    # è¨±å¯ã™ã‚‹
 	  }else{
-		&error(" ƒZƒLƒ…ƒŠƒeƒBƒGƒ‰[BOBJECTƒ^ƒO‚ÉA‚±‚ÌƒNƒ‰ƒXID‚ğw’è‚Å‚«‚Ü‚¹‚ñB–„‚ß‚İƒ^ƒO“à‚ÅFlashPlayerˆÈŠO‚ÌƒNƒ‰ƒX‚Íw’è‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B ");
+		&error(" ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ã‚¨ãƒ©ãƒ¼ã€‚OBJECTã‚¿ã‚°ã«ã€ã“ã®ã‚¯ãƒ©ã‚¹IDã‚’æŒ‡å®šã§ãã¾ã›ã‚“ã€‚åŸ‹ã‚è¾¼ã¿ã‚¿ã‚°å†…ã§FlashPlayerä»¥å¤–ã®ã‚¯ãƒ©ã‚¹ã¯æŒ‡å®šã—ãªã„ã§ãã ã•ã„ã€‚ ");
 		return(0);
 	  }
 	 }else{
-		&error(" ƒZƒLƒ…ƒŠƒeƒBƒGƒ‰[BOBJECTƒ^ƒO‚ÌƒNƒ‰ƒXIDw’è‚ª•s³‚Å‚·BHTMLƒ^ƒO‚Ì‹Lq‚ğŒ©’¼‚µ‚Ä‚­‚¾‚³‚¢B ");
+		&error(" ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ã‚¨ãƒ©ãƒ¼ã€‚OBJECTã‚¿ã‚°ã®ã‚¯ãƒ©ã‚¹IDæŒ‡å®šãŒä¸æ­£ã§ã™ã€‚HTMLã‚¿ã‚°ã®è¨˜è¿°ã‚’è¦‹ç›´ã—ã¦ãã ã•ã„ã€‚ ");
 		return(0);
 	 }
 	}
 
-	# objectƒ^ƒO‚Écodebase“Á’è‚ª‚ ‚é‚È‚çŠëŒ¯‚È‚Ì‚ÅƒAƒ{[ƒg
+	# objectã‚¿ã‚°ã«codebaseç‰¹å®šãŒã‚ã‚‹ãªã‚‰å±é™ºãªã®ã§ã‚¢ãƒœãƒ¼ãƒˆ
 	if($TCY_form=~ /<object(.|\n)*codebase/i){
-		&error(" ƒZƒLƒ…ƒŠƒeƒBƒGƒ‰[BOBJECTƒ^ƒO‚Écodebase‚ğw’è‚Å‚«‚Ü‚¹‚ñB–„‚ß‚İƒ^ƒO“à‚Åcodebase‚Íw’è‚µ‚È‚¢‚Å‚­‚¾‚³‚¢B ");
+		&error(" ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ã‚¨ãƒ©ãƒ¼ã€‚OBJECTã‚¿ã‚°ã«codebaseã‚’æŒ‡å®šã§ãã¾ã›ã‚“ã€‚åŸ‹ã‚è¾¼ã¿ã‚¿ã‚°å†…ã§codebaseã¯æŒ‡å®šã—ãªã„ã§ãã ã•ã„ã€‚ ");
 		return(0);
 	}
 
 	if($new_fname ne ''){
-		&error(" ƒ†[ƒU[‘€ìƒGƒ‰[B‰æ‘œ‚ğƒAƒbƒv‚µ‚½‹L–‚É‚ÍA“®‰æ–„‚ß‚İ‚Í‚Å‚«‚Ü‚¹‚ñB‚Ç‚¿‚ç‚©‚Ğ‚Æ‚Â‚É‚µ‚Ä‚­‚¾‚³‚¢B ");
+		&error(" ãƒ¦ãƒ¼ã‚¶ãƒ¼æ“ä½œã‚¨ãƒ©ãƒ¼ã€‚ç”»åƒã‚’ã‚¢ãƒƒãƒ—ã—ãŸè¨˜äº‹ã«ã¯ã€å‹•ç”»åŸ‹ã‚è¾¼ã¿ã¯ã§ãã¾ã›ã‚“ã€‚ã©ã¡ã‚‰ã‹ã²ã¨ã¤ã«ã—ã¦ãã ã•ã„ã€‚ ");
 		return(0);
 	}
 
 	if(($allow_youtube_tag_in_res == 0)&&($FORM{'prebbsaction'} eq "disp_rep_form")){
-		&error(" ƒ†[ƒU[‘€ìƒGƒ‰[BŒ»İA•ÔM‹L–‚É‚Í“®‰æ–„‚ß‚İ‚Í‚Å‚«‚È‚¢İ’è‚É‚È‚Á‚Ä‚¢‚Ü‚·B“®‰æ–„‚ß‚İ‚ÍAe‹L–‚Å‚¨‚±‚È‚Á‚Ä‚­‚¾‚³‚¢B ");
+		&error(" ãƒ¦ãƒ¼ã‚¶ãƒ¼æ“ä½œã‚¨ãƒ©ãƒ¼ã€‚ç¾åœ¨ã€è¿”ä¿¡è¨˜äº‹ã«ã¯å‹•ç”»åŸ‹ã‚è¾¼ã¿ã¯ã§ããªã„è¨­å®šã«ãªã£ã¦ã„ã¾ã™ã€‚å‹•ç”»åŸ‹ã‚è¾¼ã¿ã¯ã€è¦ªè¨˜äº‹ã§ãŠã“ãªã£ã¦ãã ã•ã„ã€‚ ");
 		return(0);
 	}
 
-	# ŒÃ‚¢objectƒ^ƒO‚ğg‚¦‚é‚¯‚ÇA‚â‚ß‚½•û‚ª‚¢‚¢ê‡‚ÍAV‚µ‚¢‚à‚Ì‚Ö—U“±
+	# å¤ã„objectã‚¿ã‚°ã‚’ä½¿ãˆã‚‹ã‘ã©ã€ã‚„ã‚ãŸæ–¹ãŒã„ã„å ´åˆã¯ã€æ–°ã—ã„ã‚‚ã®ã¸èª˜å°
 	if($TCY_form=~ /<object(.|\n)*<embed/i){
 	  if($TCY_form=~ /http\:\/\/www\.dailymotion\.com\//ig){
-		&error(" dailymotion‚ÍAV‚µ‚¢iframeƒ^ƒO‚Ì–„‚ß‚İƒR[ƒh‚ğg‚Á‚Ä‚­‚¾‚³‚¢Bobjectƒ^ƒO‚ÍŒÃ‚¢‚Ì‚Å—˜—p‚Å‚«‚Ü‚¹‚ñB ");
+		&error(" dailymotionã¯ã€æ–°ã—ã„iframeã‚¿ã‚°ã®åŸ‹ã‚è¾¼ã¿ã‚³ãƒ¼ãƒ‰ã‚’ä½¿ã£ã¦ãã ã•ã„ã€‚objectã‚¿ã‚°ã¯å¤ã„ã®ã§åˆ©ç”¨ã§ãã¾ã›ã‚“ã€‚ ");
 	  }
 	  if($TCY_form=~ /http\:\/\/www\.ustream\./ig){
-		&error(" ustream‚ÍAV‚µ‚¢iframeƒ^ƒO‚Ì–„‚ß‚İƒR[ƒh‚ğg‚Á‚Ä‚­‚¾‚³‚¢Bobjectƒ^ƒO‚ÍŒÃ‚¢‚Ì‚Å—˜—p‚Å‚«‚Ü‚¹‚ñB ");		  
+		&error(" ustreamã¯ã€æ–°ã—ã„iframeã‚¿ã‚°ã®åŸ‹ã‚è¾¼ã¿ã‚³ãƒ¼ãƒ‰ã‚’ä½¿ã£ã¦ãã ã•ã„ã€‚objectã‚¿ã‚°ã¯å¤ã„ã®ã§åˆ©ç”¨ã§ãã¾ã›ã‚“ã€‚ ");		  
 	  }
 	  if($TCY_form=~ /\/\/www\.youtube\.com\//ig){
-			&error(" YouTube‚ÍAyoutu . be ‚Ì’ZkURL‚©Aiframeƒ^ƒO‚Ì–„‚ß‚İƒR[ƒh‚ğg‚Á‚Ä‚­‚¾‚³‚¢Bobjectƒ^ƒO‚ÍŒÃ‚¢‚Ì‚Å—˜—p‚Å‚«‚Ü‚¹‚ñB ");	
+			&error(" YouTubeã¯ã€youtu . be ã®çŸ­ç¸®URLã‹ã€iframeã‚¿ã‚°ã®åŸ‹ã‚è¾¼ã¿ã‚³ãƒ¼ãƒ‰ã‚’ä½¿ã£ã¦ãã ã•ã„ã€‚objectã‚¿ã‚°ã¯å¤ã„ã®ã§åˆ©ç”¨ã§ãã¾ã›ã‚“ã€‚ ");	
 	  }
 		return(0);
 	}
 
-	# –„‚ß‚İƒTƒCƒY‚Ìƒ`ƒFƒbƒN(‹‘åƒTƒCƒY–„‚ß‚İƒCƒ^ƒYƒ‰–h~)
-	# 2008.08q‹L–‚Ìê‡‚ğl—¶‚µƒTƒCƒYk¬
+	# åŸ‹ã‚è¾¼ã¿ã‚µã‚¤ã‚ºã®ãƒã‚§ãƒƒã‚¯(å·¨å¤§ã‚µã‚¤ã‚ºåŸ‹ã‚è¾¼ã¿ã‚¤ã‚¿ã‚ºãƒ©é˜²æ­¢)
+	# 2008.08å­è¨˜äº‹ã®å ´åˆã‚’è€ƒæ…®ã—ã‚µã‚¤ã‚ºç¸®å°
 	if($FORM{'prebbsaction'} ne "disp_rep_form"){
 		$FORM{body}=~ s/(\s)width(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ width=\"640\"/ig;
 		$FORM{body}=~ s/(\s)height(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ height=\"385\" align=\"left\" style=\"margin: 12px;float: left\"/ig;
 	}else{
-		# 2008.08q‹L–‚Ìê‡‚ğl—¶‚µƒTƒCƒYk¬
+		# 2008.08å­è¨˜äº‹ã®å ´åˆã‚’è€ƒæ…®ã—ã‚µã‚¤ã‚ºç¸®å°
 		$FORM{body}=~ s/(\s)width(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ width=\"425\"/ig;
 		$FORM{body}=~ s/(\s)height(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ height=\"344\" align=\"left\" style=\"margin: 12px;float: left\"/ig;
 	}
 
 #@DOUGA_KU_DOMAIN=('www.youtube.com','www.dailymotion.com','www.ustream.tv','');
 
-	# youtube‚¾‚¯‹–‰Â‚µ‚½‚¢l‚Í4‚ğw’è‚·‚é
+	# youtubeã ã‘è¨±å¯ã—ãŸã„äººã¯4ã‚’æŒ‡å®šã™ã‚‹
 	if($tmp_yt_check_level >= 4){
 	 if($TCY_form!~ /<object(.|\n)*<embed(.|\n)*src=(\")?http\:\/\/www\.youtube\.com\/(.|\n)*application\/x-shockwave-flash/i){
 		return(0);
 	}
 
-	# @DOUGA_KU_DOMAIN‚Åw’èÏ‚İ‚ÌFQDNƒhƒƒCƒ“‚¾‚¯‹–‰Â‚·‚éê‡i„§j
+	# @DOUGA_KU_DOMAINã§æŒ‡å®šæ¸ˆã¿ã®FQDNãƒ‰ãƒ¡ã‚¤ãƒ³ã ã‘è¨±å¯ã™ã‚‹å ´åˆï¼ˆæ¨å¥¨ï¼‰
 	}elsif($tmp_yt_check_level >= 2){
 
-		# @DOUGA_KU_DOMAIN–¼‚Æˆê’v‚µ‚½‚çOK
-		local($ttmp_dmatch)=0; # matchƒtƒ‰ƒO
+		# @DOUGA_KU_DOMAINåã¨ä¸€è‡´ã—ãŸã‚‰OK
+		local($ttmp_dmatch)=0; # matchãƒ•ãƒ©ã‚°
 		foreach (@TMP_DOUGA_KU_DOMAIN){
 			next if($_ eq "");
-	    	# ³‹K•\Œ»‚ğPerlƒpƒ^[ƒ“ƒ}ƒbƒ`‚Ö•ÏŠ·
+	    	# æ­£è¦è¡¨ç¾ã‚’Perlãƒ‘ã‚¿ãƒ¼ãƒ³ãƒãƒƒãƒã¸å¤‰æ›
 	    	$w_pattern=&change_pattern_match($_);
-	    	# 2011.09.24 Ustream‚Ìclassid‹Lq‚É‘Î‰(classid©‘Ì‚Íƒ`ƒFƒbƒNÏ‚İ)
-	    	# 2010.11.29 embedƒ^ƒO“à‚Ì‹Lq‡‚É‰e‹¿‚ğó‚¯‚È‚¢‚æ‚¤C³(DailyMoiton‘Îô)
+	    	# 2011.09.24 Ustreamã®classidè¨˜è¿°ã«å¯¾å¿œ(classidè‡ªä½“ã¯ãƒã‚§ãƒƒã‚¯æ¸ˆã¿)
+	    	# 2010.11.29 embedã‚¿ã‚°å†…ã®è¨˜è¿°é †ã«å½±éŸ¿ã‚’å—ã‘ãªã„ã‚ˆã†ä¿®æ­£(DailyMoitonå¯¾ç­–)
 			if(($TCY_form=~ /<object(.|\n)*<embed(.|\n)*(\s)type=(\")?application\/x-shockwave-flash(\")(\s)/i)||($TCY_form=~ /<object(.|\n)*classid/i)){
 			 if($TCY_form=~ /<object(.|\n)*<embed(.|\n)*src=(\")?http\:\/\/$w_pattern(.|\n)*/i){
 				$ttmp_dmatch++;
 	 		 }
 	 		}
 		}
-		# ‚PŒ‚àƒ}ƒbƒ`‚µ‚È‚¯‚ê‚ÎƒAƒEƒg
+		# ï¼‘ä»¶ã‚‚ãƒãƒƒãƒã—ãªã‘ã‚Œã°ã‚¢ã‚¦ãƒˆ
 		if($ttmp_dmatch == 0){
-			&error(" ƒ†[ƒU‘€ìƒGƒ‰[B‚ ‚È‚½‚Ìw’è‚µ‚½u“®‰æƒTƒCƒgv‚ÌAƒ^ƒO–„‚ß‚İ‚Í‹–‰Â‚³‚ê‚Ä‚¢‚Ü‚¹‚ñBŒ»İ‚ÌŒf¦”Âİ’è(–„‚İƒ^ƒOƒ`ƒFƒbƒNƒŒƒxƒ‹ $tmp_yt_check_level)‚Å‚ÍAŠÇ—Ò‚ª–‘O‚É‹–‰Â‚µ‚½@TMP_DOUGA_KU_DOMAIN‚ÌFlashƒrƒfƒIƒ^ƒO–„‚İ‚Ì‚İA‰Â\”\\‚Å‚·B ");
+			&error(" ãƒ¦ãƒ¼ã‚¶æ“ä½œã‚¨ãƒ©ãƒ¼ã€‚ã‚ãªãŸã®æŒ‡å®šã—ãŸã€Œå‹•ç”»ã‚µã‚¤ãƒˆã€ã®ã€ã‚¿ã‚°åŸ‹ã‚è¾¼ã¿ã¯è¨±å¯ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚ç¾åœ¨ã®æ²ç¤ºæ¿è¨­å®š(åŸ‹è¾¼ã¿ã‚¿ã‚°ãƒã‚§ãƒƒã‚¯ãƒ¬ãƒ™ãƒ« $tmp_yt_check_level)ã§ã¯ã€ç®¡ç†è€…ãŒäº‹å‰ã«è¨±å¯ã—ãŸ@TMP_DOUGA_KU_DOMAINã®Flashãƒ“ãƒ‡ã‚ªã‚¿ã‚°åŸ‹è¾¼ã¿ã®ã¿ã€å¯\èƒ½\ã§ã™ã€‚ ");
 			return(0); 
 		}
 	
-	# ‚ä‚é‚¢ƒ`ƒFƒbƒN(‘¼‚Ì“ŠeƒTƒCƒg‚à‹–‚·)
+	# ã‚†ã‚‹ã„ãƒã‚§ãƒƒã‚¯(ä»–ã®æŠ•ç¨¿ã‚µã‚¤ãƒˆã‚‚è¨±ã™)
 	}elsif($tmp_yt_check_level >= 1){
 	 if($TCY_form!~ /<object(.|\n)*<embed(.|\n)*src=(\")?http\:\/\/(.|\n)*(\s)type=(\")?application\/x-shockwave-flash(\")(\s)/i){
 	return(0);
 }
 	}
 
-	# ‘Sƒ`ƒFƒbƒN’Ê‰ß‚È‚çOK
+	# å…¨ãƒã‚§ãƒƒã‚¯é€šéãªã‚‰OK
 	return(1);
 }
 #
 #==================================#
-# iframeƒ^ƒO‚Ì”»’è 
+# iframeã‚¿ã‚°ã®åˆ¤å®š 
 #==================================#
 # 2011.06
-# YouTube,DailyMotion,Ustream,Nicovideo‚ªiframe‚ÉˆÚs‚µ‚½‚Ì‚Å“Æ—§‚³‚¹‚½
+# YouTube,DailyMotion,Ustream,NicovideoãŒiframeã«ç§»è¡Œã—ãŸã®ã§ç‹¬ç«‹ã•ã›ãŸ
 sub check_iframe_tag{
 
-	local($TCY_form)	= $_[0];# ˆø” FORM‚Ì“à—e
-	local($tmp_check_level)	= $_[1];# ˆø” 2 ƒ`ƒFƒbƒNƒŒƒxƒ‹
+	local($TCY_form)	= $_[0];# å¼•æ•° FORMã®å†…å®¹
+	local($tmp_check_level)	= $_[1];# å¼•æ•° 2 ãƒã‚§ãƒƒã‚¯ãƒ¬ãƒ™ãƒ«
 
 	undef @TMP_DOUGA_KU_DOMAIN;
-	@TMP_DOUGA_KU_DOMAIN=@DOUGA_KU_DOMAIN; # “®‰æ‹¤—LƒhƒƒCƒ“
+	@TMP_DOUGA_KU_DOMAIN=@DOUGA_KU_DOMAIN; # å‹•ç”»å…±æœ‰ãƒ‰ãƒ¡ã‚¤ãƒ³
 
 	if($use_youtube_tag_in_comment != 1){
-		# –³‘Ê‚Èˆ—‚ğ‚µ‚È‚¢‚æ‚¤‚É‚·‚é
+		# ç„¡é§„ãªå‡¦ç†ã‚’ã—ãªã„ã‚ˆã†ã«ã™ã‚‹
 		return(0);
 	}
 
-	# –{•¶ˆÈŠO‚Í–„‚ß‚İ‹Ö~
+	# æœ¬æ–‡ä»¥å¤–ã¯åŸ‹ã‚è¾¼ã¿ç¦æ­¢
 	if($form!~ /body/i){
 		return(0);
 	}
 
-	# iframeƒ^ƒO“ñ‚Â‚È‚çƒAƒ{[ƒg
+	# iframeã‚¿ã‚°äºŒã¤ãªã‚‰ã‚¢ãƒœãƒ¼ãƒˆ
 	if($TCY_form=~ /<iframe(.|\n)*<iframe/i){
-		&error(" ƒGƒ‰[Biframeƒ^ƒO‚Í•¡”–„‚ß‚İ‚Å‚«‚Ü‚¹‚ñB‚Ğ‚Æ‚Â‚É‚µ‚Ä‚­‚¾‚³‚¢B ");
+		&error(" ã‚¨ãƒ©ãƒ¼ã€‚iframeã‚¿ã‚°ã¯è¤‡æ•°åŸ‹ã‚è¾¼ã¿ã§ãã¾ã›ã‚“ã€‚ã²ã¨ã¤ã«ã—ã¦ãã ã•ã„ã€‚ ");
 		return(0);
 	}
 
 
 	if($new_fname ne ''){
-		&error(" ƒ†[ƒU[‘€ìƒGƒ‰[B‰æ‘œ‚ğƒAƒbƒv‚µ‚½‹L–‚É‚ÍAiframeƒ^ƒO‚É‚æ‚é‰æ‘œ‚â“®‰æ‚Ì’Ç‰Á–„‚ß‚İ‚Í‚Å‚«‚Ü‚¹‚ñB‚Ç‚¿‚ç‚©‚Ğ‚Æ‚Â‚É‚µ‚Ä‚­‚¾‚³‚¢B ");
+		&error(" ãƒ¦ãƒ¼ã‚¶ãƒ¼æ“ä½œã‚¨ãƒ©ãƒ¼ã€‚ç”»åƒã‚’ã‚¢ãƒƒãƒ—ã—ãŸè¨˜äº‹ã«ã¯ã€iframeã‚¿ã‚°ã«ã‚ˆã‚‹ç”»åƒã‚„å‹•ç”»ã®è¿½åŠ åŸ‹ã‚è¾¼ã¿ã¯ã§ãã¾ã›ã‚“ã€‚ã©ã¡ã‚‰ã‹ã²ã¨ã¤ã«ã—ã¦ãã ã•ã„ã€‚ ");
 		return(0);
 	}
 
 	if(($allow_youtube_tag_in_res == 0)&&($FORM{'prebbsaction'} eq "disp_rep_form")){
-		&error(" ƒ†[ƒU[‘€ìƒGƒ‰[BŒ»İA•ÔM‹L–‚É‚Íiframeƒ^ƒO‚É‚æ‚é‰æ‘œ‚â“®‰æ‚Ì–„‚ß‚İ‚Í‚Å‚«‚È‚¢İ’è‚É‚È‚Á‚Ä‚¢‚Ü‚·B“®‰æ–„‚ß‚İ‚ÍAe‹L–‚Å‚¨‚±‚È‚Á‚Ä‚­‚¾‚³‚¢B ");
+		&error(" ãƒ¦ãƒ¼ã‚¶ãƒ¼æ“ä½œã‚¨ãƒ©ãƒ¼ã€‚ç¾åœ¨ã€è¿”ä¿¡è¨˜äº‹ã«ã¯iframeã‚¿ã‚°ã«ã‚ˆã‚‹ç”»åƒã‚„å‹•ç”»ã®åŸ‹ã‚è¾¼ã¿ã¯ã§ããªã„è¨­å®šã«ãªã£ã¦ã„ã¾ã™ã€‚å‹•ç”»åŸ‹ã‚è¾¼ã¿ã¯ã€è¦ªè¨˜äº‹ã§ãŠã“ãªã£ã¦ãã ã•ã„ã€‚ ");
 		return(0);
 	}
 
-	# Google MAP‚ÌStreetview–„‚ß‚İ‚Å‘Î‰
+	# Google MAPã®StreetviewåŸ‹ã‚è¾¼ã¿ã§å¯¾å¿œ
 	if(($use_stview_tag_in_comment == 1)&&(($FORM{$form}=~ /src\=\"http\:\/\/maps\.google\./i)||($FORM{$form}=~ /src\=\"http\:\/\/www\.google\.co\.jp\/maps/i))){
-		# ‹–‰Â‚·‚é
+		# è¨±å¯ã™ã‚‹
 		return(1);
 	}
 
-	# –„‚ß‚İƒTƒCƒY‚Ìƒ`ƒFƒbƒN(ƒCƒ^ƒYƒ‰–h~)
-	# 2008.08q‹L–‚Ìê‡‚ğl—¶‚µƒTƒCƒYk¬
+	# åŸ‹ã‚è¾¼ã¿ã‚µã‚¤ã‚ºã®ãƒã‚§ãƒƒã‚¯(ã‚¤ã‚¿ã‚ºãƒ©é˜²æ­¢)
+	# 2008.08å­è¨˜äº‹ã®å ´åˆã‚’è€ƒæ…®ã—ã‚µã‚¤ã‚ºç¸®å°
 	if($FORM{'prebbsaction'} ne "disp_rep_form"){
 		$FORM{body}=~ s/(\s)width(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ width=\"450\"/ig;
 		$FORM{body}=~ s/(\s)height(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ height=\"340\" align=\"left\" style=\"margin: 12px;float: left\"/ig;
@@ -9143,71 +9147,71 @@ sub check_iframe_tag{
 
 #@DOUGA_KU_DOMAIN=('www.youtube.com','www.dailymotion.com','www.ustream.tv','');
 
-	# youtube‚¾‚¯‹–‰Â‚µ‚½‚¢l‚Í4‚ğw’è‚·‚é
+	# youtubeã ã‘è¨±å¯ã—ãŸã„äººã¯4ã‚’æŒ‡å®šã™ã‚‹
 	if($tmp_check_level >= 4){
 	# 2014.02.11 update 
 	 if($TCY_form!~ /<iframe(.|\n)*src=(\")?(https?\:\/\/|\/\/)www\.(youtube|youtube\-nocookie)\.com\/embed\//i){
 		return(0);
 	 }
 
-	# @DOUGA_KU_DOMAIN‚Åw’èÏ‚İ‚ÌFQDNƒhƒƒCƒ“‚¾‚¯‹–‰Â‚·‚éê‡i„§j
+	# @DOUGA_KU_DOMAINã§æŒ‡å®šæ¸ˆã¿ã®FQDNãƒ‰ãƒ¡ã‚¤ãƒ³ã ã‘è¨±å¯ã™ã‚‹å ´åˆï¼ˆæ¨å¥¨ï¼‰
 	}elsif($tmp_check_level >= 2){
 
-		# @DOUGA_KU_DOMAIN–¼‚Æˆê’v‚µ‚½‚çOK
-		local($ttmp_dmatch)=0; # matchƒtƒ‰ƒO
+		# @DOUGA_KU_DOMAINåã¨ä¸€è‡´ã—ãŸã‚‰OK
+		local($ttmp_dmatch)=0; # matchãƒ•ãƒ©ã‚°
 		foreach (@TMP_DOUGA_KU_DOMAIN){
 		next if($_ eq "");
-    	# ³‹K•\Œ»‚ğPerlƒpƒ^[ƒ“ƒ}ƒbƒ`‚Ö•ÏŠ·
+    	# æ­£è¦è¡¨ç¾ã‚’Perlãƒ‘ã‚¿ãƒ¼ãƒ³ãƒãƒƒãƒã¸å¤‰æ›
     	$w_pattern=&change_pattern_match($_);
   		 if($TCY_form=~ /<iframe(.|\n)*src=(\")?(https?\:\/\/|\/\/)$w_pattern(.|\n)*/i){
 			$ttmp_dmatch++;
  		 }
 		}
-		# ‚PŒ‚àƒ}ƒbƒ`‚µ‚È‚¯‚ê‚ÎƒAƒEƒg
+		# ï¼‘ä»¶ã‚‚ãƒãƒƒãƒã—ãªã‘ã‚Œã°ã‚¢ã‚¦ãƒˆ
 		if($ttmp_dmatch == 0){
-			&error(" ƒ†[ƒU‘€ìƒGƒ‰[B‚ ‚È‚½‚Ìw’è‚µ‚½u“®‰æƒTƒCƒgv‚ÌAƒ^ƒO–„‚ß‚İ‚Í‹–‰Â‚³‚ê‚Ä‚¢‚Ü‚¹‚ñBŒ»İ‚ÌŒf¦”Âİ’è(–„‚İƒ^ƒOƒ`ƒFƒbƒNƒŒƒxƒ‹ $tmp_check_level)‚Å‚ÍAŠÇ—Ò‚ª–‘O‚É‹–‰Â‚µ‚½@TMP_DOUGA_KU_DOMAIN‚ÌFlashƒrƒfƒIƒ^ƒO–„‚İ‚Ì‚İA‰Â\”\\‚Å‚·B ");
+			&error(" ãƒ¦ãƒ¼ã‚¶æ“ä½œã‚¨ãƒ©ãƒ¼ã€‚ã‚ãªãŸã®æŒ‡å®šã—ãŸã€Œå‹•ç”»ã‚µã‚¤ãƒˆã€ã®ã€ã‚¿ã‚°åŸ‹ã‚è¾¼ã¿ã¯è¨±å¯ã•ã‚Œã¦ã„ã¾ã›ã‚“ã€‚ç¾åœ¨ã®æ²ç¤ºæ¿è¨­å®š(åŸ‹è¾¼ã¿ã‚¿ã‚°ãƒã‚§ãƒƒã‚¯ãƒ¬ãƒ™ãƒ« $tmp_check_level)ã§ã¯ã€ç®¡ç†è€…ãŒäº‹å‰ã«è¨±å¯ã—ãŸ@TMP_DOUGA_KU_DOMAINã®Flashãƒ“ãƒ‡ã‚ªã‚¿ã‚°åŸ‹è¾¼ã¿ã®ã¿ã€å¯\èƒ½\ã§ã™ã€‚ ");
 			return(0); 
 		}
 		
-	# ‚ä‚é‚¢ƒ`ƒFƒbƒN(‘¼‚Ì“ŠeƒTƒCƒg‚à‹–‚·)
+	# ã‚†ã‚‹ã„ãƒã‚§ãƒƒã‚¯(ä»–ã®æŠ•ç¨¿ã‚µã‚¤ãƒˆã‚‚è¨±ã™)
 	}elsif($tmp_check_level >= 1){
 #	 if($TCY_form!~ /<iframe(.|\n)*src=(\")?(https?\:\/\/|\/\/)/i){
-	# 2014.02.21 ƒZƒLƒ…ƒŠƒeƒB‘Îô‚Å‚ ‚é’ö“x‚ÌŒ^‚É“ü‚Á‚Ä‚¢‚é‚à‚Ì‚ÉŒÀ’è‚·‚é
+	# 2014.02.21 ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£å¯¾ç­–ã§ã‚ã‚‹ç¨‹åº¦ã®å‹ã«å…¥ã£ã¦ã„ã‚‹ã‚‚ã®ã«é™å®šã™ã‚‹
 	 if($TCY_form!~ /<iframe(.|\n)*src\=(\")?(https?\:\/\/|\/\/)(.*)(\.com|\.net|\.org|\.tv|\.me|\.jp)\/([\/\?\&\=\-_\.a-zA-Z0-9]{5,40})\"(.|\n)*<\/iframe>/i){
-			$tmp_data =~ s//(–¢’m‚ÌURL‚Å‚·BƒNƒŠƒbƒN’ˆÓ)$2$3$4\/$5/ig;
+			$tmp_data =~ s//(æœªçŸ¥ã®URLã§ã™ã€‚ã‚¯ãƒªãƒƒã‚¯æ³¨æ„)$2$3$4\/$5/ig;
 
 		return(0);
 	 }
 	}
 
-	# ‘Sƒ`ƒFƒbƒN’Ê‰ß‚È‚çOK
+	# å…¨ãƒã‚§ãƒƒã‚¯é€šéãªã‚‰OK
 	return(1);
 }
 #
 #==================================#
-# scriptƒ^ƒO‚Ì”»’è 
+# scriptã‚¿ã‚°ã®åˆ¤å®š 
 #==================================#
-# 2014.02 Theta360‘Î‰
+# 2014.02 Theta360å¯¾å¿œ
 # 2011.06
-# “Æ—§‚³‚¹‚½
+# ç‹¬ç«‹ã•ã›ãŸ
 sub check_script_tag{
 
-	local($TCY_form)	= $_[0];# ˆø” FORM‚Ì“à—e
-	local($tmp_check_level)	= $_[1];# ˆø” 2 ƒ`ƒFƒbƒNƒŒƒxƒ‹
+	local($TCY_form)	= $_[0];# å¼•æ•° FORMã®å†…å®¹
+	local($tmp_check_level)	= $_[1];# å¼•æ•° 2 ãƒã‚§ãƒƒã‚¯ãƒ¬ãƒ™ãƒ«
 
 	if(($PM{'auto_nicovideo_find'} == 1)&&($FORM{$form}=~ /<(\/?)script(.|\n|\s)*src\=\"http\:\/\/ext\.nicovideo\.jp\/thumb_watch\/([\-a-z0-9_]+)/i)){
-		&error(" ‘€ìƒGƒ‰[BSCRIPTƒ^ƒO‚ÍƒZƒLƒ…ƒŠƒeƒBã–â‘è‚ ‚é‚½‚ßA–{•¶’†‚Ég‚¦‚Ü‚¹‚ñB<BR>‚È‚¨A
-		‚±‚ÌƒjƒRƒjƒR“®‰æ‚ÌƒŠƒ“ƒN‚Í http://www.nicovideo.jp/watch/$3 ‚¾‚¯‚ğ–{•¶’†‚É‹LÚ‚·‚é‚ÆA©“®“I‚É‚«‚¿‚ñ‚Æ–„‚ß‚İ•\\¦\‚³‚ê‚Ü‚·‚Ì‚ÅA‚»‚Ì‹LÚ–@‚Å–„‚ß‚ñ‚Å‚­‚¾‚³‚¢ ","","1");
+		&error(" æ“ä½œã‚¨ãƒ©ãƒ¼ã€‚SCRIPTã‚¿ã‚°ã¯ã‚»ã‚­ãƒ¥ãƒªãƒ†ã‚£ä¸Šå•é¡Œã‚ã‚‹ãŸã‚ã€æœ¬æ–‡ä¸­ã«ä½¿ãˆã¾ã›ã‚“ã€‚<BR>ãªãŠã€
+		ã“ã®ãƒ‹ã‚³ãƒ‹ã‚³å‹•ç”»ã®ãƒªãƒ³ã‚¯ã¯ http://www.nicovideo.jp/watch/$3 ã ã‘ã‚’æœ¬æ–‡ä¸­ã«è¨˜è¼‰ã™ã‚‹ã¨ã€è‡ªå‹•çš„ã«ãã¡ã‚“ã¨åŸ‹ã‚è¾¼ã¿è¡¨\ç¤º\ã•ã‚Œã¾ã™ã®ã§ã€ãã®è¨˜è¼‰æ³•ã§åŸ‹ã‚è¾¼ã‚“ã§ãã ã•ã„ ","","1");
 	}
 
 	if(($PM{'auto_theta360_find'} == 1)&&($FORM{$form}=~ /<(\/?)script(.|\n|\s)*src\=\"https?\:\/\/theta360\.com\/(.|\n|\s){26,40}<\/script>/i)){
 
-		# scriptƒ^ƒO‚ÍŠëŒ¯‚¾‚©‚çƒGƒXƒP[ƒv‚·‚é
+		# scriptã‚¿ã‚°ã¯å±é™ºã ã‹ã‚‰ã‚¨ã‚¹ã‚±ãƒ¼ãƒ—ã™ã‚‹
 		$FORM{$form}=~ s/<(\/?)script(.|\n|\s)*src\=\"https?\:\/\/theta360\.com\/(.|\n|\s){26,40}<\/script>/\-scrt_here_Theta360\-/g;
 
 
-		# blockquote‚Ì–„‚ß‚İƒTƒCƒY‚Ìƒ`ƒFƒbƒN(ƒCƒ^ƒYƒ‰–h~)
-		# 2008.08q‹L–‚Ìê‡‚ğl—¶‚µƒTƒCƒYk¬
+		# blockquoteã®åŸ‹ã‚è¾¼ã¿ã‚µã‚¤ã‚ºã®ãƒã‚§ãƒƒã‚¯(ã‚¤ã‚¿ã‚ºãƒ©é˜²æ­¢)
+		# 2008.08å­è¨˜äº‹ã®å ´åˆã‚’è€ƒæ…®ã—ã‚µã‚¤ã‚ºç¸®å°
 		if($FORM{'prebbsaction'} ne "disp_rep_form"){
 			$FORM{$form}=~ s/(\s)data\-width(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ data\-width=\"450\"/ig;
 			$FORM{$form}=~ s/(\s)data\-height(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ data\-height=\"340\"/ig;
@@ -9221,12 +9225,12 @@ sub check_script_tag{
 # TODO
 $PM{'auto_fc2_find'} = 1;
 
-	# FC2‘Îô scripitƒ^ƒO‚È‚Ì‚ÅŒµ–§‚É‚â‚éBTODO BlackWord‚Ìurl=‚Ì‰ğœ‚ğ–Y‚ê‚È‚¢‚±‚Æ
+	# FC2å¯¾ç­– scripitã‚¿ã‚°ãªã®ã§å³å¯†ã«ã‚„ã‚‹ã€‚TODO BlackWordã®url=ã®è§£é™¤ã‚’å¿˜ã‚Œãªã„ã“ã¨
 	if(($PM{'auto_fc2_find'} == 1)&&($FORM{$form}=~ /<(\/?)script src\=\"https?\:\/\/[\-_\.a-zA-Z0-9]{3,16}\.fc2\.com\/video\/js\/(.){3,20}\.js\"(.|\n|\s)*<\/script>/i)){
 
 
-		# –„‚ß‚İƒTƒCƒY‚Ìƒ`ƒFƒbƒN(ƒCƒ^ƒYƒ‰–h~)
-		# 2008.08q‹L–‚Ìê‡‚ğl—¶‚µƒTƒCƒYk¬
+		# åŸ‹ã‚è¾¼ã¿ã‚µã‚¤ã‚ºã®ãƒã‚§ãƒƒã‚¯(ã‚¤ã‚¿ã‚ºãƒ©é˜²æ­¢)
+		# 2008.08å­è¨˜äº‹ã®å ´åˆã‚’è€ƒæ…®ã—ã‚µã‚¤ã‚ºç¸®å°
 		if($FORM{'prebbsaction'} ne "disp_rep_form"){
 #			$FORM{$form}=~ s/(\s)w(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ w=\"450\"/ig;
 #			$FORM{$form}=~ s/(\s)h(\s*)=(\s*)(\"?)(\d+)(\%?)(\"?)/ h=\"340\"/ig;
@@ -9240,9 +9244,9 @@ $PM{'auto_fc2_find'} = 1;
 		return(1);
 	}
 
-	# –„‚ß‚İ‹Ö~
+	# åŸ‹ã‚è¾¼ã¿ç¦æ­¢
 		return(0);
 }
 #
-# ƒXƒNƒŠƒvƒgI’[‚Å‚·
+# ã‚¹ã‚¯ãƒªãƒ—ãƒˆçµ‚ç«¯ã§ã™
 
